@@ -1,0 +1,45 @@
+{
+  "primary_columns": [
+    "spatial_lineage_candidate",
+    "spatial_mapped_family",
+    "spatial_mapped_fine_group"
+  ],
+  "shared_features": 381,
+  "assay_alignment": "Per-stage exact-shared-panel log1p(10000 * counts / shared total); gene means/SD fitted to balanced up-to-20k reference/query cells (SD floor0.5), clip standardized values to[-5,5]; PCA30 global context, PCA20 ventricular subset; Harmony over assay only, theta2/lambda1, nclust50(global)/30(ventricular), max20 Harmony/max10 kmeans iterations, seed42,4cores. Counts and physical coordinates unchanged.",
+  "primary_CM_gate": ">=3 of Tnnt2/Tnni3/Myh6/Myh7/Myl2/Actc1, >=10 corresponding transcripts, >=10% of measured403-gene counts, CM-marker fraction>=1.5 times each other-lineage marker fraction; pass QC/transfer-information thresholds; withhold CM/EC program-overlap review cells.",
+  "CM_EC_overlap": ">=1 of Erg/Fli1 plus>=3 of Cdh5/Pecam1/Kdr/Esam/Tek/Vwf/Flt1/Tie1 and CM-marker fraction>=10%. This is a conservative review category, not a doublet or endothelial identity claim. Source paper reports capillary ECs with muscle-associated RNA.",
+  "ventricular_gate": "Measured-CM-positive, Myl2>=2 and Myl2>=Myl4. Myl7 is NOT used as negative evidence because immature ventricular CMs express it. Label is ventricular-enriched candidate, not traced chamber anatomy.",
+  "atrial_gate": "Measured-CM-positive, Myl4>=2, Myl7>=1, Myl2<=1. Remaining CM-positive segments retain chamber-unresolved label.",
+  "other_lineages": "Global assay-aligned nearest-reference vote plus positive>=2 marker genes and marker fraction>=5% (epicardial2%), score>=0.65/margin>=0.15, supported heldout-reference class. These are secondary context candidates, not a full independently validated spatial atlas.",
+  "transfer": "30-nearest reference neighbors, cosine distance in assay-aligned coordinates; inverse-distance weighted votes with distance floor0.01. Family/fine labels use separate ventricular-only corrected-reference and original-reference alignments.",
+  "reference_benchmark": "Hold out each original same-age reference library in turn within the joint embedding. Unsupervised embedding includes unlabeled reference/query cells (transductive benchmark). Require minprecision>=0.60,minrecall>=0.35,minF1>=0.50,>=30train/test nuclei per class. This is panel recoverability, not independently validated Xenium accuracy or animal-level inference.",
+  "family_acceptance": "Supported reference family, vote>=0.60/margin>=0.15,>=50shared-panel transcripts, same label from both original reference libraries and separate original-count-reference alignment; cycling/conduction candidates require>=2 respective measured genes. Source uncharacterized P7_M7/M8 not used as family classes.",
+  "fine_acceptance": "Supported reference group and>=3 upstream both-library raw/corrected markers, vote>=0.70/margin>=0.20,>=100shared-panel transcripts, same label from both libraries and original-count-reference alignment, consistent with accepted family. No forced label for other cells.",
+  "QC": "Measured transcripts>=30, measured genes>=10, positive cell area, finite centroids, negative-probe fraction<=0.10. Transfer additionally shared transcripts>=20 and shared genes>=8. Missing nuclear area is flagged, not automatically excluded in a thin section.",
+  "diagnostics": "Unintegrated logistic transfer and global chamber-vote diagnostics archived separately after cross-assay contradictions. Those labels are not primary spatial identities. Low100-molecule benchmark remains a coverage sensitivity, not a claim of actual Xenium accuracy.",
+  "spatial": "Original \u00b5m centroids registered to acquired DAPI using experiment pixel_size0.2125\u00b5m at full resolution. Original segmentation polygons used in illustrative zooms. No spatial label smoothing, anatomical warping or transcript reassignment.",
+  "Kcnd2": "Not present by gene symbol OR EnsemblID ENSMUSG00000060882 in supplied panel; no measurement, imputation or Kcnd2-derived orientation performed.",
+  "Irx5": "Not present by gene symbol OR EnsemblID ENSMUSG00000031737 in supplied panel.",
+  "limitations": [
+    "One deposited acquisition region per stage analyzed; spatial biological replication is not established from these four regions.",
+    "Markers/thresholds and expression transfer can be affected by cell fragments, segmentation leakage, sparse detection and true cross-lineage RNA programs.",
+    "Partial marker programs and reference matches are hypotheses, not functional, chamber, transmural or Purkinje verification.",
+    "The same measured genes influence mapping and marker-consistency plots; those plots are not independent validation.",
+    "Gene normalization over the targeted panel is compositional; gene-specific probe efficiencies and nuclear versus cellular RNA differences remain despite alignment.",
+    "Counts of accepted matches are operational filtered segment counts, not subtype prevalence or CM proliferation rates.",
+    "Nearest-landmark distances are 2D marker-positive-cell distances, not wall depth or causal effects."
+  ],
+  "versions": {
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "pandas": "3.0.6",
+    "anndata": "0.13.4",
+    "scikit-learn": "1.9.1",
+    "harmonypy": "2.1.0",
+    "h5py": "3.16.0",
+    "matplotlib": "3.11.2",
+    "tifffile": "2026.10.15",
+    "imagecodecs": "2026.10.10",
+    "remotezip": "0.12.6"
+  }
+}

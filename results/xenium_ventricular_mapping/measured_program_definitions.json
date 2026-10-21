@@ -1,0 +1,63 @@
+{
+  "Ankrd1_associated": [
+    "Ankrd1",
+    "Creb5",
+    "Tlr4",
+    "Itga9",
+    "Pdlim3"
+  ],
+  "Slit2_associated": [
+    "Slit2",
+    "Sema3a",
+    "Ephb1",
+    "Gja5",
+    "Thsd4"
+  ],
+  "conduction_overlap": [
+    "Cntn2",
+    "Gja5",
+    "Robo1",
+    "Cpne5",
+    "Sema3a",
+    "Tbx3"
+  ],
+  "cycling": [
+    "Mki67",
+    "Top2a",
+    "Cenpf",
+    "Cenpe",
+    "Cdca2",
+    "Kif11",
+    "Kif15",
+    "Smc4",
+    "Hjurp",
+    "Atad2"
+  ],
+  "DNA_maintenance": [
+    "Pola1",
+    "Rad51b",
+    "Hells",
+    "Wdr76",
+    "Rrm1",
+    "Ezh2"
+  ],
+  "lipid_regulatory": [
+    "Cd36",
+    "Cpt1b",
+    "Ppara",
+    "Ppargc1a",
+    "Ppargc1b"
+  ],
+  "scores": "Mean log1p(10000 * measured count / exact-shared-panel total), z-scored against marker-supported ventricular candidates separately within each section. Partial selected panels, not the full author signatures or physical exposure measurements.",
+  "positive_flags": {
+    "Ankrd1": "Ankrd1>=2 molecules, >=3 panel genes, section-relative z>=0.5.",
+    "Slit2": "Slit2>=1, >=2 panel genes, z>=0.5.",
+    "conduction_overlap": "Cntn2>=1 and Gja5>=1 and >=3 conduction-overlap genes. Not verified Purkinje identity.",
+    "cycling": ">=3 cycling panel genes, Mki67+Top2a>=2 molecules, z>=0.5. Co-detection-only flag also retained. No completed-division inference."
+  },
+  "landmarks": {
+    "Npr3": "Npr3>=2 with >=1 Erg/Fli1 and >=2 vascular markers, QC-pass.",
+    "surface": "Upk3b>=1 and Wt1>=1, outside measured CM gate, QC-pass.",
+    "limits": "2D nearest marker-positive cell distances, not wall segmentation, transmural depth or replicated anatomical tests."
+  }
+}

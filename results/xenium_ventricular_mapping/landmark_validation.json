@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "stage": "P0",
+      "matched_control_draws_checked": 38150,
+      "brute_force_distance_cells": 50,
+      "landmark_sets": 2
+    },
+    {
+      "stage": "P7",
+      "matched_control_draws_checked": 61415,
+      "brute_force_distance_cells": 50,
+      "landmark_sets": 2
+    },
+    {
+      "stage": "P14",
+      "matched_control_draws_checked": 72735,
+      "brute_force_distance_cells": 50,
+      "landmark_sets": 2
+    },
+    {
+      "stage": "P21",
+      "matched_control_draws_checked": 94970,
+      "brute_force_distance_cells": 50,
+      "landmark_sets": 2
+    }
+  ],
+  "total_matched_control_draws": 267270,
+  "notes": "Control draws are with replacement and are not biological replicates. These are numerical checks, not independent spatial/functional verification."
+}

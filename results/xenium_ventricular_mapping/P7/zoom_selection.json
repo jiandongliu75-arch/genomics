@@ -1,0 +1,16 @@
+{
+  "center_um": [
+    2854.132568359375,
+    3095.611328125
+  ],
+  "bounds_um": [
+    2554.132568359375,
+    3154.132568359375,
+    2795.611328125,
+    3395.611328125
+  ],
+  "selection": "density of reference-assisted conduction-program candidates",
+  "window_um": 600,
+  "cells_with_centroid_in_window": 3027,
+  "boundary_cells_plotted": 3027
+}

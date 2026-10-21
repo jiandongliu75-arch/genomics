@@ -1,0 +1,65 @@
+stage	level	heldout_library	condition	truth	predicted	nuclei
+P21	family	GSM8827077_P21_1	full_shared_panel	Ankrd1-associated	Ankrd1-associated	655
+P21	family	GSM8827077_P21_1	full_shared_panel	Ankrd1-associated	Conduction-program candidate	0
+P21	family	GSM8827077_P21_1	full_shared_panel	Ankrd1-associated	Other working CM	234
+P21	family	GSM8827077_P21_1	full_shared_panel	Ankrd1-associated	Regional electrical candidate	138
+P21	family	GSM8827077_P21_1	full_shared_panel	Conduction-program candidate	Ankrd1-associated	0
+P21	family	GSM8827077_P21_1	full_shared_panel	Conduction-program candidate	Conduction-program candidate	14
+P21	family	GSM8827077_P21_1	full_shared_panel	Conduction-program candidate	Other working CM	1
+P21	family	GSM8827077_P21_1	full_shared_panel	Conduction-program candidate	Regional electrical candidate	22
+P21	family	GSM8827077_P21_1	full_shared_panel	Other working CM	Ankrd1-associated	257
+P21	family	GSM8827077_P21_1	full_shared_panel	Other working CM	Conduction-program candidate	0
+P21	family	GSM8827077_P21_1	full_shared_panel	Other working CM	Other working CM	744
+P21	family	GSM8827077_P21_1	full_shared_panel	Other working CM	Regional electrical candidate	304
+P21	family	GSM8827077_P21_1	full_shared_panel	Regional electrical candidate	Ankrd1-associated	99
+P21	family	GSM8827077_P21_1	full_shared_panel	Regional electrical candidate	Conduction-program candidate	1
+P21	family	GSM8827077_P21_1	full_shared_panel	Regional electrical candidate	Other working CM	146
+P21	family	GSM8827077_P21_1	full_shared_panel	Regional electrical candidate	Regional electrical candidate	641
+P21	family	GSM8827077_P21_1	multinomial_up_to_100_molecules	Ankrd1-associated	Ankrd1-associated	88
+P21	family	GSM8827077_P21_1	multinomial_up_to_100_molecules	Ankrd1-associated	Conduction-program candidate	0
+P21	family	GSM8827077_P21_1	multinomial_up_to_100_molecules	Ankrd1-associated	Other working CM	924
+P21	family	GSM8827077_P21_1	multinomial_up_to_100_molecules	Ankrd1-associated	Regional electrical candidate	15
+P21	family	GSM8827077_P21_1	multinomial_up_to_100_molecules	Conduction-program candidate	Ankrd1-associated	0
+P21	family	GSM8827077_P21_1	multinomial_up_to_100_molecules	Conduction-program candidate	Conduction-program candidate	11
+P21	family	GSM8827077_P21_1	multinomial_up_to_100_molecules	Conduction-program candidate	Other working CM	4
+P21	family	GSM8827077_P21_1	multinomial_up_to_100_molecules	Conduction-program candidate	Regional electrical candidate	22
+P21	family	GSM8827077_P21_1	multinomial_up_to_100_molecules	Other working CM	Ankrd1-associated	7
+P21	family	GSM8827077_P21_1	multinomial_up_to_100_molecules	Other working CM	Conduction-program candidate	0
+P21	family	GSM8827077_P21_1	multinomial_up_to_100_molecules	Other working CM	Other working CM	1272
+P21	family	GSM8827077_P21_1	multinomial_up_to_100_molecules	Other working CM	Regional electrical candidate	26
+P21	family	GSM8827077_P21_1	multinomial_up_to_100_molecules	Regional electrical candidate	Ankrd1-associated	4
+P21	family	GSM8827077_P21_1	multinomial_up_to_100_molecules	Regional electrical candidate	Conduction-program candidate	1
+P21	family	GSM8827077_P21_1	multinomial_up_to_100_molecules	Regional electrical candidate	Other working CM	740
+P21	family	GSM8827077_P21_1	multinomial_up_to_100_molecules	Regional electrical candidate	Regional electrical candidate	142
+P21	family	GSM8827078_P21_2	full_shared_panel	Ankrd1-associated	Ankrd1-associated	1183
+P21	family	GSM8827078_P21_2	full_shared_panel	Ankrd1-associated	Conduction-program candidate	0
+P21	family	GSM8827078_P21_2	full_shared_panel	Ankrd1-associated	Other working CM	552
+P21	family	GSM8827078_P21_2	full_shared_panel	Ankrd1-associated	Regional electrical candidate	319
+P21	family	GSM8827078_P21_2	full_shared_panel	Conduction-program candidate	Ankrd1-associated	11
+P21	family	GSM8827078_P21_2	full_shared_panel	Conduction-program candidate	Conduction-program candidate	4
+P21	family	GSM8827078_P21_2	full_shared_panel	Conduction-program candidate	Other working CM	15
+P21	family	GSM8827078_P21_2	full_shared_panel	Conduction-program candidate	Regional electrical candidate	5
+P21	family	GSM8827078_P21_2	full_shared_panel	Other working CM	Ankrd1-associated	965
+P21	family	GSM8827078_P21_2	full_shared_panel	Other working CM	Conduction-program candidate	0
+P21	family	GSM8827078_P21_2	full_shared_panel	Other working CM	Other working CM	1148
+P21	family	GSM8827078_P21_2	full_shared_panel	Other working CM	Regional electrical candidate	384
+P21	family	GSM8827078_P21_2	full_shared_panel	Regional electrical candidate	Ankrd1-associated	484
+P21	family	GSM8827078_P21_2	full_shared_panel	Regional electrical candidate	Conduction-program candidate	0
+P21	family	GSM8827078_P21_2	full_shared_panel	Regional electrical candidate	Other working CM	399
+P21	family	GSM8827078_P21_2	full_shared_panel	Regional electrical candidate	Regional electrical candidate	610
+P21	family	GSM8827078_P21_2	multinomial_up_to_100_molecules	Ankrd1-associated	Ankrd1-associated	91
+P21	family	GSM8827078_P21_2	multinomial_up_to_100_molecules	Ankrd1-associated	Conduction-program candidate	0
+P21	family	GSM8827078_P21_2	multinomial_up_to_100_molecules	Ankrd1-associated	Other working CM	1953
+P21	family	GSM8827078_P21_2	multinomial_up_to_100_molecules	Ankrd1-associated	Regional electrical candidate	10
+P21	family	GSM8827078_P21_2	multinomial_up_to_100_molecules	Conduction-program candidate	Ankrd1-associated	6
+P21	family	GSM8827078_P21_2	multinomial_up_to_100_molecules	Conduction-program candidate	Conduction-program candidate	23
+P21	family	GSM8827078_P21_2	multinomial_up_to_100_molecules	Conduction-program candidate	Other working CM	3
+P21	family	GSM8827078_P21_2	multinomial_up_to_100_molecules	Conduction-program candidate	Regional electrical candidate	3
+P21	family	GSM8827078_P21_2	multinomial_up_to_100_molecules	Other working CM	Ankrd1-associated	19
+P21	family	GSM8827078_P21_2	multinomial_up_to_100_molecules	Other working CM	Conduction-program candidate	0
+P21	family	GSM8827078_P21_2	multinomial_up_to_100_molecules	Other working CM	Other working CM	2462
+P21	family	GSM8827078_P21_2	multinomial_up_to_100_molecules	Other working CM	Regional electrical candidate	16
+P21	family	GSM8827078_P21_2	multinomial_up_to_100_molecules	Regional electrical candidate	Ankrd1-associated	10
+P21	family	GSM8827078_P21_2	multinomial_up_to_100_molecules	Regional electrical candidate	Conduction-program candidate	5
+P21	family	GSM8827078_P21_2	multinomial_up_to_100_molecules	Regional electrical candidate	Other working CM	1408
+P21	family	GSM8827078_P21_2	multinomial_up_to_100_molecules	Regional electrical candidate	Regional electrical candidate	70

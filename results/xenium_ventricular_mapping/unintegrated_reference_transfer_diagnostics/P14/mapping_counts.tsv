@@ -1,0 +1,15 @@
+stage	level	label	segmented_cells
+P14	mapped_lineage	Endothelial	51465
+P14	mapped_lineage	Unresolved cell identity	21888
+P14	mapped_lineage	Ventricular-enriched CM	9944
+P14	mapped_lineage	Pericyte	8164
+P14	mapped_lineage	Fibroblast	7625
+P14	mapped_lineage	Smooth muscle	6267
+P14	mapped_lineage	Immune	4716
+P14	mapped_lineage	Atrial-like CM	4590
+P14	mapped_lineage	Low-information/QC flag	1263
+P14	mapped_lineage	Epicardial	767
+P14	mapped_lineage	Glial	381
+P14	mapped_family	Not assigned ventricular CM	107126
+P14	mapped_family	Unresolved ventricular state	9944
+P14	mapped_fine_group	Not resolved	117070

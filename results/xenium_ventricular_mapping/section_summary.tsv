@@ -1,0 +1,5 @@
+stage	source_segmented_cells	QC_pass	measured_CM_marker_gate	ventricular_CM_candidates	CM_EC_overlap_review	family_assigned	fine_group_assigned	measured_Ankrd1_program_positive	measured_Slit2_program_positive	measured_conduction_overlap_positive	measured_cycling_program_positive	candidate_Npr3_landmarks	candidate_surface_landmarks
+P0	47611	46200	31601	21994	4826	11496	7858	6642	888	100	5224	1604	320
+P7	99429	97850	49769	38580	24888	18805	15176	10989	878	416	6413	1978	775
+P14	117070	115807	56886	49656	38560	8439	1915	13229	1070	248	1561	2194	623
+P21	143944	142370	75268	58358	47070	3784	1712	17577	1082	335	938	5182	509
