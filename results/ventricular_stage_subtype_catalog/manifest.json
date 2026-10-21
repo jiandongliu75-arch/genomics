@@ -1,0 +1,91 @@
+{
+  "validation": [
+    "28 original groups and 44,463 nuclei preserved with all prior support fields",
+    "Candidate functions and overlapping proposed comparison sets refer only to valid same-stage groups",
+    "Per-cell annotations preserve source membership and map to catalog",
+    "One feature per symbol; finite signatures and nested exclusion feature set",
+    "Primary and interpreted-gene-excluded similarity matrices reproduce from exported signatures",
+    "All 578 directed cross-stage comparisons align with matrices and within-stage ranks"
+  ],
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 13707,
+      "sha256": "6d427f59445c44d391c4112fbd81ac434501bbfd0d3ef3ab9acc7acd06d376b3"
+    },
+    {
+      "file": "cell_catalog_and_comparison_memberships.tsv.gz",
+      "bytes": 319670,
+      "sha256": "0b1f7a1346ada89136bd45c4fdd033c605711981ad4734e5d2a14980d9bc6c3c"
+    },
+    {
+      "file": "cross_stage_comparison_sets.tsv",
+      "bytes": 1993,
+      "sha256": "ecc1f05d1f7a839d731561999bb7f1522a9b56378a17ae61d2b5ba6c78cfc92c"
+    },
+    {
+      "file": "cross_stage_pairwise_similarity.tsv",
+      "bytes": 69012,
+      "sha256": "c0e4939ae14cc3ff63d38f3b2302c23709cf8d0fa517ee91387b30d73ba5beba"
+    },
+    {
+      "file": "cross_stage_signature_similarity.pdf",
+      "bytes": 40013,
+      "sha256": "111d4131b8b186ee3f23370a11c67f31b846ece803838a86d1f2b754e18377b3"
+    },
+    {
+      "file": "cross_stage_signature_similarity.png",
+      "bytes": 319518,
+      "sha256": "d6f9d1d36a951c3d3417a3dec1c669dc0ca879cabbafd6af8d755b3e46407048"
+    },
+    {
+      "file": "cross_stage_signature_similarity_interpreted_genes_excluded.png",
+      "bytes": 323524,
+      "sha256": "cb1d8de8df4b318d2b04a70d0402ca1e7ffc41ec58030d082b05303dd208c6b2"
+    },
+    {
+      "file": "interpreted_genes_excluded_similarity_matrix.tsv",
+      "bytes": 15911,
+      "sha256": "9c458b05ec8df2226968d8794b5d4074ce03b0b6187ac0ed79ae8f6ff87adb8c"
+    },
+    {
+      "file": "methods.json",
+      "bytes": 2047,
+      "sha256": "74f7fe6b53fe17182c67afaf8920a8db40eeaa272c7c8c505402adfa5a4face6"
+    },
+    {
+      "file": "relative_signature_similarity_matrix.tsv",
+      "bytes": 15903,
+      "sha256": "a509b76316815fa4098b2a4ecc4b16a0bc9125a403d10ffaae77f2eef333492c"
+    },
+    {
+      "file": "signature_feature_mapping.tsv",
+      "bytes": 1625448,
+      "sha256": "def50e92d96e1a50a7348e3a692796fa0dc9a8d64ce96b64cbc3520ba3adbdcd"
+    },
+    {
+      "file": "stage_subtype_catalog.tsv",
+      "bytes": 16855,
+      "sha256": "ac47cad0e299ca8f39988e5ec1d6088856404d047ddb288960ded73a4c212910"
+    },
+    {
+      "file": "within_stage_relative_aggregate_signatures.tsv.gz",
+      "bytes": 1382589,
+      "sha256": "78212eee1e8955d15d5cf6855be710d96678c398b64eb73a3c74bd93fbfa69ba"
+    }
+  ],
+  "scripts": [
+    {
+      "file": "analysis/ventricular_stage_subtype_catalog.py",
+      "sha256": "252f68c008f7fd3e8dcd8dbff0e874f2feb5046c06394d5eadd3f529e1572560"
+    },
+    {
+      "file": "analysis/plot_ventricular_stage_comparisons.py",
+      "sha256": "3a95f3a7dc46769ee45a3919d47d09a1fbbddd2587f5e7c2c0d52743e89bdcbb"
+    },
+    {
+      "file": "analysis/validate_ventricular_stage_catalog.py",
+      "sha256": "d7af5609603440790e2f8ff0a7a75ac9c1f5715d78ff144d098adb1731a4ef50"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "nuclei": 44463,
+  "groups": 28,
+  "stages": [
+    "P0",
+    "P7",
+    "P14",
+    "P21"
+  ],
+  "primary_similarity_features": 10773,
+  "interpreted_genes_excluded_features": 10596,
+  "expression": "log1p(CPM) of corrected-count sums by existing group; ALL original features retained in normalization denominators. Highest pooled-abundance feature selected per duplicate gene symbol.",
+  "signature": "For each gene and group: aggregate log1p(CPM) minus aggregate log1p(CPM) of all other retained ventricular-enriched groups in the same stage.",
+  "feature_rules": "Exclude mt-/Rpl/Rps/Gm-prefixed and listed sex-associated symbols. Require >=5 aggregate CPM in at least one group and absolute within-stage contrast>=0.4 in at least one group. Thresholds are exploratory, not calibrated.",
+  "similarity": "Spearman correlation across selected relative gene signatures. Export every cross-stage pair, rank and reciprocal top match; ranks always exist even for weak similarities and do not establish identity.",
+  "sensitivity": "Repeat after withholding every gene in previously interpreted microenvironment programs, 94-gene literature checks and 17-gene electrical/regional checks.",
+  "marker_overlap": "Shared top80 previously selected markers with positive corrected/raw effects in both libraries; truncated discovery lists, not an independent validation set.",
+  "limits": [
+    "Aggregate signatures pool libraries and can be affected by library weighting, relative stage composition, age and technical differences. This is not sample-level differential expression.",
+    "Previous within-library/raw/QC support is retained in catalog; new whole-transcriptome matching is corrected-count only, with interpreted-gene exclusion sensitivity.",
+    "No batch-adjusted counts, forced one-to-one mapping, trajectory, ancestry or functional verification.",
+    "A family can split/merge with development. Missing counterparts mean not resolved, not biological absence.",
+    "Stage-specific UMAP coordinates are not used to match groups."
+  ]
+}

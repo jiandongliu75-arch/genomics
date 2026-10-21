@@ -2,6 +2,7 @@
 
 Independent QC and exploratory clustering of the mouse-heart dataset [GSE290989](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE290989), covering P0, P7, P14 and P21 with two libraries per age.
 
+- [Ventricular candidates at each stage, potential functions and cross-stage comparison sets](results/ventricular_stage_subtype_catalog/README.md)
 - [IRX5, Slit2 and regional versus conduction-associated electrical programs](results/ventricular_electrical_regional/README.md)
 - [Other segregation axes: electrical specialization and literature-guided gene checks](results/ventricular_additional_axes/README.md)
 - [Ventricular wall-, oxygen-response and mechanical programs: expanded gate and annotation review](results/ventricular_microenvironment/README.md)

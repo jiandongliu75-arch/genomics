@@ -1,0 +1,10 @@
+comparison_family	P0	P7	P14	P21	priority_and_limits	shared_program
+Mechanical-response-associated	P0_M3;P0_M6	P7_M1	P14_M2	P21_M2;P21_M4	Primary all-stage series; P0_M3/M6 and P21_M2/M4 are exploratory subdivisions. P21_M2 is the closer late-stage signature match.	Ankrd1;Creb5;Nrap;Xirp2;cytoskeletal genes
+Conduction-program-enriched	P0_M5	P7_M6	P14_M4	P21_M5	Biologically coherent all-stage candidate series; P14 boundary sensitivity and P21 n=72 limit confidence. Not a lineage trajectory or verified Purkinje series.	Slit2;Mpped2;Etv1;Gja5;Cntn2;Scn10a
+Regional electrical-associated		P7_M2	P14_M0	P21_M3	Prioritize P14_M0 versus P21_M3. P7_M2 is a partial earlier counterpart; no clean independent P0 counterpart is resolved.	Fgf14;Rbfox1;Mpped2;Pdzrn4;Irx5/Kcnd2 axis
+Cycling	P0_M0	P7_M3			Strong early-stage comparison; no analogous discrete P14/P21 group resolved. This does not prove absence of rare cycling nuclei.	Mki67;Top2a;Ect2;Diaph3
+DNA-replication/maintenance-associated	P0_M7	P7_M5			Early candidate RNA-state comparison; do not equate with productive proliferation, S-phase assignment or DNA damage.	Pola1;Rad51b;Prim2;Hells
+Early metabolic/working arm A	P0_M1	P7_M4			Exploratory early working-CM comparison; Ddc does not establish a stable four-stage subtype.	Ivns1abp;9530026P05Rik;metabolic and contractile context
+Early metabolic/working arm B	P0_M4	P7_M0			Exploratory metabolic adaptation comparison; age effects and state identity are not separated fully.	Lipid-use and metabolic-regulatory genes
+Later repolarization/working candidate		P7_M0	P14_M3	P21_M0	P14_M3 versus P21_M0 is the useful late-stage pair. The P7 extension is weak and should remain exploratory.	Kcnd2;Pdzrn4;Lrtm1;Stk39 context
+Later working/maturation background			P14_M1	P21_M1	Broader gene-profile resemblance supports comparison, but both have weak subtype-specific positive markers. Avoid naming a novel functional subtype.	Broad relative transcriptome; few robust positive subtype markers
