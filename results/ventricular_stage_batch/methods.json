@@ -1,0 +1,52 @@
+{
+  "input": "/workspace/heart-atlas/results/cell_identities_subtypes/snrna_qc_annotated_subclustered.h5ad",
+  "nuclei": 43249,
+  "embedding_HVG_count": 2484,
+  "PCA_components": 30,
+  "neighbors": 15,
+  "UMAP_min_dist": 0.3,
+  "UMAP_epochs": 250,
+  "seed": 42,
+  "Harmony": {
+    "batch": "sample",
+    "scope": "separate model per age; common global PCA axes",
+    "theta": 2,
+    "lambda": 1,
+    "nclust": 30,
+    "max_iter": 20,
+    "postprocessing": "Restore each original age centroid"
+  },
+  "excluded_embedding_genes": [
+    "Xist",
+    "Tsix",
+    "Ddx3y",
+    "Kdm5d",
+    "Eif2s3y",
+    "Uty",
+    "Usp9y",
+    "Zfy1",
+    "Zfy2",
+    "Sry",
+    "Rbmy",
+    "mitochondrial genes",
+    "ribosomal genes"
+  ],
+  "retained_embedding_biology": "Cell-cycle and developmental genes retained; no age regression.",
+  "sensitivity_covariates": [
+    "log1p raw UMIs",
+    "log1p raw detected genes",
+    "DecontX contamination",
+    "raw mitochondrial percent",
+    "log-normalized Xist,Ddx3y,Kdm5d,Eif2s3y,Uty"
+  ],
+  "metric": "30 nearest neighbors within age; observed cross-library neighbor fraction divided by random expectation from library sizes. Higher mixing alone does not establish validity.",
+  "packages": {
+    "scanpy": "1.12.4",
+    "anndata": "0.13.4",
+    "harmonypy": "2.1.0",
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "igraph": "1.0.0"
+  }
+}

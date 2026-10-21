@@ -2,6 +2,7 @@
 
 Independent QC and exploratory clustering of the mouse-heart dataset [GSE290989](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE290989), covering P0, P7, P14 and P21 with two libraries per age.
 
+- [Ventricular-only analysis across four stages with sample/batch sensitivity](results/ventricular_stage_batch/README.md)
 - [Early ventricular CM states: cycling and within-stage differences](results/cardiomyocyte_early_states/README.md)
 - [Cardiomyocytes: matching stage/subtype UMAPs and subtype colors within each stage](results/cardiomyocyte_focus/README.md)
 - [Larger UMAPs with labeled cell types, subtypes and developmental stages](results/labeled_umaps/README.md)

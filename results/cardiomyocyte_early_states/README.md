@@ -1,5 +1,7 @@
 # Early ventricular cardiomyocyte states: within-age comparison
 
+**Subsequent sensitivity analysis:** [The ventricular-only sample/batch analysis](../ventricular_stage_batch/README.md) finds that prior P7 CAR_5/CAR_6 largely merge under within-stage Harmony. P0 CAR_1/CAR_2 persist after Harmony but largely merge under stronger QC/sex-marker adjustment. The expression differences below remain descriptive observations, while their interpretation as distinct biological subtypes is uncertain.
+
 These comparisons address whether the separated P0/P7 ventricular groups differ beyond cycling. They use the existing annotations and expression matrices; no clusters are renamed or refitted.
 
 ## Cycling versus low-cycling groups

@@ -1,0 +1,10 @@
+representation	resolution	clusters
+uncorrected	0.4	7
+uncorrected	0.6	7
+uncorrected	0.8	10
+within_stage_harmony	0.4	6
+within_stage_harmony	0.6	7
+within_stage_harmony	0.8	8
+qc_sex_sensitivity	0.4	5
+qc_sex_sensitivity	0.6	6
+qc_sex_sensitivity	0.8	9

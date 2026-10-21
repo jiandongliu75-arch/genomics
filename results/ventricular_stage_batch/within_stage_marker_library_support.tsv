@@ -1,0 +1,6 @@
+ventricular_cluster	dominant_stage	n_in_dominant_stage	eligible_libraries	top40_markers_supported_in_both_libraries	supported_marker_names
+V_0	P0	303	2	40	Diaph3;Atad2;Cenpp;Rad51b;Pola1;Top2a;Kif11;Knl1;Neil3;Mki67;Kif15;Smc4
+V_1	P0	5769	2	40	Hmgcs2;Txnip;9530026P05Rik;Cd36;Vwa8;Rasgef1b;Slc27a1;Atcayos;Grb14;Ppp1r14c;Pdk4;Myom2
+V_2	P0	4219	2	40	Zbtb16;Ncam1;Ankrd1;Neat1;Vcl;Pdzd2;Smpx;Tecrl;Large1;Tfdp2;Mid1;Gm13481
+V_3	P7	1356	2	40	Diaph3;Cenpp;Rad51b;Atad2;Hjurp;Sdk1;Pola1;Knl1;Ect2;Top2a;Cep128;Smc4
+V_4	P7	11497	2	40	Tnnt2;Nckap5;Filip1l;Myom2;9530026P05Rik;Acacb;Ldb3;Txlnb;Prkn;D830005E20Rik;Tpm1;Rora

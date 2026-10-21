@@ -1,0 +1,9 @@
+age	comparison	adjusted_rand_index
+P0	within_stage_harmony vs uncorrected	0.9403838711588302
+P0	within_stage_harmony vs qc_sex_sensitivity	0.1140728225886664
+P7	within_stage_harmony vs uncorrected	0.3962315159617307
+P7	within_stage_harmony vs qc_sex_sensitivity	0.6064102669860637
+P14	within_stage_harmony vs uncorrected	0.7899229137748941
+P14	within_stage_harmony vs qc_sex_sensitivity	0.46931158542535395
+P21	within_stage_harmony vs uncorrected	0.4726588256686268
+P21	within_stage_harmony vs qc_sex_sensitivity	0.5810200179116605
