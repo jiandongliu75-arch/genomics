@@ -1,15 +1,41 @@
 {
+  "display_filter": "Exclude reviewed_identity or proposed_subtype containing unresolved or mixed (case-insensitive); candidate/review assignments retained. Exclusions apply to figures only.",
   "method": "Display-only redraw; all existing coordinates, memberships and annotations unchanged. No geometric separation or UMAP refitting.",
   "plots": [
     {
       "plot": "all_cell_types_labeled",
-      "nuclei": 73052,
-      "groups": 9,
+      "nuclei": 71836,
+      "groups": 8,
       "coordinates": [
         "UMAP1",
         "UMAP2"
       ],
       "source": "results/cell_identities_subtypes/all_cell_identity_and_subtype_annotations.csv.gz"
+    },
+    {
+      "plot": "all_cell_types_stage_labeled",
+      "nuclei": 71836,
+      "groups": 8,
+      "coordinates": [
+        "UMAP1",
+        "UMAP2"
+      ],
+      "source": "results/cell_identities_subtypes/all_cell_identity_and_subtype_annotations.csv.gz"
+    },
+    {
+      "plot": "all_cell_types_stage_facets",
+      "nuclei": 71836,
+      "groups": 8,
+      "coordinates": [
+        "UMAP1",
+        "UMAP2"
+      ],
+      "stage_counts": {
+        "P0": 15745,
+        "P7": 17686,
+        "P14": 20649,
+        "P21": 17756
+      }
     },
     {
       "plot": "Cardiomyocyte_subclusters_labeled",
@@ -32,6 +58,31 @@
       "source": "results/cell_identities_subtypes/Cardiomyocyte/cell_subcluster_annotations.csv.gz"
     },
     {
+      "plot": "Cardiomyocyte_stage_labeled",
+      "nuclei": 46485,
+      "groups": 11,
+      "coordinates": [
+        "subcluster_UMAP1",
+        "subcluster_UMAP2"
+      ],
+      "source": "results/cell_identities_subtypes/Cardiomyocyte/cell_subcluster_annotations.csv.gz"
+    },
+    {
+      "plot": "Cardiomyocyte_stage_facets",
+      "nuclei": 46485,
+      "groups": 11,
+      "coordinates": [
+        "subcluster_UMAP1",
+        "subcluster_UMAP2"
+      ],
+      "stage_counts": {
+        "P0": 11682,
+        "P7": 13120,
+        "P14": 11583,
+        "P21": 10100
+      }
+    },
+    {
       "plot": "Fibroblast_subclusters_labeled",
       "nuclei": 14985,
       "groups": 11,
@@ -52,9 +103,34 @@
       "source": "results/cell_identities_subtypes/Fibroblast/cell_subcluster_annotations.csv.gz"
     },
     {
+      "plot": "Fibroblast_stage_labeled",
+      "nuclei": 14985,
+      "groups": 11,
+      "coordinates": [
+        "subcluster_UMAP1",
+        "subcluster_UMAP2"
+      ],
+      "source": "results/cell_identities_subtypes/Fibroblast/cell_subcluster_annotations.csv.gz"
+    },
+    {
+      "plot": "Fibroblast_stage_facets",
+      "nuclei": 14985,
+      "groups": 11,
+      "coordinates": [
+        "subcluster_UMAP1",
+        "subcluster_UMAP2"
+      ],
+      "stage_counts": {
+        "P0": 2227,
+        "P7": 2951,
+        "P14": 5396,
+        "P21": 4411
+      }
+    },
+    {
       "plot": "Endothelial_subclusters_labeled",
-      "nuclei": 5573,
-      "groups": 15,
+      "nuclei": 4466,
+      "groups": 12,
       "coordinates": [
         "subcluster_UMAP1",
         "subcluster_UMAP2"
@@ -63,13 +139,38 @@
     },
     {
       "plot": "Endothelial_subtypes_labeled",
-      "nuclei": 5573,
-      "groups": 15,
+      "nuclei": 4466,
+      "groups": 12,
       "coordinates": [
         "subcluster_UMAP1",
         "subcluster_UMAP2"
       ],
       "source": "results/cell_identities_subtypes/Endothelial/cell_subcluster_annotations.csv.gz"
+    },
+    {
+      "plot": "Endothelial_stage_labeled",
+      "nuclei": 4466,
+      "groups": 12,
+      "coordinates": [
+        "subcluster_UMAP1",
+        "subcluster_UMAP2"
+      ],
+      "source": "results/cell_identities_subtypes/Endothelial/cell_subcluster_annotations.csv.gz"
+    },
+    {
+      "plot": "Endothelial_stage_facets",
+      "nuclei": 4466,
+      "groups": 12,
+      "coordinates": [
+        "subcluster_UMAP1",
+        "subcluster_UMAP2"
+      ],
+      "stage_counts": {
+        "P0": 1122,
+        "P7": 697,
+        "P14": 1324,
+        "P21": 1323
+      }
     },
     {
       "plot": "Mural_subclusters_labeled",
@@ -92,9 +193,34 @@
       "source": "results/cell_identities_subtypes/Mural/cell_subcluster_annotations.csv.gz"
     },
     {
+      "plot": "Mural_stage_labeled",
+      "nuclei": 3804,
+      "groups": 10,
+      "coordinates": [
+        "subcluster_UMAP1",
+        "subcluster_UMAP2"
+      ],
+      "source": "results/cell_identities_subtypes/Mural/cell_subcluster_annotations.csv.gz"
+    },
+    {
+      "plot": "Mural_stage_facets",
+      "nuclei": 3804,
+      "groups": 10,
+      "coordinates": [
+        "subcluster_UMAP1",
+        "subcluster_UMAP2"
+      ],
+      "stage_counts": {
+        "P0": 351,
+        "P7": 591,
+        "P14": 1692,
+        "P21": 1170
+      }
+    },
+    {
       "plot": "Immune_subclusters_labeled",
-      "nuclei": 1248,
-      "groups": 12,
+      "nuclei": 1242,
+      "groups": 11,
       "coordinates": [
         "subcluster_UMAP1",
         "subcluster_UMAP2"
@@ -103,130 +229,290 @@
     },
     {
       "plot": "Immune_subtypes_labeled",
-      "nuclei": 1248,
-      "groups": 12,
+      "nuclei": 1242,
+      "groups": 11,
       "coordinates": [
         "subcluster_UMAP1",
         "subcluster_UMAP2"
       ],
       "source": "results/cell_identities_subtypes/Immune/cell_subcluster_annotations.csv.gz"
+    },
+    {
+      "plot": "Immune_stage_labeled",
+      "nuclei": 1242,
+      "groups": 11,
+      "coordinates": [
+        "subcluster_UMAP1",
+        "subcluster_UMAP2"
+      ],
+      "source": "results/cell_identities_subtypes/Immune/cell_subcluster_annotations.csv.gz"
+    },
+    {
+      "plot": "Immune_stage_facets",
+      "nuclei": 1242,
+      "groups": 11,
+      "coordinates": [
+        "subcluster_UMAP1",
+        "subcluster_UMAP2"
+      ],
+      "stage_counts": {
+        "P0": 92,
+        "P7": 206,
+        "P14": 406,
+        "P21": 538
+      }
     }
   ],
   "files": [
     {
+      "name": "Cardiomyocyte_stage_facets.pdf",
+      "bytes": 281864,
+      "sha256": "fa8b2d0a75d1a59f8d71ad5f17e8b1529762d8715992940edd7725bb3c95416c"
+    },
+    {
+      "name": "Cardiomyocyte_stage_facets.png",
+      "bytes": 973429,
+      "sha256": "ab663772ed19143a9d9b12ce3ac2afdfa8d752e1a0cb0d0b7b9aa99b103a5bdb"
+    },
+    {
+      "name": "Cardiomyocyte_stage_labeled.pdf",
+      "bytes": 152474,
+      "sha256": "6d2d07e51b457dd99a26eb47d96d8aaa580739cc1e5f3d814e8676bb972e3faf"
+    },
+    {
+      "name": "Cardiomyocyte_stage_labeled.png",
+      "bytes": 1153792,
+      "sha256": "3e3a80c2b1871a02b0cfd2a3627a4591b57aa143d4fed8b8e048750b865e5356"
+    },
+    {
       "name": "Cardiomyocyte_subclusters_labeled.pdf",
-      "bytes": 138527,
-      "sha256": "866bc16999a857d3515871bfca2d2739f79f20cf1a7047e8d76fe59913fa5b30"
+      "bytes": 142698,
+      "sha256": "64416fb65d9b737c93afd44291959ba938fd2e1ca7bc808f728856b0a8bf6002"
     },
     {
       "name": "Cardiomyocyte_subclusters_labeled.png",
-      "bytes": 946731,
-      "sha256": "fe32fed7c2bb63ec1dd63b7a7874a6e096caf2368f6baa317c2d8e88ba48cfae"
+      "bytes": 944353,
+      "sha256": "5c47267033294940b850ab5e188f23b9db71083698cd269472be4f1c99d8a59a"
     },
     {
       "name": "Cardiomyocyte_subtypes_labeled.pdf",
-      "bytes": 125193,
-      "sha256": "60ed3e75eed61d93115b5876b876addf1d20845c789c408de53c39841401b1fd"
+      "bytes": 129492,
+      "sha256": "217925c6adccc14e6da1bcdbd0d7bf5547ecbd40e4969ed8448e904e7d496cbe"
     },
     {
       "name": "Cardiomyocyte_subtypes_labeled.png",
-      "bytes": 942564,
-      "sha256": "b24cef509b7d3fb1441f3b6a922ca08640e3d2942b290ba6224df873b2d3c357"
+      "bytes": 939417,
+      "sha256": "8270ef7cf39936cdf1e6e6bec5511b5047c827fdcacfc03ca2e640a51349df4e"
+    },
+    {
+      "name": "Endothelial_stage_facets.pdf",
+      "bytes": 195326,
+      "sha256": "12316e74d43aaf4ace51b794192419e6d9165c8fffd1cda14b62d1b190d8d7b9"
+    },
+    {
+      "name": "Endothelial_stage_facets.png",
+      "bytes": 723958,
+      "sha256": "1b879a4d3842e6c6c786e03cfe4e716580d88c3879d82165e1fd7e1fe325360d"
+    },
+    {
+      "name": "Endothelial_stage_labeled.pdf",
+      "bytes": 146964,
+      "sha256": "187a0d45a2b1f73e581dc6635d263e8dcc4400f6faa2f99be6ab0287055618a9"
+    },
+    {
+      "name": "Endothelial_stage_labeled.png",
+      "bytes": 814248,
+      "sha256": "d221f555dbb11810349f0690f3cca9521f51cecfbad7a04d9e7bc84f4864f6bc"
     },
     {
       "name": "Endothelial_subclusters_labeled.pdf",
-      "bytes": 106676,
-      "sha256": "87d44257c0b47bb49b55874bfb317e2b65e681110bc3d009c9cc9f7ac21df777"
+      "bytes": 97671,
+      "sha256": "83c1d0d8dbe1d0e9da76f2e22bebd3326c35c37b0524ec592fc282df6c2a432a"
     },
     {
       "name": "Endothelial_subclusters_labeled.png",
-      "bytes": 706547,
-      "sha256": "671cc1fc541d7128b2d65a381649da01d3de3e0f4be2d9f5b8a5571e87d8daf2"
+      "bytes": 590921,
+      "sha256": "c0ef097467bf140c7df29ed221bd1b753c01a0d00a9065d244bc368e79cf1e79"
     },
     {
       "name": "Endothelial_subtypes_labeled.pdf",
-      "bytes": 105437,
-      "sha256": "b7c4766f629bcfbc2330a8434bf7fe25d8296352a523e6e3383cb8e16d26f8a2"
+      "bytes": 96559,
+      "sha256": "433090cffc7935bdbd464b6055dbefa5e62a909b01e2cddb82d88816bb0a5362"
     },
     {
       "name": "Endothelial_subtypes_labeled.png",
-      "bytes": 698842,
-      "sha256": "493600048e7819f1e62c223e602ac77434f7045b4175895da77385659981d091"
+      "bytes": 584948,
+      "sha256": "d54480db7bdd9bd5840b65829401a1a132c939f8a620156d57d10552f727dcf7"
+    },
+    {
+      "name": "Fibroblast_stage_facets.pdf",
+      "bytes": 388806,
+      "sha256": "c16287743eca027534e729b779d4c3ffad43fc9a4c370cd0fbbda5ea1b4b4602"
+    },
+    {
+      "name": "Fibroblast_stage_facets.png",
+      "bytes": 1374182,
+      "sha256": "0fe81d14ddb391d5db993f5b4f67382c785cfde334bb8c770955dc344bc2dc4c"
+    },
+    {
+      "name": "Fibroblast_stage_labeled.pdf",
+      "bytes": 265898,
+      "sha256": "a18edabba276d6bc8fc747fd47f3b070ac2920500ece78cde3de726757aa7cc5"
+    },
+    {
+      "name": "Fibroblast_stage_labeled.png",
+      "bytes": 1547202,
+      "sha256": "f15cd8f7fafe8097a82cf0601b6dd98dddb4a7764ab037c5200b566bcab5e6f8"
     },
     {
       "name": "Fibroblast_subclusters_labeled.pdf",
-      "bytes": 203157,
-      "sha256": "cc56a62720b3522d9d4998c4e377552eaf73d8a8754f7879c19a1e218ea23705"
+      "bytes": 207327,
+      "sha256": "f0eecf6aa74d07d05341f9009b8b9809ba37a6cf18cc87bd38dce01fedd94a96"
     },
     {
       "name": "Fibroblast_subclusters_labeled.png",
-      "bytes": 1090997,
-      "sha256": "a3fa1a501cb4f6579f39b58632db7428de875870bd23af0261cb36b800fb92d6"
+      "bytes": 1087861,
+      "sha256": "5a6337973092fa733b698c34ec90c1d31cfeccede79eeef52ba75af4d88cbf9d"
     },
     {
       "name": "Fibroblast_subtypes_labeled.pdf",
-      "bytes": 173831,
-      "sha256": "c0835a522eaddddf149198124eb089632f977ae0c0b740f6516a2d57fb0837f0"
+      "bytes": 178130,
+      "sha256": "8c2ec4e526753a9b8eaf66574a8ee74f14afd78cd56319868ddd52ae53ee5f63"
     },
     {
       "name": "Fibroblast_subtypes_labeled.png",
-      "bytes": 1036237,
-      "sha256": "673a7f56df0c9b2b7c6dd582e41cdc1fb19102ab6a339c71c70713b06bd744a7"
+      "bytes": 1033209,
+      "sha256": "345e35365a6324e40d0038b6fb96b1a5062f1aebcfbdd410601dabf47607d906"
+    },
+    {
+      "name": "Immune_stage_facets.pdf",
+      "bytes": 102883,
+      "sha256": "2ed613f9a858a98f6bdf88905fc29f16305f45a44503f5352136edfbbcd492d5"
+    },
+    {
+      "name": "Immune_stage_facets.png",
+      "bytes": 375180,
+      "sha256": "d5cb19ffcaf48bcf3ccf24cbc9e2c396503ee7427659c2a5e712153fdd20826e"
+    },
+    {
+      "name": "Immune_stage_labeled.pdf",
+      "bytes": 83825,
+      "sha256": "5e71a84d2f36c40aab87293cd7730c3667d8b3fc00835520e64d30b28a435d9a"
+    },
+    {
+      "name": "Immune_stage_labeled.png",
+      "bytes": 536033,
+      "sha256": "6d09f1d395aa83aab5debddb88fd61b5d4b1836310be984ecb9a687094cfbc27"
     },
     {
       "name": "Immune_subclusters_labeled.pdf",
-      "bytes": 57740,
-      "sha256": "7f5c4276d6942bcceedb22dfcf9ed71725dac9cf2082ed3f6f4a21eb887cfb3f"
+      "bytes": 61500,
+      "sha256": "dbbf9104b7e16b7f491393b3e967a7f016c53a5625b78fb3b21bb4bcbe415bbc"
     },
     {
       "name": "Immune_subclusters_labeled.png",
-      "bytes": 453502,
-      "sha256": "89bd6b223a76663fc3a3273b410a60537dc3523d3c31c05e78ef17c4f55c3fc2"
+      "bytes": 435837,
+      "sha256": "9f02812d55fbab11f31a6bbf64b463103e8723fcc5afa31571e6d3666f50ee3e"
     },
     {
       "name": "Immune_subtypes_labeled.pdf",
-      "bytes": 57498,
-      "sha256": "f34fa97b5c392cc66562c6c6611f85437ef9408decaa2021675392b403530a7e"
+      "bytes": 60162,
+      "sha256": "987982c0104dab0c04cf524048558f0dd28ea57d649d4b5cc3f5ca3a3ac5ed8e"
     },
     {
       "name": "Immune_subtypes_labeled.png",
-      "bytes": 439769,
-      "sha256": "52fb4d99b62f00d69e0e7411f09b18c18edbf6da74e1838a063dffa29687dbb3"
+      "bytes": 420620,
+      "sha256": "be81583798153a28b24ce4c5512c7d7f6fc416641c805ce1f3c08dd0316bcc89"
+    },
+    {
+      "name": "Mural_stage_facets.pdf",
+      "bytes": 183866,
+      "sha256": "8307a9b3b4a35b3cd679cd6d189f04a24fa86cf17fb9e9e350fd33c2fe4453f8"
+    },
+    {
+      "name": "Mural_stage_facets.png",
+      "bytes": 667823,
+      "sha256": "cb8c74756b042fedafb4ea8a6db139b20aa25b325947ac114b9af7cfb0752bb4"
+    },
+    {
+      "name": "Mural_stage_labeled.pdf",
+      "bytes": 135903,
+      "sha256": "9efb35b7e3f225e7d393bd57d9282ac1bb30d8ebb0dcbaf72116b1930a75832b"
+    },
+    {
+      "name": "Mural_stage_labeled.png",
+      "bytes": 784111,
+      "sha256": "3fa624065a73ce2e2db297f44e0cf0095a3e9f52281a5a0c5e46d850f529bef6"
     },
     {
       "name": "Mural_subclusters_labeled.pdf",
-      "bytes": 90741,
-      "sha256": "387967305248209a4d351b839b3aa0491d47a23280f058fe66e174d6fc0e518d"
+      "bytes": 94912,
+      "sha256": "540bc23914a33c193201bc80d4134f67e129b27cdaeee41c2f53a1c22b038cb5"
     },
     {
       "name": "Mural_subclusters_labeled.png",
-      "bytes": 529153,
-      "sha256": "a0d9af64dcbac3daabd37a4c0475f086af8b9b1438381add9b0616fefef07ad4"
+      "bytes": 526564,
+      "sha256": "dacba23c83cea6c587f288a8535f8e0a1ff21f28677f390a1d013f971b8b6a32"
     },
     {
       "name": "Mural_subtypes_labeled.pdf",
-      "bytes": 89504,
-      "sha256": "0da112e09fe4890d60e963a4c832b53a81875163f2a321430d23cfceb9a36f69"
+      "bytes": 93801,
+      "sha256": "64fb55b6090399c79d0ebc7e8c3ed134686162f17296118255aa41d16a8c05af"
     },
     {
       "name": "Mural_subtypes_labeled.png",
-      "bytes": 515014,
-      "sha256": "e1578981d481380645c7a93cbb652fc76208be4fb97c5b1b98e83877fa8599c7"
+      "bytes": 511806,
+      "sha256": "c0f760c8d012eb21ff0e3b3931e7a642d5de8fa091673612cea51314ea544143"
+    },
+    {
+      "name": "README.md",
+      "bytes": 5626,
+      "sha256": "1cd165df67273537959a9279da7643d8f1880bd27a72b8c8804d2ed749caf41c"
     },
     {
       "name": "all_cell_types_labeled.pdf",
-      "bytes": 148758,
-      "sha256": "b433c3410137029964548d89d9524de54d4a2cc8b4da1abd8079dfdf1b65e7ef"
+      "bytes": 149672,
+      "sha256": "1a811e3992ccda38cfec72bf65ab49e57ca50af6001d459129bdc308bf46979e"
     },
     {
       "name": "all_cell_types_labeled.png",
-      "bytes": 987547,
-      "sha256": "603cd518c7903002fe0f65372c2eaa8a280390b12861b6e3e27d2150c656c9c4"
+      "bytes": 958214,
+      "sha256": "9151705fa5869eff42c8c561c268bd00722a2f4109d597064b92c5b5474bd754"
+    },
+    {
+      "name": "all_cell_types_stage_facets.pdf",
+      "bytes": 506565,
+      "sha256": "8307e5d5fc754cd9c0c4559e0598ff44c37e7017afe8e501df0d05815252816d"
+    },
+    {
+      "name": "all_cell_types_stage_facets.png",
+      "bytes": 1419383,
+      "sha256": "6d0f19c161cb01bb10ea835104bd7727e628aa49c3f34656f8e1de7aa9604a16"
+    },
+    {
+      "name": "all_cell_types_stage_labeled.pdf",
+      "bytes": 310313,
+      "sha256": "a6541c94b2fd33fb9d5eb2a9a4b422e2344367db785af7b0d1a2b58349fe5a88"
+    },
+    {
+      "name": "all_cell_types_stage_labeled.png",
+      "bytes": 1379697,
+      "sha256": "ffcb35e087da3523dbff96630ad31c430fda40b2d375e0cd6d05506326dfdb61"
     },
     {
       "name": "all_labeled_umaps.pdf",
-      "bytes": 1044329,
-      "sha256": "7d7b982fe03b71ec12096cd9fd5b1cae6c0082a73f101636264321af676d0645"
+      "bytes": 3417236,
+      "sha256": "9b685ba1e69c4c3c1dd489f16a76b5aa8e73e8a7c3556b13e054015ace8e6e5b"
+    },
+    {
+      "name": "displayed_nuclei_by_stage.tsv",
+      "bytes": 1792,
+      "sha256": "1e4ae2238298b10654beda360d1fe39ef6afedf7e55a06c2a914855c06b0f94b"
+    },
+    {
+      "name": "hidden_unresolved_assignments.csv.gz",
+      "bytes": 17553,
+      "sha256": "b85e5beaef127cd60b8057104acd36fea496267a5c809cb28e8d8815ad447dbe"
     }
   ]
 }

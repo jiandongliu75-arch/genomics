@@ -1,0 +1,57 @@
+view	identity	stage	displayed_nuclei
+All cell types	Cardiomyocyte	P0	11682
+All cell types	Cardiomyocyte	P14	11583
+All cell types	Cardiomyocyte	P21	10100
+All cell types	Cardiomyocyte	P7	13120
+All cell types	Endothelial	P0	1122
+All cell types	Endothelial	P14	1324
+All cell types	Endothelial	P21	1323
+All cell types	Endothelial	P7	697
+All cell types	Epicardial	P0	235
+All cell types	Epicardial	P14	187
+All cell types	Epicardial	P21	188
+All cell types	Epicardial	P7	87
+All cell types	Fibroblast	P0	2227
+All cell types	Fibroblast	P14	5396
+All cell types	Fibroblast	P21	4411
+All cell types	Fibroblast	P7	2951
+All cell types	Glial	P0	36
+All cell types	Glial	P14	61
+All cell types	Glial	P21	26
+All cell types	Glial	P7	34
+All cell types	Immune	P0	92
+All cell types	Immune	P14	406
+All cell types	Immune	P21	538
+All cell types	Immune	P7	206
+All cell types	Pericyte	P0	233
+All cell types	Pericyte	P14	1444
+All cell types	Pericyte	P21	1050
+All cell types	Pericyte	P7	487
+All cell types	Smooth muscle	P0	118
+All cell types	Smooth muscle	P14	248
+All cell types	Smooth muscle	P21	120
+All cell types	Smooth muscle	P7	104
+Cardiomyocyte	Cardiomyocyte	P0	11682
+Cardiomyocyte	Cardiomyocyte	P14	11583
+Cardiomyocyte	Cardiomyocyte	P21	10100
+Cardiomyocyte	Cardiomyocyte	P7	13120
+Fibroblast	Fibroblast	P0	2227
+Fibroblast	Fibroblast	P14	5396
+Fibroblast	Fibroblast	P21	4411
+Fibroblast	Fibroblast	P7	2951
+Endothelial	Endothelial	P0	1122
+Endothelial	Endothelial	P14	1324
+Endothelial	Endothelial	P21	1323
+Endothelial	Endothelial	P7	697
+Mural	Pericyte	P0	233
+Mural	Pericyte	P14	1444
+Mural	Pericyte	P21	1050
+Mural	Pericyte	P7	487
+Mural	Smooth muscle	P0	118
+Mural	Smooth muscle	P14	248
+Mural	Smooth muscle	P21	120
+Mural	Smooth muscle	P7	104
+Immune	Immune	P0	92
+Immune	Immune	P14	406
+Immune	Immune	P21	538
+Immune	Immune	P7	206
