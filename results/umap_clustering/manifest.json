@@ -1,0 +1,109 @@
+{
+  "input_h5ad_sha256": "2e962fb10c8f7de31cfb491729af51b5b048ba3eb2d9bccc510f04110ccb9934",
+  "nuclei": 73052,
+  "genes_in_input": 32285,
+  "clusters": 24,
+  "algorithm": {
+    "algorithm": "Leiden on expression-space kNN graph; not UMAP coordinates",
+    "primary_resolution": 0.8,
+    "sensitivity_resolutions": [
+      0.4,
+      0.8,
+      1.2
+    ],
+    "seed": 42,
+    "iterations": "until convergence",
+    "batch_integration": "none",
+    "expression_matrix": "Absent in this metadata-only object; use counts tables or original full H5AD",
+    "lineage_labels": "Earlier preliminary broad labels; not final biological identities"
+  },
+  "versions": {
+    "scanpy": "1.12.4",
+    "anndata": "0.13.4",
+    "numpy": "2.5.4",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2",
+    "igraph": "1.0.0",
+    "leidenalg": "0.12.0"
+  },
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 5028,
+      "sha256": "1085c64f64dface0111966ecafac8e7e8c7c556c2e942dfc0a03f0270e7e5a85"
+    },
+    {
+      "file": "cell_clusters_and_umap.csv.gz",
+      "bytes": 10303784,
+      "sha256": "ce144dcdfdd204e5855f3116f4dab5a2e5ca8f01e8b50d5b46847a81d033fb86"
+    },
+    {
+      "file": "cluster_counts_by_age.tsv",
+      "bytes": 417,
+      "sha256": "9e4920bd37e18d1fe2c1202dd69de73e3ddcb84df358ec3eec0d1f26ca51beb7"
+    },
+    {
+      "file": "cluster_counts_by_preliminary_lineage.tsv",
+      "bytes": 667,
+      "sha256": "a308e4b89640c3b377fa3f78a63f40ce0cec2ce0b065e31c0a2c078f42d8dd62"
+    },
+    {
+      "file": "cluster_counts_by_sample.tsv",
+      "bytes": 830,
+      "sha256": "3faee2268268e0261d11c3dccef38fbe4e767300247d165f5aa85609044de8b9"
+    },
+    {
+      "file": "cluster_pseudobulk_corrected_counts.tsv.gz",
+      "bytes": 2419820,
+      "sha256": "ae64c23380426c091fc08c940a7bc9bc8b77cd83ef21686779612a5d701c3435"
+    },
+    {
+      "file": "cluster_summary.tsv",
+      "bytes": 3291,
+      "sha256": "61158c417c12ed2b52991e7d39e6d3e41079f6e9846eb3b6e5c41b261bb4c5ca"
+    },
+    {
+      "file": "cluster_top_markers.tsv",
+      "bytes": 62577,
+      "sha256": "699514fe3ab7e9bd68faf3b0a91568f8727a42dc72b247d2b7dff1f99f100220"
+    },
+    {
+      "file": "clustering_resolution_comparison.pdf",
+      "bytes": 100104,
+      "sha256": "4af8e6e736f9529d6b652d06223830fe6fc880aa432316d55f7f9d9fdb56ec57"
+    },
+    {
+      "file": "clustering_resolution_comparison.png",
+      "bytes": 232156,
+      "sha256": "e96d327ede0306fbdd1722f8d29ec84848a808345da45af0cb8d52eab1d2b857"
+    },
+    {
+      "file": "lineage_marker_corrected_counts.csv.gz",
+      "bytes": 3979029,
+      "sha256": "a1ce9ebe2e0fb59ee44f10618f627b6cb7bfd5d9ba8c493c64c302f0f2a6ce4c"
+    },
+    {
+      "file": "requirements.txt",
+      "bytes": 123,
+      "sha256": "e8265fa2615976b09aafaaf76d05384a7b6d6c7a1f8f3fc269d5f16b33245205"
+    },
+    {
+      "file": "umap_clusters_metadata_only.h5ad",
+      "bytes": 38781825,
+      "sha256": "42d13925e4f12f5a96ac795d2e3763ebd15af9c6c178fbb6ef06b06039b7ac87"
+    },
+    {
+      "file": "umap_leiden_clusters.pdf",
+      "bytes": 182046,
+      "sha256": "42390b938b1842104d6b00872491dcf68611a874ae63782a403fd51c5e57e612"
+    },
+    {
+      "file": "umap_leiden_clusters.png",
+      "bytes": 530488,
+      "sha256": "11bd6c8a0ecec01ef5a61e65ec59d1003f5dd9e32b2685fa6c7ec96cb163ccd6"
+    }
+  ],
+  "script_sha256": "b58679165615e846619399abd35776a9c7809c981f16453de79c16516e6ad266",
+  "annotation_input_sha256": "27a1d02f53d31a6a9e5baed941265e686ca2c076822f91ed438f910b1b34e58d"
+}

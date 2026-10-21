@@ -1,0 +1,25 @@
+cluster	nuclei	dominant_preliminary_lineage	lineage_fraction	median_estimated_contamination	median_corrected_umis	top_descriptive_markers	small_cluster_flag	mixed_lineage_flag
+0	1152	Cardiomyocyte	1.0	0.1530383898090795	3495.947	Diaph3;Cenpp;Rad51b;Top2a;Knl1;Ect2;Atad2;Kif11;Mki67;Erbb4	False	False
+1	1815	Endothelial	1.0	0.0750727750194088	3756.355	Tmem108;St6galnac3;Cdh11;Nrxn3;Hmcn1;Cgnl1;Npr3;Cemip2;Elmo1;Chrm3	False	False
+2	9840	Cardiomyocyte	1.0	0.106541757115047	5366.832	Myh7;Trim55;Tnnt2;Sorbs2os;Rbm20;Tnni1;Ncam1;Xist;Lrrtm3;Myocd	False	False
+3	4701	Fibroblast	0.9746862369708572	0.0956313417464322	2269.2747	Gpc6;Meg3;Ebf1;Col3a1;Postn;Bicc1;Fbxl7;Fbn1;Pcdh9;Ebf2	False	False
+4	817	Fibroblast	0.9987760097919217	0.0836711629154747	3148.7888	Mecom;Trps1;Abi3bp;Foxp2;Kirrel3;Fbxl7;Col5a2;Postn;Tanc2;Bmper	False	False
+5	3036	Pericyte	0.9990118577075099	0.101155721017607	2777.6992	Gpc6;Ebf1;Plcl1;Trpc3;Gucy1a2;Abcc9;Myo1b;Pid1;Rgs5;Notch3	False	False
+6	697	Epicardial	1.0	0.0717963717301768	3609.428	Wdr17;Slit3;Plxna4;Gpm6a;Sulf1;Grip1;Rbfox1;Pkhd1l1;Muc16;Pcdh15	False	False
+7	1315	Cardiomyocyte	1.0	0.152880911444082	4673.5356	Rbfox1;Mpped2;Fgf14;Slit2;Fbn2;Sema3a;Rgs6;Rabgap1l;Rasgef1b;Slit3	False	False
+8	764	Cardiomyocyte	1.0	0.15275226882068849	4230.911	Fgf12;Ryr3;Lrrc4c;Arhgap31;Kcnj3;Slit3;Kcnh7;Tbx5;Grip1;Fras1	False	False
+9	590	Smooth muscle	0.9983050847457627	0.09544680850984075	2998.356	Kcnab1;Gpc6;Myh11;Dgkb;Sox5;Cald1;Ebf1;Notch3;Mrvi1;Kalrn	False	False
+10	3141	Endothelial	1.0	0.10834695341117	2553.0815	Cyyr1;Plcb1;Fli1;Etl4;Flt1;Dach1;Ptprb;Ldb2;Adgrl4;Elmo1	False	False
+11	1248	Immune	1.0	0.08050417960160605	2700.654	Slc9a9;F13a1;Pid1;Mrc1;Arhgap15;Mctp1;Runx1;Dock2;Elmo1;Ptprj	False	False
+12	103	Uncertain/mixed	1.0	0.144487089288748	1892.7856	Cenpf;Txnip;Mki67;H3f3b;Atp5a1;Tpr;Sox4;Cenpe;Slc25a4;Eif4g2	False	False
+13	617	Uncertain/mixed	0.9967585089141004	0.0875764519507463	3544.5308	Gpc6;Ebf1;Fbxl7;Tcf4;Tshz2;Mecom;Fli1;Meg3;Dach1;Elmo1	False	False
+14	7930	Fibroblast	0.9992433795712484	0.08064034041783955	3961.9805	Gpc6;Pcdh9;Abca8a;Kcnt2;Bicc1;Mecom;Ebf2;Ebf1;Sox5;Negr1	False	False
+15	157	Glial	1.0	0.069530869880082	2710.1658	Csmd1;Slc35f1;Nkain2;Cdh19;Stard13;Cadm2;Iqgap2;Scn7a;Gulp1;Deptor	False	False
+16	11967	Cardiomyocyte	1.0	0.0512365012197861	3192.4963	Rbm20;Fhod3;Ldb3;Actn2;Esrrg;Akap6;Mlip;Tnni3k;Tnnt2;Cdh2	False	False
+17	13	Cardiomyocyte	1.0	0.18060428308861	3821.8286	Rbm20;Ripor2;Fhod3;Mtss1;Gm30382;Nav2;Tnnt2;Ldb3;Mybpc3;Pde4b	True	False
+18	1237	Cardiomyocyte	1.0	0.122824311755882	5955.685	Fgf12;Kcnj3;Slit3;Pdzrn4;Tmem163;Fgf14;Chrm2;Rgs7;Tbx5;Erbb4	False	False
+19	1537	Fibroblast	1.0	0.072244034265264	4372.565	Ebf1;Pcsk6;Gpc6;Gfpt2;Ebf2;Kcnt2;Fbn1;Adamtsl3;Sox5;Sulf1	False	False
+20	5452	Cardiomyocyte	1.0	0.0614831952212548	8516.265	Tacc2;Rbm20;Xirp2;Kcnd2;Trdn;Pde4dip;Gm31251;Fhod3;Tnnt2;Fgfr2	False	False
+21	9211	Cardiomyocyte	1.0	0.0682536539980009	8380.651	Kcnd2;Rbm20;Thrb;Tacc2;Mhrt;Gm31251;Tnnt2;Pde4dip;Fhod3;D830005E20Rik	False	False
+22	5534	Cardiomyocyte	1.0	0.08173592016882844	8898.191	Fgf14;Magi2;Kcnd2;Thrb;Rbm20;Corin;Mhrt;Gm31251;Rhobtb1;Pdzrn4	False	False
+23	178	Uncertain/mixed	0.9943820224719101	0.0603394259957912	5679.978	Gpc6;Ebf1;Plcl1;Ebf2;Sox5;Pcdh9;Pid1;Gucy1a2;Abca8a;Plxdc2	False	False
