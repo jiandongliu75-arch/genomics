@@ -2,6 +2,8 @@
 
 Independent QC and exploratory clustering of the mouse-heart dataset [GSE290989](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE290989), covering P0, P7, P14 and P21 with two libraries per age.
 
+- [Reviewed cell identities, subtype criteria and lineage-specific UMAPs](results/cell_identities_subtypes/README.md)
+- [Cell identity and subtype report (PDF)](results/cell_identities_subtypes/cell_identity_subtype_report.pdf)
 - [UMAP figures, cluster assignments and downloadable analysis tables](results/umap_clustering/README.md)
 - [QC report (PDF)](snRNA_QC_report.pdf)
 - [Preliminary lineage profiles (PDF)](heart_lineage_profiles.pdf)
@@ -12,3 +14,7 @@ Independent QC and exploratory clustering of the mouse-heart dataset [GSE290989]
 73,052 of 98,371 input nuclei passed independent QC, doublet screening and ambient correction. The primary Leiden resolution of 0.8 yields 24 computational clusters; resolutions 0.4 and 1.2 yield 15 and 29 clusters. The UMAP is not batch-integrated, and cluster IDs are not final biological subtype annotations.
 
 The repository includes per-nucleus UMAP coordinates and metadata, a metadata-only H5AD, lineage-marker expression, and cluster-level pseudobulk counts for all 32,285 input genes. The full 1.2 GB cell-by-gene expression H5AD is prepared in the analysis workspace but has not been uploaded: GitHub Release asset uploads require access to `uploads.github.com`.
+
+## Identity and subtype annotation
+
+The updated analysis reviews broad identities for all retained nuclei and evaluates 59 computational subclusters within cardiomyocytes, fibroblasts, endothelial, mural and immune populations. Subtype labels have explicit positive-marker/anchor criteria, exclusion checks, library-support requirements and candidate/unresolved flags. Numerical subclusters are not asserted to be 59 biological cell types. See the identity report for the distinction between chamber/lineage identity, marker-defined state, age association and cycling.

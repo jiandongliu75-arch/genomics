@@ -1,0 +1,13 @@
+{
+  "status": "prepared; release upload pending",
+  "file": "snrna_qc_annotated_subclustered.h5ad",
+  "bytes": 1306045352,
+  "sha256": "3d0010d55bb05d1a5730830dba3b7918c54aa66b6d473e7fa3a0356a4d69fb28",
+  "dimensions": [
+    73052,
+    32285
+  ],
+  "counts": "Corrected fractional X plus original integer counts_raw layer",
+  "annotations": "Reviewed identities, 59 within-lineage subclusters, proposed subtypes, evidence status, cycling and marker-state flags",
+  "planned_tag": "snrna-annotations-v1"
+}

@@ -1,0 +1,25 @@
+global_cluster	nuclei	reviewed_identity	identity_status	positive_markers	top_score	runner_up_identity	score_margin	previous_identity
+0	1152	Cardiomyocyte	multi-marker supported	Tnnt2;Rbm20;Fhod3;Actn2;Mybpc3;Ttn	0.4537632763385772	no other marker-supported lineage		Cardiomyocyte
+1	1815	Endothelial	multi-marker supported	Cdh5;Pecam1;Ptprb;Kdr;Flt1;Tie1	1.8729304075241089	no other marker-supported lineage		Endothelial
+10	3141	Endothelial	multi-marker supported	Cdh5;Pecam1;Ptprb;Kdr;Flt1;Esam;Tie1	2.8658721446990967	Cardiomyocyte	3.949130773544312	Endothelial
+11	1248	Immune	multi-marker supported	Ptprc;Csf1r;Lyz2	2.816047430038452	Cardiomyocyte	3.852794289588928	Immune
+12	103	Unresolved/mixed	unresolved	Tnnt2;Rbm20;Fhod3;Actn2;Mybpc3;Ttn	-0.4999008178710937	no other marker-supported lineage		Uncertain/mixed
+13	617	Endothelial	multi-marker supported	Cdh5;Pecam1;Ptprb;Kdr;Flt1;Tie1	1.5883651971817017	Pericyte	0.8676463961601257	Uncertain/mixed
+14	7930	Fibroblast	multi-marker supported	Pdgfra;Dcn;Col1a1;Col1a2;Col3a1	1.343082308769226	no other marker-supported lineage		Fibroblast
+15	157	Glial	candidate: limited markers	Plp1;Sox10	2.6868607997894287	Fibroblast	2.462462231516838	Glial
+16	11967	Cardiomyocyte	multi-marker supported	Tnnt2;Rbm20;Fhod3;Actn2;Mybpc3;Ttn	0.7529184222221375	no other marker-supported lineage		Cardiomyocyte
+17	13	Cardiomyocyte	multi-marker supported	Tnnt2;Rbm20;Fhod3;Actn2;Mybpc3;Ttn	0.8747498393058777	no other marker-supported lineage		Cardiomyocyte
+18	1237	Cardiomyocyte	multi-marker supported	Tnnt2;Rbm20;Fhod3;Actn2;Mybpc3;Ttn	0.4605657160282135	no other marker-supported lineage		Cardiomyocyte
+19	1537	Fibroblast	multi-marker supported	Pdgfra;Dcn;Col1a1;Col1a2;Col3a1	1.2090798616409302	no other marker-supported lineage		Fibroblast
+2	9840	Cardiomyocyte	multi-marker supported	Tnnt2;Rbm20;Fhod3;Actn2;Mybpc3;Ttn	0.6156193614006042	no other marker-supported lineage		Cardiomyocyte
+20	5452	Cardiomyocyte	multi-marker supported	Tnnt2;Rbm20;Fhod3;Actn2;Mybpc3;Ttn	0.7824828624725342	no other marker-supported lineage		Cardiomyocyte
+21	9211	Cardiomyocyte	multi-marker supported	Tnnt2;Rbm20;Fhod3;Actn2;Mybpc3;Ttn	0.753167450428009	no other marker-supported lineage		Cardiomyocyte
+22	5534	Cardiomyocyte	multi-marker supported	Tnnt2;Rbm20;Fhod3;Actn2;Mybpc3;Ttn	0.6978702545166016	no other marker-supported lineage		Cardiomyocyte
+23	178	Pericyte	multi-marker supported	Pdgfrb;Rgs5;Abcc9;Kcnj8;Cspg4;Notch3	2.1503915786743164	Fibroblast	1.218699276447296	Uncertain/mixed
+3	4701	Fibroblast	multi-marker supported	Pdgfra;Dcn;Col1a1;Col1a2;Col3a1	1.3353571891784668	Pericyte	1.3387787241954356	Fibroblast
+4	817	Fibroblast	multi-marker supported	Pdgfra;Dcn;Col1a1;Col1a2;Col3a1	0.9174469113349916	Pericyte	0.9325238419696688	Fibroblast
+5	3036	Pericyte	multi-marker supported	Pdgfrb;Rgs5;Abcc9;Kcnj8;Cspg4;Notch3	2.978393316268921	no other marker-supported lineage		Pericyte
+6	697	Epicardial	multi-marker supported	Wt1;Upk3b;Msln;Tbx18	4.948260307312012	Fibroblast	4.378744542598724	Epicardial
+7	1315	Cardiomyocyte	multi-marker supported	Tnnt2;Rbm20;Fhod3;Actn2;Mybpc3;Ttn	0.436748743057251	no other marker-supported lineage		Cardiomyocyte
+8	764	Cardiomyocyte	multi-marker supported	Tnnt2;Rbm20;Fhod3;Actn2;Mybpc3;Ttn	0.3675449788570404	no other marker-supported lineage		Cardiomyocyte
+9	590	Smooth muscle	multi-marker supported	Myh11;Acta2;Tagln;Lmod1	4.820755481719971	Pericyte	3.72105884552002	Smooth muscle

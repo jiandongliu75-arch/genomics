@@ -1,0 +1,24 @@
+parent	proposed_identity	positive_panel	required_anchors	min_anchors	exclusion_checks	interpretation_limit
+Cardiomyocyte	Atrial-like	Myl4;Myl7;Kcnj3;Sln;Nr2f2;Tbx5	Myl4;Kcnj3;Sln;Nr2f2	2	Myl2;Hey2;Irx4	Requires multiple atrial markers; Myl7 or Nppa alone is insufficient in immature ventricles.
+Cardiomyocyte	Ventricular-like	Myl2;Myl3;Hey2;Irx4;Fhl2	Myl2;Hey2;Irx4	1	Sln;Kcnj3;Nr2f2	Chamber-like RNA identity; does not establish compact/trabecular location.
+Cardiomyocyte	Nodal-like candidate	Hcn4;Tbx3;Shox2;Isl1;Tbx18	Hcn4;Tbx3;Shox2	2	Myl2;Irx4	Requires multi-marker support; anatomical sinoatrial/atrioventricular localization unconfirmed.
+Cardiomyocyte	Conduction-associated CM candidate	Cntn2;Etv1;Gja5;Scn5a;Irx3	Cntn2;Etv1;Gja5	2	Pecam1;Cdh5	Etv1/Gja5 or Cntn2/Etv1 with CM identity supports a conduction-associated candidate. Purkinje anatomy is not assigned; Cntn2 support and spatial/functional confirmation are needed for greater specificity.
+Cardiomyocyte	AV-like candidate	Tbx2;Tbx3;Bmp2;Msx2;Rspo3	Tbx2;Bmp2;Msx2	2	Pdgfra;Pecam1	Candidate developmental phenotype only; spatial confirmation required.
+Fibroblast	Postn-associated remodeling	Postn;Tnc;Fn1;Col1a1;Col3a1;Lox	Postn;Tnc;Lox	1	Myh11;Cdh5;Ptprc	A developmental ECM state, not a diagnosis of pathological activation/fibrosis.
+Fibroblast	Gfpt2-enriched	Gfpt2;Pcsk6;Ebf1;Adamtsl3;Fbn1	Gfpt2	1	Rgs5;Myh11;Pecam1	Marker-defined fibroblast state; anatomical niche unconfirmed.
+Fibroblast	Kirrel3-enriched	Kirrel3;Bmper;Trps1;Abi3bp;Col5a2	Kirrel3	1	Pecam1;Myh11;Tnnt2	Do not equate this RNA-defined state with valve fibroblasts without spatial evidence.
+Fibroblast	Col8a1-enriched	Col8a1;Col8a2;Cthrc1;Thbs2;Comp	Col8a1	1	Cdh5;Myh11	Marker-defined matrix program, not disease-specific fibrosis.
+Fibroblast	Pi16/Dpt interstitial-like	Pi16;Dpt;Col14a1;Cd34;Col15a1	Pi16;Dpt	1	Pecam1;Myh11;Ptprc	Interstitial-like transcriptional state; adventitial location not established.
+Fibroblast	Lsamp-enriched candidate	Lsamp;Dpt;Col15a1;Fbn1	Lsamp	1	Sox10;Snap25;Pecam1	Single-anchor marker state requiring confirmed fibroblast identity; provisional.
+Endothelial	Endocardial-like	Npr3;Nfatc1;Nrxn3;Cdh11;Alcam	Npr3;Nfatc1;Nrxn3	2	Pdgfra;Myh11	Consistent with the authors' Nrxn3-enriched endocardial ECs; location remains unconfirmed.
+Endothelial	Capillary-like	Rgcc;Emcn;Car4;Cd36;Gpihbp1;Fabp4;Dach1	Rgcc;Emcn;Car4;Gpihbp1	2	Npr3;Nfatc1;Ackr1	Capillary program can include age-associated metabolic states.
+Endothelial	Arterial-like	Gja5;Efnb2;Sox17;Bmx;Hey1;Dll4	Gja5;Efnb2;Sox17;Bmx	2	Nr2f2;Ackr1;Npr3	Cannot distinguish arteriole anatomy from arterial-like RNA alone.
+Endothelial	Venous/venular-like	Nr2f2;Ephb4;Slc38a5;Ackr1;Vwf	Nr2f2;Ephb4;Ackr1	2	Gja5;Sox17;Prox1	Requires multiple venous anchors; Vwf alone is insufficient.
+Endothelial	Lymphatic-like candidate	Prox1;Flt4;Lyve1;Pdpn;Ccl21a;Nrp2	Prox1;Flt4	2	Csf1r;Adgre1;Ptprc	Lyve1 alone can label macrophages; endothelial parent identity and Prox1/Flt4 required.
+Immune	Macrophage-like	Csf1r;Adgre1;Mertk;Mrc1;F13a1;C1qa	Csf1r;Adgre1;Mertk;C1qa	2	Cd3d;Cd79a	Resident-like versus recruited origin cannot be established by these RNA markers alone.
+Immune	Monocyte-like	Ccr2;Ly6c2;Lyz2;S100a8;S100a9	Ccr2;Ly6c2;S100a8;S100a9	2	Cd3d;Ms4a1	Requires multiple monocyte/inflammatory markers.
+Immune	T-cell-like	Cd3d;Cd3e;Trbc1;Trbc2;Bcl11b	Cd3d;Cd3e;Trbc1;Trbc2	2	Csf1r;Cd79a	Broad T-cell phenotype; no TCR repertoire evidence.
+Immune	B-cell-like	Cd79a;Cd79b;Ms4a1;Pax5;Cd19	Cd79a;Cd79b;Ms4a1	2	Cd3d;Csf1r	Broad B-cell phenotype.
+Immune	NK-like	Nkg7;Ncr1;Klrd1;Prf1	Ncr1;Klrd1;Nkg7	2	Cd3d;Cd3e	Needs separation from cytotoxic T cells.
+Mural	Pericyte-like	Pdgfrb;Rgs5;Abcc9;Kcnj8;Cspg4;Notch3	Rgs5;Abcc9;Kcnj8;Cspg4	2	Myh11;Lmod1;Cdh5	Mural continuum; vessel position unconfirmed.
+Mural	Smooth-muscle-like	Myh11;Acta2;Tagln;Cnn1;Lmod1	Myh11;Cnn1;Lmod1	2	Cdh5;Pdgfra	Acta2 alone also labels myofibroblast-like states; multi-marker contractile program required.

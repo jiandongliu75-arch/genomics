@@ -1,0 +1,456 @@
+{
+  "status": "validated after conservative nomenclature review",
+  "nuclei": 73052,
+  "subclusters": 59,
+  "confidence_counts": {
+    "candidate/review": 42499,
+    "provisional-supported": 28483,
+    "unresolved": 1113,
+    "broad identity only": 957
+  },
+  "broad_identity_counts": {
+    "Cardiomyocyte": 46485,
+    "Fibroblast": 14985,
+    "Endothelial": 5573,
+    "Pericyte": 3214,
+    "Immune": 1248,
+    "Epicardial": 697,
+    "Smooth muscle": 590,
+    "Glial": 157,
+    "Unresolved/mixed": 103
+  },
+  "parameters": {
+    "primary_resolution": 0.6,
+    "comparison_resolutions": [
+      0.3,
+      0.6,
+      1.0
+    ],
+    "hvg": 2000,
+    "pca": 30,
+    "neighbors": 15,
+    "seed": 42,
+    "integration": "none"
+  },
+  "input_sha256": "2e962fb10c8f7de31cfb491729af51b5b048ba3eb2d9bccc510f04110ccb9934",
+  "criteria_sha256": "25524801fa59e018d3f7d3f1248d918c0d937e4497ab486a36b1b686be7d29e6",
+  "versions": {
+    "scanpy": "1.12.4",
+    "anndata": "0.13.4",
+    "numpy": "2.5.4",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2",
+    "igraph": "1.0.0",
+    "leidenalg": "0.12.0"
+  },
+  "files": [
+    {
+      "file": "Cardiomyocyte/cell_subcluster_annotations.csv.gz",
+      "bytes": 7401971,
+      "sha256": "e47fc3bcabff0061f4ca78750fc18310b991c225ed48a43d23abb729fc5bf9c0"
+    },
+    {
+      "file": "Cardiomyocyte/subcluster_by_age.tsv",
+      "bytes": 226,
+      "sha256": "506c827154380d7e88db0a842e51700ca941e44c42e5d82bc518bfb3e0421bb8"
+    },
+    {
+      "file": "Cardiomyocyte/subcluster_by_cycling_state.tsv",
+      "bytes": 206,
+      "sha256": "50c4824111a2f5c5599a6ae6bc00547ce0eeb7d689c6fd0a46b16aa98c47e9a4"
+    },
+    {
+      "file": "Cardiomyocyte/subcluster_by_proposed_subtype.tsv",
+      "bytes": 243,
+      "sha256": "66fa569e2849a272e3ff23f78d22d7629441ad6e5eba856e67794d4224a1769a"
+    },
+    {
+      "file": "Cardiomyocyte/subcluster_by_sample.tsv",
+      "bytes": 463,
+      "sha256": "c7c5a9115bc5532f5903829a7dae7a7df5848951db15c7ec9f78f9cd4c900b3a"
+    },
+    {
+      "file": "Cardiomyocyte/subcluster_pseudobulk_corrected_counts.tsv.gz",
+      "bytes": 1335105,
+      "sha256": "560e523c2111538b46ad58007afb39177995ef85add745dce3716b5b7836eac3"
+    },
+    {
+      "file": "Cardiomyocyte/subcluster_umap.pdf",
+      "bytes": 76180,
+      "sha256": "75827178f0a64c7beba4b116da2053f1e9a0e2712c4d6bc9b67c05ae1bcbd4b4"
+    },
+    {
+      "file": "Cardiomyocyte/subcluster_umap.png",
+      "bytes": 258791,
+      "sha256": "9083a7f0e725b98ada5d6910bb844c6b3b9c136e22c62824e62b390e8267e8de"
+    },
+    {
+      "file": "Cardiomyocyte/subclusters_metadata_only.h5ad",
+      "bytes": 46265020,
+      "sha256": "253353d8ce76318c14ec78891d6a581f02b978013a17cf6482f07fa62fbc18fe"
+    },
+    {
+      "file": "Cardiomyocyte/subtype_marker_dotplot.pdf",
+      "bytes": 81724,
+      "sha256": "48b8d5e1906da3521a1f440a31621846149def7a1c38d052907ce56820cb35f9"
+    },
+    {
+      "file": "Cardiomyocyte/subtype_marker_dotplot.png",
+      "bytes": 150702,
+      "sha256": "f25837acf83aa40e1621fb0028f3a713c686f6f96ee3a9c07908078fb46938cf"
+    },
+    {
+      "file": "Endothelial/cell_subcluster_annotations.csv.gz",
+      "bytes": 904301,
+      "sha256": "62278950674f62d70ac8e93a96da12f0eeb725e72d7ba12fbf58a68153ad3a09"
+    },
+    {
+      "file": "Endothelial/subcluster_by_age.tsv",
+      "bytes": 298,
+      "sha256": "dd630c6e58bbd7e82cbc10ffcee5248c9c53afceaa6fa8f05d2c9368fd2968f1"
+    },
+    {
+      "file": "Endothelial/subcluster_by_cycling_state.tsv",
+      "bytes": 246,
+      "sha256": "2f5695cfd3053c718626e79155f2b3c33697956dea1a7f560d8c284a0808d1c3"
+    },
+    {
+      "file": "Endothelial/subcluster_by_proposed_subtype.tsv",
+      "bytes": 432,
+      "sha256": "4aa9c732607cbd63b61b8a1310391c4fa4f42eb5d4bc6d18f359972f3bbfbfa0"
+    },
+    {
+      "file": "Endothelial/subcluster_by_sample.tsv",
+      "bytes": 566,
+      "sha256": "18083beb022e57fd5459771df56817ed8ba3f3b141a489b96da53c52dc4645b5"
+    },
+    {
+      "file": "Endothelial/subcluster_pseudobulk_corrected_counts.tsv.gz",
+      "bytes": 1430984,
+      "sha256": "ed0f36799c4f58c81fcb20f9e9df6a8d63e83f8873f55361b7a7f3c1e81751ac"
+    },
+    {
+      "file": "Endothelial/subcluster_umap.pdf",
+      "bytes": 134806,
+      "sha256": "74a662d2da248cf0db0ed8eba01e8692dab05f8e0ddfde7c5377d85fc5a5ea5d"
+    },
+    {
+      "file": "Endothelial/subcluster_umap.png",
+      "bytes": 509078,
+      "sha256": "85165d210e9fa06d153540bdaeca1d73bc427fe87bb68152b170e0c604d0ff87"
+    },
+    {
+      "file": "Endothelial/subclusters_metadata_only.h5ad",
+      "bytes": 14505750,
+      "sha256": "f01d113c733e3f022d7c63669a2ed2f8a6bdaa80901b9fed603ae5f2431f76bb"
+    },
+    {
+      "file": "Endothelial/subtype_marker_dotplot.pdf",
+      "bytes": 83875,
+      "sha256": "65ed9607f82033ef9b889ea8fa511567b81a152c49f78b110091d23b3dae6b3c"
+    },
+    {
+      "file": "Endothelial/subtype_marker_dotplot.png",
+      "bytes": 152388,
+      "sha256": "04df1a7437f7503b2f24d548271e34babd73078508e2ee492f94b72d4527be7f"
+    },
+    {
+      "file": "Fibroblast/cell_subcluster_annotations.csv.gz",
+      "bytes": 2370743,
+      "sha256": "c927d97029e24fd8a9cf64e21646525946fbc7dc8dd5b26ddf68a02d8a06963b"
+    },
+    {
+      "file": "Fibroblast/subcluster_by_age.tsv",
+      "bytes": 231,
+      "sha256": "4cd88819b87a69f1b071e608c32aa3037d719de10e2a5dbd573fb234f5c0e387"
+    },
+    {
+      "file": "Fibroblast/subcluster_by_cycling_state.tsv",
+      "bytes": 201,
+      "sha256": "5b21269fc312662c87a308b1de04541327a5cc6d8d0129e448ea2c316fabb1d9"
+    },
+    {
+      "file": "Fibroblast/subcluster_by_proposed_subtype.tsv",
+      "bytes": 282,
+      "sha256": "212c42d704ea8e4839cf79f7fa70932ab2c2e3f8a7c962f48ae04777c36939a2"
+    },
+    {
+      "file": "Fibroblast/subcluster_by_sample.tsv",
+      "bytes": 467,
+      "sha256": "b9129e1ebf9df499a49e26646f716ae891038d2d9f13353473a9235342a5a69b"
+    },
+    {
+      "file": "Fibroblast/subcluster_pseudobulk_corrected_counts.tsv.gz",
+      "bytes": 1259402,
+      "sha256": "9e1958c5289852101e7d0a50d815f23516258a8567a3c91e4b8a982d14628443"
+    },
+    {
+      "file": "Fibroblast/subcluster_umap.pdf",
+      "bytes": 196168,
+      "sha256": "dcd97aec9cf923b2ebdfbadeb1a2f5e03ac6de169e90001ccaa8ea39a005b7a4"
+    },
+    {
+      "file": "Fibroblast/subcluster_umap.png",
+      "bytes": 726547,
+      "sha256": "6c3de6c62d2d27225033a22be2344fae2383a65bfec08929232281bf0447c4b4"
+    },
+    {
+      "file": "Fibroblast/subclusters_metadata_only.h5ad",
+      "bytes": 21975364,
+      "sha256": "8ab2deb52b84ce428cd0dad2ccbdeea37e5476316e9aa7d8b22d96b7452841b8"
+    },
+    {
+      "file": "Fibroblast/subtype_marker_dotplot.pdf",
+      "bytes": 74122,
+      "sha256": "312672dc6b92c919dd442ffc364e2f914c5856cfd4c18dc791ce88ad8cd080da"
+    },
+    {
+      "file": "Fibroblast/subtype_marker_dotplot.png",
+      "bytes": 146072,
+      "sha256": "137b8278765b1d1a4e25b74db6f2f562863358f43e0dea2463f2ed08bb577478"
+    },
+    {
+      "file": "Immune/cell_subcluster_annotations.csv.gz",
+      "bytes": 199636,
+      "sha256": "b5f39572d4e8d7c6e6611bece70a8bf69e92675eca49f3ecfe7f29985ac37f22"
+    },
+    {
+      "file": "Immune/subcluster_by_age.tsv",
+      "bytes": 225,
+      "sha256": "c8e0dd1f9384d3cdf5a28939aba872393c84f52ee894f4fe91c2e5fe68068a65"
+    },
+    {
+      "file": "Immune/subcluster_by_cycling_state.tsv",
+      "bytes": 199,
+      "sha256": "9e2941165e3638d3f78bbcbb71902ea51cbe71407a62f2e35ea7df2814e86f90"
+    },
+    {
+      "file": "Immune/subcluster_by_proposed_subtype.tsv",
+      "bytes": 257,
+      "sha256": "e907a0950d39b3755d2c90aed05040a2ff93240d2d9dcec367fcecc982283d0b"
+    },
+    {
+      "file": "Immune/subcluster_by_sample.tsv",
+      "bytes": 446,
+      "sha256": "908032b07fb2b34218597e590fd9e11ff28d6653cba22088fef8604ff3cdcc27"
+    },
+    {
+      "file": "Immune/subcluster_pseudobulk_corrected_counts.tsv.gz",
+      "bytes": 1043320,
+      "sha256": "1acd968af92c3aff0f897198fd62b9ad897984cf3c555c0bd04ffb82e1c5fb04"
+    },
+    {
+      "file": "Immune/subcluster_umap.pdf",
+      "bytes": 69901,
+      "sha256": "a0cea47d02d6ac801f4045b11667e5f1e8d4bb2341dd333b63a72497a2406309"
+    },
+    {
+      "file": "Immune/subcluster_umap.png",
+      "bytes": 265250,
+      "sha256": "00d3a55c0fdafb61cad91ca0df47534795d7c6535c5d2bdebe4e6161f929401f"
+    },
+    {
+      "file": "Immune/subclusters_metadata_only.h5ad",
+      "bytes": 11167509,
+      "sha256": "e35c765ec4ff951ca2fb2a875959399b83efbe3ce85574c0f3184827e525c814"
+    },
+    {
+      "file": "Immune/subtype_marker_dotplot.pdf",
+      "bytes": 43182,
+      "sha256": "76d9b4e5011b1def29e30679024d7b5cf1551024e69bfa26eb49f9dd45a072d5"
+    },
+    {
+      "file": "Immune/subtype_marker_dotplot.png",
+      "bytes": 89826,
+      "sha256": "31e18ef27fe0ebbefcf9eaf04d6bf612f82fa951a99b2c66db9ae4ad2d24e838"
+    },
+    {
+      "file": "Mural/cell_subcluster_annotations.csv.gz",
+      "bytes": 591394,
+      "sha256": "f77a6416b993d3f8aeb19f603f989c1a2e6499259a7880f049e7314e9ad99262"
+    },
+    {
+      "file": "Mural/subcluster_by_age.tsv",
+      "bytes": 201,
+      "sha256": "8495d6c937db4a4543c16a876af99912555b9d18aa6ba68198b3a344ff29431c"
+    },
+    {
+      "file": "Mural/subcluster_by_cycling_state.tsv",
+      "bytes": 181,
+      "sha256": "a895cee415ce5407cf38b0bf0c30ebb842fa8c6d48725df1d5a07a166b78f608"
+    },
+    {
+      "file": "Mural/subcluster_by_proposed_subtype.tsv",
+      "bytes": 167,
+      "sha256": "68ab78223b4542fdc6c60738e9a3f4439b08c918f8756db085919b9763d206dc"
+    },
+    {
+      "file": "Mural/subcluster_by_sample.tsv",
+      "bytes": 416,
+      "sha256": "7cf84335af0c826ae62f33fe4e6434756bd93a64d29213d7c9dcd5f84d911301"
+    },
+    {
+      "file": "Mural/subcluster_pseudobulk_corrected_counts.tsv.gz",
+      "bytes": 1039330,
+      "sha256": "9b1d354fe03839025b81e25fa711b1003ee7cdcd243c56081836662fe4f47dfe"
+    },
+    {
+      "file": "Mural/subcluster_umap.pdf",
+      "bytes": 106825,
+      "sha256": "1e2f7bd77b5318d50c259468852d99ea373d4da87d00a76faee678f5f9e6125a"
+    },
+    {
+      "file": "Mural/subcluster_umap.png",
+      "bytes": 459306,
+      "sha256": "61aacb70c7d35768a86c66a74710e30838fe8b2f8eb1c9be69c1221ded258590"
+    },
+    {
+      "file": "Mural/subclusters_metadata_only.h5ad",
+      "bytes": 13126667,
+      "sha256": "1305c8d6c8268879286a2d267c36bd7882f340e906288c2bdcb89a1bd71e84cf"
+    },
+    {
+      "file": "Mural/subtype_marker_dotplot.pdf",
+      "bytes": 38395,
+      "sha256": "76a1a8cd09bd57203929150a07905e6a78c4d3c0c8c785906b81584462190478"
+    },
+    {
+      "file": "Mural/subtype_marker_dotplot.png",
+      "bytes": 83802,
+      "sha256": "8b68c21a0be57c98c5c5af99a8b374a444b16226f3542c352b7f04872eef5dd3"
+    },
+    {
+      "file": "README.md",
+      "bytes": 12931,
+      "sha256": "0080f4a51112c9a04b05693bd20066ce1a0c0745dfff0b7daafd706a3be24696"
+    },
+    {
+      "file": "all_cell_annotations_metadata_only.h5ad",
+      "bytes": 42378334,
+      "sha256": "20dc8de18bda1104b72b278938fe0a3537bfb2d7055c320c3703ab29c475a80b"
+    },
+    {
+      "file": "all_cell_identity_and_subtype_annotations.csv.gz",
+      "bytes": 11995815,
+      "sha256": "6b298fcb8768014be0fde6bf7cf84069e154020935d6382b0214c412abe40eb4"
+    },
+    {
+      "file": "broad_marker_evidence.tsv",
+      "bytes": 70962,
+      "sha256": "d03b95c195227fd6cfc6b8f9ab44c6c09239d0157cd4074da36170a36c464185"
+    },
+    {
+      "file": "candidate_panel_comparisons.tsv",
+      "bytes": 53559,
+      "sha256": "d0771fc8eaf0c70fb69a5463c5d29d8b9b462284bd223d4ba7f0d3fdfb13dced"
+    },
+    {
+      "file": "cell_identity_subtype_report.pdf",
+      "bytes": 2307458,
+      "sha256": "b4e78083125133afb218c4147fba8095961062b073cdf51262f0f6f74713e4a9"
+    },
+    {
+      "file": "curated_marker_log1p_10k.csv.gz",
+      "bytes": 9983072,
+      "sha256": "1d89e9d6e0b58a1a220a64c933d8141187b39be8a893cfa0c4634cd03ea2cbb7"
+    },
+    {
+      "file": "full_dataset_release.json",
+      "bytes": 504,
+      "sha256": "ef2b7210d918bdbed11d49f27527fccd14bf120b8818a3e6cc33553613de15af"
+    },
+    {
+      "file": "missing_panel_genes.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "file": "proposed_subtype_counts_by_sample.tsv",
+      "bytes": 1160,
+      "sha256": "9a0ca2e0010e2e119e1e56d674240e765b4364469d9533604098537e36b159df"
+    },
+    {
+      "file": "requirements.txt",
+      "bytes": 123,
+      "sha256": "e8265fa2615976b09aafaaf76d05384a7b6d6c7a1f8f3fc269d5f16b33245205"
+    },
+    {
+      "file": "resolution_cluster_counts.tsv",
+      "bytes": 366,
+      "sha256": "f83f1aac239a3eea6b48a655cfe955a952af8c3bc6245e8c7fd373ea795406c8"
+    },
+    {
+      "file": "reviewed_broad_identities.tsv",
+      "bytes": 3443,
+      "sha256": "5413a08e39f7e2db637f071468e307aca0f236f6501c4e0fe28466ad31bcc737"
+    },
+    {
+      "file": "reviewed_identities_and_confidence.pdf",
+      "bytes": 96883,
+      "sha256": "c77f26b0df66e0660621e15ff1ec2b4c13ca71ab0ebaedf589358d8998fd07a3"
+    },
+    {
+      "file": "reviewed_identities_and_confidence.png",
+      "bytes": 400438,
+      "sha256": "d74938d953ef83799d725a971b09b8d90814797d16367672a2fd14c026c935dd"
+    },
+    {
+      "file": "reviewed_identity_counts_by_sample.tsv",
+      "bytes": 520,
+      "sha256": "cd4faa249b3989adf17f36a54526fed419d7da32684405a97f2bc22558f116d5"
+    },
+    {
+      "file": "subcluster_descriptive_markers.tsv",
+      "bytes": 219931,
+      "sha256": "ec2b645d081f4a73935bfcc9f7ed406b38dbcc030d72a74a48be1fd869585ae9"
+    },
+    {
+      "file": "subcluster_identity_evidence.tsv",
+      "bytes": 20207,
+      "sha256": "cdb4e7cd288ff2824a7cb3935448f9e7a157e61e9f36bd06bd590da74ae95e96"
+    },
+    {
+      "file": "subtype_confidence_counts_by_sample.tsv",
+      "bytes": 356,
+      "sha256": "9dc37097b32504443729fa9be12ba0964bc17596d45e7037fe0555f2761faa1e"
+    },
+    {
+      "file": "subtype_counts_and_confidence.tsv",
+      "bytes": 1529,
+      "sha256": "62cd985b6a5164beaa60398a54d099e70b068511a2986e464f338cd43a4c3528"
+    },
+    {
+      "file": "subtype_identity_criteria.tsv",
+      "bytes": 3968,
+      "sha256": "36647e1fd934ae0dae8ac3022cbb4838be270c1f967218d8dd1924fcf0d738e6"
+    },
+    {
+      "file": "subtype_marker_evidence.tsv",
+      "bytes": 225188,
+      "sha256": "89b54d7c3a8655956b8f49da396bc7d5bfaf921be769f649fd07dbcbdfcc0460"
+    }
+  ],
+  "scripts": [
+    {
+      "file": "analysis/finalize_subtype_annotations.py",
+      "sha256": "26e90644c4777a31df919f1349b6eefdbc597afef80c678c347620cb1ba9373b"
+    },
+    {
+      "file": "analysis/report_subtypes.py",
+      "sha256": "95e9f6c9366cd421ac3ea776ded08ce5b89d0f09ef8c7af5c60df2e016540e8d"
+    },
+    {
+      "file": "analysis/subtype_criteria.json",
+      "sha256": "25524801fa59e018d3f7d3f1248d918c0d937e4497ab486a36b1b686be7d29e6"
+    },
+    {
+      "file": "analysis/subtype_identity.py",
+      "sha256": "fe664ca59f51af83fcb519c1ebbeb34304b4bf7e568fcb8981d8780904a38f92"
+    },
+    {
+      "file": "analysis/validate_subtype_outputs.py",
+      "sha256": "0647676e9bf82952bb27f7a48e2de9c03976b06c8e8e261b8810d275a62a85fd"
+    }
+  ]
+}
