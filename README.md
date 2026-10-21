@@ -2,6 +2,7 @@
 
 Independent QC and exploratory clustering of the mouse-heart dataset [GSE290989](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE290989), covering P0, P7, P14 and P21 with two libraries per age.
 
+- [Cardiomyocytes: matching stage/subtype UMAPs and subtype colors within each stage](results/cardiomyocyte_focus/README.md)
 - [Larger UMAPs with labeled cell types, subtypes and developmental stages](results/labeled_umaps/README.md)
 - [Reviewed cell identities, subtype criteria and lineage-specific UMAPs](results/cell_identities_subtypes/README.md)
 - [Cell identity and subtype report (PDF)](results/cell_identities_subtypes/cell_identity_subtype_report.pdf)

@@ -1,0 +1,12 @@
+subcluster_id	proposed_subtype	P0	P7	P14	P21
+CAR_0	Ventricular-like	325	798	6	0
+CAR_1	Ventricular-like	5773	1	0	0
+CAR_10	Ventricular-like	0	0	28	9148
+CAR_2	Ventricular-like	4214	0	0	0
+CAR_3	Conduction-associated CM candidate	731	186	1	0
+CAR_4	Atrial-like	636	80	62	25
+CAR_5	Ventricular-like	3	1139	0	0
+CAR_6	Ventricular-like	0	10916	3	0
+CAR_7	Ventricular-like	0	0	10836	59
+CAR_8	Atrial-like	0	0	479	740
+CAR_9	Conduction-associated CM candidate	0	0	168	128
