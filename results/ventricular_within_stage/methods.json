@@ -1,0 +1,124 @@
+{
+  "input": "/workspace/heart-atlas/results/cell_identities_subtypes/snrna_qc_annotated_subclustered.h5ad",
+  "population": "43249 previously ventricular-like nuclei",
+  "primary_resolution": 0.6,
+  "resolution_checks": [
+    0.3,
+    0.6,
+    0.9,
+    1.2
+  ],
+  "seed": 42,
+  "seed_checks": [
+    7,
+    123
+  ],
+  "HVG": "2000 sample-aware genes independently per age; mitochondrial/ribosomal and listed sex markers excluded",
+  "sex_embedding_exclusions": [
+    "Xist",
+    "Tsix",
+    "Ddx3y",
+    "Kdm5d",
+    "Eif2s3y",
+    "Uty",
+    "Usp9y",
+    "Zfy1",
+    "Zfy2",
+    "Sry",
+    "Rbmy"
+  ],
+  "PCA_components": 30,
+  "Harmony": "Within each age, sample key, theta2 lambda1 nclust30 max20iterations; no cross-age alignment",
+  "sensitivity": "Regress within-age QC/sex-marker covariates from Harmony PCs; can remove biological state and is not treated as proof of absence",
+  "markers": "Original corrected-count log1p/10000; cluster vs same-age rest, each library checked independently; no inferential tests",
+  "program_panels": {
+    "Cycling/DNA-replication program": [
+      "Mki67",
+      "Top2a",
+      "Cdk1",
+      "Ccnb1",
+      "Cenpf",
+      "Mcm2",
+      "Mcm5",
+      "Pcna"
+    ],
+    "Lipid/substrate-handling program": [
+      "Cd36",
+      "Slc27a1",
+      "Cpt1b",
+      "Pdk4",
+      "Hmgcs2",
+      "Acadm",
+      "Hadha"
+    ],
+    "Calcium/contractile program": [
+      "Ryr2",
+      "Atp2a2",
+      "Casq2",
+      "Pln",
+      "Jph2",
+      "Srl",
+      "Actn2",
+      "Tnni3"
+    ],
+    "Adhesion/structural program": [
+      "Ncam1",
+      "Vcl",
+      "Smpx",
+      "Bves",
+      "Tecrl",
+      "Fhl2"
+    ],
+    "Neonatal contractile program": [
+      "Tnni1",
+      "Myh7",
+      "Nppa",
+      "Bmp10"
+    ],
+    "Response-associated program": [
+      "Ankrd1",
+      "Nppb",
+      "Fos",
+      "Jun",
+      "Junb",
+      "Atf3",
+      "Egr1",
+      "Hspa1a"
+    ],
+    "Compact-associated candidate": [
+      "Hey2",
+      "Mycn"
+    ],
+    "Trabecular-associated candidate": [
+      "Nppa",
+      "Bmp10",
+      "Erbb4"
+    ],
+    "Conduction-overlap check": [
+      "Etv1",
+      "Cntn2",
+      "Gja5",
+      "Scn5a"
+    ]
+  },
+  "support_heuristics": {
+    "nuclei": 100,
+    "nuclei_per_library": 30,
+    "max_library_fraction": 0.9,
+    "cross_library_markers": 3,
+    "seed_min_best_Jaccard": 0.5,
+    "seed_mean_best_Jaccard": 0.65,
+    "QC_sex_best_Jaccard": 0.5,
+    "uncorrected_best_Jaccard": 0.4
+  },
+  "limitations": "Two library labels are not assumed to be independent animals. Higher resolution is not proof of new types. Anatomical program names remain candidates. Metadata-only H5ADs contain no expression. Count matrices unchanged.",
+  "versions": {
+    "scanpy": "1.12.4",
+    "anndata": "0.13.4",
+    "harmonypy": "2.1.0",
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1"
+  },
+  "program_label_rule": "At least 2 panel genes with mean log difference >0.1 versus same-stage rest, corrected detection >=10%, and positive >0.05 expression contrasts in both libraries; positive aggregate panel score required. Compact requires both Hey2/Mycn; trabecular requires >=2 including Bmp10 or Erbb4. Cycling label additionally requires >=10% cycling-marker-positive nuclei. Labels describe partial relative programs, not pathway tests or functional identities."
+}
