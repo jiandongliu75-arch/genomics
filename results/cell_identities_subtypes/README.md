@@ -91,7 +91,7 @@ Two libraries per age and differential QC losses (especially P7) limit abundance
 - `candidate_panel_comparisons.tsv`: every candidate panel score, gate result and within-library contrast, including rejected candidates.
 - `subcluster_descriptive_markers.tsv`: unbiased descriptive marker ranking within each parent, excluding mitochondrial/ribosomal genes.
 - Parent directories contain UMAPs, marker dot plots, per-nucleus assignments, resolution labels, sample/age cross-tabs, all-gene subcluster pseudobulk counts and metadata-only H5AD objects. Metadata-only H5AD files contain no expression matrix.
-- The full annotated count H5AD, with original integer counts and corrected fractional counts, is prepared for a GitHub Release; see the repository root for upload status.
+- The full annotated count H5AD, with original integer counts and corrected fractional counts, is prepared and validated locally. Release upload failed because GitHub’s upload endpoint rejected credentials (HTTP 401); it is not available for download. Per-cell annotations, metadata-only H5ADs and pseudobulk counts below are available.
 
 ## Broad identity review
 

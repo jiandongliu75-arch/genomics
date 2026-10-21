@@ -13,7 +13,7 @@ Independent QC and exploratory clustering of the mouse-heart dataset [GSE290989]
 
 73,052 of 98,371 input nuclei passed independent QC, doublet screening and ambient correction. The primary Leiden resolution of 0.8 yields 24 computational clusters; resolutions 0.4 and 1.2 yield 15 and 29 clusters. The UMAP is not batch-integrated, and cluster IDs are not final biological subtype annotations.
 
-The repository includes per-nucleus UMAP coordinates and metadata, a metadata-only H5AD, lineage-marker expression, and cluster-level pseudobulk counts for all 32,285 input genes. The full 1.2 GB cell-by-gene expression H5AD is prepared in the analysis workspace but has not been uploaded: GitHub Release asset uploads require access to `uploads.github.com`.
+The repository includes per-nucleus UMAP coordinates and metadata, a metadata-only H5AD, lineage-marker expression, and cluster-level pseudobulk counts for all 32,285 input genes. The full annotated 1.3 GB cell-by-gene expression H5AD is prepared and validated in the analysis workspace but has not been uploaded: `uploads.github.com` rejected the release-upload credentials with HTTP 401. The downloadable per-cell annotation CSVs, metadata-only H5ADs, marker tables and pseudobulk counts are available in this repository.
 
 ## Identity and subtype annotation
 
