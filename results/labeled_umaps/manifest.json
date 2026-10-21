@@ -1,0 +1,232 @@
+{
+  "method": "Display-only redraw; all existing coordinates, memberships and annotations unchanged. No geometric separation or UMAP refitting.",
+  "plots": [
+    {
+      "plot": "all_cell_types_labeled",
+      "nuclei": 73052,
+      "groups": 9,
+      "coordinates": [
+        "UMAP1",
+        "UMAP2"
+      ],
+      "source": "results/cell_identities_subtypes/all_cell_identity_and_subtype_annotations.csv.gz"
+    },
+    {
+      "plot": "Cardiomyocyte_subclusters_labeled",
+      "nuclei": 46485,
+      "groups": 11,
+      "coordinates": [
+        "subcluster_UMAP1",
+        "subcluster_UMAP2"
+      ],
+      "source": "results/cell_identities_subtypes/Cardiomyocyte/cell_subcluster_annotations.csv.gz"
+    },
+    {
+      "plot": "Cardiomyocyte_subtypes_labeled",
+      "nuclei": 46485,
+      "groups": 11,
+      "coordinates": [
+        "subcluster_UMAP1",
+        "subcluster_UMAP2"
+      ],
+      "source": "results/cell_identities_subtypes/Cardiomyocyte/cell_subcluster_annotations.csv.gz"
+    },
+    {
+      "plot": "Fibroblast_subclusters_labeled",
+      "nuclei": 14985,
+      "groups": 11,
+      "coordinates": [
+        "subcluster_UMAP1",
+        "subcluster_UMAP2"
+      ],
+      "source": "results/cell_identities_subtypes/Fibroblast/cell_subcluster_annotations.csv.gz"
+    },
+    {
+      "plot": "Fibroblast_subtypes_labeled",
+      "nuclei": 14985,
+      "groups": 11,
+      "coordinates": [
+        "subcluster_UMAP1",
+        "subcluster_UMAP2"
+      ],
+      "source": "results/cell_identities_subtypes/Fibroblast/cell_subcluster_annotations.csv.gz"
+    },
+    {
+      "plot": "Endothelial_subclusters_labeled",
+      "nuclei": 5573,
+      "groups": 15,
+      "coordinates": [
+        "subcluster_UMAP1",
+        "subcluster_UMAP2"
+      ],
+      "source": "results/cell_identities_subtypes/Endothelial/cell_subcluster_annotations.csv.gz"
+    },
+    {
+      "plot": "Endothelial_subtypes_labeled",
+      "nuclei": 5573,
+      "groups": 15,
+      "coordinates": [
+        "subcluster_UMAP1",
+        "subcluster_UMAP2"
+      ],
+      "source": "results/cell_identities_subtypes/Endothelial/cell_subcluster_annotations.csv.gz"
+    },
+    {
+      "plot": "Mural_subclusters_labeled",
+      "nuclei": 3804,
+      "groups": 10,
+      "coordinates": [
+        "subcluster_UMAP1",
+        "subcluster_UMAP2"
+      ],
+      "source": "results/cell_identities_subtypes/Mural/cell_subcluster_annotations.csv.gz"
+    },
+    {
+      "plot": "Mural_subtypes_labeled",
+      "nuclei": 3804,
+      "groups": 10,
+      "coordinates": [
+        "subcluster_UMAP1",
+        "subcluster_UMAP2"
+      ],
+      "source": "results/cell_identities_subtypes/Mural/cell_subcluster_annotations.csv.gz"
+    },
+    {
+      "plot": "Immune_subclusters_labeled",
+      "nuclei": 1248,
+      "groups": 12,
+      "coordinates": [
+        "subcluster_UMAP1",
+        "subcluster_UMAP2"
+      ],
+      "source": "results/cell_identities_subtypes/Immune/cell_subcluster_annotations.csv.gz"
+    },
+    {
+      "plot": "Immune_subtypes_labeled",
+      "nuclei": 1248,
+      "groups": 12,
+      "coordinates": [
+        "subcluster_UMAP1",
+        "subcluster_UMAP2"
+      ],
+      "source": "results/cell_identities_subtypes/Immune/cell_subcluster_annotations.csv.gz"
+    }
+  ],
+  "files": [
+    {
+      "name": "Cardiomyocyte_subclusters_labeled.pdf",
+      "bytes": 138527,
+      "sha256": "866bc16999a857d3515871bfca2d2739f79f20cf1a7047e8d76fe59913fa5b30"
+    },
+    {
+      "name": "Cardiomyocyte_subclusters_labeled.png",
+      "bytes": 946731,
+      "sha256": "fe32fed7c2bb63ec1dd63b7a7874a6e096caf2368f6baa317c2d8e88ba48cfae"
+    },
+    {
+      "name": "Cardiomyocyte_subtypes_labeled.pdf",
+      "bytes": 125193,
+      "sha256": "60ed3e75eed61d93115b5876b876addf1d20845c789c408de53c39841401b1fd"
+    },
+    {
+      "name": "Cardiomyocyte_subtypes_labeled.png",
+      "bytes": 942564,
+      "sha256": "b24cef509b7d3fb1441f3b6a922ca08640e3d2942b290ba6224df873b2d3c357"
+    },
+    {
+      "name": "Endothelial_subclusters_labeled.pdf",
+      "bytes": 106676,
+      "sha256": "87d44257c0b47bb49b55874bfb317e2b65e681110bc3d009c9cc9f7ac21df777"
+    },
+    {
+      "name": "Endothelial_subclusters_labeled.png",
+      "bytes": 706547,
+      "sha256": "671cc1fc541d7128b2d65a381649da01d3de3e0f4be2d9f5b8a5571e87d8daf2"
+    },
+    {
+      "name": "Endothelial_subtypes_labeled.pdf",
+      "bytes": 105437,
+      "sha256": "b7c4766f629bcfbc2330a8434bf7fe25d8296352a523e6e3383cb8e16d26f8a2"
+    },
+    {
+      "name": "Endothelial_subtypes_labeled.png",
+      "bytes": 698842,
+      "sha256": "493600048e7819f1e62c223e602ac77434f7045b4175895da77385659981d091"
+    },
+    {
+      "name": "Fibroblast_subclusters_labeled.pdf",
+      "bytes": 203157,
+      "sha256": "cc56a62720b3522d9d4998c4e377552eaf73d8a8754f7879c19a1e218ea23705"
+    },
+    {
+      "name": "Fibroblast_subclusters_labeled.png",
+      "bytes": 1090997,
+      "sha256": "a3fa1a501cb4f6579f39b58632db7428de875870bd23af0261cb36b800fb92d6"
+    },
+    {
+      "name": "Fibroblast_subtypes_labeled.pdf",
+      "bytes": 173831,
+      "sha256": "c0835a522eaddddf149198124eb089632f977ae0c0b740f6516a2d57fb0837f0"
+    },
+    {
+      "name": "Fibroblast_subtypes_labeled.png",
+      "bytes": 1036237,
+      "sha256": "673a7f56df0c9b2b7c6dd582e41cdc1fb19102ab6a339c71c70713b06bd744a7"
+    },
+    {
+      "name": "Immune_subclusters_labeled.pdf",
+      "bytes": 57740,
+      "sha256": "7f5c4276d6942bcceedb22dfcf9ed71725dac9cf2082ed3f6f4a21eb887cfb3f"
+    },
+    {
+      "name": "Immune_subclusters_labeled.png",
+      "bytes": 453502,
+      "sha256": "89bd6b223a76663fc3a3273b410a60537dc3523d3c31c05e78ef17c4f55c3fc2"
+    },
+    {
+      "name": "Immune_subtypes_labeled.pdf",
+      "bytes": 57498,
+      "sha256": "f34fa97b5c392cc66562c6c6611f85437ef9408decaa2021675392b403530a7e"
+    },
+    {
+      "name": "Immune_subtypes_labeled.png",
+      "bytes": 439769,
+      "sha256": "52fb4d99b62f00d69e0e7411f09b18c18edbf6da74e1838a063dffa29687dbb3"
+    },
+    {
+      "name": "Mural_subclusters_labeled.pdf",
+      "bytes": 90741,
+      "sha256": "387967305248209a4d351b839b3aa0491d47a23280f058fe66e174d6fc0e518d"
+    },
+    {
+      "name": "Mural_subclusters_labeled.png",
+      "bytes": 529153,
+      "sha256": "a0d9af64dcbac3daabd37a4c0475f086af8b9b1438381add9b0616fefef07ad4"
+    },
+    {
+      "name": "Mural_subtypes_labeled.pdf",
+      "bytes": 89504,
+      "sha256": "0da112e09fe4890d60e963a4c832b53a81875163f2a321430d23cfceb9a36f69"
+    },
+    {
+      "name": "Mural_subtypes_labeled.png",
+      "bytes": 515014,
+      "sha256": "e1578981d481380645c7a93cbb652fc76208be4fb97c5b1b98e83877fa8599c7"
+    },
+    {
+      "name": "all_cell_types_labeled.pdf",
+      "bytes": 148758,
+      "sha256": "b433c3410137029964548d89d9524de54d4a2cc8b4da1abd8079dfdf1b65e7ef"
+    },
+    {
+      "name": "all_cell_types_labeled.png",
+      "bytes": 987547,
+      "sha256": "603cd518c7903002fe0f65372c2eaa8a280390b12861b6e3e27d2150c656c9c4"
+    },
+    {
+      "name": "all_labeled_umaps.pdf",
+      "bytes": 1044329,
+      "sha256": "7d7b982fe03b71ec12096cd9fd5b1cae6c0082a73f101636264321af676d0645"
+    }
+  ]
+}
