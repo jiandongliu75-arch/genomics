@@ -1,0 +1,251 @@
+{
+  "purpose": "Primary literature for additional ventricular CM segregation axes; factual gene examples, not ready-made validated signatures.",
+  "papers": [
+    {
+      "title": "Cells of the adult human heart",
+      "authors_first": "Litvinukova",
+      "year": 2020,
+      "journal": "Nature",
+      "doi": "10.1038/s41586-020-2797-4",
+      "pmid": "32971526",
+      "pmcid": "PMC7681775",
+      "sources": [
+        "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7681775/fullTextXML",
+        "https://pubmed.ncbi.nlm.nih.gov/32971526/"
+      ],
+      "source_access": "Verified fulltext XML and article metadata",
+      "model": "14 adult human hearts; atria, LV/RV free walls, apex, septum; sc/snRNA-seq and smFISH",
+      "axes": [
+        {
+          "axis": "LV/RV-enriched transcriptional programs",
+          "verified_genes": [
+            "PRELID2",
+            "MYH6",
+            "CDH13"
+          ],
+          "mouse_candidate_symbols": [
+            "Prelid2",
+            "Myh6",
+            "Cdh13"
+          ],
+          "evidence": "vCM2 comprised39.9% of RV CMs vs9.1% of LV; vCM1 comprised63.9% of LV vs36.7% of RV. PRELID2 enrichment verified by smFISH. Authors emphasize small LV/RV program differences.",
+          "limitations": "An adult human reference, not a validated mouse P0/P7/P14/P21 chamber classifier. These genes alone do not establish ventricular side."
+        },
+        {
+          "axis": "Candidate electrophysiological/neural-associated state",
+          "verified_genes": [
+            "DLC1",
+            "EBF2",
+            "SOX5",
+            "EBF1",
+            "KCNAB1"
+          ],
+          "mouse_candidate_symbols": [
+            "Dlc1",
+            "Ebf2",
+            "Sox5",
+            "Ebf1",
+            "Kcnab1"
+          ],
+          "evidence": "Small vCM5 population (~1%); authors say may participate in electrophysiology.",
+          "limitations": "Not verified Purkinje cells; primary authors frame this as a hypothesis. Nuclear capture/neuronal contamination and developmental expression must be checked."
+        },
+        {
+          "axis": "High energetic/cytoprotective program",
+          "verified_genes": [
+            "NDUFB11",
+            "NDUFA4",
+            "COX7C",
+            "COX5B",
+            "CRYAB",
+            "PLN"
+          ],
+          "mouse_candidate_symbols": [
+            "Ndufb11",
+            "Ndufa4",
+            "Cox7c",
+            "Cox5b",
+            "Cryab",
+            "Pln"
+          ],
+          "evidence": "vCM4 enriched nuclear mitochondrial and cytoprotective/sarcomeric genes.",
+          "limitations": "Not measured oxygen availability or respiration; overlaps prior metabolic analysis."
+        }
+      ],
+      "short_quotes": [
+        "differences between vCM1 and vCM2 are small",
+        "vCM5 may participate in electrophysiology."
+      ]
+    },
+    {
+      "title": "Single-Cell Resolution of Temporal Gene Expression during Heart Development",
+      "authors_first": "DeLaughter",
+      "year": 2016,
+      "journal": "Developmental Cell",
+      "doi": "10.1016/j.devcel.2016.10.001",
+      "pmid": "27840107",
+      "pmcid": "PMC5198784",
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/27840107/",
+        "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_xml/PMC5198784/unicode"
+      ],
+      "source_access": "Verified abstract and fulltext NCBI BioC XML; EuropePMC fullTextXML returned500",
+      "model": ">1,200 mouse cells at7 stages E9.5\u2013P21; chambers isolated; protein validation atP0/P3",
+      "axes": [
+        {
+          "axis": "Developmental ECM-expressing cardiomyocytes",
+          "verified_genes": [
+            "Col1a1",
+            "Col3a1",
+            "Dcn",
+            "Tnni3"
+          ],
+          "evidence": "CME+ cells coexpress sarcomeric and ECM programs; isolated P3 LV CMs with Tnni3 and Col3a1 protein show47% Col3a1 positivity, versus36% in RNA data. Organized sarcomeres and comparable cell size supported CM identity.",
+          "limitations": "Do not call fibrosis or fibroblast conversion. In new snRNA-seq, ambient RNA/doublets and CM identity require explicit checks; single collagen gene insufficient."
+        },
+        {
+          "axis": "Within-stage maturation continuum",
+          "verified_maturation_genes": [
+            "Myl2",
+            "Myh6",
+            "Fabp3",
+            "Cox6c",
+            "Oxct1",
+            "Ryr2"
+          ],
+          "verified_early_genes": [
+            "Myl7",
+            "Hmgn2",
+            "Pgam1"
+          ],
+          "evidence": "Article describes continuous overlapping developmental waves fromE9.5 toP21, with sarcomeric, fatty-acid oxidation and calcium-handling changes.",
+          "limitations": "These are illustrative observed genes, not an independently validated fixed maturity-score signature. Myl7 is not by itself atrial identity in immature ventricular cells."
+        },
+        {
+          "axis": "Embryonic chamber programs and their convergence",
+          "verified_LV_genes": [
+            "Hand1",
+            "Tbx5"
+          ],
+          "verified_RV_genes": [
+            "Mfap2",
+            "Mcam"
+          ],
+          "evidence": "LV/RV differential genes atE11.5; transcriptomes become more similar betweenE14.5 andP0.",
+          "limitations": "Strong caution for using embryonic LV/RV markers in postnatal cells; Hand2/Isl1 fate is not established by expression alone."
+        }
+      ],
+      "short_quotes": [
+        "This CM subpopulation expressed transcripts encoding extracellular matrix (ECM) proteins",
+        "Between E14.5 and P0, LV and RV CMs became transcriptionally more similar to one another"
+      ]
+    },
+    {
+      "title": "Frequency of mononuclear diploid cardiomyocytes underlies natural variation in heart regeneration",
+      "authors_first": "Patterson",
+      "year": 2017,
+      "journal": "Nature Genetics",
+      "doi": "10.1038/ng.3929",
+      "pmid": "28783163",
+      "pmcid": "PMC5736145",
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/28783163/",
+        "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_xml/PMC5736145/unicode"
+      ],
+      "source_access": "Verified abstract and fulltext BioC XML",
+      "model": "120 inbred mouse strains, Tnni3k knockout, adult injury; zebrafish overexpression",
+      "axes": [
+        {
+          "axis": "Ploidy/nucleation and proliferative competence",
+          "verified_genes": [
+            "Tnni3k"
+          ],
+          "evidence": "Adult mononuclear CM frequency varied>7-fold; Tnni3k influences MN-diploid content and proliferation after injury.",
+          "limitations": "Tnni3k RNA is not a ploidy classifier. A nucleus can come from mono- or binucleated cells. DNA content and intact-cell nuclear counts are required; cycling RNA cannot prove cytokinesis."
+        }
+      ],
+      "short_quotes": [
+        "the frequency of adult mononuclear cardiomyocytes was surprisingly variable (>7-fold)"
+      ]
+    },
+    {
+      "title": "The cardiomyocyte molecular clock regulates the circadian expression of Kcnh2 and contributes to ventricular repolarization",
+      "authors_first": "Schroder",
+      "year": 2015,
+      "journal": "Heart Rhythm",
+      "doi": "10.1016/j.hrthm.2015.02.019",
+      "pmid": "25701773",
+      "pmcid": "PMC4541807",
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/25701773/",
+        "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_xml/PMC4541807/unicode"
+      ],
+      "source_access": "Verified abstract and fulltext BioC XML",
+      "model": "Adult mouse inducible CM-specific Bmal1 deletion, qPCR, voltage clamp, reporter assays, ECG;14\u201316-week collection cohorts",
+      "axes": [
+        {
+          "axis": "Circadian phase/electrophysiological state",
+          "verified_genes": [
+            "Bmal1/Arntl",
+            "Clock",
+            "Per1",
+            "Per2",
+            "Per3",
+            "Cry1",
+            "Cry2",
+            "Kcnh2"
+          ],
+          "evidence": "Kcnh2 has robust circadian expression disrupted by CM-specific Bmal1 deletion; recorded IKr approximately50% smaller in deletion CMs; QT rhythm altered. Core clock factors defined in fulltext.",
+          "limitations": "Clock phase is a dynamic state/confound, not necessarily a stable subtype. Requires harvest-time metadata, coherent positive/negative limb patterns and age-aware assessment. Neonatal clock maturation may differ from adult model. Bmal1 alias should map to Arntl."
+        }
+      ],
+      "short_quotes": [
+        "only Kcnh2 exhibited a robust circadian pattern of expression"
+      ]
+    },
+    {
+      "title": "Transcriptomic Profiling Maps Anatomically Patterned Subpopulations among Single Embryonic Cardiac Cells",
+      "authors_first": "Li",
+      "year": 2016,
+      "journal": "Developmental Cell",
+      "doi": "10.1016/j.devcel.2016.10.014",
+      "pmid": "27840109",
+      "pmcid": "PMC5130110",
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/27840109/",
+        "https://www.ncbi.nlm.nih.gov/research/bionlp/RESTful/pmcoa.cgi/BioC_xml/PMC5130110/unicode"
+      ],
+      "source_access": "Verified abstract and fulltext BioC XML",
+      "model": "2,233 embryonic mouse cells E8.5/E9.5/E10.5; anatomical dissections and Isl1-lineage tracing",
+      "axes": [
+        {
+          "axis": "Regional/heart-field lineage reference",
+          "verified_genes": [
+            "Hand1",
+            "Tbx5",
+            "Isl1",
+            "Nkx2-5"
+          ],
+          "evidence": "ATLAS-seq500-gene spatial classifier reconstructed embryonic zone with>91% accuracy and confirmed Isl1-lineage descendants mostly inOFT/RV.",
+          "limitations": "Do not transfer embryo-trained500-gene classifier unvalidated toP0/P7/P14/P21 nuclei. Isl1 RNA absence does not exclude Isl1-lineage ancestry; lineage tracing, not current expression, establishes origin."
+        }
+      ],
+      "short_quotes": [
+        "predicted the second heart field distribution of Isl1-lineage descendants"
+      ]
+    }
+  ],
+  "recommended_priority": [
+    "Electrophysiological/repolarization gradient from linked Cell paper handled separately",
+    "Within-stage maturation continuum",
+    "LV/RV regional reference with species/age safeguards",
+    "Developmental ECM-producing CM program, with strict ambient/doublet challenge",
+    "Circadian phase as state/confound",
+    "Ploidy axis only with orthogonal DNA/nucleation data"
+  ],
+  "shared_limits": [
+    "No RNA-only anatomical, conduction, ploidy or functional assignment from one marker.",
+    "Adult human references and embryonic lineage classifiers are not validated postnatal mouse labels.",
+    "Matched-library original/corrected gene support and spatial/functional validation required."
+  ]
+}
