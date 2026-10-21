@@ -1,0 +1,51 @@
+[
+  {
+    "id": "MSigDB_hallmark",
+    "title": "The Molecular Signatures Database (MSigDB) hallmark gene set collection",
+    "doi": "10.1016/j.cels.2015.12.004",
+    "pmcid": "PMC4707969",
+    "gene_set_mirror": "https://raw.githubusercontent.com/zqfang/GSEApy/master/tests/extdata/h.all.v7.0.symbols.gmt",
+    "note": "Mirror contains exact human HALLMARK_HYPOXIA,GLYCOLYSIS,OXIDATIVE_PHOSPHORYLATION lists; curated smaller subsets above are not unmodified full Hallmark sets."
+  },
+  {
+    "id": "Oxygen_postnatal",
+    "title": "The oxygen-rich postnatal environment induces cardiomyocyte cell-cycle arrest through DNA damage response",
+    "doi": "10.1016/j.cell.2014.03.032",
+    "pmcid": "PMC4104514",
+    "pmid": "24766806",
+    "note": "Supports oxygen/maturation/cycling biology; does not validate oxygen exposure from RNA in our cells."
+  },
+  {
+    "id": "Hypoxia_fatemapping",
+    "title": "Hypoxia fate mapping identifies cycling cardiomyocytes in the adult heart",
+    "doi": "10.1038/nature14582",
+    "pmid": "26098368",
+    "note": "Adult hypoxia biology context, not a postnatal wall-location signature."
+  },
+  {
+    "id": "Embryonic_wall_markers",
+    "title": "Notch signaling regulates Hey2 expression in a spatiotemporal dependent manner during cardiac morphogenesis and trabecular specification",
+    "doi": "10.1038/s41598-018-20917-w",
+    "pmcid": "PMC5805758",
+    "fulltext_api": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5805758/fullTextXML",
+    "note": "Explicitly cautions Hey2 extends beyond compact zone."
+  },
+  {
+    "id": "Mechanical_coupling",
+    "title": "Costameres, focal adhesions, and cardiomyocyte mechanotransduction",
+    "doi": "10.1152/ajpheart.00749.2005",
+    "pmid": "16284104"
+  },
+  {
+    "id": "Mechanical_form_function",
+    "title": "The contribution of cellular mechanotransduction to cardiomyocyte form and function",
+    "doi": "10.1007/s10237-012-0419-2",
+    "pmcid": "PMC3786397"
+  },
+  {
+    "id": "Dissociation_control",
+    "title": "Single-cell sequencing reveals dissociation-induced gene expression in tissue subpopulations",
+    "doi": "10.1038/nmeth.4437",
+    "pmid": "28960196"
+  }
+]

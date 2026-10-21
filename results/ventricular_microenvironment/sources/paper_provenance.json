@@ -1,0 +1,34 @@
+{
+  "article_title": "Spatially guided in vivo single-cell functional genomics of postnatal heart",
+  "doi": "10.1038/s44161-026-00861-z",
+  "pmcid": "PMC13561863",
+  "article_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13561863/",
+  "fulltext_api": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13561863/fullTextXML",
+  "supplementary_api": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13561863/supplementaryFiles",
+  "supplementary_zip_bytes": 42104813,
+  "workbook": "44161_2026_861_MOESM3_ESM.xlsx",
+  "sheet": "Table 3",
+  "table_description": "Differentially expressed genes across cell states, 250 rows covering 25 states; 10 supplied markers per state. Not stage-specific. Extracted five CM-state rows-of-groups, total50rows.",
+  "extraction": "Factual gene/statistic rows copied from author-supplied table. Author p-values are provenance only, not new analysis and not evidence of independent animals.",
+  "license_note": "Article states CC BY-NC-ND4.0; no full article/images or full supplement republished here. Short exact attributed excerpts and factual table subset supplied.",
+  "exact_excerpts": [
+    {
+      "topic": "Ankrd1 region",
+      "quote": "Compared to other v.CMs, these Ankrd1.CMs preferentially localized to the left ventricle and peri-arteriolar regions."
+    },
+    {
+      "topic": "Slit2 region",
+      "quote": "We also identified a distinct population of trabecular cardiomyocytes (Slit2.CMs) enriched within the trabecular layer of the ventricle"
+    },
+    {
+      "topic": "Capillary proximity",
+      "quote": "CMs located closer to capillary-associated cells exhibit higher maturation index"
+    }
+  ],
+  "interpretation_notes": [
+    "Main text identifies Ankrd1 and Atf3 as mechanosensitive/stress-response-associated markers, with LV/peri-arteriolar enrichment P0-P14 and weaker P21 pattern.",
+    "Slit2.CMs are ventricular trabecular-associated in this paper; Etv1/Gja5 are also in their author marker set, so these genes alone do not warrant Purkinje classification.",
+    "Ddc.CM marker set includes Hey2/Tnni1/Hmgcs2/Irx4, but main text does not provide an anatomical location for Ddc.CMs. Do not infer compact wall solely from this set.",
+    "Paper proposes vascular-proximity maturation coupling through oxygen/nutrients plus endothelial/perivascular signaling; RNA or distance alone does not measure oxygen concentration or establish causality."
+  ]
+}

@@ -2,6 +2,7 @@
 
 Independent QC and exploratory clustering of the mouse-heart dataset [GSE290989](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE290989), covering P0, P7, P14 and P21 with two libraries per age.
 
+- [Ventricular wall-, oxygen-response and mechanical programs: expanded gate and annotation review](results/ventricular_microenvironment/README.md)
 - [Finer ventricular states independently resolved within each stage](results/ventricular_within_stage/README.md)
 - [Ventricular-only analysis across four stages with sample/batch sensitivity](results/ventricular_stage_batch/README.md)
 - [Early ventricular CM states: cycling and within-stage differences](results/cardiomyocyte_early_states/README.md)

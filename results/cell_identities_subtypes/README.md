@@ -1,5 +1,7 @@
 # Cell identities and within-lineage subclustering
 
+**Annotation review:** The paper’s exact Slit2.CM marker set includes Etv1/Gja5 and is described as trabecular ventricular. Earlier CAR_3/CAR_9 conduction-associated candidate labels should not be treated as established conduction identity or used to exclude these cells from ventricular wall analysis. The [microenvironment analysis](../ventricular_microenvironment/README.md) restores these 1,214 cells as an explicit ambiguous reference, with source provenance. Historical tables/figures below retain their original labels; RNA alone does not verify anatomical or functional identity.
+
 All 73,052 QC-retained nuclei are accounted for. Broad identities were reviewed with multi-gene evidence, followed by independent subclustering of cardiomyocytes, fibroblasts, endothelial, mural and immune populations. Epicardial and neural/glial populations retain broad labels; a lineage-weak group remains unresolved.
 
 ## Main results

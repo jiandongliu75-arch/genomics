@@ -1,0 +1,226 @@
+program_A	program_B	overlap_gene_count	overlap_genes	jaccard
+Slit2_trabecular	Slit2_trabecular	10	Cacna1h;Dgki;Ephb1;Etv1;Gja5;Gm35041;Mpped2;Sema3a;Slc16a12;Slit2	1.0
+Slit2_trabecular	Ankrd1_response	0		0.0
+Slit2_trabecular	HIF_response	0		0.0
+Slit2_trabecular	HIF_non_glycolytic	0		0.0
+Slit2_trabecular	Glycolysis	0		0.0
+Slit2_trabecular	Oxidative_metabolism	0		0.0
+Slit2_trabecular	Fatty_acid_oxidation	0		0.0
+Slit2_trabecular	Sarcomere_mechanics	0		0.0
+Slit2_trabecular	IEG_preparation	0		0.0
+Slit2_trabecular	Compact_developmental	0		0.0
+Slit2_trabecular	Trabecular_developmental	1	Gja5	0.06666666666666667
+Slit2_trabecular	Conduction_overlap	2	Etv1;Gja5	0.15384615384615385
+Slit2_trabecular	Cycling	0		0.0
+Slit2_trabecular	Maturation_reference	0		0.0
+Slit2_trabecular	Ddc_reference	0		0.0
+Ankrd1_response	Slit2_trabecular	0		0.0
+Ankrd1_response	Ankrd1_response	10	Ankrd1;Ankrd23;Flnc;Fstl4;Nrap;Scube2;Sorbs2;Tlr4;Tox3;Xirp2	1.0
+Ankrd1_response	HIF_response	0		0.0
+Ankrd1_response	HIF_non_glycolytic	0		0.0
+Ankrd1_response	Glycolysis	0		0.0
+Ankrd1_response	Oxidative_metabolism	0		0.0
+Ankrd1_response	Fatty_acid_oxidation	0		0.0
+Ankrd1_response	Sarcomere_mechanics	3	Flnc;Sorbs2;Xirp2	0.14285714285714285
+Ankrd1_response	IEG_preparation	0		0.0
+Ankrd1_response	Compact_developmental	0		0.0
+Ankrd1_response	Trabecular_developmental	0		0.0
+Ankrd1_response	Conduction_overlap	0		0.0
+Ankrd1_response	Cycling	0		0.0
+Ankrd1_response	Maturation_reference	0		0.0
+Ankrd1_response	Ddc_reference	0		0.0
+HIF_response	Slit2_trabecular	0		0.0
+HIF_response	Ankrd1_response	0		0.0
+HIF_response	HIF_response	16	Adm;Aldoa;Angptl4;Bnip3l;Ddit4;Eno1;Ldha;Ndrg1;P4ha1;P4ha2;Pdk1;Pfkfb3;Pfkl;Pgk1;Slc2a1;Vegfa	1.0
+HIF_response	HIF_non_glycolytic	8	Adm;Angptl4;Bnip3l;Ddit4;Ndrg1;P4ha1;P4ha2;Vegfa	0.5
+HIF_response	Glycolysis	5	Aldoa;Eno1;Ldha;Pfkl;Pgk1	0.20833333333333334
+HIF_response	Oxidative_metabolism	0		0.0
+HIF_response	Fatty_acid_oxidation	0		0.0
+HIF_response	Sarcomere_mechanics	0		0.0
+HIF_response	IEG_preparation	0		0.0
+HIF_response	Compact_developmental	0		0.0
+HIF_response	Trabecular_developmental	0		0.0
+HIF_response	Conduction_overlap	0		0.0
+HIF_response	Cycling	0		0.0
+HIF_response	Maturation_reference	0		0.0
+HIF_response	Ddc_reference	0		0.0
+HIF_non_glycolytic	Slit2_trabecular	0		0.0
+HIF_non_glycolytic	Ankrd1_response	0		0.0
+HIF_non_glycolytic	HIF_response	8	Adm;Angptl4;Bnip3l;Ddit4;Ndrg1;P4ha1;P4ha2;Vegfa	0.5
+HIF_non_glycolytic	HIF_non_glycolytic	8	Adm;Angptl4;Bnip3l;Ddit4;Ndrg1;P4ha1;P4ha2;Vegfa	1.0
+HIF_non_glycolytic	Glycolysis	0		0.0
+HIF_non_glycolytic	Oxidative_metabolism	0		0.0
+HIF_non_glycolytic	Fatty_acid_oxidation	0		0.0
+HIF_non_glycolytic	Sarcomere_mechanics	0		0.0
+HIF_non_glycolytic	IEG_preparation	0		0.0
+HIF_non_glycolytic	Compact_developmental	0		0.0
+HIF_non_glycolytic	Trabecular_developmental	0		0.0
+HIF_non_glycolytic	Conduction_overlap	0		0.0
+HIF_non_glycolytic	Cycling	0		0.0
+HIF_non_glycolytic	Maturation_reference	0		0.0
+HIF_non_glycolytic	Ddc_reference	0		0.0
+Glycolysis	Slit2_trabecular	0		0.0
+Glycolysis	Ankrd1_response	0		0.0
+Glycolysis	HIF_response	5	Aldoa;Eno1;Ldha;Pfkl;Pgk1	0.20833333333333334
+Glycolysis	HIF_non_glycolytic	0		0.0
+Glycolysis	Glycolysis	13	Aldoa;Eno1;Gapdh;Hk1;Hk2;Ldha;Pfkl;Pfkp;Pgam1;Pgk1;Pkm;Slc16a3;Tpi1	1.0
+Glycolysis	Oxidative_metabolism	0		0.0
+Glycolysis	Fatty_acid_oxidation	0		0.0
+Glycolysis	Sarcomere_mechanics	0		0.0
+Glycolysis	IEG_preparation	0		0.0
+Glycolysis	Compact_developmental	0		0.0
+Glycolysis	Trabecular_developmental	0		0.0
+Glycolysis	Conduction_overlap	0		0.0
+Glycolysis	Cycling	0		0.0
+Glycolysis	Maturation_reference	0		0.0
+Glycolysis	Ddc_reference	0		0.0
+Oxidative_metabolism	Slit2_trabecular	0		0.0
+Oxidative_metabolism	Ankrd1_response	0		0.0
+Oxidative_metabolism	HIF_response	0		0.0
+Oxidative_metabolism	HIF_non_glycolytic	0		0.0
+Oxidative_metabolism	Glycolysis	0		0.0
+Oxidative_metabolism	Oxidative_metabolism	18	Atp5f1a;Atp5f1b;Atp5mc1;Cox4i1;Cox5a;Cox5b;Cox6b1;Cyc1;Ndufb8;Ndufs1;Ndufs2;Ndufs3;Ndufs4;Ndufv1;Sdha;Sdhb;Uqcrc1;Uqcrc2	1.0
+Oxidative_metabolism	Fatty_acid_oxidation	0		0.0
+Oxidative_metabolism	Sarcomere_mechanics	0		0.0
+Oxidative_metabolism	IEG_preparation	0		0.0
+Oxidative_metabolism	Compact_developmental	0		0.0
+Oxidative_metabolism	Trabecular_developmental	0		0.0
+Oxidative_metabolism	Conduction_overlap	0		0.0
+Oxidative_metabolism	Cycling	0		0.0
+Oxidative_metabolism	Maturation_reference	0		0.0
+Oxidative_metabolism	Ddc_reference	0		0.0
+Fatty_acid_oxidation	Slit2_trabecular	0		0.0
+Fatty_acid_oxidation	Ankrd1_response	0		0.0
+Fatty_acid_oxidation	HIF_response	0		0.0
+Fatty_acid_oxidation	HIF_non_glycolytic	0		0.0
+Fatty_acid_oxidation	Glycolysis	0		0.0
+Fatty_acid_oxidation	Oxidative_metabolism	0		0.0
+Fatty_acid_oxidation	Fatty_acid_oxidation	12	Acaa2;Acadl;Acadm;Acadvl;Cpt1b;Decr1;Echs1;Etfa;Etfb;Etfdh;Hadha;Hadhb	1.0
+Fatty_acid_oxidation	Sarcomere_mechanics	0		0.0
+Fatty_acid_oxidation	IEG_preparation	0		0.0
+Fatty_acid_oxidation	Compact_developmental	0		0.0
+Fatty_acid_oxidation	Trabecular_developmental	0		0.0
+Fatty_acid_oxidation	Conduction_overlap	0		0.0
+Fatty_acid_oxidation	Cycling	0		0.0
+Fatty_acid_oxidation	Maturation_reference	1	Cpt1b	0.058823529411764705
+Fatty_acid_oxidation	Ddc_reference	0		0.0
+Sarcomere_mechanics	Slit2_trabecular	0		0.0
+Sarcomere_mechanics	Ankrd1_response	3	Flnc;Sorbs2;Xirp2	0.14285714285714285
+Sarcomere_mechanics	HIF_response	0		0.0
+Sarcomere_mechanics	HIF_non_glycolytic	0		0.0
+Sarcomere_mechanics	Glycolysis	0		0.0
+Sarcomere_mechanics	Oxidative_metabolism	0		0.0
+Sarcomere_mechanics	Fatty_acid_oxidation	0		0.0
+Sarcomere_mechanics	Sarcomere_mechanics	14	Actn2;Bag3;Csrp3;Des;Flnc;Ilk;Itgb1;Ldb3;Ptk2;Sorbs2;Tln1;Tln2;Vcl;Xirp2	1.0
+Sarcomere_mechanics	IEG_preparation	0		0.0
+Sarcomere_mechanics	Compact_developmental	0		0.0
+Sarcomere_mechanics	Trabecular_developmental	0		0.0
+Sarcomere_mechanics	Conduction_overlap	0		0.0
+Sarcomere_mechanics	Cycling	0		0.0
+Sarcomere_mechanics	Maturation_reference	0		0.0
+Sarcomere_mechanics	Ddc_reference	0		0.0
+IEG_preparation	Slit2_trabecular	0		0.0
+IEG_preparation	Ankrd1_response	0		0.0
+IEG_preparation	HIF_response	0		0.0
+IEG_preparation	HIF_non_glycolytic	0		0.0
+IEG_preparation	Glycolysis	0		0.0
+IEG_preparation	Oxidative_metabolism	0		0.0
+IEG_preparation	Fatty_acid_oxidation	0		0.0
+IEG_preparation	Sarcomere_mechanics	0		0.0
+IEG_preparation	IEG_preparation	14	Atf3;Dnajb1;Dusp1;Egr1;Fos;Fosb;Hspa1a;Hspa1b;Ier2;Ier3;Jun;Junb;Jund;Zfp36	1.0
+IEG_preparation	Compact_developmental	0		0.0
+IEG_preparation	Trabecular_developmental	0		0.0
+IEG_preparation	Conduction_overlap	0		0.0
+IEG_preparation	Cycling	0		0.0
+IEG_preparation	Maturation_reference	0		0.0
+IEG_preparation	Ddc_reference	0		0.0
+Compact_developmental	Slit2_trabecular	0		0.0
+Compact_developmental	Ankrd1_response	0		0.0
+Compact_developmental	HIF_response	0		0.0
+Compact_developmental	HIF_non_glycolytic	0		0.0
+Compact_developmental	Glycolysis	0		0.0
+Compact_developmental	Oxidative_metabolism	0		0.0
+Compact_developmental	Fatty_acid_oxidation	0		0.0
+Compact_developmental	Sarcomere_mechanics	0		0.0
+Compact_developmental	IEG_preparation	0		0.0
+Compact_developmental	Compact_developmental	3	Hey2;Mycn;Tbx20	1.0
+Compact_developmental	Trabecular_developmental	0		0.0
+Compact_developmental	Conduction_overlap	0		0.0
+Compact_developmental	Cycling	0		0.0
+Compact_developmental	Maturation_reference	0		0.0
+Compact_developmental	Ddc_reference	1	Hey2	0.08333333333333333
+Trabecular_developmental	Slit2_trabecular	1	Gja5	0.06666666666666667
+Trabecular_developmental	Ankrd1_response	0		0.0
+Trabecular_developmental	HIF_response	0		0.0
+Trabecular_developmental	HIF_non_glycolytic	0		0.0
+Trabecular_developmental	Glycolysis	0		0.0
+Trabecular_developmental	Oxidative_metabolism	0		0.0
+Trabecular_developmental	Fatty_acid_oxidation	0		0.0
+Trabecular_developmental	Sarcomere_mechanics	0		0.0
+Trabecular_developmental	IEG_preparation	0		0.0
+Trabecular_developmental	Compact_developmental	0		0.0
+Trabecular_developmental	Trabecular_developmental	6	Bmp10;Cdkn1c;Gja5;Irx3;Nppa;S1pr1	1.0
+Trabecular_developmental	Conduction_overlap	2	Gja5;Irx3	0.2222222222222222
+Trabecular_developmental	Cycling	0		0.0
+Trabecular_developmental	Maturation_reference	0		0.0
+Trabecular_developmental	Ddc_reference	0		0.0
+Conduction_overlap	Slit2_trabecular	2	Etv1;Gja5	0.15384615384615385
+Conduction_overlap	Ankrd1_response	0		0.0
+Conduction_overlap	HIF_response	0		0.0
+Conduction_overlap	HIF_non_glycolytic	0		0.0
+Conduction_overlap	Glycolysis	0		0.0
+Conduction_overlap	Oxidative_metabolism	0		0.0
+Conduction_overlap	Fatty_acid_oxidation	0		0.0
+Conduction_overlap	Sarcomere_mechanics	0		0.0
+Conduction_overlap	IEG_preparation	0		0.0
+Conduction_overlap	Compact_developmental	0		0.0
+Conduction_overlap	Trabecular_developmental	2	Gja5;Irx3	0.2222222222222222
+Conduction_overlap	Conduction_overlap	5	Cntn2;Etv1;Gja5;Irx3;Scn5a	1.0
+Conduction_overlap	Cycling	0		0.0
+Conduction_overlap	Maturation_reference	0		0.0
+Conduction_overlap	Ddc_reference	0		0.0
+Cycling	Slit2_trabecular	0		0.0
+Cycling	Ankrd1_response	0		0.0
+Cycling	HIF_response	0		0.0
+Cycling	HIF_non_glycolytic	0		0.0
+Cycling	Glycolysis	0		0.0
+Cycling	Oxidative_metabolism	0		0.0
+Cycling	Fatty_acid_oxidation	0		0.0
+Cycling	Sarcomere_mechanics	0		0.0
+Cycling	IEG_preparation	0		0.0
+Cycling	Compact_developmental	0		0.0
+Cycling	Trabecular_developmental	0		0.0
+Cycling	Conduction_overlap	0		0.0
+Cycling	Cycling	9	Ccnb1;Cdk1;Cenpf;Mcm2;Mcm5;Mki67;Pcna;Top2a;Ube2c	1.0
+Cycling	Maturation_reference	0		0.0
+Cycling	Ddc_reference	0		0.0
+Maturation_reference	Slit2_trabecular	0		0.0
+Maturation_reference	Ankrd1_response	0		0.0
+Maturation_reference	HIF_response	0		0.0
+Maturation_reference	HIF_non_glycolytic	0		0.0
+Maturation_reference	Glycolysis	0		0.0
+Maturation_reference	Oxidative_metabolism	0		0.0
+Maturation_reference	Fatty_acid_oxidation	1	Cpt1b	0.058823529411764705
+Maturation_reference	Sarcomere_mechanics	0		0.0
+Maturation_reference	IEG_preparation	0		0.0
+Maturation_reference	Compact_developmental	0		0.0
+Maturation_reference	Trabecular_developmental	0		0.0
+Maturation_reference	Conduction_overlap	0		0.0
+Maturation_reference	Cycling	0		0.0
+Maturation_reference	Maturation_reference	6	Atp2a2;Casq2;Cpt1b;Myh6;Ppargc1a;Tnni3	1.0
+Maturation_reference	Ddc_reference	0		0.0
+Ddc_reference	Slit2_trabecular	0		0.0
+Ddc_reference	Ankrd1_response	0		0.0
+Ddc_reference	HIF_response	0		0.0
+Ddc_reference	HIF_non_glycolytic	0		0.0
+Ddc_reference	Glycolysis	0		0.0
+Ddc_reference	Oxidative_metabolism	0		0.0
+Ddc_reference	Fatty_acid_oxidation	0		0.0
+Ddc_reference	Sarcomere_mechanics	0		0.0
+Ddc_reference	IEG_preparation	0		0.0
+Ddc_reference	Compact_developmental	1	Hey2	0.08333333333333333
+Ddc_reference	Trabecular_developmental	0		0.0
+Ddc_reference	Conduction_overlap	0		0.0
+Ddc_reference	Cycling	0		0.0
+Ddc_reference	Maturation_reference	0		0.0
+Ddc_reference	Ddc_reference	10	1700042O10Rik;Acss3;Ddc;Hey2;Hmgcs2;Irx4;Lpar3;Plppr1;Tnni1;Unc13c	1.0

@@ -1,5 +1,7 @@
 # Ventricular CM states resolved within each stage
 
+**Subsequent gate review:** The [microenvironment analysis](../ventricular_microenvironment/README.md) retains an additional 1,214 ambiguous Slit2-enriched references. The paper’s Slit2.CM markers include Etv1/Gja5 and are trabecular-associated; the prior conduction-candidate exclusion was too narrow for ventricular wall analysis. This 43,249-cell core analysis remains a sensitivity reference, with its original data/labels preserved.
+
 Independent P0, P7, P14 and P21 subclustering resolves **23 computational groups**, with different levels of support. **Five** pass the prespecified library/marker/seed/adjustment heuristics; **two** have replicate marker support but are adjustment-sensitive; **16** remain candidates. These results support additional transcriptional states, not 23 verified biological or anatomical cell types.
 
 All **43,249** previously ventricular-like nuclei are retained. Atrial-like and prior conduction-associated candidate populations remain excluded. Each stage has a newly selected gene set, PCA, sample adjustment and UMAP; stage coordinates and orientations are independent and cannot be compared across panels. IDs such as `P7_V1` belong to this analysis and differ from previous global `V_1` or `CAR_1` IDs.

@@ -1,0 +1,392 @@
+{
+  "programs": {
+    "Slit2_trabecular": {
+      "display_label": "Slit2/trabecular-associated candidate",
+      "genes": [
+        "Sema3a",
+        "Ephb1",
+        "Slc16a12",
+        "Gja5",
+        "Dgki",
+        "Slit2",
+        "Gm35041",
+        "Etv1",
+        "Mpped2",
+        "Cacna1h"
+      ],
+      "family": "hypothesis",
+      "anchors": [
+        "Slit2"
+      ],
+      "anchor_min": 1,
+      "min_supported_genes": 3,
+      "source": "https://doi.org/10.1038/s44161-026-00861-z",
+      "interpretation": "Exact author Table3 top10 state markers. The paper describes Slit2.CMs as trabecular ventricular CMs; our RNA-based label remains a spatial candidate. Etv1/Gja5 overlap conduction biology and are not independent proof of Purkinje identity.",
+      "gene_set_origin": "Supplementary Table3 state markers, exact author top10; same dataset, not independent validation."
+    },
+    "Ankrd1_response": {
+      "display_label": "Ankrd1/mechanical-response-associated",
+      "genes": [
+        "Ankrd1",
+        "Xirp2",
+        "Ankrd23",
+        "Nrap",
+        "Tlr4",
+        "Scube2",
+        "Fstl4",
+        "Tox3",
+        "Sorbs2",
+        "Flnc"
+      ],
+      "family": "hypothesis",
+      "anchors": [
+        "Ankrd1"
+      ],
+      "anchor_min": 1,
+      "min_supported_genes": 3,
+      "source": "https://doi.org/10.1038/s44161-026-00861-z",
+      "interpretation": "Exact author Table3 top10 state markers. Paper spatial association with LV/peri-arteriolar regions and strain; not measured mechanical load here.",
+      "gene_set_origin": "Supplementary Table3 state markers, exact author top10; same dataset, not independent validation."
+    },
+    "HIF_response": {
+      "display_label": "HIF/hypoxia-response-associated",
+      "genes": [
+        "Slc2a1",
+        "Pdk1",
+        "Ldha",
+        "Pgk1",
+        "Pfkl",
+        "Pfkfb3",
+        "Aldoa",
+        "Eno1",
+        "Ndrg1",
+        "Ddit4",
+        "Adm",
+        "Angptl4",
+        "P4ha1",
+        "P4ha2",
+        "Bnip3l",
+        "Vegfa"
+      ],
+      "family": "hypothesis",
+      "anchors": [
+        "Ndrg1",
+        "Ddit4",
+        "Adm",
+        "Angptl4",
+        "P4ha1",
+        "P4ha2",
+        "Bnip3l",
+        "Vegfa"
+      ],
+      "anchor_min": 2,
+      "min_supported_genes": 4,
+      "source": "https://doi.org/10.1016/j.cels.2015.12.004",
+      "interpretation": "Curated subset of HALLMARK_HYPOXIA, not complete hallmark signature. Many genes also respond to growth/metabolism. Requires non-glycolytic anchors; Hif1a RNA is not used as oxygen measurement."
+    },
+    "HIF_non_glycolytic": {
+      "display_label": "HIF-response non-glycolytic subset",
+      "genes": [
+        "Ndrg1",
+        "Ddit4",
+        "Adm",
+        "Angptl4",
+        "P4ha1",
+        "P4ha2",
+        "Bnip3l",
+        "Vegfa"
+      ],
+      "family": "specificity",
+      "anchors": [
+        "Ndrg1",
+        "Ddit4",
+        "Adm",
+        "Angptl4",
+        "P4ha1",
+        "P4ha2",
+        "Bnip3l",
+        "Vegfa"
+      ],
+      "anchor_min": 2,
+      "min_supported_genes": 3,
+      "source": "https://doi.org/10.1016/j.cels.2015.12.004",
+      "interpretation": "Specificity sensitivity excluding glycolytic enzymes, still not direct oxygen or HIF protein activity."
+    },
+    "Glycolysis": {
+      "display_label": "Glycolytic transcription",
+      "genes": [
+        "Hk1",
+        "Hk2",
+        "Pfkl",
+        "Pfkp",
+        "Aldoa",
+        "Tpi1",
+        "Gapdh",
+        "Pgk1",
+        "Pgam1",
+        "Eno1",
+        "Pkm",
+        "Ldha",
+        "Slc16a3"
+      ],
+      "family": "metabolic",
+      "anchors": [],
+      "anchor_min": 0,
+      "min_supported_genes": 3,
+      "source": "https://doi.org/10.1016/j.cels.2015.12.004",
+      "interpretation": "Canonical enzyme/transport panel; neonatal maturation and glycolytic baseline are alternatives to hypoxia."
+    },
+    "Oxidative_metabolism": {
+      "display_label": "Nuclear oxidative-phosphorylation genes",
+      "genes": [
+        "Ndufs1",
+        "Ndufs2",
+        "Ndufs3",
+        "Ndufs4",
+        "Ndufv1",
+        "Ndufb8",
+        "Sdha",
+        "Sdhb",
+        "Uqcrc1",
+        "Uqcrc2",
+        "Cyc1",
+        "Cox4i1",
+        "Cox5a",
+        "Cox5b",
+        "Cox6b1",
+        "Atp5f1a",
+        "Atp5f1b",
+        "Atp5mc1"
+      ],
+      "family": "metabolic",
+      "anchors": [],
+      "anchor_min": 0,
+      "min_supported_genes": 3,
+      "source": "https://doi.org/10.1016/j.cels.2015.12.004",
+      "interpretation": "Exploratory nuclear respiratory-chain panel, not complete hallmark set or measured respiratory capacity. Mitochondrial genes excluded."
+    },
+    "Fatty_acid_oxidation": {
+      "display_label": "Fatty-acid oxidation genes",
+      "genes": [
+        "Cpt1b",
+        "Acadm",
+        "Acadl",
+        "Acadvl",
+        "Hadha",
+        "Hadhb",
+        "Acaa2",
+        "Echs1",
+        "Etfa",
+        "Etfb",
+        "Etfdh",
+        "Decr1"
+      ],
+      "family": "metabolic",
+      "anchors": [],
+      "anchor_min": 0,
+      "min_supported_genes": 3,
+      "source": "https://doi.org/10.1016/j.cels.2015.12.004",
+      "interpretation": "Canonical enzyme panel; not measured flux and not a specific oxygen readout."
+    },
+    "Sarcomere_mechanics": {
+      "display_label": "Structural/mechanocoupling apparatus",
+      "genes": [
+        "Vcl",
+        "Tln1",
+        "Tln2",
+        "Itgb1",
+        "Ilk",
+        "Ptk2",
+        "Actn2",
+        "Ldb3",
+        "Csrp3",
+        "Sorbs2",
+        "Xirp2",
+        "Flnc",
+        "Des",
+        "Bag3"
+      ],
+      "family": "hypothesis",
+      "anchors": [],
+      "anchor_min": 0,
+      "min_supported_genes": 4,
+      "source": "https://doi.org/10.1038/s44161-026-00861-z",
+      "interpretation": "Exploratory structural/costamere apparatus, not proof of activated mechanical sensing or increased load."
+    },
+    "IEG_preparation": {
+      "display_label": "Immediate-early/preparation-response control",
+      "genes": [
+        "Fos",
+        "Fosb",
+        "Jun",
+        "Junb",
+        "Jund",
+        "Egr1",
+        "Atf3",
+        "Dusp1",
+        "Ier2",
+        "Ier3",
+        "Zfp36",
+        "Hspa1a",
+        "Hspa1b",
+        "Dnajb1"
+      ],
+      "family": "control",
+      "anchors": [],
+      "anchor_min": 0,
+      "min_supported_genes": 3,
+      "source": "https://doi.org/10.1038/nmeth.4437",
+      "interpretation": "Shared stress/dissociation-response alternatives; nuclear preparation differs from whole-cell dissociation. Also responds in vivo."
+    },
+    "Compact_developmental": {
+      "display_label": "Developmental compact-associated candidate",
+      "genes": [
+        "Hey2",
+        "Mycn",
+        "Tbx20"
+      ],
+      "family": "hypothesis",
+      "anchors": [
+        "Hey2",
+        "Mycn"
+      ],
+      "anchor_min": 2,
+      "min_supported_genes": 3,
+      "source": "https://doi.org/10.1038/s41598-018-20917-w",
+      "interpretation": "Morphogenesis-era associations, not specific mature transmural position. Hey2 is not spatially exclusive."
+    },
+    "Trabecular_developmental": {
+      "display_label": "Developmental trabecular-associated candidate",
+      "genes": [
+        "Cdkn1c",
+        "Irx3",
+        "Bmp10",
+        "S1pr1",
+        "Gja5",
+        "Nppa"
+      ],
+      "family": "hypothesis",
+      "anchors": [
+        "Bmp10",
+        "Irx3",
+        "Cdkn1c"
+      ],
+      "anchor_min": 2,
+      "min_supported_genes": 3,
+      "source": "https://doi.org/10.1038/s41598-018-20917-w",
+      "interpretation": "Contextual embryonic/developmental association, not adult endocardial location; overlaps conduction/load programs."
+    },
+    "Conduction_overlap": {
+      "display_label": "Conduction-overlap control",
+      "genes": [
+        "Etv1",
+        "Cntn2",
+        "Gja5",
+        "Scn5a",
+        "Irx3"
+      ],
+      "family": "control",
+      "anchors": [
+        "Etv1",
+        "Cntn2"
+      ],
+      "anchor_min": 1,
+      "min_supported_genes": 3,
+      "source": "https://doi.org/10.1038/s44161-026-00861-z",
+      "interpretation": "Exploratory overlap check, not a main-paper signature and not Purkinje identity. Some markers overlap trabecular myocardium."
+    },
+    "Cycling": {
+      "display_label": "Cell-cycle control",
+      "genes": [
+        "Mki67",
+        "Top2a",
+        "Cdk1",
+        "Ccnb1",
+        "Cenpf",
+        "Ube2c",
+        "Mcm2",
+        "Mcm5",
+        "Pcna"
+      ],
+      "family": "control",
+      "anchors": [],
+      "anchor_min": 0,
+      "min_supported_genes": 3,
+      "source": "https://doi.org/10.1038/nbt.3102",
+      "interpretation": "Replication/cycling transcription, not completed cardiomyocyte division."
+    },
+    "Maturation_reference": {
+      "display_label": "Contractile/maturation-associated reference",
+      "genes": [
+        "Tnni3",
+        "Myh6",
+        "Atp2a2",
+        "Casq2",
+        "Cpt1b",
+        "Ppargc1a"
+      ],
+      "family": "control",
+      "anchors": [],
+      "anchor_min": 0,
+      "min_supported_genes": 3,
+      "source": "https://doi.org/10.1038/s44161-026-00861-z",
+      "interpretation": "Exploratory reference, not author maturation index or a validated maturity score; comparisons are within stage only."
+    },
+    "Ddc_reference": {
+      "display_label": "Ddc-associated ventricular candidate",
+      "genes": [
+        "1700042O10Rik",
+        "Ddc",
+        "Plppr1",
+        "Unc13c",
+        "Hey2",
+        "Tnni1",
+        "Lpar3",
+        "Hmgcs2",
+        "Acss3",
+        "Irx4"
+      ],
+      "family": "hypothesis",
+      "anchors": [
+        "Ddc"
+      ],
+      "anchor_min": 1,
+      "min_supported_genes": 3,
+      "source": "https://doi.org/10.1038/s44161-026-00861-z",
+      "gene_set_origin": "Supplementary Table3 state markers, exact author top10; same dataset, not independent validation.",
+      "interpretation": "Ddc-associated author ventricular state, not direct oxygen or wall-depth classification."
+    }
+  },
+  "display_programs": [
+    "Slit2_trabecular",
+    "Ankrd1_response",
+    "Ddc_reference",
+    "HIF_non_glycolytic",
+    "Oxidative_metabolism",
+    "Sarcomere_mechanics"
+  ],
+  "aliases": {
+    "Atp5f1a": [
+      "Atp5a1"
+    ],
+    "Atp5f1b": [
+      "Atp5b"
+    ],
+    "Atp5mc1": [
+      "Atp5g1"
+    ]
+  },
+  "gate": {
+    "core": "43,249 previous ventricular-like",
+    "reference": "1,214 previous CAR_3/CAR_9; Slit2-enriched ambiguous ventricular/conduction-overlap reference",
+    "expanded": 44463
+  },
+  "design": "Unsupervised stage-specific all-gene-HVG discovery; program scores/handpicked-only gene sets are not clustering inputs. Primary HVGs can include interpreted genes. Programs are interpreted post hoc, with a separate all-program-gene exclusion sensitivity.",
+  "notes": [
+    "Exact author Table3 state panels are separated from exploratory canonical process panels; same-dataset reference signatures are not independent validation.",
+    "No direct spatial, oxygen, mechanical load, metabolic flux or functional measurement.",
+    "Program z-scores are standardized separately per original library within stage; not across-age absolute scores.",
+    "Do not classify cells from one gene or equate HIF/glycolysis with measured hypoxia.",
+    "Primary paper-state programs use exact Table3 markers. Other panels are exploratory canonical subsets, not transferred full pathway signatures."
+  ]
+}

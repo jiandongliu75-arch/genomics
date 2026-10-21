@@ -1,5 +1,7 @@
 # Ventricular-like cardiomyocytes across P0, P7, P14 and P21
 
+**Subsequent gate review:** See the [expanded microenvironment analysis](../ventricular_microenvironment/README.md), which includes 1,214 Slit2-enriched ambiguous references previously excluded by the conduction-candidate gate. Exact author markers show Etv1/Gja5 overlap with trabecular Slit2.CMs; these genes alone do not establish conduction identity. The original 43,249-cell core results below are preserved for comparison.
+
 This analysis restricts the previously annotated dataset to **43,249 ventricular-like nuclei**. Atrial-like and conduction-associated candidates are excluded. The original expression matrices, QC and prior CAR labels are preserved. New ventricular-only embeddings and computational V-cluster IDs are added in separate outputs.
 
 | Stage | Ventricular-like nuclei |
