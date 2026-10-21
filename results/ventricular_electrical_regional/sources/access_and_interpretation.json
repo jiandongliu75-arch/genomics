@@ -1,0 +1,12 @@
+{
+  "retrieved_date": "2026-10-21",
+  "maintenance_question": "Low or undetected Irx5 RNA cannot establish absent IRX5 protein, regulatory activity, or functional dispensability. Protein persistence, sparse ongoing transcription, and chromatin memory are hypotheses, not measured mechanisms in this dataset.",
+  "critical_postnatal_paper": {
+    "doi": "10.1242/dev.081703",
+    "pmid": "22992950",
+    "verified": "Primary abstract explicitly reports postnatal myocardial combined Irx3/Irx5 deletion and restoration of the repolarization gradient altered in Irx5 mutants.",
+    "unverified": "Exact induction age, deletion schedule, and single-gene versus pre-existing null genetic design were not verified because full original methods were inaccessible. Do not describe this as definitive isolated adult Irx5 maintenance loss."
+  },
+  "no_direct_link": "No primary evidence of direct IRX5 regulation of Slit2 was established by this review. The 2024 Irx3/Tbx3 neonatal-CM perturbation supports a related regulatory network, not that specific edge.",
+  "copyright": "Factual metadata, paraphrased findings and derived analyses only; no original article figures or full texts redistributed."
+}

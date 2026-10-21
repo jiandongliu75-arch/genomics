@@ -1,0 +1,19 @@
+{
+  "id": "32898233",
+  "title": "Human model of IRX5 mutations reveals key role for this transcription factor in ventricular conduction.",
+  "authorString": "Al Sayed ZR, Canac R, Cimarosti B, Bonnard C, Gourraud JB, Hamamy H, Kayserili H, Girardeau A, Jouni M, Jacob N, Gaignerie A, Chariau C, David L, Forest V, Marionneau C, Charpentier F, Loussouarn G, Lamirault G, Reversade B, Zibara K, Lemarchand P, Gaborit N.",
+  "pubYear": "2021",
+  "doi": "10.1093/cvr/cvaa259",
+  "pmcid": null,
+  "verified_via": "Europe PMC core primary abstract and metadata; original full text not obtained",
+  "url": "https://doi.org/10.1093/cvr/cvaa259",
+  "findings": [
+    "Human ventricular IRX5 expression correlates with SCN5A/Nav1.5 and GJA5/Cx40.",
+    "Hamamy syndrome patient-derived hiPSC-CMs carrying homozygous IRX5 loss-of-function mutations have reduced sodium current and slower action-potential depolarization.",
+    "IRX5 forms a complex with GATA4 and potentiates GATA4-induced SCN5A expression."
+  ],
+  "limits": [
+    "Human cells and congenital mutations do not identify mouse postnatal wall position or prove adult maintenance requirement.",
+    "Study supports broader electrical roles than Kcnd2 repression; no direct IRX5-to-Slit2 mechanism established here."
+  ]
+}

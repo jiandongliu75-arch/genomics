@@ -1,0 +1,278 @@
+{
+  "retrieved_utc": "2026-10-21",
+  "scope": "Additional primary literature on Irx5/Kcnd2, Slit2-associated ventricular CMs, trabecular versus VCS interpretation; excludes already known Costantini2005 and DeLaughter2016.",
+  "interpretation": "Separate regional repolarization, rapid conduction-system overlap, and developmental trabecular maturation as competing or overlapping axes. RNA alone cannot establish physical location or conduction physiology.",
+  "sources": [
+    {
+      "title": "The trabecular and compact myocardium of adult vertebrate ventricles are transcriptionally similar despite morphological differences.",
+      "authorString": "Mulleners OJ, van der Maarel LE, Christoffels VM, Jensen B.",
+      "pubYear": "2025",
+      "doi": "10.1111/nyas.15296",
+      "id": "39934982",
+      "pmcid": "PMC11918530",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39934982/",
+      "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11918530/",
+      "evidence": "Primary spatial and single-cell cross-species comparisons of embryonic/adult trabecular and compact myocardium.",
+      "findings": [
+        "Embryonic mouse trabecular vs compact expression differs more than adult trabecular vs compact myocardium.",
+        "Adult differences were small and little conserved across sampled vertebrate species."
+      ],
+      "genes": [],
+      "cautions": [
+        "Embryonic anatomical programs do not automatically persist into adult CM transcriptional identity.",
+        "Does not refute rare conduction subtypes or all finer adult regional electrophysiology differences."
+      ],
+      "verification": {
+        "metadata": "Europe PMC core REST API",
+        "text": "Indexed primary abstract; full original methods not verified in this review"
+      }
+    },
+    {
+      "title": "Transcriptional regulation of the postnatal cardiac conduction system heterogeneity.",
+      "authorString": "Oh Y, Abid R, Dababneh S, Bakr M, Aslani T, Cook DP, Vanderhyden BC, Park JG, Munshi NV, Hui CC, Kim KH.",
+      "pubYear": "2024",
+      "doi": "10.1038/s41467-024-50849-1",
+      "id": "39095365",
+      "pmcid": "PMC11297185",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39095365/",
+      "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11297185/",
+      "evidence": "P1/P2/P4 Cntn2 reporter-enriched mouse CM scRNA-seq, P4 GeoMx spatial transcriptomics, histology/FISH, neonatal CM TF overexpression.",
+      "findings": [
+        "Slit2 and Sema3a are distal ventricular conduction-system markers in this reference.",
+        "Distal BB and Purkinje: Myl2/Myl3/Irx3/Gja5/Gja1/Slit2/Sema3a-positive; atrial Myl4/Myl7 low.",
+        "Mpped2, Scn10a and Nppa enriched distal VCS; Pcp4 throughout VCS with stronger His/BB signal.",
+        "Tbx3 and Irx3 activated Mpped2 and Slit2 in neonatal ventricular, but not atrial, CMs.",
+        "Irx3 overexpression activates Nppa, Scn10a, Gja5; Tbx3 coexpression reduces activation of these targets.",
+        "Mpped2 and NaV1.8 show somewhat broader endomyocardial distribution than reporter-labeled VCS.",
+        "Reporter-positive viable cells were 0.1-0.2% of all viable cardiomyocytes; enrichment pipeline is not a population census."
+      ],
+      "genes": [
+        "Irx3",
+        "Etv1",
+        "Gja5",
+        "Gja1",
+        "Slit2",
+        "Sema3a",
+        "Cntn2",
+        "Pcp4",
+        "Mpped2",
+        "Scn10a",
+        "Nppa",
+        "Myl2",
+        "Myl3"
+      ],
+      "cautions": [
+        "Directly relevant postnatal reference, but P1-P4 and reporter enrichment differ from P0/P7/P14/P21 unsorted nuclei.",
+        "Slit2 expression can reflect distal VCS overlap or broader endomyocardial regional programs, and is not unique Purkinje proof.",
+        "Scn10a short transcript predominates: gene-level detection does not establish full-length NaV1.8 channel.",
+        "No Irx5-specific mechanistic claim from this paper."
+      ],
+      "verification": {
+        "metadata": "Europe PMC core REST API",
+        "text": "Full primary text"
+      }
+    },
+    {
+      "title": "Transcription factor ETV1 is essential for rapid conduction in the heart.",
+      "authorString": "Shekhar A, Lin X, Liu FY, Zhang J, Mo H, Bastarache L, Denny JC, Cox NJ, Delmar M, Roden DM, Fishman GI, Park DS.",
+      "pubYear": "2016",
+      "doi": "10.1172/jci87968",
+      "id": "27775552",
+      "pmcid": "PMC5127680",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/27775552/",
+      "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5127680/",
+      "evidence": "Mouse Etv1 loss-of-function and electrophysiology, developmental VCS analyses, NRG1 response and human phenome associations.",
+      "findings": [
+        "ETV1 establishes fast-conduction physiology in pectinated atrial myocardium and ventricular conduction system.",
+        "ETV1 regulates Nkx2-5, Gja5 and Scn5a and affects sodium current heterogeneity."
+      ],
+      "genes": [
+        "Etv1",
+        "Nkx2-5",
+        "Gja5",
+        "Scn5a"
+      ],
+      "cautions": [
+        "Etv1 is not Purkinje-specific because atrial fast-conduction tissue also expresses it.",
+        "Need ventricular lineage confirmation and an independent VCS/Purkinje panel."
+      ],
+      "verification": {
+        "metadata": "Europe PMC core REST API",
+        "text": "Indexed primary abstract; full original methods not verified in this review"
+      }
+    },
+    {
+      "title": "Irx3 is required for postnatal maturation of the mouse ventricular conduction system.",
+      "authorString": "Kim KH, Rosen A, Hussein SM, Puviindran V, Korogyi AS, Chiarello C, Nagy A, Hui CC, Backx PH.",
+      "pubYear": "2016",
+      "doi": "10.1038/srep19197",
+      "id": "26786475",
+      "pmcid": "PMC4726432",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/26786475/",
+      "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4726432/",
+      "evidence": "Irx3 knockout mouse P0, P4 and adult VCS reporter morphology and ECG, plus functional transcriptional analysis.",
+      "findings": [
+        "Mild VCS structural defects at P0 progressed to marked loss of fiber density/thickness and right bundle branch block by P4.",
+        "Progressive VCS hypoplasia associated with defective CM recruitment/maturation, rather than increased VCS apoptosis.",
+        "Irx3 promotes VCS-enriched transcripts targeted by Nkx2.5 and/or Tbx5."
+      ],
+      "genes": [
+        "Irx3",
+        "Gja5",
+        "Gja1",
+        "Nkx2-5",
+        "Tbx5"
+      ],
+      "cautions": [
+        "Developmental transcriptional differences can encode VCS maturation across stages, not only stable mature identities.",
+        "Loss-of-function phenotypes do not show that a wild-type expression gradient alone measures conduction velocity."
+      ],
+      "verification": {
+        "metadata": "Europe PMC core REST API",
+        "text": "Full primary text"
+      }
+    },
+    {
+      "title": "Cooperative and antagonistic roles for Irx3 and Irx5 in cardiac morphogenesis and postnatal physiology.",
+      "authorString": "Gaborit N, Sakuma R, Wylie JN, Kim KH, Zhang SS, Hui CC, Bruneau BG.",
+      "pubYear": "2012",
+      "doi": "10.1242/dev.081703",
+      "id": "22992950",
+      "pmcid": "PMC3472592",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/22992950/",
+      "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3472592/",
+      "evidence": "Mouse Irx3/Irx5 combined loss and postnatal myocardial conditional perturbation.",
+      "findings": [
+        "Irx3 and Irx5 have overlapping and distinct developmental domains.",
+        "Postnatal combined Irx3/Irx5 loss prolongs AV conduction and is associated in part with Nav1.5 activation changes.",
+        "Combined loss restores repolarization gradient altered in Irx5 mutants, showing non-additive regulatory interaction."
+      ],
+      "genes": [
+        "Irx3",
+        "Irx5",
+        "Scn5a",
+        "Bmp10"
+      ],
+      "cautions": [
+        "Irx5 repolarization and Irx3 rapid-conduction roles are related but distinct.",
+        "Irx5-high/Kcnd2-low in observational nuclei is consistent with a regional repolarization program, not direct functional proof or causal regulation per cluster."
+      ],
+      "verification": {
+        "metadata": "Europe PMC core REST API",
+        "text": "Indexed primary abstract; full original methods not verified in this review"
+      }
+    },
+    {
+      "title": "Iroquois homeobox gene 3 establishes fast conduction in the cardiac His-Purkinje network.",
+      "authorString": "Zhang SS, Kim KH, Rosen A, Smyth JW, Sakuma R, Delgado-Olgu\u00edn P, Davis M, Chi NC, Puviindran V, Gaborit N, Sukonnik T, Wylie JN, Brand-Arzamendi K, Farman GP, Kim J, Rose RA, Marsden PA, Zhu Y, Zhou YQ, Miquerol L, Henkelman RM, Stainier DY, Shaw RM, Hui CC, Bruneau BG, Backx PH.",
+      "pubYear": "2011",
+      "doi": "10.1073/pnas.1106911108",
+      "id": "21825130",
+      "pmcid": "PMC3158173",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/21825130/",
+      "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3158173/",
+      "evidence": "Irx3 mouse loss-of-function, VCS localization, electrophysiology and transcriptional assays.",
+      "findings": [
+        "Irx3 required for rapid His-Purkinje propagation.",
+        "Irx3 loss reduces Cx40/Gja5 and causes ectopic Cx43/Gja1 in proximal bundle branches.",
+        "Irx3 directly represses Gja1 and indirectly promotes Gja5."
+      ],
+      "genes": [
+        "Irx3",
+        "Gja5",
+        "Gja1"
+      ],
+      "cautions": [
+        "Gja1 is region-specific, not uniformly absent across the whole distal VCS; interpret with the 2024 regional atlas.",
+        "Irx3 RNA expression alone does not identify anatomically verified Purkinje cells."
+      ],
+      "verification": {
+        "metadata": "Europe PMC core REST API",
+        "text": "Indexed primary abstract; full original methods not verified in this review"
+      }
+    },
+    {
+      "title": "Biphasic development of the mammalian ventricular conduction system.",
+      "authorString": "Miquerol L, Moreno-Rascon N, Beyer S, Dupays L, Meilhac SM, Buckingham ME, Franco D, Kelly RG.",
+      "pubYear": "2010",
+      "doi": "10.1161/circresaha.110.218156",
+      "id": "20466980",
+      "pmcid": null,
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/20466980/",
+      "evidence": "Clonal analysis in three-week-old mouse hearts with alpha-cardiac actin nlaacZ and Cx40-EGFP; Cre fate mapping.",
+      "findings": [
+        "Conductive and working myocytes share progenitors.",
+        "Cx40-positive myocytes progressively restrict to conductive fate during development.",
+        "Lineage restriction is followed by limited expansion in the VCS."
+      ],
+      "genes": [
+        "Gja5"
+      ],
+      "cautions": [
+        "Developmental Gja5 expression is broader than mature conduction fate.",
+        "Shared trabecular/VCS programs need not mean all cells in a cluster are mature Purkinje cells."
+      ],
+      "verification": {
+        "metadata": "Europe PMC core REST API",
+        "text": "Indexed primary abstract; full original methods not verified in this review"
+      }
+    },
+    {
+      "title": "Contactin-2 expression in the cardiac Purkinje fiber network.",
+      "authorString": "Pallante BA, Giovannone S, Fang-Yu L, Zhang J, Liu N, Kang G, Dun W, Boyden PA, Fishman GI.",
+      "pubYear": "2010",
+      "doi": "10.1161/circep.109.928820",
+      "id": "20110552",
+      "pmcid": "PMC3068837",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/20110552/",
+      "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3068837/",
+      "evidence": "Murine Purkinje vs working-CM transcriptional profiling, anatomical colocalization, reporter cells with patch clamp/Ca transients; canine validation.",
+      "findings": [
+        "Cntn2 highly enriched in Purkinje network compared with working ventricular CMs.",
+        "In the mouse ventricle Cntn2 localizes to subendocardial network coexpressing CCS-lacZ and Cx40.",
+        "Reporter-positive cells displayed Purkinje-like prolonged action potentials and frequent afterdepolarizations."
+      ],
+      "genes": [
+        "Cntn2",
+        "Gja5"
+      ],
+      "cautions": [
+        "Marker validation strongest with anatomy plus physiological testing.",
+        "Sparse Cntn2 in snRNA-seq does not exclude conduction biology; a single detection does not establish identity."
+      ],
+      "verification": {
+        "metadata": "Europe PMC core REST API",
+        "text": "Indexed primary abstract; full original methods not verified in this review"
+      }
+    }
+  ],
+  "suggested_validation": {
+    "repolarization_axis": [
+      "Irx5",
+      "Kcnd2",
+      "Kcnip2",
+      "Kcnd3"
+    ],
+    "fast_conduction_axis": [
+      "Irx3",
+      "Etv1",
+      "Gja5",
+      "Scn5a"
+    ],
+    "distal_VCS_overlap": [
+      "Cntn2",
+      "Pcp4",
+      "Sema3a",
+      "Mpped2",
+      "Scn10a",
+      "Slit2"
+    ],
+    "analytical_tests": [
+      "Within each age and sample, test coexpression of independent gene panels in individual cells, not only cluster means.",
+      "Report fraction detected and expression for each marker because ion-channel and adhesion gene dropout is common in nuclei.",
+      "Use sample-aware pseudobulk for group comparisons; inspect whether high-module cells recur across samples.",
+      "Map to the postnatal CCS reference cautiously given assay and age differences.",
+      "Use Xenium or RNAscope/anatomical localization for Slit2/Irx5/Kcnd2 plus multi-marker VCS confirmation; physiology is needed for actual conduction claims."
+    ]
+  }
+}
