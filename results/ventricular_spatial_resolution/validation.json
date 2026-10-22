@@ -1,0 +1,46 @@
+{
+  "status": "PASS",
+  "stages": [
+    {
+      "stage": "P0",
+      "original_rows_conserved": 47611,
+      "fine_proposals_checked": 21994,
+      "calibration_validation_assessment_rows_partitioned": 11046,
+      "no_assessment_labels_used_to_select_merges_or_cut": true,
+      "sampled_sensitivity_rows_independently_recomputed": 90,
+      "all_marker_detection_counts_recomputed": 21994,
+      "source_hashes_unchanged": true
+    },
+    {
+      "stage": "P7",
+      "original_rows_conserved": 99429,
+      "fine_proposals_checked": 38580,
+      "calibration_validation_assessment_rows_partitioned": 13040,
+      "no_assessment_labels_used_to_select_merges_or_cut": true,
+      "sampled_sensitivity_rows_independently_recomputed": 90,
+      "all_marker_detection_counts_recomputed": 38580,
+      "source_hashes_unchanged": true
+    },
+    {
+      "stage": "P14",
+      "original_rows_conserved": 117070,
+      "fine_proposals_checked": 49656,
+      "calibration_validation_assessment_rows_partitioned": 11042,
+      "no_assessment_labels_used_to_select_merges_or_cut": true,
+      "sampled_sensitivity_rows_independently_recomputed": 90,
+      "all_marker_detection_counts_recomputed": 49656,
+      "source_hashes_unchanged": true
+    },
+    {
+      "stage": "P21",
+      "original_rows_conserved": 143944,
+      "fine_proposals_checked": 58358,
+      "calibration_validation_assessment_rows_partitioned": 9335,
+      "no_assessment_labels_used_to_select_merges_or_cut": true,
+      "sampled_sensitivity_rows_independently_recomputed": 90,
+      "all_marker_detection_counts_recomputed": 58358,
+      "source_hashes_unchanged": true
+    }
+  ],
+  "scope": "Numerical conservation, technical label recovery and sensitivity; no independent anatomical or animal-level validation."
+}

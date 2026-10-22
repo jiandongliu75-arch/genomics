@@ -1,0 +1,6 @@
+group	stage	selected_weight_threshold	minimum_margin	validation_rule_passes	selective_RNA_assessment_pass	validation_min_selected	validation_min_precision	assessment_min_selected	assessment_min_precision	assessment_fold1_library	assessment_fold1_called	assessment_fold1_correct	assessment_fold1_precision	assessment_fold2_library	assessment_fold2_called	assessment_fold2_correct	assessment_fold2_precision
+P14_M0	P14	0.5	0.1	True	True	43	0.75	43	0.8095238095238095	GSM8827075_P14_1	84	68	0.8095238095238095	GSM8827076_P14_2	43	37	0.8604651162790697
+P14_M1	P14	0.6	0.1	True	False	67	0.76	83	0.5979381443298969	GSM8827075_P14_1	83	52	0.6265060240963856	GSM8827076_P14_2	97	58	0.5979381443298969
+P14_M2	P14	0.6	0.1	True	True	38	0.8452380952380952	50	0.8987341772151899	GSM8827075_P14_1	50	46	0.92	GSM8827076_P14_2	79	71	0.8987341772151899
+P14_M3	P14	NA	0.1	False	False	0	NA	0	NA	GSM8827075_P14_1	0	0	NA	GSM8827076_P14_2	0	0	NA
+P14_M4	P14	0.35	0.1	True	False	23	0.8181818181818182	22	0.7027027027027027	GSM8827075_P14_1	22	21	0.9545454545454546	GSM8827076_P14_2	37	26	0.7027027027027027

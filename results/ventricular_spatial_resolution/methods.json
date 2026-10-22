@@ -1,0 +1,66 @@
+{
+  "python": "3.12.14",
+  "versions": {
+    "numpy": "2.5.4",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1",
+    "anndata": "0.13.4",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2"
+  },
+  "fine_RNA_groups": 28,
+  "source_cohort": "168588 previously frozen ventricular-enriched candidates",
+  "new_RNA_clustering": false,
+  "source_counts_or_coordinates_modified": false,
+  "spatial_smoothing": false,
+  "author_labels_used_in_fit": false,
+  "known_RNA_labels_independently_defined": false,
+  "withheld_assessment_used_to_select_cut_or_threshold": false,
+  "Xenium_probabilities_calibrated": false,
+  "thresholds_transfer_from_RNA_to_Xenium_validated": false,
+  "independent_anatomical_validation": false,
+  "Kcnd2_Irx5_assayed": false,
+  "design": {
+    "scope": "Existing28 stage-specific ventricular RNA groups; no new RNA clustering or changed membership",
+    "reference_normalization": "log2(1+CPM),381 shared genes; same assay scaling/30-neighbor/temperature0.10 as preceding benchmark",
+    "RNA_split": "Within original library and group, cell IDs hash-sorted with heart-fine-resolution-v1, ranks modulo4:0/1 calibration,2 validation,3 assessment",
+    "hierarchy": "Merge maximum bidirectional class-normalized calibration confusion; no assessment labels used for merges or cut selection",
+    "selected_cut": "Largest K with every class passing both-library quality criteria on validation quarter; then assess this frozen cut on final quarter",
+    "quality_criteria": {
+      "min_precision": 0.6,
+      "min_recall": 0.35,
+      "min_f1": 0.5,
+      "min_query_per_library": 10,
+      "min_reference_per_library": 15
+    },
+    "half_gene_sets": "Sorted sha256 of heart-fine-panel-v1:gene, alternating halves",
+    "panel_marker_selection": "Up to6 genes; minimum group-minus-rest mean log1pCP10k effect>=0.15 in both original libraries and raw/corrected counts; raw detection>=0.15 in both; excludes generic chamber anchors",
+    "spatial_tiers": {
+      "multi_check_candidate": "weight>=0.70,margin>=0.20,both libraries agree,original-count reference agrees,>=2 measured supporting genes,original fine class passes final RNA assessment criteria",
+      "library_raw_consistent": "weight>=0.50,margin>=0.10,both libraries agree,original reference agrees,>=2 measured supporting genes",
+      "exploratory": "weight>=0.35,margin>=0.05",
+      "diffuse": "remaining included cells"
+    },
+    "markers_independent_validation": false,
+    "author_labels_used_in_fit": false,
+    "spatial_smoothing": false,
+    "reference_sha256": "6615efea98c8d1f63f4819d620a8af095c93e2187ffed8c93b8520729b82ab64"
+  },
+  "local_design": {
+    "threshold_grid": [
+      0.35,
+      0.5,
+      0.6,
+      0.7,
+      0.8,
+      0.9
+    ],
+    "minimum_margin": 0.1,
+    "minimum_selected_per_library": 10,
+    "minimum_validation_precision_each_library": 0.75,
+    "minimum_assessment_precision_each_library": 0.75,
+    "selection": "Lowest threshold passing validation in both libraries; assessment evaluates that frozen threshold.",
+    "spatial_local_flag": "Selected threshold and margin, both full-library projections agree, original-reference projection agrees,>=2 measured supporting genes, class passes selective RNA assessment.",
+    "interpretation": "Internal selective RNA label recovery; neither a calibrated Xenium probability nor independent anatomical truth."
+  }
+}

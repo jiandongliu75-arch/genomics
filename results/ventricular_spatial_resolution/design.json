@@ -1,0 +1,26 @@
+{
+  "scope": "Existing28 stage-specific ventricular RNA groups; no new RNA clustering or changed membership",
+  "reference_normalization": "log2(1+CPM),381 shared genes; same assay scaling/30-neighbor/temperature0.10 as preceding benchmark",
+  "RNA_split": "Within original library and group, cell IDs hash-sorted with heart-fine-resolution-v1, ranks modulo4:0/1 calibration,2 validation,3 assessment",
+  "hierarchy": "Merge maximum bidirectional class-normalized calibration confusion; no assessment labels used for merges or cut selection",
+  "selected_cut": "Largest K with every class passing both-library quality criteria on validation quarter; then assess this frozen cut on final quarter",
+  "quality_criteria": {
+    "min_precision": 0.6,
+    "min_recall": 0.35,
+    "min_f1": 0.5,
+    "min_query_per_library": 10,
+    "min_reference_per_library": 15
+  },
+  "half_gene_sets": "Sorted sha256 of heart-fine-panel-v1:gene, alternating halves",
+  "panel_marker_selection": "Up to6 genes; minimum group-minus-rest mean log1pCP10k effect>=0.15 in both original libraries and raw/corrected counts; raw detection>=0.15 in both; excludes generic chamber anchors",
+  "spatial_tiers": {
+    "multi_check_candidate": "weight>=0.70,margin>=0.20,both libraries agree,original-count reference agrees,>=2 measured supporting genes,original fine class passes final RNA assessment criteria",
+    "library_raw_consistent": "weight>=0.50,margin>=0.10,both libraries agree,original reference agrees,>=2 measured supporting genes",
+    "exploratory": "weight>=0.35,margin>=0.05",
+    "diffuse": "remaining included cells"
+  },
+  "markers_independent_validation": false,
+  "author_labels_used_in_fit": false,
+  "spatial_smoothing": false,
+  "reference_sha256": "6615efea98c8d1f63f4819d620a8af095c93e2187ffed8c93b8520729b82ab64"
+}

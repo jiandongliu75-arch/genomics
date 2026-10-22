@@ -1,0 +1,10 @@
+group	stage	selected_weight_threshold	minimum_margin	validation_rule_passes	selective_RNA_assessment_pass	validation_min_selected	validation_min_precision	assessment_min_selected	assessment_min_precision	assessment_fold1_library	assessment_fold1_called	assessment_fold1_correct	assessment_fold1_precision	assessment_fold2_library	assessment_fold2_called	assessment_fold2_correct	assessment_fold2_precision
+P7_M0	P7	NA	0.1	False	False	0	NA	0	NA	GSM8827073_P7_1	0	0	NA	GSM8827074_P7_2	0	0	NA
+P7_M1	P7	NA	0.1	False	False	0	NA	0	NA	GSM8827073_P7_1	0	0	NA	GSM8827074_P7_2	0	0	NA
+P7_M2	P7	NA	0.1	False	False	0	NA	0	NA	GSM8827073_P7_1	0	0	NA	GSM8827074_P7_2	0	0	NA
+P7_M3	P7	0.35	0.1	True	True	89	0.8876404494382022	94	0.8085106382978723	GSM8827073_P7_1	94	76	0.8085106382978723	GSM8827074_P7_2	106	104	0.9811320754716981
+P7_M4	P7	NA	0.1	False	False	0	NA	0	NA	GSM8827073_P7_1	0	0	NA	GSM8827074_P7_2	0	0	NA
+P7_M5	P7	NA	0.1	False	False	0	NA	0	NA	GSM8827073_P7_1	0	0	NA	GSM8827074_P7_2	0	0	NA
+P7_M6	P7	0.35	0.1	True	True	21	1.0	22	0.9545454545454546	GSM8827073_P7_1	26	25	0.9615384615384616	GSM8827074_P7_2	22	21	0.9545454545454546
+P7_M7	P7	NA	0.1	False	False	0	NA	0	NA	GSM8827073_P7_1	0	0	NA	GSM8827074_P7_2	0	0	NA
+P7_M8	P7	NA	0.1	False	False	0	NA	0	NA	GSM8827073_P7_1	0	0	NA	GSM8827074_P7_2	0	0	NA
