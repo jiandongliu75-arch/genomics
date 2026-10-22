@@ -1,0 +1,36 @@
+{
+  "stages": {
+    "P0": {
+      "original_cells": 47611,
+      "unique_ids": 47611
+    },
+    "P7": {
+      "original_cells": 99429,
+      "unique_ids": 99429
+    },
+    "P14": {
+      "original_cells": 117070,
+      "unique_ids": 117070
+    },
+    "P21": {
+      "original_cells": 143944,
+      "unique_ids": 143944
+    }
+  },
+  "offline": true,
+  "external_resources": false,
+  "coordinate_rounding": false,
+  "categories": [
+    "Cardiomyocyte",
+    "Endothelial",
+    "Fibroblast",
+    "Pericyte",
+    "Smooth muscle",
+    "Immune",
+    "Epicardial",
+    "Mixed-marker review",
+    "Ambiguous/review",
+    "QC/information flag"
+  ],
+  "browser_requirement": "Current browser with DecompressionStream(gzip), canvas and ResizeObserver"
+}

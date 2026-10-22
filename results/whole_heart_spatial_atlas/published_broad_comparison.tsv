@@ -1,0 +1,275 @@
+stage	atlas_identity	published_comparator	cells
+P0	Cardiomyocyte	Cardiomyocyte	26030
+P0	Cardiomyocyte	Endothelial	316
+P0	Cardiomyocyte	Not classified/present	173
+P0	Cardiomyocyte	Fibroblast	151
+P0	Cardiomyocyte	Pericyte	60
+P0	Cardiomyocyte	Blood (published)	30
+P0	Endothelial	Endothelial	6098
+P0	Endothelial	Cardiomyocyte	166
+P0	Endothelial	Pericyte	53
+P0	Endothelial	Fibroblast	44
+P0	Endothelial	Blood (published)	13
+P0	Endothelial	Smooth muscle	12
+P0	Endothelial	Not classified/present	8
+P0	Fibroblast	Fibroblast	2116
+P0	Fibroblast	Smooth muscle	96
+P0	Fibroblast	Cardiomyocyte	57
+P0	Fibroblast	Endothelial	17
+P0	Fibroblast	Pericyte	16
+P0	Fibroblast	Neural (published)	6
+P0	Fibroblast	Blood (published)	5
+P0	Fibroblast	Epicardial	4
+P0	Fibroblast	Not classified/present	2
+P0	Pericyte	Pericyte	454
+P0	Pericyte	Cardiomyocyte	4
+P0	Pericyte	Smooth muscle	2
+P0	Smooth muscle	Smooth muscle	598
+P0	Immune	Blood (published)	293
+P0	Immune	Fibroblast	2
+P0	Immune	Cardiomyocyte	1
+P0	Immune	Smooth muscle	1
+P0	Epicardial	Epicardial	230
+P0	Epicardial	Fibroblast	5
+P0	Epicardial	Cardiomyocyte	3
+P0	Mixed-marker review	Endothelial	363
+P0	Mixed-marker review	Fibroblast	80
+P0	Mixed-marker review	Blood (published)	42
+P0	Mixed-marker review	Smooth muscle	41
+P0	Mixed-marker review	Pericyte	28
+P0	Mixed-marker review	Cardiomyocyte	4
+P0	Mixed-marker review	Epicardial	1
+P0	Ambiguous/review	Cardiomyocyte	2574
+P0	Ambiguous/review	Fibroblast	2263
+P0	Ambiguous/review	Endothelial	1533
+P0	Ambiguous/review	Smooth muscle	990
+P0	Ambiguous/review	Pericyte	595
+P0	Ambiguous/review	Epicardial	212
+P0	Ambiguous/review	Not classified/present	196
+P0	Ambiguous/review	Blood (published)	175
+P0	Ambiguous/review	Neural (published)	37
+P0	QC/information flag	Not classified/present	485
+P0	QC/information flag	Fibroblast	271
+P0	QC/information flag	Cardiomyocyte	257
+P0	QC/information flag	Endothelial	221
+P0	QC/information flag	Smooth muscle	93
+P0	QC/information flag	Epicardial	38
+P0	QC/information flag	Pericyte	32
+P0	QC/information flag	Blood (published)	14
+P7	Cardiomyocyte	Cardiomyocyte	42298
+P7	Cardiomyocyte	Endothelial	3620
+P7	Cardiomyocyte	Fibroblast	678
+P7	Cardiomyocyte	Blood (published)	463
+P7	Cardiomyocyte	Pericyte	415
+P7	Cardiomyocyte	Not classified/present	254
+P7	Cardiomyocyte	Smooth muscle	17
+P7	Cardiomyocyte	Epicardial	2
+P7	Cardiomyocyte	Neural (published)	2
+P7	Endothelial	Endothelial	15413
+P7	Endothelial	Pericyte	264
+P7	Endothelial	Cardiomyocyte	243
+P7	Endothelial	Fibroblast	43
+P7	Endothelial	Blood (published)	31
+P7	Endothelial	Smooth muscle	9
+P7	Endothelial	Not classified/present	6
+P7	Endothelial	Neural (published)	1
+P7	Fibroblast	Fibroblast	7610
+P7	Fibroblast	Cardiomyocyte	298
+P7	Fibroblast	Endothelial	190
+P7	Fibroblast	Smooth muscle	181
+P7	Fibroblast	Not classified/present	100
+P7	Fibroblast	Blood (published)	79
+P7	Fibroblast	Pericyte	53
+P7	Fibroblast	Epicardial	33
+P7	Fibroblast	Neural (published)	20
+P7	Pericyte	Pericyte	1906
+P7	Pericyte	Smooth muscle	24
+P7	Pericyte	Fibroblast	6
+P7	Pericyte	Cardiomyocyte	4
+P7	Pericyte	Endothelial	3
+P7	Pericyte	Blood (published)	1
+P7	Smooth muscle	Smooth muscle	904
+P7	Smooth muscle	Fibroblast	4
+P7	Smooth muscle	Endothelial	1
+P7	Immune	Blood (published)	1262
+P7	Immune	Fibroblast	6
+P7	Immune	Cardiomyocyte	3
+P7	Immune	Not classified/present	2
+P7	Immune	Endothelial	1
+P7	Immune	Pericyte	1
+P7	Epicardial	Epicardial	359
+P7	Epicardial	Cardiomyocyte	3
+P7	Epicardial	Blood (published)	3
+P7	Epicardial	Fibroblast	2
+P7	Mixed-marker review	Endothelial	990
+P7	Mixed-marker review	Fibroblast	275
+P7	Mixed-marker review	Blood (published)	204
+P7	Mixed-marker review	Pericyte	149
+P7	Mixed-marker review	Not classified/present	35
+P7	Mixed-marker review	Smooth muscle	13
+P7	Mixed-marker review	Epicardial	9
+P7	Mixed-marker review	Cardiomyocyte	5
+P7	Ambiguous/review	Endothelial	6339
+P7	Ambiguous/review	Fibroblast	4153
+P7	Ambiguous/review	Cardiomyocyte	2646
+P7	Ambiguous/review	Smooth muscle	2607
+P7	Ambiguous/review	Pericyte	1927
+P7	Ambiguous/review	Blood (published)	859
+P7	Ambiguous/review	Epicardial	325
+P7	Ambiguous/review	Not classified/present	302
+P7	Ambiguous/review	Neural (published)	194
+P7	QC/information flag	Not classified/present	542
+P7	QC/information flag	Fibroblast	392
+P7	QC/information flag	Endothelial	272
+P7	QC/information flag	Cardiomyocyte	171
+P7	QC/information flag	Pericyte	93
+P7	QC/information flag	Smooth muscle	49
+P7	QC/information flag	Blood (published)	42
+P7	QC/information flag	Epicardial	16
+P7	QC/information flag	Neural (published)	2
+P14	Cardiomyocyte	Cardiomyocyte	43978
+P14	Cardiomyocyte	Endothelial	2166
+P14	Cardiomyocyte	Not classified/present	481
+P14	Cardiomyocyte	Blood (published)	286
+P14	Cardiomyocyte	Pericyte	255
+P14	Cardiomyocyte	Fibroblast	218
+P14	Cardiomyocyte	Epicardial	116
+P14	Cardiomyocyte	Smooth muscle	4
+P14	Cardiomyocyte	Neural (published)	2
+P14	Endothelial	Endothelial	22322
+P14	Endothelial	Cardiomyocyte	394
+P14	Endothelial	Not classified/present	212
+P14	Endothelial	Pericyte	48
+P14	Endothelial	Fibroblast	39
+P14	Endothelial	Smooth muscle	30
+P14	Endothelial	Blood (published)	13
+P14	Endothelial	Epicardial	2
+P14	Fibroblast	Fibroblast	8753
+P14	Fibroblast	Cardiomyocyte	486
+P14	Fibroblast	Endothelial	293
+P14	Fibroblast	Smooth muscle	126
+P14	Fibroblast	Not classified/present	62
+P14	Fibroblast	Blood (published)	32
+P14	Fibroblast	Pericyte	31
+P14	Fibroblast	Neural (published)	21
+P14	Fibroblast	Epicardial	20
+P14	Pericyte	Pericyte	4224
+P14	Pericyte	Smooth muscle	121
+P14	Pericyte	Not classified/present	110
+P14	Pericyte	Cardiomyocyte	61
+P14	Pericyte	Endothelial	48
+P14	Pericyte	Fibroblast	34
+P14	Pericyte	Blood (published)	3
+P14	Smooth muscle	Smooth muscle	3671
+P14	Smooth muscle	Endothelial	45
+P14	Smooth muscle	Fibroblast	11
+P14	Smooth muscle	Cardiomyocyte	3
+P14	Smooth muscle	Pericyte	1
+P14	Immune	Blood (published)	1979
+P14	Immune	Fibroblast	27
+P14	Immune	Cardiomyocyte	24
+P14	Immune	Endothelial	23
+P14	Immune	Not classified/present	17
+P14	Immune	Pericyte	7
+P14	Immune	Epicardial	2
+P14	Immune	Smooth muscle	2
+P14	Epicardial	Epicardial	398
+P14	Epicardial	Fibroblast	7
+P14	Epicardial	Cardiomyocyte	2
+P14	Epicardial	Blood (published)	2
+P14	Mixed-marker review	Endothelial	2013
+P14	Mixed-marker review	Fibroblast	930
+P14	Mixed-marker review	Blood (published)	690
+P14	Mixed-marker review	Pericyte	465
+P14	Mixed-marker review	Smooth muscle	83
+P14	Mixed-marker review	Epicardial	26
+P14	Mixed-marker review	Not classified/present	19
+P14	Mixed-marker review	Cardiomyocyte	5
+P14	Ambiguous/review	Endothelial	6660
+P14	Ambiguous/review	Cardiomyocyte	4651
+P14	Ambiguous/review	Fibroblast	3274
+P14	Ambiguous/review	Smooth muscle	2284
+P14	Ambiguous/review	Not classified/present	1157
+P14	Ambiguous/review	Pericyte	1023
+P14	Ambiguous/review	Blood (published)	668
+P14	Ambiguous/review	Neural (published)	405
+P14	Ambiguous/review	Epicardial	242
+P14	QC/information flag	Not classified/present	624
+P14	QC/information flag	Fibroblast	288
+P14	QC/information flag	Cardiomyocyte	128
+P14	QC/information flag	Smooth muscle	91
+P14	QC/information flag	Endothelial	77
+P14	QC/information flag	Pericyte	39
+P14	QC/information flag	Blood (published)	15
+P14	QC/information flag	Epicardial	1
+P21	Cardiomyocyte	Cardiomyocyte	58437
+P21	Cardiomyocyte	Endothelial	2222
+P21	Cardiomyocyte	Fibroblast	282
+P21	Cardiomyocyte	Pericyte	144
+P21	Cardiomyocyte	Blood (published)	96
+P21	Cardiomyocyte	Neural (published)	14
+P21	Cardiomyocyte	Epicardial	11
+P21	Cardiomyocyte	Smooth muscle	1
+P21	Endothelial	Endothelial	23321
+P21	Endothelial	Cardiomyocyte	624
+P21	Endothelial	Pericyte	102
+P21	Endothelial	Fibroblast	79
+P21	Endothelial	Smooth muscle	17
+P21	Endothelial	Blood (published)	5
+P21	Endothelial	Epicardial	4
+P21	Endothelial	Neural (published)	1
+P21	Fibroblast	Fibroblast	11440
+P21	Fibroblast	Cardiomyocyte	822
+P21	Fibroblast	Endothelial	587
+P21	Fibroblast	Neural (published)	74
+P21	Fibroblast	Epicardial	63
+P21	Fibroblast	Smooth muscle	41
+P21	Fibroblast	Pericyte	33
+P21	Fibroblast	Blood (published)	23
+P21	Pericyte	Pericyte	4337
+P21	Pericyte	Cardiomyocyte	131
+P21	Pericyte	Endothelial	33
+P21	Pericyte	Smooth muscle	27
+P21	Pericyte	Fibroblast	18
+P21	Pericyte	Blood (published)	1
+P21	Pericyte	Epicardial	1
+P21	Smooth muscle	Smooth muscle	1781
+P21	Smooth muscle	Endothelial	38
+P21	Smooth muscle	Cardiomyocyte	16
+P21	Smooth muscle	Pericyte	8
+P21	Smooth muscle	Fibroblast	8
+P21	Immune	Blood (published)	3142
+P21	Immune	Endothelial	83
+P21	Immune	Fibroblast	52
+P21	Immune	Cardiomyocyte	50
+P21	Immune	Pericyte	20
+P21	Immune	Neural (published)	11
+P21	Immune	Smooth muscle	10
+P21	Immune	Epicardial	7
+P21	Epicardial	Epicardial	293
+P21	Epicardial	Endothelial	1
+P21	Mixed-marker review	Endothelial	2645
+P21	Mixed-marker review	Fibroblast	1035
+P21	Mixed-marker review	Blood (published)	899
+P21	Mixed-marker review	Pericyte	546
+P21	Mixed-marker review	Smooth muscle	95
+P21	Mixed-marker review	Cardiomyocyte	25
+P21	Mixed-marker review	Epicardial	21
+P21	Mixed-marker review	Neural (published)	5
+P21	Ambiguous/review	Endothelial	9808
+P21	Ambiguous/review	Cardiomyocyte	9434
+P21	Ambiguous/review	Fibroblast	4839
+P21	Ambiguous/review	Pericyte	1569
+P21	Ambiguous/review	Blood (published)	1304
+P21	Ambiguous/review	Smooth muscle	797
+P21	Ambiguous/review	Neural (published)	572
+P21	Ambiguous/review	Epicardial	265
+P21	QC/information flag	Fibroblast	659
+P21	QC/information flag	Endothelial	305
+P21	QC/information flag	Cardiomyocyte	237
+P21	QC/information flag	Not classified/present	235
+P21	QC/information flag	Blood (published)	63
+P21	QC/information flag	Pericyte	40
+P21	QC/information flag	Smooth muscle	19
+P21	QC/information flag	Epicardial	14
+P21	QC/information flag	Neural (published)	2

@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "browser": "154.0.8037.57",
+  "offline": true,
+  "checks": [
+    "P0: all47611 original cells displayed",
+    "P0: non-CM filter displays10306 cells",
+    "P21 switch preserves non-CM filter and displays47304 cells",
+    "P21: resolved filter displays108511 cells; embedded DAPI toggles offline",
+    "Zoom changes visible count; reset restores complete section",
+    "CSV download retains all143944 P21 IDs, exact coordinates and identities"
+  ],
+  "page_errors": []
+}

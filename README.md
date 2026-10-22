@@ -4,6 +4,8 @@ Independent QC and exploratory clustering of the mouse-heart dataset [GSE290989]
 
 Spatial analyses map candidate ventricular programs onto the four deposited Xenium sections, with measured-marker evidence and comparisons between assay-aligned transfer and CytoSPACE.
 
+- [All cardiac cells on Xenium: reviewed non-CM identities, interactive atlas, full count matrices and spatial patterns](results/whole_heart_spatial_atlas/README.md)
+- [Xenium QC: current filters, segmentation diagnostics and remaining checks](results/whole_heart_spatial_atlas/XENIUM_QC.md)
 - [Whole-heart reassessment: Ankrd1 enrichment near candidate arterial structures, local matched controls and P0–P21 maps](results/whole_heart_Ankrd1_vessels/README.md)
 - [Finest ventricular placements: all 28 RNA groups, individual maps and resolution limits](results/ventricular_spatial_resolution/README.md)
 - [Improved weighted ventricular alignment: withheld-gene tests, library effects and uncertainty](results/ventricular_alignment_improvement/README.md)

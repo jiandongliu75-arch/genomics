@@ -1,0 +1,43 @@
+{
+  "stages": [
+    {
+      "stage": "P0",
+      "source_cell_table": "/workspace/heart-atlas/data/xenium/WT_P0__20240528__152132/cells.csv.gz",
+      "sha256": "ac6f4db288153e12f813e046f1c6a1eea0801675f394b775615c7cf6a7b630f0",
+      "original_cells_checked": 47611,
+      "QC_filters_recomputed": true,
+      "molecule_QV_audited": false,
+      "cell_boundaries_resegmented": false
+    },
+    {
+      "stage": "P7",
+      "source_cell_table": "/workspace/heart-atlas/data/xenium/WT_P07__20240528__152133/cells.csv.gz",
+      "sha256": "8be824dab5ce2bd8f9623a24b1214095082a44c6806618d465ff69aa94818f17",
+      "original_cells_checked": 99429,
+      "QC_filters_recomputed": true,
+      "molecule_QV_audited": false,
+      "cell_boundaries_resegmented": false
+    },
+    {
+      "stage": "P14",
+      "source_cell_table": "/workspace/heart-atlas/data/xenium/WT_P14__20240528__152132/cells.csv.gz",
+      "sha256": "5406a7b812fab718d29de8a6c3bce795d82e3769f2295b020c11270c61b74385",
+      "original_cells_checked": 117070,
+      "QC_filters_recomputed": true,
+      "molecule_QV_audited": false,
+      "cell_boundaries_resegmented": false
+    },
+    {
+      "stage": "P21",
+      "source_cell_table": "/workspace/heart-atlas/data/xenium/WT_P21__20240528__152132/cells.csv.gz",
+      "sha256": "2b43e3ab4731ee08ba206def3f2ccaae6dd093b628048e2356e0a360c9219cc1",
+      "original_cells_checked": 143944,
+      "QC_filters_recomputed": true,
+      "molecule_QV_audited": false,
+      "cell_boundaries_resegmented": false
+    }
+  ],
+  "unassigned_codewords_are_not_unassigned_cell_transcripts": true,
+  "area_review_rule": "Within stage and assigned broad category, abs(log1p area - median)>5*MADsigma;>=100 profiles required; review only",
+  "sample": "Up to5 profiles per stage\u00d7category\u00d7flagged/comparison stratum,seed304; selected for future review, not manually adjudicated"
+}
