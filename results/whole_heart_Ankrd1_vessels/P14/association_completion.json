@@ -1,0 +1,10 @@
+{
+  "stage": "P14",
+  "contrasts": 108,
+  "stage_Ankrd1_high_cutoff_log1pCP10k": 5.470952117920737,
+  "stage_module_high_cutoff_log1pCP10k": 1.312246710175342,
+  "vessel_completion_sha256": "2bfc226d5d0fa4a688247b4977bad7cce87bd4292884bafad1f8b57d9d4413ef",
+  "lineage_completion_sha256": "ce703fc4af8546f6a00525ca0225095daf1a4413cb56b42620f89424cda4d73c",
+  "elapsed_seconds": 65.1520082950592,
+  "no_animal_level_inference": true
+}

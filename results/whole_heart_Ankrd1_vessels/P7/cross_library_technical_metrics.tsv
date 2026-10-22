@@ -1,0 +1,121 @@
+stage	query_library	method	resolution	label	precision	recall	f1	query_nuclei
+P7	GSM8827073_P7_1	Pearson	lineage	Cardiomyocyte	0.9788505197753614	1.0	0.989312239599058	8192
+P7	GSM8827073_P7_1	Pearson	lineage	Endothelial	0.9762308998302207	0.8443465491923642	0.905511811023622	681
+P7	GSM8827073_P7_1	Pearson	lineage	Epicardial	1.0	0.6136363636363636	0.7605633802816901	44
+P7	GSM8827073_P7_1	Pearson	lineage	Fibroblast	0.9238315060588574	0.9697153240460327	0.9462174940898345	1651
+P7	GSM8827073_P7_1	Pearson	lineage	Glial	0.0	0.0	0.0	20
+P7	GSM8827073_P7_1	Pearson	lineage	Immune	1.0	0.19298245614035087	0.3235294117647059	114
+P7	GSM8827073_P7_1	Pearson	lineage	Pericyte	0.8843283582089553	0.8434163701067615	0.8633879781420765	281
+P7	GSM8827073_P7_1	Pearson	lineage	Smooth muscle	0.9696969696969697	0.5517241379310345	0.7032967032967034	58
+P7	GSM8827073_P7_1	Pearson	state	Cardiomyocyte::Atrial-like	0.0	0.0	0.0	26
+P7	GSM8827073_P7_1	Pearson	state	Cardiomyocyte::Conduction-associated CM candidate	1.0	0.17	0.2905982905982906	100
+P7	GSM8827073_P7_1	Pearson	state	Cardiomyocyte::Ventricular-like	0.9650634122995932	1.0	0.9822211397954214	8066
+P7	GSM8827073_P7_1	Pearson	state	Endothelial::Arterial-like	0.0	0.0	0.0	25
+P7	GSM8827073_P7_1	Pearson	state	Endothelial::Capillary-like	0.9166666666666666	0.1896551724137931	0.3142857142857143	58
+P7	GSM8827073_P7_1	Pearson	state	Endothelial::Endocardial-like	0.905940594059406	0.6039603960396039	0.7247524752475247	303
+P7	GSM8827073_P7_1	Pearson	state	Endothelial::Endothelial unresolved	0.6811989100817438	0.8741258741258742	0.7656967840735069	286
+P7	GSM8827073_P7_1	Pearson	state	Endothelial::Lymphatic-like candidate	0.0	0.0	0.0	1
+P7	GSM8827073_P7_1	Pearson	state	Endothelial::Venous/venular-like	0.0	0.0	0.0	8
+P7	GSM8827073_P7_1	Pearson	state	Epicardial::Epicardial (not subclustered)	1.0	0.6590909090909091	0.7945205479452054	44
+P7	GSM8827073_P7_1	Pearson	state	Fibroblast::Kirrel3-enriched	0.9714285714285714	0.5666666666666667	0.7157894736842105	60
+P7	GSM8827073_P7_1	Pearson	state	Fibroblast::Lsamp-enriched candidate	0.0	0.0	0.0	1
+P7	GSM8827073_P7_1	Pearson	state	Fibroblast::Postn-associated remodeling	0.9097877358490566	0.970440251572327	0.9391357273280584	1590
+P7	GSM8827073_P7_1	Pearson	state	Glial::Glial (not subclustered)	0.0	0.0	0.0	20
+P7	GSM8827073_P7_1	Pearson	state	Immune::B-cell-like	0.0	0.0	0.0	8
+P7	GSM8827073_P7_1	Pearson	state	Immune::Immune unresolved	0.0	0.0	0.0	0
+P7	GSM8827073_P7_1	Pearson	state	Immune::Macrophage-like	1.0	0.21153846153846154	0.3492063492063492	104
+P7	GSM8827073_P7_1	Pearson	state	Immune::T-cell-like	0.0	0.0	0.0	2
+P7	GSM8827073_P7_1	Pearson	state	Pericyte::Pericyte-like	0.8555555555555555	0.8619402985074627	0.8587360594795539	268
+P7	GSM8827073_P7_1	Pearson	state	Pericyte::Smooth-muscle-like	0.0	0.0	0.0	13
+P7	GSM8827073_P7_1	Pearson	state	Smooth muscle::Pericyte-like	0.0	0.0	0.0	4
+P7	GSM8827073_P7_1	Pearson	state	Smooth muscle::Smooth-muscle-like	0.9696969696969697	0.5925925925925926	0.735632183908046	54
+P7	GSM8827073_P7_1	assay_scaled	lineage	Cardiomyocyte	0.999633923123856	1.0	0.9998169280527247	8192
+P7	GSM8827073_P7_1	assay_scaled	lineage	Endothelial	0.9740061162079511	0.9353891336270191	0.954307116104869	681
+P7	GSM8827073_P7_1	assay_scaled	lineage	Epicardial	1.0	0.9090909090909091	0.9523809523809523	44
+P7	GSM8827073_P7_1	assay_scaled	lineage	Fibroblast	0.9496236247828604	0.9933373712901272	0.9709887507400828	1651
+P7	GSM8827073_P7_1	assay_scaled	lineage	Glial	1.0	0.6	0.75	20
+P7	GSM8827073_P7_1	assay_scaled	lineage	Immune	0.9841269841269841	0.543859649122807	0.7005649717514124	114
+P7	GSM8827073_P7_1	assay_scaled	lineage	Pericyte	0.9036544850498339	0.9679715302491103	0.9347079037800687	281
+P7	GSM8827073_P7_1	assay_scaled	lineage	Smooth muscle	0.9795918367346939	0.8275862068965517	0.897196261682243	58
+P7	GSM8827073_P7_1	assay_scaled	state	Cardiomyocyte::Atrial-like	0.8235294117647058	0.5384615384615384	0.6511627906976745	26
+P7	GSM8827073_P7_1	assay_scaled	state	Cardiomyocyte::Conduction-associated CM candidate	1.0	0.91	0.9528795811518325	100
+P7	GSM8827073_P7_1	assay_scaled	state	Cardiomyocyte::Ventricular-like	0.9970322740200321	0.9996280684354079	0.9983284838729648	8066
+P7	GSM8827073_P7_1	assay_scaled	state	Endothelial::Arterial-like	0.0	0.0	0.0	25
+P7	GSM8827073_P7_1	assay_scaled	state	Endothelial::Capillary-like	0.9047619047619048	0.3275862068965517	0.4810126582278481	58
+P7	GSM8827073_P7_1	assay_scaled	state	Endothelial::Endocardial-like	0.8571428571428571	0.7128712871287128	0.7783783783783784	303
+P7	GSM8827073_P7_1	assay_scaled	state	Endothelial::Endothelial unresolved	0.7018970189701897	0.9055944055944056	0.7908396946564885	286
+P7	GSM8827073_P7_1	assay_scaled	state	Endothelial::Lymphatic-like candidate	0.0	0.0	0.0	1
+P7	GSM8827073_P7_1	assay_scaled	state	Endothelial::Venous/venular-like	0.5	0.125	0.2	8
+P7	GSM8827073_P7_1	assay_scaled	state	Epicardial::Epicardial (not subclustered)	1.0	0.9318181818181818	0.9647058823529412	44
+P7	GSM8827073_P7_1	assay_scaled	state	Fibroblast::Kirrel3-enriched	0.9444444444444444	0.5666666666666667	0.7083333333333334	60
+P7	GSM8827073_P7_1	assay_scaled	state	Fibroblast::Lsamp-enriched candidate	0.0	0.0	0.0	1
+P7	GSM8827073_P7_1	assay_scaled	state	Fibroblast::Postn-associated remodeling	0.9298349056603774	0.9918238993710692	0.9598295800365185	1590
+P7	GSM8827073_P7_1	assay_scaled	state	Glial::Glial (not subclustered)	1.0	0.6	0.75	20
+P7	GSM8827073_P7_1	assay_scaled	state	Immune::B-cell-like	0.0	0.0	0.0	8
+P7	GSM8827073_P7_1	assay_scaled	state	Immune::Immune unresolved	0.0	0.0	0.0	0
+P7	GSM8827073_P7_1	assay_scaled	state	Immune::Macrophage-like	0.875	0.5384615384615384	0.6666666666666666	104
+P7	GSM8827073_P7_1	assay_scaled	state	Immune::T-cell-like	0.0	0.0	0.0	2
+P7	GSM8827073_P7_1	assay_scaled	state	Pericyte::Pericyte-like	0.8679867986798679	0.9813432835820896	0.9211908931698775	268
+P7	GSM8827073_P7_1	assay_scaled	state	Pericyte::Smooth-muscle-like	1.0	0.07692307692307693	0.14285714285714285	13
+P7	GSM8827073_P7_1	assay_scaled	state	Smooth muscle::Pericyte-like	0.0	0.0	0.0	4
+P7	GSM8827073_P7_1	assay_scaled	state	Smooth muscle::Smooth-muscle-like	0.9795918367346939	0.8888888888888888	0.9320388349514563	54
+P7	GSM8827074_P7_2	Pearson	lineage	Cardiomyocyte	0.9613733905579399	1.0	0.9803063457330415	4928
+P7	GSM8827074_P7_2	Pearson	lineage	Endothelial	0.9510309278350515	0.754601226993865	0.8415051311288484	489
+P7	GSM8827074_P7_2	Pearson	lineage	Epicardial	1.0	0.627906976744186	0.7714285714285715	43
+P7	GSM8827074_P7_2	Pearson	lineage	Fibroblast	0.8950480413895048	0.9315384615384615	0.9129287598944591	1300
+P7	GSM8827074_P7_2	Pearson	lineage	Glial	1.0	0.2857142857142857	0.4444444444444444	14
+P7	GSM8827074_P7_2	Pearson	lineage	Immune	1.0	0.13978494623655913	0.24528301886792453	93
+P7	GSM8827074_P7_2	Pearson	lineage	Pericyte	0.9120879120879121	0.8058252427184466	0.8556701030927835	206
+P7	GSM8827074_P7_2	Pearson	lineage	Smooth muscle	0.9615384615384616	0.5434782608695652	0.6944444444444444	46
+P7	GSM8827074_P7_2	Pearson	state	Cardiomyocyte::Atrial-like	0.0	0.0	0.0	54
+P7	GSM8827074_P7_2	Pearson	state	Cardiomyocyte::Conduction-associated CM candidate	0.9473684210526315	0.20930232558139536	0.34285714285714286	86
+P7	GSM8827074_P7_2	Pearson	state	Cardiomyocyte::Ventricular-like	0.9368029739776952	1.0	0.9673704414587332	4788
+P7	GSM8827074_P7_2	Pearson	state	Endothelial::Arterial-like	1.0	0.09090909090909091	0.16666666666666666	11
+P7	GSM8827074_P7_2	Pearson	state	Endothelial::Capillary-like	0.6875	0.4782608695652174	0.5641025641025641	23
+P7	GSM8827074_P7_2	Pearson	state	Endothelial::Endocardial-like	0.9104477611940298	0.46387832699619774	0.6146095717884131	263
+P7	GSM8827074_P7_2	Pearson	state	Endothelial::Endothelial unresolved	0.7104072398190046	0.839572192513369	0.7696078431372549	187
+P7	GSM8827074_P7_2	Pearson	state	Endothelial::Lymphatic-like candidate	0.0	0.0	0.0	0
+P7	GSM8827074_P7_2	Pearson	state	Endothelial::Venous/venular-like	0.0	0.0	0.0	5
+P7	GSM8827074_P7_2	Pearson	state	Epicardial::Epicardial (not subclustered)	1.0	0.6744186046511628	0.8055555555555556	43
+P7	GSM8827074_P7_2	Pearson	state	Fibroblast::Kirrel3-enriched	1.0	0.19718309859154928	0.32941176470588235	71
+P7	GSM8827074_P7_2	Pearson	state	Fibroblast::Lsamp-enriched candidate	0.0	0.0	0.0	9
+P7	GSM8827074_P7_2	Pearson	state	Fibroblast::Postn-associated remodeling	0.8439821693907875	0.9311475409836065	0.8854247856586126	1220
+P7	GSM8827074_P7_2	Pearson	state	Glial::Glial (not subclustered)	1.0	0.2857142857142857	0.4444444444444444	14
+P7	GSM8827074_P7_2	Pearson	state	Immune::B-cell-like	0.0	0.0	0.0	2
+P7	GSM8827074_P7_2	Pearson	state	Immune::Immune unresolved	0.0	0.0	0.0	1
+P7	GSM8827074_P7_2	Pearson	state	Immune::Macrophage-like	1.0	0.14444444444444443	0.2524271844660194	90
+P7	GSM8827074_P7_2	Pearson	state	Immune::T-cell-like	0.0	0.0	0.0	0
+P7	GSM8827074_P7_2	Pearson	state	Pericyte::Pericyte-like	0.8648648648648649	0.8121827411167513	0.837696335078534	197
+P7	GSM8827074_P7_2	Pearson	state	Pericyte::Smooth-muscle-like	0.0	0.0	0.0	9
+P7	GSM8827074_P7_2	Pearson	state	Smooth muscle::Pericyte-like	0.0	0.0	0.0	2
+P7	GSM8827074_P7_2	Pearson	state	Smooth muscle::Smooth-muscle-like	0.9615384615384616	0.5681818181818182	0.7142857142857143	44
+P7	GSM8827074_P7_2	assay_scaled	lineage	Cardiomyocyte	0.9991888055161224	0.999797077922078	0.9994928491733441	4928
+P7	GSM8827074_P7_2	assay_scaled	lineage	Endothelial	0.9431072210065645	0.8813905930470347	0.9112050739957717	489
+P7	GSM8827074_P7_2	assay_scaled	lineage	Epicardial	1.0	0.9302325581395349	0.963855421686747	43
+P7	GSM8827074_P7_2	assay_scaled	lineage	Fibroblast	0.9454277286135693	0.9861538461538462	0.9653614457831325	1300
+P7	GSM8827074_P7_2	assay_scaled	lineage	Glial	1.0	0.6428571428571429	0.782608695652174	14
+P7	GSM8827074_P7_2	assay_scaled	lineage	Immune	1.0	0.5376344086021505	0.6993006993006993	93
+P7	GSM8827074_P7_2	assay_scaled	lineage	Pericyte	0.8722466960352423	0.9611650485436893	0.9145496535796767	206
+P7	GSM8827074_P7_2	assay_scaled	lineage	Smooth muscle	0.8979591836734694	0.9565217391304348	0.9263157894736842	46
+P7	GSM8827074_P7_2	assay_scaled	state	Cardiomyocyte::Atrial-like	1.0	0.16666666666666666	0.2857142857142857	54
+P7	GSM8827074_P7_2	assay_scaled	state	Cardiomyocyte::Conduction-associated CM candidate	0.9746835443037974	0.8953488372093024	0.9333333333333333	86
+P7	GSM8827074_P7_2	assay_scaled	state	Cardiomyocyte::Ventricular-like	0.9884369192649184	0.9997911445279867	0.9940816114629841	4788
+P7	GSM8827074_P7_2	assay_scaled	state	Endothelial::Arterial-like	1.0	0.36363636363636365	0.5333333333333333	11
+P7	GSM8827074_P7_2	assay_scaled	state	Endothelial::Capillary-like	0.4482758620689655	0.5652173913043478	0.5	23
+P7	GSM8827074_P7_2	assay_scaled	state	Endothelial::Endocardial-like	0.8620689655172413	0.5703422053231939	0.6864988558352403	263
+P7	GSM8827074_P7_2	assay_scaled	state	Endothelial::Endothelial unresolved	0.6680672268907563	0.8502673796791443	0.7482352941176471	187
+P7	GSM8827074_P7_2	assay_scaled	state	Endothelial::Lymphatic-like candidate	0.0	0.0	0.0	0
+P7	GSM8827074_P7_2	assay_scaled	state	Endothelial::Venous/venular-like	0.0	0.0	0.0	5
+P7	GSM8827074_P7_2	assay_scaled	state	Epicardial::Epicardial (not subclustered)	1.0	0.9302325581395349	0.963855421686747	43
+P7	GSM8827074_P7_2	assay_scaled	state	Fibroblast::Kirrel3-enriched	0.9615384615384616	0.352112676056338	0.5154639175257731	71
+P7	GSM8827074_P7_2	assay_scaled	state	Fibroblast::Lsamp-enriched candidate	0.0	0.0	0.0	9
+P7	GSM8827074_P7_2	assay_scaled	state	Fibroblast::Postn-associated remodeling	0.8962686567164179	0.9844262295081967	0.93828125	1220
+P7	GSM8827074_P7_2	assay_scaled	state	Glial::Glial (not subclustered)	1.0	0.6428571428571429	0.782608695652174	14
+P7	GSM8827074_P7_2	assay_scaled	state	Immune::B-cell-like	0.0	0.0	0.0	2
+P7	GSM8827074_P7_2	assay_scaled	state	Immune::Immune unresolved	0.0	0.0	0.0	1
+P7	GSM8827074_P7_2	assay_scaled	state	Immune::Macrophage-like	0.94	0.5222222222222223	0.6714285714285714	90
+P7	GSM8827074_P7_2	assay_scaled	state	Immune::T-cell-like	0.0	0.0	0.0	0
+P7	GSM8827074_P7_2	assay_scaled	state	Pericyte::Pericyte-like	0.8421052631578947	0.9746192893401016	0.9035294117647059	197
+P7	GSM8827074_P7_2	assay_scaled	state	Pericyte::Smooth-muscle-like	0.0	0.0	0.0	9
+P7	GSM8827074_P7_2	assay_scaled	state	Smooth muscle::Pericyte-like	0.0	0.0	0.0	2
+P7	GSM8827074_P7_2	assay_scaled	state	Smooth muscle::Smooth-muscle-like	0.86	0.9772727272727273	0.9148936170212766	44

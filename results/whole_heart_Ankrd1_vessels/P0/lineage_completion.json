@@ -1,0 +1,17 @@
+{
+  "stage": "P0",
+  "original_cells": 47611,
+  "query_cells": 46200,
+  "reference_nuclei": 16270,
+  "resolved_lineage_cells": 38075,
+  "strict_CM_cells": 26760,
+  "strict_ventricular_cells": 19304,
+  "arterial_EC_seeds": 317,
+  "SMC_seeds": 631,
+  "arterial_marker_seeds": 2955,
+  "SMC_marker_seeds": 1042,
+  "elapsed_seconds": 59.763641595840454,
+  "source_query_sha256": "8092b0f56d69c64db37a9cf3c5a0435de491d54a0f74f624c6a08fbae60063e5",
+  "outcome_genes_in_fit": false,
+  "coordinates_or_counts_changed": false
+}

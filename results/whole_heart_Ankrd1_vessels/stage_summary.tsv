@@ -1,0 +1,5 @@
+stage	original_cells	eligible_query_cells	resolved_CMs	strict_ventricular_CMs	independent_strict_segments	independent_marker_segments	published_comparator_segments
+P0	47611	46200	26760	19304	18	25	25
+P7	99429	97850	47749	39383	33	39	83
+P14	117070	115807	47506	42796	73	68	129
+P21	143944	142370	61207	48140	22	46	113
