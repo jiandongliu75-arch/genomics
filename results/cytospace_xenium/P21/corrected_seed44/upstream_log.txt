@@ -1,0 +1,37 @@
+CytoSPACE log file 
+
+Start time: Thu Oct 22 00:12:46 2026
+
+INPUT ARGUMENTS
+scRNA_path: /workspace/heart-atlas/results/cytospace_cache/P21/corrected_seed44/reference/matrix.mtx.gz
+cell_type_path: /workspace/heart-atlas/results/cytospace_cache/P21/corrected_seed44/reference_labels.tsv
+st_path: /workspace/heart-atlas/results/cytospace_cache/P21/corrected_seed44/query/matrix.mtx.gz
+coordinates_path: /workspace/heart-atlas/results/cytospace_cache/P21/corrected_seed44/coordinates.tsv
+n_cells_per_spot_path: None
+cell_type_fraction_estimation_path: None
+st_cell_type_path: /workspace/heart-atlas/results/cytospace_cache/P21/corrected_seed44/query_labels.tsv
+output_folder: /workspace/heart-atlas/results/cytospace_cache/P21/corrected_seed44/upstream_output
+mean_cell_numbers: 5
+downsample_off: True
+scRNA_max_transcripts_per_cell: 1500
+plot_off: True
+geometry: honeycomb
+output_prefix: 
+seed: 44
+solver_method: lapjv
+sampling_method: duplicates
+distance_metric: Pearson_correlation
+single_cell: True
+
+sampling_sub_spots: False
+
+Time to read and validate data: 19.11 seconds
+Number of genes used for mapping: 381
+Number of spots satisfying input for mapping: 84443
+Number of cells satisfying input for mapping: 17782
+Number of selected spots: 3000
+
+Number of processors: 4
+
+Time to run CytoSPACE core algorithm: 16.08 seconds
+Total execution time: 45.2 seconds

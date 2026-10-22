@@ -1,0 +1,37 @@
+{
+  "stage_checks": [
+    {
+      "stage": "P0",
+      "source_cells_preserved": 47611,
+      "all_7_runs_complete": true,
+      "coordinates_exactly_conserved": true,
+      "Kcnd2_Irx5_unassayed": true
+    },
+    {
+      "stage": "P7",
+      "source_cells_preserved": 99429,
+      "all_7_runs_complete": true,
+      "coordinates_exactly_conserved": true,
+      "Kcnd2_Irx5_unassayed": true
+    },
+    {
+      "stage": "P14",
+      "source_cells_preserved": 117070,
+      "all_7_runs_complete": true,
+      "coordinates_exactly_conserved": true,
+      "Kcnd2_Irx5_unassayed": true
+    },
+    {
+      "stage": "P21",
+      "source_cells_preserved": 143944,
+      "all_7_runs_complete": true,
+      "coordinates_exactly_conserved": true,
+      "Kcnd2_Irx5_unassayed": true
+    }
+  ],
+  "sampled_pair_correlations": 700,
+  "sampled_label_consensus_checks": 800,
+  "total_assignment_rows_checked": 1690143,
+  "reference_prediction_values_checked": 3034584,
+  "status": "passed"
+}

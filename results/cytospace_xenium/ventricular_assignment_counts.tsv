@@ -1,0 +1,90 @@
+stage	assignment_field	label	cells
+P0	cyto_corrected_seed42_group	P0_M2	5924
+P0	cyto_corrected_seed42_group	P0_M4	5153
+P0	cyto_corrected_seed42_group	P0_M1	4821
+P0	cyto_corrected_seed42_group	P0_M6	1967
+P0	cyto_corrected_seed42_group	P0_M5	1690
+P0	cyto_corrected_seed42_group	P0_M3	1579
+P0	cyto_corrected_seed42_group	P0_M0	630
+P0	cyto_corrected_seed42_group	P0_M7	230
+P0	cyto_seed_consensus_group	P0_M1	7289
+P0	cyto_seed_consensus_group	P0_M2	6468
+P0	cyto_seed_consensus_group	P0_M4	3906
+P0	cyto_seed_consensus_group	P0_M5	1148
+P0	cyto_seed_consensus_group	P0_M6	1066
+P0	cyto_seed_consensus_group	P0_M3	1058
+P0	cyto_seed_consensus_group	P0_M0	972
+P0	cyto_seed_consensus_group	P0_M7	87
+P0	cyto_stable_group_candidate	Not supported by all checks	21994
+P0	cyto_corrected_seed42_family	Other working CM	15898
+P0	cyto_corrected_seed42_family	Ankrd1-associated	3546
+P0	cyto_corrected_seed42_family	Conduction-program candidate	1690
+P0	cyto_corrected_seed42_family	Cycling-associated	630
+P0	cyto_corrected_seed42_family	DNA-maintenance-associated	230
+P0	cyto_stable_family_candidate	Not supported by all checks	13351
+P0	cyto_stable_family_candidate	Other working CM	8643
+P7	cyto_corrected_seed42_group	P7_M1	10882
+P7	cyto_corrected_seed42_group	P7_M0	9951
+P7	cyto_corrected_seed42_group	P7_M4	6708
+P7	cyto_corrected_seed42_group	P7_M2	5121
+P7	cyto_corrected_seed42_group	P7_M5	2606
+P7	cyto_corrected_seed42_group	P7_M3	2403
+P7	cyto_corrected_seed42_group	P7_M6	556
+P7	cyto_corrected_seed42_group	P7_M7	184
+P7	cyto_corrected_seed42_group	P7_M8	169
+P7	cyto_seed_consensus_group	P7_M0	14885
+P7	cyto_seed_consensus_group	P7_M1	11921
+P7	cyto_seed_consensus_group	P7_M4	4504
+P7	cyto_seed_consensus_group	P7_M2	3424
+P7	cyto_seed_consensus_group	P7_M3	2191
+P7	cyto_seed_consensus_group	P7_M5	1122
+P7	cyto_seed_consensus_group	P7_M6	443
+P7	cyto_seed_consensus_group	P7_M7	46
+P7	cyto_seed_consensus_group	P7_M8	44
+P7	cyto_stable_group_candidate	Not supported by all checks	38429
+P7	cyto_stable_group_candidate	P7_M6	151
+P7	cyto_corrected_seed42_family	Other working CM	16659
+P7	cyto_corrected_seed42_family	Ankrd1-associated	10882
+P7	cyto_corrected_seed42_family	Regional electrical candidate	5121
+P7	cyto_corrected_seed42_family	DNA-maintenance-associated	2606
+P7	cyto_corrected_seed42_family	Cycling-associated	2403
+P7	cyto_corrected_seed42_family	Conduction-program candidate	556
+P7	cyto_corrected_seed42_family	Uncharacterized ventricular candidate	353
+P7	cyto_stable_family_candidate	Not supported by all checks	38425
+P7	cyto_stable_family_candidate	Conduction-program candidate	155
+P14	cyto_corrected_seed42_group	P14_M1	15598
+P14	cyto_corrected_seed42_group	P14_M2	14422
+P14	cyto_corrected_seed42_group	P14_M0	11796
+P14	cyto_corrected_seed42_group	P14_M3	6850
+P14	cyto_corrected_seed42_group	P14_M4	990
+P14	cyto_seed_consensus_group	P14_M0	17558
+P14	cyto_seed_consensus_group	P14_M1	15534
+P14	cyto_seed_consensus_group	P14_M2	12193
+P14	cyto_seed_consensus_group	P14_M3	3701
+P14	cyto_seed_consensus_group	P14_M4	670
+P14	cyto_stable_group_candidate	Not supported by all checks	49548
+P14	cyto_stable_group_candidate	P14_M4	108
+P14	cyto_corrected_seed42_family	Other working CM	22448
+P14	cyto_corrected_seed42_family	Ankrd1-associated	14422
+P14	cyto_corrected_seed42_family	Regional electrical candidate	11796
+P14	cyto_corrected_seed42_family	Conduction-program candidate	990
+P14	cyto_stable_family_candidate	Not supported by all checks	49472
+P14	cyto_stable_family_candidate	Conduction-program candidate	184
+P21	cyto_corrected_seed42_group	P21_M3	14961
+P21	cyto_corrected_seed42_group	P21_M1	12636
+P21	cyto_corrected_seed42_group	P21_M0	10957
+P21	cyto_corrected_seed42_group	P21_M4	10704
+P21	cyto_corrected_seed42_group	P21_M2	8646
+P21	cyto_corrected_seed42_group	P21_M5	454
+P21	cyto_seed_consensus_group	P21_M0	18030
+P21	cyto_seed_consensus_group	P21_M1	14754
+P21	cyto_seed_consensus_group	P21_M3	11387
+P21	cyto_seed_consensus_group	P21_M4	6962
+P21	cyto_seed_consensus_group	P21_M2	6919
+P21	cyto_seed_consensus_group	P21_M5	306
+P21	cyto_stable_group_candidate	Not supported by all checks	58358
+P21	cyto_corrected_seed42_family	Other working CM	23593
+P21	cyto_corrected_seed42_family	Ankrd1-associated	19350
+P21	cyto_corrected_seed42_family	Regional electrical candidate	14961
+P21	cyto_corrected_seed42_family	Conduction-program candidate	454
+P21	cyto_stable_family_candidate	Not supported by all checks	58358
