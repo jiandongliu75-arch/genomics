@@ -4,6 +4,7 @@ Independent QC and exploratory clustering of the mouse-heart dataset [GSE290989]
 
 Spatial analyses map candidate ventricular programs onto the four deposited Xenium sections, with measured-marker evidence and comparisons between assay-aligned transfer and CytoSPACE.
 
+- [Completed fibroblast state reassessment, matrix-program comparisons, intended-panel CM maturation and spatial/boundary tests](results/fibroblast_states/README.md)
 - [Fibroblast reassessment: exact CM maturation panel, measured marker coverage, library-level RNA signals and feasible questions](results/fibroblast_reassessment/README.md)
 - [Xenium transcript-boundary inspection and segmentation sensitivity, retaining CM profiles without nuclear area](results/xenium_boundary_qc/README.md)
 - [All cardiac cells on Xenium: reviewed non-CM identities, interactive atlas, full count matrices and spatial patterns](results/whole_heart_spatial_atlas/README.md)

@@ -1,0 +1,51 @@
+{
+  "status": "PASS",
+  "all_14985_source_FB_nuclei_accounted_for": true,
+  "31_clusters_accounted_for": true,
+  "657_lineage_review_profiles_preserved": true,
+  "original_and_corrected_pseudobulk_count_accounting": true,
+  "matrix_annotation_genes_withheld": true,
+  "outcome_genes_excluded_from_fine_transfer": true,
+  "coordinates_preserved": true,
+  "independent_native_CM_score_and_physical_neighbor_checks": [
+    {
+      "stage": "P0",
+      "broad_FB_profiles": 2319,
+      "strict_ventricular_CM_profiles": 19304,
+      "independent_CM_score_checks": 64,
+      "independent_neighborhood_checks": 192,
+      "primary_spatial_CM_profiles": 8015,
+      "primary_profiles_without_nuclear_area": 956
+    },
+    {
+      "stage": "P7",
+      "broad_FB_profiles": 8564,
+      "strict_ventricular_CM_profiles": 39383,
+      "independent_CM_score_checks": 64,
+      "independent_neighborhood_checks": 192,
+      "primary_spatial_CM_profiles": 24802,
+      "primary_profiles_without_nuclear_area": 7005
+    },
+    {
+      "stage": "P14",
+      "broad_FB_profiles": 9824,
+      "strict_ventricular_CM_profiles": 42796,
+      "independent_CM_score_checks": 64,
+      "independent_neighborhood_checks": 192,
+      "primary_spatial_CM_profiles": 24905,
+      "primary_profiles_without_nuclear_area": 5691
+    },
+    {
+      "stage": "P21",
+      "broad_FB_profiles": 13083,
+      "strict_ventricular_CM_profiles": 48140,
+      "independent_CM_score_checks": 64,
+      "independent_neighborhood_checks": 192,
+      "primary_spatial_CM_profiles": 21465,
+      "primary_profiles_without_nuclear_area": 6247
+    }
+  ],
+  "spatial_block_fold_sizes_and_100um_training_buffer_reconstructed": true,
+  "same_boundary_comparison_subsets_verified": true,
+  "numerically_stable_compositional_design": true
+}

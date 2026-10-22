@@ -1,5 +1,7 @@
 # Fibroblast questions and the intended CM maturation panel
 
+**Completed follow-up:** [Fibroblast state reassessment, matrix comparisons and CM spatial association tests](../fibroblast_states/README.md) now provides the new analyses, figures, tables and boundary sensitivities. This directory retains the preceding feasibility audit.
+
 This is a completed **feasibility and existing-signal audit**, not a newly fitted fibroblast subtype atlas, trajectory, or spatial maturation analysis. It verifies measured targets, extracts the paper's fibroblast markers, and summarizes original/corrected RNA in the existing 14,985 reviewed fibroblast nuclei across eight libraries. Native annotations, counts, and spatial coordinates are unchanged.
 
 ## The maturation panel is available
