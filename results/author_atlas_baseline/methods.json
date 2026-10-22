@@ -1,0 +1,28 @@
+{
+  "python": "3.12.14",
+  "versions": {
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "pandas": "3.0.6",
+    "anndata": "0.13.4",
+    "matplotlib": "3.11.2",
+    "numcodecs": "0.17.1",
+    "requests": "2.34.2"
+  },
+  "upstream_cytospace_commit": "bb7fe12ab4466ef5e38dcac4c3ece07012060d60",
+  "cytospace_runtime_requirements": "# CytoSPACE runtime: Python 3.9.19; separate from the main analysis environment.\nabsl-py==2.3.1\nanndata==0.10.8\narray-api-compat==1.11.2\ncontourpy==1.3.0\ncycler==0.12.1\ncytospace @ git+https://github.com/digitalcytometry/cytospace.git@bb7fe12ab4466ef5e38dcac4c3ece07012060d60\ndatatable==1.1.0\nexceptiongroup==1.3.1\nfonttools==4.60.2\nget-annotations==0.1.2\nh5py==3.14.0\nimportlib-resources==6.5.2\njoblib==1.5.3\nkiwisolver==1.4.7\nlapjv==1.3.14\nllvmlite==0.43.0\nmatplotlib==3.8.2\nnatsort==8.4.0\nnetworkx==3.2.1\nnumba==0.60.0\nnumpy==1.26.2\nortools==9.3.10497\npackaging==26.3\npandas==2.2.0\npatsy==1.0.3\npillow==11.3.0\nprotobuf==6.33.6\npynndescent==0.6.0\npyparsing==3.3.3\npython-dateutil==3.0.0\npytz==2026.5\nscanpy==1.9.6\nscikit-learn==1.6.1\nscipy==1.11.4\nseaborn==0.13.2\nsession-info==1.0.1\nsetuptools==80.10.2\nsix==1.17.0\nstatsmodels==0.14.6\nstdlib-list==0.12.0\nthreadpoolctl==3.7.0\ntqdm==4.70.1\ntyping-extensions==4.16.0\ntzdata==2026.5\numap-learn==0.5.12\nzipp==3.23.1\n",
+  "published_final_labels_retrieved": true,
+  "original_author_reference_objects_available": false,
+  "original_author_spatial_input_labels_verified": false,
+  "exact_author_pipeline_reproduction": false,
+  "reference_counts": "original integer counts from independent snRNA reference",
+  "stage_matched": true,
+  "shared_genes": 381,
+  "subtype_labels_supplied": false,
+  "raw_native_pairs": 161056,
+  "spatial_cost": false,
+  "source_counts_or_coordinates_modified": false,
+  "Kcnd2_Irx5_assayed": false,
+  "TF_Irx5_is_measured_RNA": false,
+  "animal_replicated_spatial_analysis": false
+}

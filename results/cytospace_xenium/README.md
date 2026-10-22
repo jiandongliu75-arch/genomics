@@ -4,6 +4,8 @@ CytoSPACE **1.1.0** was run in its **single-cell mode** on all four stages. It a
 
 **This is an independent analysis, not an exact reproduction of the authors' pipeline.** Annotation granularity, reference preparation, partition size and acceptance checks differ. The 259 accepted fine matches are an additional filtered subset, not the yield of native alignment. See the [comparison with the released author workflow](author_pipeline_comparison.md).
 
+**Published-atlas update:** the authors' final spatial labels have now been retrieved and verified against 403,168 original barcodes/centroids/count totals. See the [actual published CM-state maps and new independent default-parameter comparison](../author_atlas_baseline/README.md). The original RNA reference objects and original spatial input-label files remain unavailable; this does not establish exact pipeline reproduction.
+
 **Under this independent setup, most fine ventricular groups do not pass the additional panel-recoverability and stability checks.** Raw forced assignments are supplied alongside candidates that pass these checks. Neither native assignment counts nor the filtered subset estimates biological subtype abundance.
 
 ## Results by stage

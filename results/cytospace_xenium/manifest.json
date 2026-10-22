@@ -1082,8 +1082,8 @@
     },
     {
       "path": "results/cytospace_xenium/README.md",
-      "bytes": 15952,
-      "sha256": "8e75c2e7b9e22ba2683c1578811f0cec1ab84f0ceaec4b8f4d6a4bd2186867d3"
+      "bytes": 16384,
+      "sha256": "24274e8889dd9c70e91e59374aedf881c701dce406757321e4ff81eb3a1333ad"
     },
     {
       "path": "results/cytospace_xenium/author_comparison_provenance.json",
@@ -1092,8 +1092,8 @@
     },
     {
       "path": "results/cytospace_xenium/author_pipeline_comparison.md",
-      "bytes": 8117,
-      "sha256": "306fc5392cf3dc9a34c9ac407703c7972ca28a482a0b7a313e16cd4be33b75fb"
+      "bytes": 8702,
+      "sha256": "e5b1a0860cc399cd26c620bdbadd8374cfba5afdf7e67c0d355a7852e843c350"
     },
     {
       "path": "results/cytospace_xenium/comparison_with_previous_mapping.tsv",
@@ -1463,7 +1463,7 @@
     },
     {
       "path": "analysis/write_cytospace_report.py",
-      "sha256": "515dfa3c589a57c41eaae1afc75ee3cb3cd7664f3054f1e5b41bca537a705bb4"
+      "sha256": "4923bbf13c11a1b35157399c3cc07b4888f752f595ccc9ec8beb949b50f101f2"
     },
     {
       "path": "analysis/requirements-cytospace.txt",

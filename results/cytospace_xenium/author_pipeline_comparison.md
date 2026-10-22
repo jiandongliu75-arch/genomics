@@ -1,5 +1,7 @@
 # Comparison with the paper's released CytoSPACE workflow
 
+**22 October 2026 update:** the public WebAtlas final labels are now accessible. All 403,168 exported cells match the original Xenium barcodes, native centroids and transcript totals. The [published CM-state maps and a new independent default-parameter run](../author_atlas_baseline/README.md) are available separately. Original RNA reference objects, original spatial input-label files and original RNA-to-Xenium pairs remain unavailable; the final exported labels do not verify the granularity of those original inputs. The comparison below describes the preceding independent run.
+
 The preceding independent CytoSPACE analysis is **not an exact reproduction of the authors' pipeline**. Its 259 accepted fine matches are the subset passing additional filters, not the number of cells successfully assigned by CytoSPACE. Native CytoSPACE assigned all 241,449 included segments. Differences below affect the interpretation of the comparison; their individual effects on accuracy have not been isolated experimentally.
 
 The comparison uses the [paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC13561863/) and the authors' [Figure1 scripts](https://github.com/whfbio/PIP_seq/tree/102d80e6ea5de44f594461c727a4b3c6e1bc3508/Figure1), inspected at commit `102d80e6ea5de44f594461c727a4b3c6e1bc3508`.

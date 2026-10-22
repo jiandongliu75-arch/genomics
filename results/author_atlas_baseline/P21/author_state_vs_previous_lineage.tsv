@@ -1,0 +1,22 @@
+author_atlas_cell_state	Atrial-marker-enriched CM	CM/EC program overlap; review	CM; chamber unresolved	Endothelial	Epicardial	Fibroblast	Immune	Low-information/QC flag	Pericyte	Smooth muscle	Unresolved cell identity	Ventricular-enriched CM
+Ankrd1.CM	6	7769	350	2	0	3	0	39	3	1	62	19642
+Blood	165	1255	215	3	0	13	1558	63	0	0	141	2120
+Col8a1.Fib	343	904	766	78	4	2107	19	455	4	18	1087	3663
+Epic	22	50	25	1	258	29	1	14	0	0	155	124
+Gfpt2.Fib	233	445	314	27	6	1561	5	155	0	7	530	1743
+Lsamp.Fib	160	205	132	18	1	1206	14	8	0	27	248	553
+Neur	68	42	63	6	0	49	4	2	1	1	237	206
+Not present in published atlas	0	0	0	0	0	0	0	235	0	0	0	0
+Peri	162	1713	239	33	0	9	7	40	593	17	284	3702
+Postn.Fib	0	12	8	1	0	0	0	36	0	0	19	36
+SMC	18	210	15	4	0	9	4	19	2	2100	97	310
+Slit2.CM	7	247	50	2	0	1	1	5	0	0	13	1016
+a.CM	8072	2985	2794	10	0	26	3	21	2	1	133	371
+arteriole.EC	5	643	26	222	0	8	0	18	0	191	155	265
+av.CM	602	229	498	8	0	10	3	44	0	1	63	93
+cap.EC	71	17667	242	1842	0	7	3	122	2	1	240	3127
+cap.EC.High.Myo.	2	4472	175	109	0	3	0	122	0	1	140	2524
+endocardial.EC	310	2071	280	2220	0	88	12	28	0	9	347	787
+lym.EC	9	187	13	102	2	9	2	15	0	1	77	69
+v.CM	3	5944	405	6	0	9	0	128	3	0	106	17984
+valve.Fib	20	15	22	18	0	1046	2	5	0	7	96	23
