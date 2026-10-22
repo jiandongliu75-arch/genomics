@@ -20,6 +20,8 @@ def main():
         downloads.append(f'| {s} | [PNG]({s}_all_cell_atlas.png) · [PDF]({s}_all_cell_atlas.pdf) | [PNG]({s}_lineage_spatial_panels.png) · [PDF]({s}_lineage_spatial_panels.pdf) | [PNG]({s}_all_cell_geometry_zoom.png) · [PDF]({s}_all_cell_geometry_zoom.pdf) | [H5AD]({s}/{s}_whole_heart_atlas.h5ad) | [TSV.gz]({s}/all_cell_annotations.tsv.gz) |')
     doc='''# All cardiac cells on the P0–P21 Xenium sections
 
+**Transcript-level QC follow-up:** [Boundary inspection and segmentation sensitivity](../xenium_boundary_qc/README.md) now reconstructs the source matrices from molecules, tests alternative boundaries and provides targeted review flags while retaining CM profiles without nuclear area. The native counts/labels in this atlas remain the baseline; the follow-up does not silently replace them.
+
 The whole-heart atlas now includes reviewed broad identities for cardiomyocytes and six non-CM classes: **endothelial cells, fibroblasts, pericytes, smooth-muscle cells, immune cells and epicardial cells**. All **408,054 original spatial profiles** remain in their native positions. There are **313,607 resolved assignments**, including **130,385 non-CMs**; mixed, ambiguous and QC-flagged profiles remain accessible.
 
 [12-page atlas report](whole_heart_spatial_atlas_report.pdf) · [Offline interactive viewer](interactive_whole_heart_atlas.html) · [Xenium QC: implemented checks and remaining segmentation work](XENIUM_QC.md) · [Available-QC diagnostics PDF](Xenium_available_QC_diagnostics.pdf)

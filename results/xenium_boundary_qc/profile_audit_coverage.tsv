@@ -1,0 +1,5 @@
+stage	original_profiles	boundary_audit_tested	image_resegmentation_comparison_profiles	review_candidates_in_tested_profiles	not_tested_profiles	target_CM_profiles_without_nuclear_area
+P0	47611	9330	5627	2265	38281	1058
+P7	99429	11074	6062	2648	88355	2311
+P14	117070	8739	4574	2364	108331	1460
+P21	143944	7054	4006	2423	136890	943

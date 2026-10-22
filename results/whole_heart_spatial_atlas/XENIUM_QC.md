@@ -1,5 +1,7 @@
 # Xenium QC: current status and the next segmentation checks
 
+**Completed follow-up:** [Transcript-level boundary inspection and segmentation sensitivity](../xenium_boundary_qc/README.md) now audits the original molecule tables and acquired boundary stains, reconstructs all source matrices, tests boundary alternatives, and supplies targeted review flags while retaining CM profiles without nuclear area. The checks below describe the earlier native-atlas baseline; see the follow-up for the updated status and remaining anatomical limits.
+
 CytoSPACE aligns a single-cell/nucleus reference to spatial expression profiles; it does not repair segmentation. The current whole-heart atlas uses the deposited cell segmentation and count matrices. Its broad identities and spatial associations remain conditional on that segmentation.
 
 ## What is implemented

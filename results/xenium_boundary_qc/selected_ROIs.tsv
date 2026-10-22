@@ -1,0 +1,33 @@
+stage	roi_id	category	selection_cell_id	partner_CM_id	segment_id	original_matched_pairs	x_min	x_max	y_min	y_max	selection_reason
+P0	P0_arterial_1	Peri-arterial	NA	NA	independent_strict_008	81	2472.3	2886.9502	1728.9751	2168.9126	Many frozen matched pairs; source Ankrd1 not consulted
+P0	P0_arterial_2	Peri-arterial	NA	NA	independent_strict_005	62	2619.1377	3083.0876	959.7249999999999	1355.25	Many frozen matched pairs; source Ankrd1 not consulted
+P0	P0_Endothelial_ordinary	CM–Endothelial interface	iknnhlmp-1	ddnebgfd-1	NA	0	2503.9833984375	2703.9833984375	1368.17626953125	1568.17626953125	Ordinary supported non-CM profile
+P0	P0_Endothelial_flagged	CM–Endothelial interface	abnfoiao-1	abnbdckm-1	NA	0	683.7732543945312	883.7732543945312	1717.2769775390625	1917.2769775390625	Mixed-marker profile
+P0	P0_Fibroblast_ordinary	CM–Fibroblast interface	ieajpahp-1	ibagjklh-1	NA	0	1611.009521484375	1811.009521484375	1451.7667236328125	1651.7667236328125	Ordinary supported non-CM profile
+P0	P0_Fibroblast_flagged	CM–Fibroblast interface	mebhojgo-1	ffningml-1	NA	0	1746.3251953125	1946.3251953125	2459.84228515625	2659.84228515625	Mixed-marker profile
+P0	P0_anucleate_CM_1	CM without measured nuclear area	bbcnoama-1	bbckdfom-1	NA	0	1288.94873046875	1488.94873046875	1706.600341796875	1906.600341796875	Nuclear-area-missing CM adjacent to a supported non-CM; retained as a legitimate candidate CM profile
+P0	P0_anucleate_CM_2	CM without measured nuclear area	bplledck-1	hponafng-1	NA	0	1000.2611083984375	1200.2611083984375	1468.3468017578125	1668.3468017578125	Nuclear-area-missing CM adjacent to a supported non-CM; retained as a legitimate candidate CM profile
+P7	P7_arterial_1	Peri-arterial	NA	NA	independent_strict_000	74	3964.0505243279867	4403.5625	1867.525	2250.9370217830988	Many frozen matched pairs; source Ankrd1 not consulted
+P7	P7_arterial_2	Peri-arterial	NA	NA	independent_strict_027	67	2663.5504533069256	3154.2751	3824.8625	4253.537114101497	Many frozen matched pairs; source Ankrd1 not consulted
+P7	P7_Endothelial_ordinary	CM–Endothelial interface	kkiagnpi-1	ajpdgcdi-1	NA	0	3002.950927734375	3202.950927734375	1291.419921875	1491.419921875	Ordinary supported non-CM profile
+P7	P7_Endothelial_flagged	CM–Endothelial interface	dmkempck-1	dmkeedfi-1	NA	0	3844.865478515625	4044.865478515625	2169.3701171875	2369.3701171875	Mixed-marker profile
+P7	P7_Fibroblast_ordinary	CM–Fibroblast interface	ibomidji-1	abdkgngc-1	NA	0	918.8482055664062	1118.8482055664062	1245.63330078125	1445.63330078125	Ordinary supported non-CM profile
+P7	P7_Fibroblast_flagged	CM–Fibroblast interface	kbeappgd-1	ahmcfagf-1	NA	0	2915.163818359375	3115.163818359375	1025.3905029296875	1225.3905029296875	Mixed-marker profile
+P7	P7_anucleate_CM_1	CM without measured nuclear area	facpamoa-1	lgedgbhd-1	NA	0	2252.67236328125	2452.67236328125	3023.1806640625	3223.1806640625	Nuclear-area-missing CM adjacent to a supported non-CM; retained as a legitimate candidate CM profile
+P7	P7_anucleate_CM_2	CM without measured nuclear area	ckoibenf-1	knajpaik-1	NA	0	4402.22998046875	4602.22998046875	2193.509765625	2393.509765625	Nuclear-area-missing CM adjacent to a supported non-CM; retained as a legitimate candidate CM profile
+P14	P14_arterial_1	Peri-arterial	NA	NA	independent_strict_057	47	4494.025000008659	5070.3877	2440.85	2841.0498664681772	Many frozen matched pairs; source Ankrd1 not consulted
+P14	P14_arterial_2	Peri-arterial	NA	NA	independent_strict_013	43	1395.9895362344632	1872.2626	1998.2126008764967	2473.85	Many frozen matched pairs; source Ankrd1 not consulted
+P14	P14_Endothelial_ordinary	CM–Endothelial interface	mnolakpo-1	ddmeijmf-1	NA	0	4773.0595703125	4973.0595703125	3404.328125	3604.328125	Ordinary supported non-CM profile
+P14	P14_Endothelial_flagged	CM–Endothelial interface	ebpgjecn-1	nebheldb-1	NA	0	2350.219970703125	2550.219970703125	1161.703369140625	1361.703369140625	Mixed-marker profile
+P14	P14_Fibroblast_ordinary	CM–Fibroblast interface	llkjcbje-1	lmbclhgj-1	NA	0	5212.43359375	5412.43359375	2136.43896484375	2336.43896484375	Ordinary supported non-CM profile
+P14	P14_Fibroblast_flagged	CM–Fibroblast interface	kaeimpih-1	kaeimlgf-1	NA	0	2605.882568359375	2805.882568359375	3739.91943359375	3939.91943359375	Mixed-marker profile
+P14	P14_anucleate_CM_1	CM without measured nuclear area	ebdlgbbf-1	makdaibn-1	NA	0	4325.8095703125	4525.8095703125	2655.12841796875	2855.12841796875	Nuclear-area-missing CM adjacent to a supported non-CM; retained as a legitimate candidate CM profile
+P14	P14_anucleate_CM_2	CM without measured nuclear area	dglmgbmm-1	dgklidce-1	NA	0	4686.9111328125	4886.9111328125	2159.323974609375	2359.323974609375	Nuclear-area-missing CM adjacent to a supported non-CM; retained as a legitimate candidate CM profile
+P21	P21_arterial_1	Peri-arterial	NA	NA	independent_strict_010	32	1629.525	2033.125	3236.4502	3648.125	Many frozen matched pairs; source Ankrd1 not consulted
+P21	P21_arterial_2	Peri-arterial	NA	NA	independent_strict_009	31	2945.5376560452837	3363.1625999969287	3523.75	3958.5876	Many frozen matched pairs; source Ankrd1 not consulted
+P21	P21_Endothelial_ordinary	CM–Endothelial interface	ieoplmmo-1	ddppmgbj-1	NA	0	2442.928955078125	2642.928955078125	4495.38427734375	4695.38427734375	Ordinary supported non-CM profile
+P21	P21_Endothelial_flagged	CM–Endothelial interface	jhmmjcpa-1	dbiobkof-1	NA	0	2807.599853515625	3007.599853515625	2942.11083984375	3142.11083984375	Mixed-marker profile
+P21	P21_Fibroblast_ordinary	CM–Fibroblast interface	njagdbbl-1	nmdbhfmp-1	NA	0	4404.9189453125	4604.9189453125	5619.46337890625	5819.46337890625	Ordinary supported non-CM profile
+P21	P21_Fibroblast_flagged	CM–Fibroblast interface	bglabdbe-1	bglaanip-1	NA	0	4331.201171875	4531.201171875	4270.56201171875	4470.56201171875	Mixed-marker profile
+P21	P21_anucleate_CM_1	CM without measured nuclear area	akpncpcc-1	lnikldok-1	NA	0	4075.93017578125	4275.93017578125	2802.56591796875	3002.56591796875	Nuclear-area-missing CM adjacent to a supported non-CM; retained as a legitimate candidate CM profile
+P21	P21_anucleate_CM_2	CM without measured nuclear area	alhefcgg-1	meccalcj-1	NA	0	4953.81689453125	5153.81689453125	2460.352294921875	2660.352294921875	Nuclear-area-missing CM adjacent to a supported non-CM; retained as a legitimate candidate CM profile

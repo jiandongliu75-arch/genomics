@@ -1,0 +1,1404 @@
+stage	variant	scope	original_identity	new_identity	profiles
+P0	native_Q20	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Ambiguous/review	1234
+P0	native_Q20	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Cardiomyocyte	5864
+P0	native_Q20	geometry_targets_and_all_frozen_pairs	Endothelial	Endothelial	1312
+P0	native_Q20	geometry_targets_and_all_frozen_pairs	Epicardial	Epicardial	12
+P0	native_Q20	geometry_targets_and_all_frozen_pairs	Fibroblast	Fibroblast	491
+P0	native_Q20	geometry_targets_and_all_frozen_pairs	Immune	Immune	36
+P0	native_Q20	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Mixed-marker review	118
+P0	native_Q20	geometry_targets_and_all_frozen_pairs	Pericyte	Pericyte	113
+P0	native_Q20	geometry_targets_and_all_frozen_pairs	QC/information flag	QC/information flag	115
+P0	native_Q20	geometry_targets_and_all_frozen_pairs	Smooth muscle	Smooth muscle	35
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Ambiguous/review	588
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Cardiomyocyte	238
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Endothelial	65
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Epicardial	1
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Fibroblast	35
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Immune	3
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Mixed-marker review	1
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Pericyte	22
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	QC/information flag	278
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Smooth muscle	3
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Ambiguous/review	527
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Cardiomyocyte	5043
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	QC/information flag	294
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	Ambiguous/review	143
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	Cardiomyocyte	23
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	Endothelial	1011
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	Mixed-marker review	74
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	QC/information flag	61
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Epicardial	Ambiguous/review	2
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Epicardial	Cardiomyocyte	1
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Epicardial	Epicardial	8
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Epicardial	QC/information flag	1
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Fibroblast	Ambiguous/review	87
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Fibroblast	Cardiomyocyte	8
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Fibroblast	Fibroblast	334
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Fibroblast	Mixed-marker review	9
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Fibroblast	QC/information flag	53
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Immune	Ambiguous/review	5
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Immune	Cardiomyocyte	1
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Immune	Immune	24
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Immune	Mixed-marker review	4
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Immune	QC/information flag	2
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Ambiguous/review	7
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Endothelial	33
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Fibroblast	3
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Mixed-marker review	49
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	QC/information flag	25
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Smooth muscle	1
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Pericyte	Ambiguous/review	25
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Pericyte	Mixed-marker review	5
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Pericyte	Pericyte	67
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Pericyte	QC/information flag	16
+P0	core_1um	geometry_targets_and_all_frozen_pairs	QC/information flag	QC/information flag	115
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Ambiguous/review	11
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Smooth muscle	QC/information flag	4
+P0	core_1um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Smooth muscle	20
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Ambiguous/review	326
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Cardiomyocyte	197
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Endothelial	65
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Epicardial	1
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Fibroblast	26
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Immune	3
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Mixed-marker review	1
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Pericyte	29
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	QC/information flag	584
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Smooth muscle	2
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Ambiguous/review	792
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Cardiomyocyte	3165
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	QC/information flag	1907
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Ambiguous/review	170
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Cardiomyocyte	32
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Endothelial	641
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Mixed-marker review	68
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Pericyte	1
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	QC/information flag	400
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Epicardial	Ambiguous/review	3
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Epicardial	QC/information flag	9
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Ambiguous/review	91
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Cardiomyocyte	9
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Fibroblast	174
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Mixed-marker review	14
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	QC/information flag	203
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Immune	Ambiguous/review	4
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Immune	Immune	13
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Immune	Mixed-marker review	5
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Immune	QC/information flag	14
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Ambiguous/review	5
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Endothelial	31
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Fibroblast	1
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Mixed-marker review	12
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	QC/information flag	69
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Pericyte	Ambiguous/review	19
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Pericyte	Mixed-marker review	3
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Pericyte	Pericyte	36
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Pericyte	QC/information flag	55
+P0	core_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	QC/information flag	115
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Ambiguous/review	6
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	QC/information flag	19
+P0	core_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Smooth muscle	10
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Ambiguous/review	1110
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Cardiomyocyte	72
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Endothelial	29
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Fibroblast	13
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Immune	3
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Mixed-marker review	1
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Pericyte	4
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Smooth muscle	2
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Ambiguous/review	123
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Cardiomyocyte	5731
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Endothelial	7
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Epicardial	1
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Fibroblast	2
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Ambiguous/review	81
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Endothelial	1220
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Mixed-marker review	11
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Epicardial	Ambiguous/review	1
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Epicardial	Epicardial	11
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Ambiguous/review	23
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Fibroblast	464
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Mixed-marker review	4
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Immune	Ambiguous/review	4
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Immune	Immune	32
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Ambiguous/review	2
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Endothelial	36
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Fibroblast	4
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Immune	3
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Mixed-marker review	72
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Pericyte	1
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Pericyte	Ambiguous/review	17
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Pericyte	Pericyte	96
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	Ambiguous/review	26
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	Cardiomyocyte	3
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	Fibroblast	1
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	Mixed-marker review	1
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	QC/information flag	84
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Ambiguous/review	1
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Mixed-marker review	2
+P0	dilation_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Smooth muscle	32
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Ambiguous/review	737
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Cardiomyocyte	258
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Endothelial	36
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Epicardial	2
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Fibroblast	7
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Immune	3
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Mixed-marker review	2
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Pericyte	25
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	QC/information flag	161
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Smooth muscle	3
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Ambiguous/review	423
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Cardiomyocyte	5424
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Mixed-marker review	1
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	QC/information flag	16
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Endothelial	Ambiguous/review	205
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Endothelial	Cardiomyocyte	21
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Endothelial	Endothelial	1021
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Endothelial	Mixed-marker review	44
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Endothelial	QC/information flag	21
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Epicardial	Ambiguous/review	4
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Epicardial	Epicardial	7
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Epicardial	QC/information flag	1
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Fibroblast	Ambiguous/review	141
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Fibroblast	Cardiomyocyte	10
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Fibroblast	Fibroblast	315
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Fibroblast	Mixed-marker review	5
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Fibroblast	Pericyte	1
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Fibroblast	QC/information flag	19
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Immune	Ambiguous/review	5
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Immune	Cardiomyocyte	1
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Immune	Immune	30
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Ambiguous/review	15
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Endothelial	43
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Fibroblast	4
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Immune	2
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Mixed-marker review	44
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Pericyte	1
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	QC/information flag	8
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Smooth muscle	1
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Pericyte	Ambiguous/review	36
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Pericyte	Mixed-marker review	1
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Pericyte	Pericyte	73
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Pericyte	QC/information flag	3
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	QC/information flag	QC/information flag	115
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Smooth muscle	Ambiguous/review	11
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Smooth muscle	Mixed-marker review	1
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Smooth muscle	QC/information flag	3
+P0	native_Q30	geometry_targets_and_all_frozen_pairs	Smooth muscle	Smooth muscle	20
+P0	native_raster_Q20	image_ROI_subset	Ambiguous/review	Ambiguous/review	674
+P0	native_raster_Q20	image_ROI_subset	Ambiguous/review	Cardiomyocyte	49
+P0	native_raster_Q20	image_ROI_subset	Ambiguous/review	Endothelial	19
+P0	native_raster_Q20	image_ROI_subset	Ambiguous/review	Fibroblast	11
+P0	native_raster_Q20	image_ROI_subset	Ambiguous/review	Immune	2
+P0	native_raster_Q20	image_ROI_subset	Ambiguous/review	Pericyte	7
+P0	native_raster_Q20	image_ROI_subset	Ambiguous/review	QC/information flag	7
+P0	native_raster_Q20	image_ROI_subset	Ambiguous/review	Smooth muscle	2
+P0	native_raster_Q20	image_ROI_subset	Cardiomyocyte	Ambiguous/review	48
+P0	native_raster_Q20	image_ROI_subset	Cardiomyocyte	Cardiomyocyte	3372
+P0	native_raster_Q20	image_ROI_subset	Cardiomyocyte	QC/information flag	2
+P0	native_raster_Q20	image_ROI_subset	Endothelial	Ambiguous/review	28
+P0	native_raster_Q20	image_ROI_subset	Endothelial	Endothelial	794
+P0	native_raster_Q20	image_ROI_subset	Endothelial	Mixed-marker review	11
+P0	native_raster_Q20	image_ROI_subset	Epicardial	Ambiguous/review	1
+P0	native_raster_Q20	image_ROI_subset	Epicardial	Epicardial	7
+P0	native_raster_Q20	image_ROI_subset	Fibroblast	Ambiguous/review	21
+P0	native_raster_Q20	image_ROI_subset	Fibroblast	Fibroblast	317
+P0	native_raster_Q20	image_ROI_subset	Fibroblast	Mixed-marker review	2
+P0	native_raster_Q20	image_ROI_subset	Fibroblast	QC/information flag	1
+P0	native_raster_Q20	image_ROI_subset	Immune	Ambiguous/review	6
+P0	native_raster_Q20	image_ROI_subset	Immune	Immune	16
+P0	native_raster_Q20	image_ROI_subset	Mixed-marker review	Ambiguous/review	4
+P0	native_raster_Q20	image_ROI_subset	Mixed-marker review	Endothelial	8
+P0	native_raster_Q20	image_ROI_subset	Mixed-marker review	Mixed-marker review	66
+P0	native_raster_Q20	image_ROI_subset	Pericyte	Ambiguous/review	3
+P0	native_raster_Q20	image_ROI_subset	Pericyte	Mixed-marker review	1
+P0	native_raster_Q20	image_ROI_subset	Pericyte	Pericyte	61
+P0	native_raster_Q20	image_ROI_subset	QC/information flag	QC/information flag	62
+P0	native_raster_Q20	image_ROI_subset	Smooth muscle	Ambiguous/review	2
+P0	native_raster_Q20	image_ROI_subset	Smooth muscle	Mixed-marker review	1
+P0	native_raster_Q20	image_ROI_subset	Smooth muscle	Smooth muscle	22
+P0	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Ambiguous/review	513
+P0	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Cardiomyocyte	140
+P0	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Endothelial	61
+P0	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Fibroblast	40
+P0	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Immune	1
+P0	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Mixed-marker review	3
+P0	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Pericyte	9
+P0	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Smooth muscle	4
+P0	centroid_Voronoi	image_ROI_subset	Cardiomyocyte	Ambiguous/review	196
+P0	centroid_Voronoi	image_ROI_subset	Cardiomyocyte	Cardiomyocyte	3198
+P0	centroid_Voronoi	image_ROI_subset	Cardiomyocyte	Endothelial	21
+P0	centroid_Voronoi	image_ROI_subset	Cardiomyocyte	Epicardial	1
+P0	centroid_Voronoi	image_ROI_subset	Cardiomyocyte	Fibroblast	5
+P0	centroid_Voronoi	image_ROI_subset	Cardiomyocyte	Pericyte	1
+P0	centroid_Voronoi	image_ROI_subset	Endothelial	Ambiguous/review	84
+P0	centroid_Voronoi	image_ROI_subset	Endothelial	Cardiomyocyte	14
+P0	centroid_Voronoi	image_ROI_subset	Endothelial	Endothelial	727
+P0	centroid_Voronoi	image_ROI_subset	Endothelial	Fibroblast	1
+P0	centroid_Voronoi	image_ROI_subset	Endothelial	Mixed-marker review	7
+P0	centroid_Voronoi	image_ROI_subset	Epicardial	Ambiguous/review	2
+P0	centroid_Voronoi	image_ROI_subset	Epicardial	Epicardial	6
+P0	centroid_Voronoi	image_ROI_subset	Fibroblast	Ambiguous/review	41
+P0	centroid_Voronoi	image_ROI_subset	Fibroblast	Cardiomyocyte	1
+P0	centroid_Voronoi	image_ROI_subset	Fibroblast	Fibroblast	297
+P0	centroid_Voronoi	image_ROI_subset	Fibroblast	Mixed-marker review	2
+P0	centroid_Voronoi	image_ROI_subset	Immune	Ambiguous/review	6
+P0	centroid_Voronoi	image_ROI_subset	Immune	Cardiomyocyte	1
+P0	centroid_Voronoi	image_ROI_subset	Immune	Immune	14
+P0	centroid_Voronoi	image_ROI_subset	Immune	Mixed-marker review	1
+P0	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Ambiguous/review	3
+P0	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Endothelial	45
+P0	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Fibroblast	5
+P0	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Immune	1
+P0	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Mixed-marker review	23
+P0	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Pericyte	1
+P0	centroid_Voronoi	image_ROI_subset	Pericyte	Ambiguous/review	11
+P0	centroid_Voronoi	image_ROI_subset	Pericyte	Cardiomyocyte	1
+P0	centroid_Voronoi	image_ROI_subset	Pericyte	Endothelial	1
+P0	centroid_Voronoi	image_ROI_subset	Pericyte	Pericyte	52
+P0	centroid_Voronoi	image_ROI_subset	QC/information flag	Ambiguous/review	35
+P0	centroid_Voronoi	image_ROI_subset	QC/information flag	Cardiomyocyte	14
+P0	centroid_Voronoi	image_ROI_subset	QC/information flag	Endothelial	1
+P0	centroid_Voronoi	image_ROI_subset	QC/information flag	Fibroblast	9
+P0	centroid_Voronoi	image_ROI_subset	QC/information flag	QC/information flag	3
+P0	centroid_Voronoi	image_ROI_subset	Smooth muscle	Ambiguous/review	3
+P0	centroid_Voronoi	image_ROI_subset	Smooth muscle	Fibroblast	1
+P0	centroid_Voronoi	image_ROI_subset	Smooth muscle	Smooth muscle	21
+P0	membrane_watershed	image_ROI_subset	Ambiguous/review	Ambiguous/review	420
+P0	membrane_watershed	image_ROI_subset	Ambiguous/review	Cardiomyocyte	151
+P0	membrane_watershed	image_ROI_subset	Ambiguous/review	Endothelial	49
+P0	membrane_watershed	image_ROI_subset	Ambiguous/review	Epicardial	1
+P0	membrane_watershed	image_ROI_subset	Ambiguous/review	Fibroblast	36
+P0	membrane_watershed	image_ROI_subset	Ambiguous/review	Immune	5
+P0	membrane_watershed	image_ROI_subset	Ambiguous/review	Mixed-marker review	2
+P0	membrane_watershed	image_ROI_subset	Ambiguous/review	Pericyte	7
+P0	membrane_watershed	image_ROI_subset	Ambiguous/review	QC/information flag	98
+P0	membrane_watershed	image_ROI_subset	Ambiguous/review	Smooth muscle	2
+P0	membrane_watershed	image_ROI_subset	Cardiomyocyte	Ambiguous/review	243
+P0	membrane_watershed	image_ROI_subset	Cardiomyocyte	Cardiomyocyte	2938
+P0	membrane_watershed	image_ROI_subset	Cardiomyocyte	Endothelial	25
+P0	membrane_watershed	image_ROI_subset	Cardiomyocyte	Epicardial	1
+P0	membrane_watershed	image_ROI_subset	Cardiomyocyte	Fibroblast	3
+P0	membrane_watershed	image_ROI_subset	Cardiomyocyte	Pericyte	2
+P0	membrane_watershed	image_ROI_subset	Cardiomyocyte	QC/information flag	209
+P0	membrane_watershed	image_ROI_subset	Cardiomyocyte	Smooth muscle	1
+P0	membrane_watershed	image_ROI_subset	Endothelial	Ambiguous/review	139
+P0	membrane_watershed	image_ROI_subset	Endothelial	Cardiomyocyte	49
+P0	membrane_watershed	image_ROI_subset	Endothelial	Endothelial	592
+P0	membrane_watershed	image_ROI_subset	Endothelial	Mixed-marker review	11
+P0	membrane_watershed	image_ROI_subset	Endothelial	QC/information flag	42
+P0	membrane_watershed	image_ROI_subset	Epicardial	Ambiguous/review	3
+P0	membrane_watershed	image_ROI_subset	Epicardial	Epicardial	5
+P0	membrane_watershed	image_ROI_subset	Fibroblast	Ambiguous/review	79
+P0	membrane_watershed	image_ROI_subset	Fibroblast	Cardiomyocyte	14
+P0	membrane_watershed	image_ROI_subset	Fibroblast	Endothelial	3
+P0	membrane_watershed	image_ROI_subset	Fibroblast	Fibroblast	218
+P0	membrane_watershed	image_ROI_subset	Fibroblast	Mixed-marker review	2
+P0	membrane_watershed	image_ROI_subset	Fibroblast	QC/information flag	25
+P0	membrane_watershed	image_ROI_subset	Immune	Ambiguous/review	9
+P0	membrane_watershed	image_ROI_subset	Immune	Cardiomyocyte	1
+P0	membrane_watershed	image_ROI_subset	Immune	Immune	11
+P0	membrane_watershed	image_ROI_subset	Immune	QC/information flag	1
+P0	membrane_watershed	image_ROI_subset	Mixed-marker review	Ambiguous/review	13
+P0	membrane_watershed	image_ROI_subset	Mixed-marker review	Cardiomyocyte	2
+P0	membrane_watershed	image_ROI_subset	Mixed-marker review	Endothelial	38
+P0	membrane_watershed	image_ROI_subset	Mixed-marker review	Fibroblast	6
+P0	membrane_watershed	image_ROI_subset	Mixed-marker review	Immune	1
+P0	membrane_watershed	image_ROI_subset	Mixed-marker review	Mixed-marker review	11
+P0	membrane_watershed	image_ROI_subset	Mixed-marker review	Pericyte	1
+P0	membrane_watershed	image_ROI_subset	Mixed-marker review	QC/information flag	6
+P0	membrane_watershed	image_ROI_subset	Pericyte	Ambiguous/review	24
+P0	membrane_watershed	image_ROI_subset	Pericyte	Cardiomyocyte	7
+P0	membrane_watershed	image_ROI_subset	Pericyte	Endothelial	1
+P0	membrane_watershed	image_ROI_subset	Pericyte	Pericyte	31
+P0	membrane_watershed	image_ROI_subset	Pericyte	QC/information flag	2
+P0	membrane_watershed	image_ROI_subset	QC/information flag	Ambiguous/review	20
+P0	membrane_watershed	image_ROI_subset	QC/information flag	Cardiomyocyte	10
+P0	membrane_watershed	image_ROI_subset	QC/information flag	Fibroblast	2
+P0	membrane_watershed	image_ROI_subset	QC/information flag	QC/information flag	30
+P0	membrane_watershed	image_ROI_subset	Smooth muscle	Ambiguous/review	10
+P0	membrane_watershed	image_ROI_subset	Smooth muscle	Fibroblast	1
+P0	membrane_watershed	image_ROI_subset	Smooth muscle	Mixed-marker review	1
+P0	membrane_watershed	image_ROI_subset	Smooth muscle	QC/information flag	1
+P0	membrane_watershed	image_ROI_subset	Smooth muscle	Smooth muscle	12
+P7	native_Q20	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Ambiguous/review	1369
+P7	native_Q20	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Cardiomyocyte	7025
+P7	native_Q20	geometry_targets_and_all_frozen_pairs	Endothelial	Endothelial	1541
+P7	native_Q20	geometry_targets_and_all_frozen_pairs	Epicardial	Epicardial	10
+P7	native_Q20	geometry_targets_and_all_frozen_pairs	Fibroblast	Fibroblast	470
+P7	native_Q20	geometry_targets_and_all_frozen_pairs	Immune	Immune	103
+P7	native_Q20	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Mixed-marker review	186
+P7	native_Q20	geometry_targets_and_all_frozen_pairs	Pericyte	Pericyte	202
+P7	native_Q20	geometry_targets_and_all_frozen_pairs	QC/information flag	QC/information flag	124
+P7	native_Q20	geometry_targets_and_all_frozen_pairs	Smooth muscle	Smooth muscle	44
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Ambiguous/review	649
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Cardiomyocyte	235
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Endothelial	63
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Fibroblast	36
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Immune	16
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Mixed-marker review	4
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Pericyte	39
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	QC/information flag	325
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Smooth muscle	2
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Ambiguous/review	368
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Cardiomyocyte	6381
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Endothelial	1
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Fibroblast	1
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Mixed-marker review	5
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	QC/information flag	269
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	Ambiguous/review	285
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	Cardiomyocyte	56
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	Endothelial	1054
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	Fibroblast	1
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	Mixed-marker review	73
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	Pericyte	1
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	QC/information flag	71
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Epicardial	Ambiguous/review	1
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Epicardial	Epicardial	9
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Fibroblast	Ambiguous/review	111
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Fibroblast	Cardiomyocyte	4
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Fibroblast	Fibroblast	303
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Fibroblast	Mixed-marker review	10
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Fibroblast	QC/information flag	42
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Immune	Ambiguous/review	15
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Immune	Immune	74
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Immune	Mixed-marker review	6
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Immune	QC/information flag	8
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Ambiguous/review	25
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Endothelial	57
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Fibroblast	5
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Immune	4
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Mixed-marker review	59
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Pericyte	8
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	QC/information flag	28
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Pericyte	Ambiguous/review	26
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Pericyte	Cardiomyocyte	3
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Pericyte	Mixed-marker review	22
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Pericyte	Pericyte	128
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Pericyte	QC/information flag	23
+P7	core_1um	geometry_targets_and_all_frozen_pairs	QC/information flag	QC/information flag	124
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Ambiguous/review	15
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Mixed-marker review	1
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Pericyte	1
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Smooth muscle	QC/information flag	5
+P7	core_1um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Smooth muscle	22
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Ambiguous/review	360
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Cardiomyocyte	202
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Endothelial	42
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Fibroblast	21
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Immune	10
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Mixed-marker review	5
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Pericyte	40
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	QC/information flag	686
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Smooth muscle	3
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Ambiguous/review	541
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Cardiomyocyte	4632
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Endothelial	4
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Fibroblast	1
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Mixed-marker review	6
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	QC/information flag	1841
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Ambiguous/review	395
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Cardiomyocyte	92
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Endothelial	505
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Mixed-marker review	54
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Pericyte	7
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	QC/information flag	488
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Epicardial	Ambiguous/review	5
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Epicardial	Epicardial	5
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Ambiguous/review	98
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Cardiomyocyte	14
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Fibroblast	151
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Mixed-marker review	12
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Pericyte	3
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	QC/information flag	192
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Immune	Ambiguous/review	12
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Immune	Immune	42
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Immune	Mixed-marker review	5
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Immune	QC/information flag	44
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Ambiguous/review	20
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Endothelial	28
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Fibroblast	5
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Immune	3
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Mixed-marker review	15
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Pericyte	1
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	QC/information flag	114
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Pericyte	Ambiguous/review	22
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Pericyte	Cardiomyocyte	4
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Pericyte	Mixed-marker review	14
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Pericyte	Pericyte	71
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Pericyte	QC/information flag	91
+P7	core_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	QC/information flag	124
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Ambiguous/review	11
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	QC/information flag	24
+P7	core_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Smooth muscle	9
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Ambiguous/review	1159
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Cardiomyocyte	130
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Endothelial	48
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Epicardial	1
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Fibroblast	21
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Immune	2
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Mixed-marker review	4
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Pericyte	3
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Smooth muscle	1
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Ambiguous/review	120
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Cardiomyocyte	6901
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Endothelial	1
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Fibroblast	1
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Mixed-marker review	1
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Pericyte	1
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Ambiguous/review	75
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Cardiomyocyte	1
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Endothelial	1453
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Mixed-marker review	12
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Epicardial	Ambiguous/review	1
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Epicardial	Epicardial	9
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Ambiguous/review	29
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Fibroblast	440
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Mixed-marker review	1
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Immune	Ambiguous/review	7
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Immune	Immune	95
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Immune	Mixed-marker review	1
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Ambiguous/review	5
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Cardiomyocyte	3
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Endothelial	50
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Fibroblast	5
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Immune	6
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Mixed-marker review	113
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Pericyte	3
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Smooth muscle	1
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Pericyte	Ambiguous/review	25
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Pericyte	Mixed-marker review	4
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Pericyte	Pericyte	173
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	Ambiguous/review	24
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	Cardiomyocyte	10
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	Endothelial	1
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	QC/information flag	89
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Ambiguous/review	1
+P7	dilation_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Smooth muscle	43
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Ambiguous/review	797
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Cardiomyocyte	285
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Endothelial	39
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Fibroblast	16
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Immune	14
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Mixed-marker review	3
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Pericyte	44
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	QC/information flag	169
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Smooth muscle	2
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Ambiguous/review	387
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Cardiomyocyte	6606
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Endothelial	3
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Mixed-marker review	5
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	QC/information flag	24
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Endothelial	Ambiguous/review	351
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Endothelial	Cardiomyocyte	49
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Endothelial	Endothelial	1094
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Endothelial	Fibroblast	1
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Endothelial	Mixed-marker review	40
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Endothelial	QC/information flag	6
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Epicardial	Ambiguous/review	1
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Epicardial	Epicardial	8
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Epicardial	Fibroblast	1
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Fibroblast	Ambiguous/review	183
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Fibroblast	Cardiomyocyte	10
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Fibroblast	Fibroblast	262
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Fibroblast	Pericyte	1
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Fibroblast	QC/information flag	14
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Immune	Ambiguous/review	14
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Immune	Immune	84
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Immune	Mixed-marker review	1
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Immune	QC/information flag	4
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Ambiguous/review	27
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Endothelial	65
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Fibroblast	10
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Immune	10
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Mixed-marker review	63
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Pericyte	10
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	QC/information flag	1
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Pericyte	Ambiguous/review	38
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Pericyte	Cardiomyocyte	3
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Pericyte	Mixed-marker review	5
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Pericyte	Pericyte	147
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Pericyte	QC/information flag	9
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	QC/information flag	QC/information flag	124
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Smooth muscle	Ambiguous/review	19
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Smooth muscle	Pericyte	1
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Smooth muscle	QC/information flag	1
+P7	native_Q30	geometry_targets_and_all_frozen_pairs	Smooth muscle	Smooth muscle	23
+P7	native_raster_Q20	image_ROI_subset	Ambiguous/review	Ambiguous/review	769
+P7	native_raster_Q20	image_ROI_subset	Ambiguous/review	Cardiomyocyte	55
+P7	native_raster_Q20	image_ROI_subset	Ambiguous/review	Endothelial	23
+P7	native_raster_Q20	image_ROI_subset	Ambiguous/review	Fibroblast	8
+P7	native_raster_Q20	image_ROI_subset	Ambiguous/review	Immune	1
+P7	native_raster_Q20	image_ROI_subset	Ambiguous/review	Mixed-marker review	3
+P7	native_raster_Q20	image_ROI_subset	Ambiguous/review	Pericyte	8
+P7	native_raster_Q20	image_ROI_subset	Ambiguous/review	QC/information flag	14
+P7	native_raster_Q20	image_ROI_subset	Ambiguous/review	Smooth muscle	2
+P7	native_raster_Q20	image_ROI_subset	Cardiomyocyte	Ambiguous/review	47
+P7	native_raster_Q20	image_ROI_subset	Cardiomyocyte	Cardiomyocyte	3345
+P7	native_raster_Q20	image_ROI_subset	Cardiomyocyte	Endothelial	1
+P7	native_raster_Q20	image_ROI_subset	Endothelial	Ambiguous/review	40
+P7	native_raster_Q20	image_ROI_subset	Endothelial	Endothelial	958
+P7	native_raster_Q20	image_ROI_subset	Endothelial	Mixed-marker review	11
+P7	native_raster_Q20	image_ROI_subset	Epicardial	Epicardial	5
+P7	native_raster_Q20	image_ROI_subset	Fibroblast	Ambiguous/review	19
+P7	native_raster_Q20	image_ROI_subset	Fibroblast	Fibroblast	275
+P7	native_raster_Q20	image_ROI_subset	Immune	Ambiguous/review	3
+P7	native_raster_Q20	image_ROI_subset	Immune	Immune	69
+P7	native_raster_Q20	image_ROI_subset	Immune	Mixed-marker review	3
+P7	native_raster_Q20	image_ROI_subset	Mixed-marker review	Ambiguous/review	3
+P7	native_raster_Q20	image_ROI_subset	Mixed-marker review	Endothelial	11
+P7	native_raster_Q20	image_ROI_subset	Mixed-marker review	Fibroblast	2
+P7	native_raster_Q20	image_ROI_subset	Mixed-marker review	Mixed-marker review	113
+P7	native_raster_Q20	image_ROI_subset	Mixed-marker review	Pericyte	4
+P7	native_raster_Q20	image_ROI_subset	Pericyte	Ambiguous/review	8
+P7	native_raster_Q20	image_ROI_subset	Pericyte	Mixed-marker review	6
+P7	native_raster_Q20	image_ROI_subset	Pericyte	Pericyte	132
+P7	native_raster_Q20	image_ROI_subset	Pericyte	QC/information flag	1
+P7	native_raster_Q20	image_ROI_subset	QC/information flag	QC/information flag	85
+P7	native_raster_Q20	image_ROI_subset	Smooth muscle	Ambiguous/review	3
+P7	native_raster_Q20	image_ROI_subset	Smooth muscle	Smooth muscle	35
+P7	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Ambiguous/review	505
+P7	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Cardiomyocyte	239
+P7	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Endothelial	80
+P7	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Epicardial	1
+P7	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Fibroblast	36
+P7	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Immune	3
+P7	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Mixed-marker review	2
+P7	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Pericyte	9
+P7	centroid_Voronoi	image_ROI_subset	Ambiguous/review	QC/information flag	1
+P7	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Smooth muscle	7
+P7	centroid_Voronoi	image_ROI_subset	Cardiomyocyte	Ambiguous/review	144
+P7	centroid_Voronoi	image_ROI_subset	Cardiomyocyte	Cardiomyocyte	3222
+P7	centroid_Voronoi	image_ROI_subset	Cardiomyocyte	Endothelial	19
+P7	centroid_Voronoi	image_ROI_subset	Cardiomyocyte	Fibroblast	3
+P7	centroid_Voronoi	image_ROI_subset	Cardiomyocyte	Mixed-marker review	1
+P7	centroid_Voronoi	image_ROI_subset	Cardiomyocyte	Pericyte	4
+P7	centroid_Voronoi	image_ROI_subset	Endothelial	Ambiguous/review	128
+P7	centroid_Voronoi	image_ROI_subset	Endothelial	Cardiomyocyte	35
+P7	centroid_Voronoi	image_ROI_subset	Endothelial	Endothelial	838
+P7	centroid_Voronoi	image_ROI_subset	Endothelial	Mixed-marker review	8
+P7	centroid_Voronoi	image_ROI_subset	Epicardial	Ambiguous/review	1
+P7	centroid_Voronoi	image_ROI_subset	Epicardial	Epicardial	4
+P7	centroid_Voronoi	image_ROI_subset	Fibroblast	Ambiguous/review	55
+P7	centroid_Voronoi	image_ROI_subset	Fibroblast	Cardiomyocyte	3
+P7	centroid_Voronoi	image_ROI_subset	Fibroblast	Fibroblast	230
+P7	centroid_Voronoi	image_ROI_subset	Fibroblast	Immune	1
+P7	centroid_Voronoi	image_ROI_subset	Fibroblast	Mixed-marker review	5
+P7	centroid_Voronoi	image_ROI_subset	Immune	Ambiguous/review	8
+P7	centroid_Voronoi	image_ROI_subset	Immune	Cardiomyocyte	1
+P7	centroid_Voronoi	image_ROI_subset	Immune	Immune	62
+P7	centroid_Voronoi	image_ROI_subset	Immune	Mixed-marker review	4
+P7	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Ambiguous/review	11
+P7	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Cardiomyocyte	2
+P7	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Endothelial	71
+P7	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Fibroblast	4
+P7	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Immune	8
+P7	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Mixed-marker review	31
+P7	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Pericyte	5
+P7	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Smooth muscle	1
+P7	centroid_Voronoi	image_ROI_subset	Pericyte	Ambiguous/review	48
+P7	centroid_Voronoi	image_ROI_subset	Pericyte	Cardiomyocyte	7
+P7	centroid_Voronoi	image_ROI_subset	Pericyte	Endothelial	1
+P7	centroid_Voronoi	image_ROI_subset	Pericyte	Mixed-marker review	3
+P7	centroid_Voronoi	image_ROI_subset	Pericyte	Pericyte	87
+P7	centroid_Voronoi	image_ROI_subset	Pericyte	Smooth muscle	1
+P7	centroid_Voronoi	image_ROI_subset	QC/information flag	Ambiguous/review	33
+P7	centroid_Voronoi	image_ROI_subset	QC/information flag	Cardiomyocyte	37
+P7	centroid_Voronoi	image_ROI_subset	QC/information flag	Endothelial	2
+P7	centroid_Voronoi	image_ROI_subset	QC/information flag	Fibroblast	5
+P7	centroid_Voronoi	image_ROI_subset	QC/information flag	Pericyte	1
+P7	centroid_Voronoi	image_ROI_subset	QC/information flag	QC/information flag	7
+P7	centroid_Voronoi	image_ROI_subset	Smooth muscle	Ambiguous/review	8
+P7	centroid_Voronoi	image_ROI_subset	Smooth muscle	Mixed-marker review	1
+P7	centroid_Voronoi	image_ROI_subset	Smooth muscle	Smooth muscle	29
+P7	membrane_watershed	image_ROI_subset	Ambiguous/review	Ambiguous/review	449
+P7	membrane_watershed	image_ROI_subset	Ambiguous/review	Cardiomyocyte	247
+P7	membrane_watershed	image_ROI_subset	Ambiguous/review	Endothelial	57
+P7	membrane_watershed	image_ROI_subset	Ambiguous/review	Fibroblast	37
+P7	membrane_watershed	image_ROI_subset	Ambiguous/review	Immune	5
+P7	membrane_watershed	image_ROI_subset	Ambiguous/review	Mixed-marker review	2
+P7	membrane_watershed	image_ROI_subset	Ambiguous/review	Pericyte	4
+P7	membrane_watershed	image_ROI_subset	Ambiguous/review	QC/information flag	74
+P7	membrane_watershed	image_ROI_subset	Ambiguous/review	Smooth muscle	8
+P7	membrane_watershed	image_ROI_subset	Cardiomyocyte	Ambiguous/review	175
+P7	membrane_watershed	image_ROI_subset	Cardiomyocyte	Cardiomyocyte	3010
+P7	membrane_watershed	image_ROI_subset	Cardiomyocyte	Endothelial	31
+P7	membrane_watershed	image_ROI_subset	Cardiomyocyte	Fibroblast	7
+P7	membrane_watershed	image_ROI_subset	Cardiomyocyte	Immune	2
+P7	membrane_watershed	image_ROI_subset	Cardiomyocyte	Pericyte	1
+P7	membrane_watershed	image_ROI_subset	Cardiomyocyte	QC/information flag	167
+P7	membrane_watershed	image_ROI_subset	Endothelial	Ambiguous/review	162
+P7	membrane_watershed	image_ROI_subset	Endothelial	Cardiomyocyte	113
+P7	membrane_watershed	image_ROI_subset	Endothelial	Endothelial	677
+P7	membrane_watershed	image_ROI_subset	Endothelial	Fibroblast	4
+P7	membrane_watershed	image_ROI_subset	Endothelial	Immune	1
+P7	membrane_watershed	image_ROI_subset	Endothelial	Mixed-marker review	12
+P7	membrane_watershed	image_ROI_subset	Endothelial	QC/information flag	40
+P7	membrane_watershed	image_ROI_subset	Epicardial	Ambiguous/review	1
+P7	membrane_watershed	image_ROI_subset	Epicardial	Epicardial	4
+P7	membrane_watershed	image_ROI_subset	Fibroblast	Ambiguous/review	87
+P7	membrane_watershed	image_ROI_subset	Fibroblast	Cardiomyocyte	26
+P7	membrane_watershed	image_ROI_subset	Fibroblast	Endothelial	3
+P7	membrane_watershed	image_ROI_subset	Fibroblast	Fibroblast	158
+P7	membrane_watershed	image_ROI_subset	Fibroblast	Immune	2
+P7	membrane_watershed	image_ROI_subset	Fibroblast	Mixed-marker review	3
+P7	membrane_watershed	image_ROI_subset	Fibroblast	QC/information flag	15
+P7	membrane_watershed	image_ROI_subset	Immune	Ambiguous/review	16
+P7	membrane_watershed	image_ROI_subset	Immune	Cardiomyocyte	8
+P7	membrane_watershed	image_ROI_subset	Immune	Immune	40
+P7	membrane_watershed	image_ROI_subset	Immune	Mixed-marker review	6
+P7	membrane_watershed	image_ROI_subset	Immune	QC/information flag	5
+P7	membrane_watershed	image_ROI_subset	Mixed-marker review	Ambiguous/review	15
+P7	membrane_watershed	image_ROI_subset	Mixed-marker review	Cardiomyocyte	8
+P7	membrane_watershed	image_ROI_subset	Mixed-marker review	Endothelial	68
+P7	membrane_watershed	image_ROI_subset	Mixed-marker review	Fibroblast	5
+P7	membrane_watershed	image_ROI_subset	Mixed-marker review	Immune	11
+P7	membrane_watershed	image_ROI_subset	Mixed-marker review	Mixed-marker review	19
+P7	membrane_watershed	image_ROI_subset	Mixed-marker review	Pericyte	4
+P7	membrane_watershed	image_ROI_subset	Mixed-marker review	QC/information flag	3
+P7	membrane_watershed	image_ROI_subset	Pericyte	Ambiguous/review	55
+P7	membrane_watershed	image_ROI_subset	Pericyte	Cardiomyocyte	17
+P7	membrane_watershed	image_ROI_subset	Pericyte	Endothelial	5
+P7	membrane_watershed	image_ROI_subset	Pericyte	Mixed-marker review	5
+P7	membrane_watershed	image_ROI_subset	Pericyte	Pericyte	60
+P7	membrane_watershed	image_ROI_subset	Pericyte	QC/information flag	5
+P7	membrane_watershed	image_ROI_subset	QC/information flag	Ambiguous/review	20
+P7	membrane_watershed	image_ROI_subset	QC/information flag	Cardiomyocyte	20
+P7	membrane_watershed	image_ROI_subset	QC/information flag	Endothelial	1
+P7	membrane_watershed	image_ROI_subset	QC/information flag	Fibroblast	4
+P7	membrane_watershed	image_ROI_subset	QC/information flag	QC/information flag	40
+P7	membrane_watershed	image_ROI_subset	Smooth muscle	Ambiguous/review	13
+P7	membrane_watershed	image_ROI_subset	Smooth muscle	Fibroblast	1
+P7	membrane_watershed	image_ROI_subset	Smooth muscle	Mixed-marker review	1
+P7	membrane_watershed	image_ROI_subset	Smooth muscle	QC/information flag	2
+P7	membrane_watershed	image_ROI_subset	Smooth muscle	Smooth muscle	21
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Ambiguous/review	1080
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Cardiomyocyte	5032
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Endothelial	Endothelial	1284
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Epicardial	Epicardial	16
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Fibroblast	Fibroblast	437
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Immune	Immune	112
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Mixed-marker review	320
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Pericyte	Pericyte	258
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	QC/information flag	QC/information flag	78
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Smooth muscle	Smooth muscle	122
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Ambiguous/review	552
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Cardiomyocyte	159
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Endothelial	92
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Fibroblast	24
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Immune	13
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Mixed-marker review	7
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Pericyte	25
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	QC/information flag	205
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Smooth muscle	3
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Ambiguous/review	170
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Cardiomyocyte	4782
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Endothelial	12
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Fibroblast	1
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Pericyte	1
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	QC/information flag	66
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	Ambiguous/review	172
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	Cardiomyocyte	24
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	Endothelial	895
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	Fibroblast	3
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	Mixed-marker review	135
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	Pericyte	2
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	QC/information flag	53
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Epicardial	Epicardial	15
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Epicardial	QC/information flag	1
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Fibroblast	Ambiguous/review	67
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Fibroblast	Cardiomyocyte	2
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Fibroblast	Endothelial	1
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Fibroblast	Fibroblast	301
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Fibroblast	Mixed-marker review	19
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Fibroblast	QC/information flag	47
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Immune	Ambiguous/review	3
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Immune	Immune	76
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Immune	Mixed-marker review	18
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Immune	QC/information flag	15
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Ambiguous/review	33
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Endothelial	82
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Fibroblast	19
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Immune	8
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Mixed-marker review	120
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Pericyte	16
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	QC/information flag	37
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Smooth muscle	5
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Pericyte	Ambiguous/review	30
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Pericyte	Cardiomyocyte	1
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Pericyte	Mixed-marker review	28
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Pericyte	Pericyte	179
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Pericyte	QC/information flag	20
+P14	core_1um	geometry_targets_and_all_frozen_pairs	QC/information flag	QC/information flag	78
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Ambiguous/review	26
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Mixed-marker review	2
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Smooth muscle	QC/information flag	5
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Smooth muscle	89
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Ambiguous/review	308
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Cardiomyocyte	191
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Endothelial	63
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Fibroblast	19
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Immune	6
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Mixed-marker review	10
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Pericyte	21
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	QC/information flag	460
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Smooth muscle	2
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Ambiguous/review	185
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Cardiomyocyte	4166
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Endothelial	21
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Fibroblast	2
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Mixed-marker review	4
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Pericyte	2
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	QC/information flag	652
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Ambiguous/review	260
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Cardiomyocyte	30
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Endothelial	509
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Fibroblast	2
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Immune	1
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Mixed-marker review	101
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Pericyte	2
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	QC/information flag	379
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Epicardial	Ambiguous/review	2
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Epicardial	Epicardial	10
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Epicardial	Immune	1
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Epicardial	QC/information flag	3
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Ambiguous/review	65
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Cardiomyocyte	8
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Endothelial	4
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Fibroblast	173
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Mixed-marker review	22
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	QC/information flag	165
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Immune	Ambiguous/review	7
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Immune	Endothelial	1
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Immune	Fibroblast	1
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Immune	Immune	50
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Immune	Mixed-marker review	13
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Immune	Pericyte	1
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Immune	QC/information flag	39
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Ambiguous/review	29
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Endothelial	37
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Fibroblast	9
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Immune	11
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Mixed-marker review	45
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Pericyte	17
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	QC/information flag	169
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Smooth muscle	3
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Pericyte	Ambiguous/review	17
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Pericyte	Cardiomyocyte	2
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Pericyte	Endothelial	1
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Pericyte	Mixed-marker review	27
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Pericyte	Pericyte	116
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Pericyte	QC/information flag	95
+P14	core_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	QC/information flag	78
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Ambiguous/review	34
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Endothelial	1
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Mixed-marker review	1
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Pericyte	1
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	QC/information flag	33
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Smooth muscle	52
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Ambiguous/review	900
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Cardiomyocyte	93
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Endothelial	28
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Epicardial	1
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Fibroblast	34
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Immune	3
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Mixed-marker review	8
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Pericyte	6
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Smooth muscle	7
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Ambiguous/review	130
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Cardiomyocyte	4899
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Endothelial	1
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Fibroblast	2
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Ambiguous/review	108
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Cardiomyocyte	7
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Endothelial	1154
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Mixed-marker review	15
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Epicardial	Ambiguous/review	2
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Epicardial	Epicardial	14
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Ambiguous/review	40
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Fibroblast	383
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Mixed-marker review	14
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Immune	Ambiguous/review	12
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Immune	Immune	97
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Immune	Mixed-marker review	3
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Ambiguous/review	4
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Endothelial	89
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Fibroblast	17
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Immune	9
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Mixed-marker review	179
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Pericyte	18
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Smooth muscle	4
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Pericyte	Ambiguous/review	26
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Pericyte	Mixed-marker review	1
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Pericyte	Pericyte	231
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	Ambiguous/review	25
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	Cardiomyocyte	5
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	Endothelial	1
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	Fibroblast	3
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	Immune	1
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	Mixed-marker review	2
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	QC/information flag	40
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	Smooth muscle	1
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Ambiguous/review	6
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Mixed-marker review	6
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Smooth muscle	110
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Ambiguous/review	733
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Cardiomyocyte	167
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Endothelial	51
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Epicardial	3
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Fibroblast	23
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Immune	10
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Mixed-marker review	5
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Pericyte	21
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	QC/information flag	60
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Smooth muscle	7
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Ambiguous/review	71
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Cardiomyocyte	4954
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Endothelial	4
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	QC/information flag	3
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Endothelial	Ambiguous/review	162
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Endothelial	Cardiomyocyte	19
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Endothelial	Endothelial	1034
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Endothelial	Mixed-marker review	64
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Endothelial	Pericyte	2
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Endothelial	QC/information flag	3
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Epicardial	Epicardial	16
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Fibroblast	Ambiguous/review	74
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Fibroblast	Cardiomyocyte	2
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Fibroblast	Fibroblast	341
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Fibroblast	Mixed-marker review	8
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Fibroblast	QC/information flag	12
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Immune	Ambiguous/review	3
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Immune	Immune	99
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Immune	Mixed-marker review	6
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Immune	QC/information flag	4
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Ambiguous/review	24
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Endothelial	47
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Fibroblast	14
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Immune	11
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Mixed-marker review	212
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Pericyte	6
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	QC/information flag	3
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Smooth muscle	3
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Pericyte	Ambiguous/review	31
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Pericyte	Cardiomyocyte	1
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Pericyte	Mixed-marker review	7
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Pericyte	Pericyte	216
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Pericyte	QC/information flag	3
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	QC/information flag	QC/information flag	78
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Smooth muscle	Ambiguous/review	32
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Smooth muscle	Endothelial	1
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Smooth muscle	Mixed-marker review	1
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Smooth muscle	QC/information flag	1
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Smooth muscle	Smooth muscle	87
+P14	native_raster_Q20	image_ROI_subset	Ambiguous/review	Ambiguous/review	628
+P14	native_raster_Q20	image_ROI_subset	Ambiguous/review	Cardiomyocyte	33
+P14	native_raster_Q20	image_ROI_subset	Ambiguous/review	Endothelial	25
+P14	native_raster_Q20	image_ROI_subset	Ambiguous/review	Fibroblast	8
+P14	native_raster_Q20	image_ROI_subset	Ambiguous/review	Immune	1
+P14	native_raster_Q20	image_ROI_subset	Ambiguous/review	Mixed-marker review	4
+P14	native_raster_Q20	image_ROI_subset	Ambiguous/review	Pericyte	8
+P14	native_raster_Q20	image_ROI_subset	Ambiguous/review	QC/information flag	8
+P14	native_raster_Q20	image_ROI_subset	Ambiguous/review	Smooth muscle	4
+P14	native_raster_Q20	image_ROI_subset	Cardiomyocyte	Ambiguous/review	26
+P14	native_raster_Q20	image_ROI_subset	Cardiomyocyte	Cardiomyocyte	2050
+P14	native_raster_Q20	image_ROI_subset	Endothelial	Ambiguous/review	30
+P14	native_raster_Q20	image_ROI_subset	Endothelial	Endothelial	805
+P14	native_raster_Q20	image_ROI_subset	Endothelial	Mixed-marker review	18
+P14	native_raster_Q20	image_ROI_subset	Endothelial	QC/information flag	1
+P14	native_raster_Q20	image_ROI_subset	Epicardial	Epicardial	13
+P14	native_raster_Q20	image_ROI_subset	Fibroblast	Ambiguous/review	18
+P14	native_raster_Q20	image_ROI_subset	Fibroblast	Fibroblast	292
+P14	native_raster_Q20	image_ROI_subset	Fibroblast	Mixed-marker review	2
+P14	native_raster_Q20	image_ROI_subset	Immune	Ambiguous/review	2
+P14	native_raster_Q20	image_ROI_subset	Immune	Immune	65
+P14	native_raster_Q20	image_ROI_subset	Immune	Mixed-marker review	2
+P14	native_raster_Q20	image_ROI_subset	Immune	QC/information flag	2
+P14	native_raster_Q20	image_ROI_subset	Mixed-marker review	Ambiguous/review	1
+P14	native_raster_Q20	image_ROI_subset	Mixed-marker review	Endothelial	9
+P14	native_raster_Q20	image_ROI_subset	Mixed-marker review	Fibroblast	7
+P14	native_raster_Q20	image_ROI_subset	Mixed-marker review	Immune	2
+P14	native_raster_Q20	image_ROI_subset	Mixed-marker review	Mixed-marker review	186
+P14	native_raster_Q20	image_ROI_subset	Mixed-marker review	Pericyte	1
+P14	native_raster_Q20	image_ROI_subset	Mixed-marker review	Smooth muscle	4
+P14	native_raster_Q20	image_ROI_subset	Pericyte	Ambiguous/review	9
+P14	native_raster_Q20	image_ROI_subset	Pericyte	Mixed-marker review	4
+P14	native_raster_Q20	image_ROI_subset	Pericyte	Pericyte	152
+P14	native_raster_Q20	image_ROI_subset	QC/information flag	QC/information flag	59
+P14	native_raster_Q20	image_ROI_subset	Smooth muscle	Ambiguous/review	6
+P14	native_raster_Q20	image_ROI_subset	Smooth muscle	Mixed-marker review	1
+P14	native_raster_Q20	image_ROI_subset	Smooth muscle	Smooth muscle	88
+P14	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Ambiguous/review	425
+P14	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Cardiomyocyte	169
+P14	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Endothelial	58
+P14	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Epicardial	1
+P14	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Fibroblast	39
+P14	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Immune	6
+P14	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Mixed-marker review	5
+P14	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Pericyte	6
+P14	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Smooth muscle	10
+P14	centroid_Voronoi	image_ROI_subset	Cardiomyocyte	Ambiguous/review	100
+P14	centroid_Voronoi	image_ROI_subset	Cardiomyocyte	Cardiomyocyte	1965
+P14	centroid_Voronoi	image_ROI_subset	Cardiomyocyte	Endothelial	8
+P14	centroid_Voronoi	image_ROI_subset	Cardiomyocyte	Fibroblast	1
+P14	centroid_Voronoi	image_ROI_subset	Cardiomyocyte	Pericyte	2
+P14	centroid_Voronoi	image_ROI_subset	Endothelial	Ambiguous/review	147
+P14	centroid_Voronoi	image_ROI_subset	Endothelial	Cardiomyocyte	36
+P14	centroid_Voronoi	image_ROI_subset	Endothelial	Endothelial	664
+P14	centroid_Voronoi	image_ROI_subset	Endothelial	Fibroblast	4
+P14	centroid_Voronoi	image_ROI_subset	Endothelial	Mixed-marker review	3
+P14	centroid_Voronoi	image_ROI_subset	Epicardial	Ambiguous/review	2
+P14	centroid_Voronoi	image_ROI_subset	Epicardial	Epicardial	11
+P14	centroid_Voronoi	image_ROI_subset	Fibroblast	Ambiguous/review	66
+P14	centroid_Voronoi	image_ROI_subset	Fibroblast	Cardiomyocyte	2
+P14	centroid_Voronoi	image_ROI_subset	Fibroblast	Fibroblast	236
+P14	centroid_Voronoi	image_ROI_subset	Fibroblast	Mixed-marker review	7
+P14	centroid_Voronoi	image_ROI_subset	Fibroblast	Pericyte	1
+P14	centroid_Voronoi	image_ROI_subset	Immune	Ambiguous/review	11
+P14	centroid_Voronoi	image_ROI_subset	Immune	Immune	56
+P14	centroid_Voronoi	image_ROI_subset	Immune	Mixed-marker review	4
+P14	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Ambiguous/review	10
+P14	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Cardiomyocyte	4
+P14	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Endothelial	104
+P14	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Fibroblast	27
+P14	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Immune	11
+P14	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Mixed-marker review	30
+P14	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Pericyte	20
+P14	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Smooth muscle	4
+P14	centroid_Voronoi	image_ROI_subset	Pericyte	Ambiguous/review	31
+P14	centroid_Voronoi	image_ROI_subset	Pericyte	Cardiomyocyte	3
+P14	centroid_Voronoi	image_ROI_subset	Pericyte	Fibroblast	1
+P14	centroid_Voronoi	image_ROI_subset	Pericyte	Mixed-marker review	1
+P14	centroid_Voronoi	image_ROI_subset	Pericyte	Pericyte	129
+P14	centroid_Voronoi	image_ROI_subset	QC/information flag	Ambiguous/review	22
+P14	centroid_Voronoi	image_ROI_subset	QC/information flag	Cardiomyocyte	23
+P14	centroid_Voronoi	image_ROI_subset	QC/information flag	Endothelial	1
+P14	centroid_Voronoi	image_ROI_subset	QC/information flag	Fibroblast	8
+P14	centroid_Voronoi	image_ROI_subset	QC/information flag	Immune	3
+P14	centroid_Voronoi	image_ROI_subset	QC/information flag	Pericyte	1
+P14	centroid_Voronoi	image_ROI_subset	QC/information flag	QC/information flag	1
+P14	centroid_Voronoi	image_ROI_subset	Smooth muscle	Ambiguous/review	7
+P14	centroid_Voronoi	image_ROI_subset	Smooth muscle	Endothelial	1
+P14	centroid_Voronoi	image_ROI_subset	Smooth muscle	Mixed-marker review	11
+P14	centroid_Voronoi	image_ROI_subset	Smooth muscle	Smooth muscle	76
+P14	membrane_watershed	image_ROI_subset	Ambiguous/review	Ambiguous/review	348
+P14	membrane_watershed	image_ROI_subset	Ambiguous/review	Cardiomyocyte	207
+P14	membrane_watershed	image_ROI_subset	Ambiguous/review	Endothelial	48
+P14	membrane_watershed	image_ROI_subset	Ambiguous/review	Epicardial	1
+P14	membrane_watershed	image_ROI_subset	Ambiguous/review	Fibroblast	19
+P14	membrane_watershed	image_ROI_subset	Ambiguous/review	Immune	5
+P14	membrane_watershed	image_ROI_subset	Ambiguous/review	Mixed-marker review	5
+P14	membrane_watershed	image_ROI_subset	Ambiguous/review	Pericyte	6
+P14	membrane_watershed	image_ROI_subset	Ambiguous/review	QC/information flag	73
+P14	membrane_watershed	image_ROI_subset	Ambiguous/review	Smooth muscle	7
+P14	membrane_watershed	image_ROI_subset	Cardiomyocyte	Ambiguous/review	116
+P14	membrane_watershed	image_ROI_subset	Cardiomyocyte	Cardiomyocyte	1829
+P14	membrane_watershed	image_ROI_subset	Cardiomyocyte	Endothelial	9
+P14	membrane_watershed	image_ROI_subset	Cardiomyocyte	Fibroblast	2
+P14	membrane_watershed	image_ROI_subset	Cardiomyocyte	QC/information flag	120
+P14	membrane_watershed	image_ROI_subset	Endothelial	Ambiguous/review	171
+P14	membrane_watershed	image_ROI_subset	Endothelial	Cardiomyocyte	111
+P14	membrane_watershed	image_ROI_subset	Endothelial	Endothelial	509
+P14	membrane_watershed	image_ROI_subset	Endothelial	Fibroblast	10
+P14	membrane_watershed	image_ROI_subset	Endothelial	Immune	1
+P14	membrane_watershed	image_ROI_subset	Endothelial	Mixed-marker review	7
+P14	membrane_watershed	image_ROI_subset	Endothelial	Pericyte	3
+P14	membrane_watershed	image_ROI_subset	Endothelial	QC/information flag	41
+P14	membrane_watershed	image_ROI_subset	Endothelial	Smooth muscle	1
+P14	membrane_watershed	image_ROI_subset	Epicardial	Ambiguous/review	3
+P14	membrane_watershed	image_ROI_subset	Epicardial	Epicardial	7
+P14	membrane_watershed	image_ROI_subset	Epicardial	Fibroblast	1
+P14	membrane_watershed	image_ROI_subset	Epicardial	QC/information flag	2
+P14	membrane_watershed	image_ROI_subset	Fibroblast	Ambiguous/review	92
+P14	membrane_watershed	image_ROI_subset	Fibroblast	Cardiomyocyte	27
+P14	membrane_watershed	image_ROI_subset	Fibroblast	Endothelial	3
+P14	membrane_watershed	image_ROI_subset	Fibroblast	Epicardial	1
+P14	membrane_watershed	image_ROI_subset	Fibroblast	Fibroblast	171
+P14	membrane_watershed	image_ROI_subset	Fibroblast	Immune	1
+P14	membrane_watershed	image_ROI_subset	Fibroblast	Mixed-marker review	7
+P14	membrane_watershed	image_ROI_subset	Fibroblast	QC/information flag	10
+P14	membrane_watershed	image_ROI_subset	Immune	Ambiguous/review	20
+P14	membrane_watershed	image_ROI_subset	Immune	Cardiomyocyte	7
+P14	membrane_watershed	image_ROI_subset	Immune	Fibroblast	1
+P14	membrane_watershed	image_ROI_subset	Immune	Immune	37
+P14	membrane_watershed	image_ROI_subset	Immune	Mixed-marker review	3
+P14	membrane_watershed	image_ROI_subset	Immune	QC/information flag	3
+P14	membrane_watershed	image_ROI_subset	Mixed-marker review	Ambiguous/review	26
+P14	membrane_watershed	image_ROI_subset	Mixed-marker review	Cardiomyocyte	13
+P14	membrane_watershed	image_ROI_subset	Mixed-marker review	Endothelial	92
+P14	membrane_watershed	image_ROI_subset	Mixed-marker review	Fibroblast	21
+P14	membrane_watershed	image_ROI_subset	Mixed-marker review	Immune	15
+P14	membrane_watershed	image_ROI_subset	Mixed-marker review	Mixed-marker review	23
+P14	membrane_watershed	image_ROI_subset	Mixed-marker review	Pericyte	17
+P14	membrane_watershed	image_ROI_subset	Mixed-marker review	QC/information flag	1
+P14	membrane_watershed	image_ROI_subset	Mixed-marker review	Smooth muscle	2
+P14	membrane_watershed	image_ROI_subset	Pericyte	Ambiguous/review	56
+P14	membrane_watershed	image_ROI_subset	Pericyte	Cardiomyocyte	15
+P14	membrane_watershed	image_ROI_subset	Pericyte	Endothelial	2
+P14	membrane_watershed	image_ROI_subset	Pericyte	Fibroblast	2
+P14	membrane_watershed	image_ROI_subset	Pericyte	Pericyte	86
+P14	membrane_watershed	image_ROI_subset	Pericyte	QC/information flag	4
+P14	membrane_watershed	image_ROI_subset	QC/information flag	Ambiguous/review	22
+P14	membrane_watershed	image_ROI_subset	QC/information flag	Cardiomyocyte	10
+P14	membrane_watershed	image_ROI_subset	QC/information flag	Endothelial	2
+P14	membrane_watershed	image_ROI_subset	QC/information flag	Fibroblast	6
+P14	membrane_watershed	image_ROI_subset	QC/information flag	Immune	3
+P14	membrane_watershed	image_ROI_subset	QC/information flag	Pericyte	1
+P14	membrane_watershed	image_ROI_subset	QC/information flag	QC/information flag	14
+P14	membrane_watershed	image_ROI_subset	QC/information flag	Smooth muscle	1
+P14	membrane_watershed	image_ROI_subset	Smooth muscle	Ambiguous/review	19
+P14	membrane_watershed	image_ROI_subset	Smooth muscle	Cardiomyocyte	1
+P14	membrane_watershed	image_ROI_subset	Smooth muscle	Mixed-marker review	14
+P14	membrane_watershed	image_ROI_subset	Smooth muscle	QC/information flag	1
+P14	membrane_watershed	image_ROI_subset	Smooth muscle	Smooth muscle	60
+P21	native_Q20	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Ambiguous/review	1300
+P21	native_Q20	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Cardiomyocyte	3212
+P21	native_Q20	geometry_targets_and_all_frozen_pairs	Endothelial	Endothelial	1136
+P21	native_Q20	geometry_targets_and_all_frozen_pairs	Fibroblast	Fibroblast	661
+P21	native_Q20	geometry_targets_and_all_frozen_pairs	Immune	Immune	161
+P21	native_Q20	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Mixed-marker review	216
+P21	native_Q20	geometry_targets_and_all_frozen_pairs	Pericyte	Pericyte	225
+P21	native_Q20	geometry_targets_and_all_frozen_pairs	QC/information flag	QC/information flag	72
+P21	native_Q20	geometry_targets_and_all_frozen_pairs	Smooth muscle	Smooth muscle	71
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Ambiguous/review	659
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Cardiomyocyte	192
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Endothelial	128
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Fibroblast	37
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Immune	11
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Mixed-marker review	8
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Pericyte	26
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	QC/information flag	235
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Smooth muscle	4
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Ambiguous/review	205
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Cardiomyocyte	2925
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Endothelial	14
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Fibroblast	3
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Mixed-marker review	1
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	QC/information flag	64
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	Ambiguous/review	216
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	Cardiomyocyte	7
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	Endothelial	741
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	Fibroblast	6
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	Immune	1
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	Mixed-marker review	107
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	QC/information flag	58
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Fibroblast	Ambiguous/review	101
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Fibroblast	Cardiomyocyte	2
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Fibroblast	Fibroblast	456
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Fibroblast	Mixed-marker review	32
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Fibroblast	QC/information flag	70
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Immune	Ambiguous/review	14
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Immune	Cardiomyocyte	2
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Immune	Immune	103
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Immune	Mixed-marker review	12
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Immune	QC/information flag	30
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Ambiguous/review	21
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Endothelial	42
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Fibroblast	13
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Immune	6
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Mixed-marker review	76
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Pericyte	8
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	QC/information flag	49
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Smooth muscle	1
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Pericyte	Ambiguous/review	19
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Pericyte	Mixed-marker review	17
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Pericyte	Pericyte	160
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Pericyte	QC/information flag	29
+P21	core_1um	geometry_targets_and_all_frozen_pairs	QC/information flag	QC/information flag	72
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Ambiguous/review	14
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Cardiomyocyte	1
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Endothelial	1
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Mixed-marker review	2
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Pericyte	1
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Smooth muscle	QC/information flag	7
+P21	core_1um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Smooth muscle	45
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Ambiguous/review	377
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Cardiomyocyte	228
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Endothelial	90
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Fibroblast	23
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Immune	11
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Mixed-marker review	12
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Pericyte	21
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	QC/information flag	533
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Smooth muscle	5
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Ambiguous/review	256
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Cardiomyocyte	2442
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Endothelial	25
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Fibroblast	4
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Mixed-marker review	1
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	QC/information flag	484
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Ambiguous/review	243
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Cardiomyocyte	17
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Endothelial	369
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Fibroblast	11
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Mixed-marker review	86
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Pericyte	2
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	QC/information flag	408
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Ambiguous/review	81
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Cardiomyocyte	1
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Endothelial	3
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Fibroblast	277
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Mixed-marker review	21
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	QC/information flag	278
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Immune	Ambiguous/review	21
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Immune	Cardiomyocyte	1
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Immune	Endothelial	1
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Immune	Fibroblast	2
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Immune	Immune	46
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Immune	Mixed-marker review	11
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Immune	QC/information flag	79
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Ambiguous/review	5
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Cardiomyocyte	1
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Endothelial	19
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Fibroblast	6
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Immune	3
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Mixed-marker review	21
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Pericyte	3
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	QC/information flag	157
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Smooth muscle	1
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Pericyte	Ambiguous/review	29
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Pericyte	Mixed-marker review	18
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Pericyte	Pericyte	90
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Pericyte	QC/information flag	88
+P21	core_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	QC/information flag	72
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Ambiguous/review	17
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Cardiomyocyte	1
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Pericyte	2
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	QC/information flag	30
+P21	core_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Smooth muscle	21
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Ambiguous/review	1068
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Cardiomyocyte	154
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Endothelial	31
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Fibroblast	29
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Immune	5
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Mixed-marker review	3
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Pericyte	7
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Smooth muscle	3
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Ambiguous/review	92
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Cardiomyocyte	3119
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Endothelial	1
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Ambiguous/review	151
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Cardiomyocyte	12
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Endothelial	962
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Endothelial	Mixed-marker review	11
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Ambiguous/review	38
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Cardiomyocyte	1
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Fibroblast	610
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	Mixed-marker review	12
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Immune	Ambiguous/review	12
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Immune	Immune	144
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Immune	Mixed-marker review	5
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Ambiguous/review	6
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Endothelial	62
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Fibroblast	14
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Immune	13
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Mixed-marker review	109
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Pericyte	11
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Smooth muscle	1
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Pericyte	Ambiguous/review	28
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Pericyte	Mixed-marker review	6
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Pericyte	Pericyte	191
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	Ambiguous/review	25
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	Cardiomyocyte	3
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	Endothelial	3
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	Fibroblast	5
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	Mixed-marker review	1
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	QC/information flag	35
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Ambiguous/review	5
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Mixed-marker review	6
+P21	dilation_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	Smooth muscle	60
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Ambiguous/review	954
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Cardiomyocyte	173
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Endothelial	60
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Fibroblast	23
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Immune	7
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Mixed-marker review	3
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Pericyte	23
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	QC/information flag	48
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	Smooth muscle	9
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Ambiguous/review	88
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Cardiomyocyte	3120
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	Mixed-marker review	2
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	QC/information flag	2
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Endothelial	Ambiguous/review	179
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Endothelial	Cardiomyocyte	6
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Endothelial	Endothelial	902
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Endothelial	Fibroblast	3
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Endothelial	Mixed-marker review	45
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Endothelial	Pericyte	1
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Fibroblast	Ambiguous/review	79
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Fibroblast	Fibroblast	555
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Fibroblast	Immune	1
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Fibroblast	Mixed-marker review	8
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Fibroblast	QC/information flag	18
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Immune	Ambiguous/review	15
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Immune	Immune	138
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Immune	Mixed-marker review	4
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Immune	Pericyte	1
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Immune	QC/information flag	3
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Ambiguous/review	13
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Endothelial	43
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Fibroblast	10
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Immune	9
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Mixed-marker review	126
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Pericyte	9
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	QC/information flag	4
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	Smooth muscle	2
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Pericyte	Ambiguous/review	28
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Pericyte	Cardiomyocyte	1
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Pericyte	Mixed-marker review	11
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Pericyte	Pericyte	185
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	QC/information flag	QC/information flag	72
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Smooth muscle	Ambiguous/review	15
+P21	native_Q30	geometry_targets_and_all_frozen_pairs	Smooth muscle	Smooth muscle	56
+P21	native_raster_Q20	image_ROI_subset	Ambiguous/review	Ambiguous/review	708
+P21	native_raster_Q20	image_ROI_subset	Ambiguous/review	Cardiomyocyte	36
+P21	native_raster_Q20	image_ROI_subset	Ambiguous/review	Endothelial	32
+P21	native_raster_Q20	image_ROI_subset	Ambiguous/review	Fibroblast	12
+P21	native_raster_Q20	image_ROI_subset	Ambiguous/review	Immune	4
+P21	native_raster_Q20	image_ROI_subset	Ambiguous/review	Mixed-marker review	2
+P21	native_raster_Q20	image_ROI_subset	Ambiguous/review	Pericyte	8
+P21	native_raster_Q20	image_ROI_subset	Ambiguous/review	QC/information flag	10
+P21	native_raster_Q20	image_ROI_subset	Ambiguous/review	Smooth muscle	2
+P21	native_raster_Q20	image_ROI_subset	Cardiomyocyte	Ambiguous/review	35
+P21	native_raster_Q20	image_ROI_subset	Cardiomyocyte	Cardiomyocyte	1577
+P21	native_raster_Q20	image_ROI_subset	Cardiomyocyte	Mixed-marker review	1
+P21	native_raster_Q20	image_ROI_subset	Endothelial	Ambiguous/review	30
+P21	native_raster_Q20	image_ROI_subset	Endothelial	Endothelial	651
+P21	native_raster_Q20	image_ROI_subset	Endothelial	Fibroblast	1
+P21	native_raster_Q20	image_ROI_subset	Endothelial	Mixed-marker review	13
+P21	native_raster_Q20	image_ROI_subset	Fibroblast	Ambiguous/review	10
+P21	native_raster_Q20	image_ROI_subset	Fibroblast	Fibroblast	398
+P21	native_raster_Q20	image_ROI_subset	Fibroblast	Mixed-marker review	3
+P21	native_raster_Q20	image_ROI_subset	Fibroblast	QC/information flag	4
+P21	native_raster_Q20	image_ROI_subset	Immune	Ambiguous/review	4
+P21	native_raster_Q20	image_ROI_subset	Immune	Immune	96
+P21	native_raster_Q20	image_ROI_subset	Immune	Mixed-marker review	1
+P21	native_raster_Q20	image_ROI_subset	Immune	QC/information flag	1
+P21	native_raster_Q20	image_ROI_subset	Mixed-marker review	Ambiguous/review	1
+P21	native_raster_Q20	image_ROI_subset	Mixed-marker review	Endothelial	10
+P21	native_raster_Q20	image_ROI_subset	Mixed-marker review	Fibroblast	4
+P21	native_raster_Q20	image_ROI_subset	Mixed-marker review	Immune	1
+P21	native_raster_Q20	image_ROI_subset	Mixed-marker review	Mixed-marker review	114
+P21	native_raster_Q20	image_ROI_subset	Mixed-marker review	Pericyte	1
+P21	native_raster_Q20	image_ROI_subset	Mixed-marker review	Smooth muscle	3
+P21	native_raster_Q20	image_ROI_subset	Pericyte	Ambiguous/review	4
+P21	native_raster_Q20	image_ROI_subset	Pericyte	Mixed-marker review	5
+P21	native_raster_Q20	image_ROI_subset	Pericyte	Pericyte	131
+P21	native_raster_Q20	image_ROI_subset	QC/information flag	QC/information flag	47
+P21	native_raster_Q20	image_ROI_subset	Smooth muscle	Ambiguous/review	3
+P21	native_raster_Q20	image_ROI_subset	Smooth muscle	Smooth muscle	43
+P21	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Ambiguous/review	467
+P21	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Cardiomyocyte	237
+P21	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Endothelial	42
+P21	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Fibroblast	47
+P21	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Immune	6
+P21	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Mixed-marker review	1
+P21	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Pericyte	5
+P21	centroid_Voronoi	image_ROI_subset	Ambiguous/review	Smooth muscle	9
+P21	centroid_Voronoi	image_ROI_subset	Cardiomyocyte	Ambiguous/review	79
+P21	centroid_Voronoi	image_ROI_subset	Cardiomyocyte	Cardiomyocyte	1528
+P21	centroid_Voronoi	image_ROI_subset	Cardiomyocyte	Endothelial	3
+P21	centroid_Voronoi	image_ROI_subset	Cardiomyocyte	Fibroblast	1
+P21	centroid_Voronoi	image_ROI_subset	Cardiomyocyte	Immune	1
+P21	centroid_Voronoi	image_ROI_subset	Cardiomyocyte	Smooth muscle	1
+P21	centroid_Voronoi	image_ROI_subset	Endothelial	Ambiguous/review	186
+P21	centroid_Voronoi	image_ROI_subset	Endothelial	Cardiomyocyte	59
+P21	centroid_Voronoi	image_ROI_subset	Endothelial	Endothelial	447
+P21	centroid_Voronoi	image_ROI_subset	Endothelial	Fibroblast	2
+P21	centroid_Voronoi	image_ROI_subset	Endothelial	Mixed-marker review	1
+P21	centroid_Voronoi	image_ROI_subset	Fibroblast	Ambiguous/review	69
+P21	centroid_Voronoi	image_ROI_subset	Fibroblast	Cardiomyocyte	8
+P21	centroid_Voronoi	image_ROI_subset	Fibroblast	Fibroblast	334
+P21	centroid_Voronoi	image_ROI_subset	Fibroblast	Mixed-marker review	4
+P21	centroid_Voronoi	image_ROI_subset	Immune	Ambiguous/review	27
+P21	centroid_Voronoi	image_ROI_subset	Immune	Cardiomyocyte	2
+P21	centroid_Voronoi	image_ROI_subset	Immune	Endothelial	1
+P21	centroid_Voronoi	image_ROI_subset	Immune	Fibroblast	2
+P21	centroid_Voronoi	image_ROI_subset	Immune	Immune	65
+P21	centroid_Voronoi	image_ROI_subset	Immune	Mixed-marker review	5
+P21	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Ambiguous/review	9
+P21	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Cardiomyocyte	7
+P21	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Endothelial	57
+P21	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Fibroblast	13
+P21	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Immune	15
+P21	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Mixed-marker review	17
+P21	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Pericyte	14
+P21	centroid_Voronoi	image_ROI_subset	Mixed-marker review	Smooth muscle	2
+P21	centroid_Voronoi	image_ROI_subset	Pericyte	Ambiguous/review	41
+P21	centroid_Voronoi	image_ROI_subset	Pericyte	Cardiomyocyte	3
+P21	centroid_Voronoi	image_ROI_subset	Pericyte	Pericyte	96
+P21	centroid_Voronoi	image_ROI_subset	QC/information flag	Ambiguous/review	22
+P21	centroid_Voronoi	image_ROI_subset	QC/information flag	Cardiomyocyte	11
+P21	centroid_Voronoi	image_ROI_subset	QC/information flag	Endothelial	1
+P21	centroid_Voronoi	image_ROI_subset	QC/information flag	Fibroblast	8
+P21	centroid_Voronoi	image_ROI_subset	QC/information flag	Immune	2
+P21	centroid_Voronoi	image_ROI_subset	QC/information flag	Pericyte	1
+P21	centroid_Voronoi	image_ROI_subset	QC/information flag	Smooth muscle	2
+P21	centroid_Voronoi	image_ROI_subset	Smooth muscle	Ambiguous/review	7
+P21	centroid_Voronoi	image_ROI_subset	Smooth muscle	Cardiomyocyte	1
+P21	centroid_Voronoi	image_ROI_subset	Smooth muscle	Mixed-marker review	5
+P21	centroid_Voronoi	image_ROI_subset	Smooth muscle	Smooth muscle	33
+P21	membrane_watershed	image_ROI_subset	Ambiguous/review	Ambiguous/review	437
+P21	membrane_watershed	image_ROI_subset	Ambiguous/review	Cardiomyocyte	197
+P21	membrane_watershed	image_ROI_subset	Ambiguous/review	Endothelial	40
+P21	membrane_watershed	image_ROI_subset	Ambiguous/review	Fibroblast	35
+P21	membrane_watershed	image_ROI_subset	Ambiguous/review	Immune	7
+P21	membrane_watershed	image_ROI_subset	Ambiguous/review	Mixed-marker review	3
+P21	membrane_watershed	image_ROI_subset	Ambiguous/review	Pericyte	6
+P21	membrane_watershed	image_ROI_subset	Ambiguous/review	QC/information flag	83
+P21	membrane_watershed	image_ROI_subset	Ambiguous/review	Smooth muscle	6
+P21	membrane_watershed	image_ROI_subset	Cardiomyocyte	Ambiguous/review	134
+P21	membrane_watershed	image_ROI_subset	Cardiomyocyte	Cardiomyocyte	1383
+P21	membrane_watershed	image_ROI_subset	Cardiomyocyte	Endothelial	7
+P21	membrane_watershed	image_ROI_subset	Cardiomyocyte	Fibroblast	4
+P21	membrane_watershed	image_ROI_subset	Cardiomyocyte	Pericyte	1
+P21	membrane_watershed	image_ROI_subset	Cardiomyocyte	QC/information flag	84
+P21	membrane_watershed	image_ROI_subset	Endothelial	Ambiguous/review	213
+P21	membrane_watershed	image_ROI_subset	Endothelial	Cardiomyocyte	82
+P21	membrane_watershed	image_ROI_subset	Endothelial	Endothelial	361
+P21	membrane_watershed	image_ROI_subset	Endothelial	Fibroblast	5
+P21	membrane_watershed	image_ROI_subset	Endothelial	Mixed-marker review	3
+P21	membrane_watershed	image_ROI_subset	Endothelial	Pericyte	1
+P21	membrane_watershed	image_ROI_subset	Endothelial	QC/information flag	29
+P21	membrane_watershed	image_ROI_subset	Endothelial	Smooth muscle	1
+P21	membrane_watershed	image_ROI_subset	Fibroblast	Ambiguous/review	90
+P21	membrane_watershed	image_ROI_subset	Fibroblast	Cardiomyocyte	23
+P21	membrane_watershed	image_ROI_subset	Fibroblast	Endothelial	3
+P21	membrane_watershed	image_ROI_subset	Fibroblast	Fibroblast	265
+P21	membrane_watershed	image_ROI_subset	Fibroblast	Mixed-marker review	7
+P21	membrane_watershed	image_ROI_subset	Fibroblast	QC/information flag	27
+P21	membrane_watershed	image_ROI_subset	Immune	Ambiguous/review	33
+P21	membrane_watershed	image_ROI_subset	Immune	Cardiomyocyte	7
+P21	membrane_watershed	image_ROI_subset	Immune	Endothelial	2
+P21	membrane_watershed	image_ROI_subset	Immune	Fibroblast	1
+P21	membrane_watershed	image_ROI_subset	Immune	Immune	50
+P21	membrane_watershed	image_ROI_subset	Immune	Mixed-marker review	5
+P21	membrane_watershed	image_ROI_subset	Immune	QC/information flag	4
+P21	membrane_watershed	image_ROI_subset	Mixed-marker review	Ambiguous/review	27
+P21	membrane_watershed	image_ROI_subset	Mixed-marker review	Cardiomyocyte	8
+P21	membrane_watershed	image_ROI_subset	Mixed-marker review	Endothelial	48
+P21	membrane_watershed	image_ROI_subset	Mixed-marker review	Fibroblast	9
+P21	membrane_watershed	image_ROI_subset	Mixed-marker review	Immune	10
+P21	membrane_watershed	image_ROI_subset	Mixed-marker review	Mixed-marker review	15
+P21	membrane_watershed	image_ROI_subset	Mixed-marker review	Pericyte	8
+P21	membrane_watershed	image_ROI_subset	Mixed-marker review	QC/information flag	8
+P21	membrane_watershed	image_ROI_subset	Mixed-marker review	Smooth muscle	1
+P21	membrane_watershed	image_ROI_subset	Pericyte	Ambiguous/review	54
+P21	membrane_watershed	image_ROI_subset	Pericyte	Cardiomyocyte	10
+P21	membrane_watershed	image_ROI_subset	Pericyte	Endothelial	1
+P21	membrane_watershed	image_ROI_subset	Pericyte	Mixed-marker review	4
+P21	membrane_watershed	image_ROI_subset	Pericyte	Pericyte	59
+P21	membrane_watershed	image_ROI_subset	Pericyte	QC/information flag	12
+P21	membrane_watershed	image_ROI_subset	QC/information flag	Ambiguous/review	20
+P21	membrane_watershed	image_ROI_subset	QC/information flag	Cardiomyocyte	5
+P21	membrane_watershed	image_ROI_subset	QC/information flag	Endothelial	2
+P21	membrane_watershed	image_ROI_subset	QC/information flag	Fibroblast	7
+P21	membrane_watershed	image_ROI_subset	QC/information flag	Mixed-marker review	1
+P21	membrane_watershed	image_ROI_subset	QC/information flag	QC/information flag	12
+P21	membrane_watershed	image_ROI_subset	Smooth muscle	Ambiguous/review	9
+P21	membrane_watershed	image_ROI_subset	Smooth muscle	Cardiomyocyte	2
+P21	membrane_watershed	image_ROI_subset	Smooth muscle	Fibroblast	1
+P21	membrane_watershed	image_ROI_subset	Smooth muscle	Mixed-marker review	6
+P21	membrane_watershed	image_ROI_subset	Smooth muscle	QC/information flag	1
+P21	membrane_watershed	image_ROI_subset	Smooth muscle	Smooth muscle	27

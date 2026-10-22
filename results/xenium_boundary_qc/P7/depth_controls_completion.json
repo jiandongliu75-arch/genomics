@@ -1,0 +1,11 @@
+{
+  "stage": "P7",
+  "profiles": 11074,
+  "exact_count_depth_matching": true,
+  "nucleus_required": false,
+  "conditions": [
+    "thin_to_core1",
+    "thin_to_core2",
+    "thin_to_Q30"
+  ]
+}

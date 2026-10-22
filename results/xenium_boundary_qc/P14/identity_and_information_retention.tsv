@@ -1,0 +1,230 @@
+stage	variant	scope	baseline_identity	nuclear_area	profiles	information_QC_pass	identity_unchanged	mean_transcript_retained_ratio	median_transcript_retained_ratio
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Ambiguous/review	all	1080	1080	1080	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Ambiguous/review	measured	930	930	930	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Ambiguous/review	missing	150	150	150	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	all	5032	5032	5032	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	measured	3572	3572	3572	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	missing	1460	1460	1460	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Endothelial	all	1284	1284	1284	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Endothelial	measured	1269	1269	1269	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Endothelial	missing	15	15	15	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Epicardial	all	16	16	16	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Epicardial	measured	16	16	16	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Fibroblast	all	437	437	437	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Fibroblast	measured	426	426	426	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Fibroblast	missing	11	11	11	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Immune	all	112	112	112	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Immune	measured	111	111	111	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Immune	missing	1	1	1	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Mixed-marker review	all	320	320	320	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Mixed-marker review	measured	316	316	316	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Mixed-marker review	missing	4	4	4	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Pericyte	all	258	258	258	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Pericyte	measured	254	254	254	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Pericyte	missing	4	4	4	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	QC/information flag	all	78	0	78	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	QC/information flag	measured	76	0	76	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	QC/information flag	missing	2	0	2	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Smooth muscle	all	122	122	122	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Smooth muscle	measured	121	121	121	1.0	1.0
+P14	native_Q20	geometry_targets_and_all_frozen_pairs	Smooth muscle	missing	1	1	1	1.0	1.0
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	all	1080	875	552	0.5243225074859178	0.557368027121032
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	measured	930	738	497	0.518443665106941	0.5517009719839909
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	missing	150	137	55	0.5607713302355741	0.582204719832597
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	all	5032	4966	4782	0.6382562943005674	0.6681344196966321
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	measured	3572	3529	3372	0.6588990903151423	0.6845637583892618
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	missing	1460	1437	1410	0.5877521385717581	0.6130914693343463
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	all	1284	1231	895	0.5565506978628627	0.5759582580774634
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	measured	1269	1217	893	0.5579679302858143	0.5767441860465117
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Endothelial	missing	15	14	2	0.4366528348811619	0.39849624060150374
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Epicardial	all	16	15	15	0.6069904419010816	0.6178564602446484
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Epicardial	measured	16	15	15	0.6069904419010816	0.6178564602446484
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Fibroblast	all	437	390	301	0.545982982125564	0.5757575757575758
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Fibroblast	measured	426	380	297	0.5475074475549538	0.5774264382960035
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Fibroblast	missing	11	10	4	0.48694459367828125	0.46919431279620855
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Immune	all	112	97	76	0.5286818170552717	0.5508097627737226
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Immune	measured	111	96	75	0.5286429602372302	0.5547445255474452
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Immune	missing	1	1	1	0.5329949238578681	0.5329949238578681
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	all	320	283	120	0.48473353570006816	0.5
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	measured	316	279	119	0.48587241189973995	0.5
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	missing	4	4	1	0.3947623159259988	0.38810850984764034
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Pericyte	all	258	238	179	0.5362412043421494	0.5455562834370564
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Pericyte	measured	254	235	176	0.5382107156958559	0.5473421926910299
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Pericyte	missing	4	3	3	0.41117723338178935	0.4136588145896657
+P14	core_1um	geometry_targets_and_all_frozen_pairs	QC/information flag	all	78	0	78	0.15801694101179997	0.12771739130434784
+P14	core_1um	geometry_targets_and_all_frozen_pairs	QC/information flag	measured	76	0	76	0.15679097681309315	0.125
+P14	core_1um	geometry_targets_and_all_frozen_pairs	QC/information flag	missing	2	0	2	0.20460358056265984	0.20460358056265984
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Smooth muscle	all	122	117	89	0.5852437434157375	0.6012407669102098
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Smooth muscle	measured	121	116	89	0.5874117357855646	0.6033254156769596
+P14	core_1um	geometry_targets_and_all_frozen_pairs	Smooth muscle	missing	1	1	0	0.3229166666666667	0.3229166666666667
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	all	1080	620	308	0.2410230128256996	0.23752094940435747
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	measured	930	515	287	0.23652333166406644	0.2355715871254162
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	missing	150	105	21	0.2689210360278254	0.2521627856679403
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	all	5032	4380	4166	0.36930529925202243	0.40244003240151427
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	measured	3572	3277	3088	0.399359790900797	0.43046119235095615
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	missing	1460	1103	1078	0.29577472105378766	0.31748000563442
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	all	1284	905	509	0.2552980970932236	0.25760161156535133
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	measured	1269	901	509	0.2568991773941363	0.2595419847328244
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Endothelial	missing	15	4	0	0.11984670363601461	0.07766990291262135
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Epicardial	all	16	13	10	0.2965628054534653	0.3123220719018467
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Epicardial	measured	16	13	10	0.2965628054534653	0.3123220719018467
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	all	437	272	173	0.251334427007245	0.26222222222222225
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	measured	426	266	173	0.2528515775699767	0.26246067229673786
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	missing	11	6	0	0.19257932339599948	0.16587677725118483
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Immune	all	112	73	50	0.23587522279356468	0.23921630756231516
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Immune	measured	111	73	50	0.23681121853556553	0.23954372623574144
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Immune	missing	1	0	0	0.1319796954314721	0.1319796954314721
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	all	320	151	45	0.1722284839667722	0.16112637362637364
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	measured	316	151	45	0.17362139164475457	0.16313153310104528
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	missing	4	0	0	0.06218877740616871	0.06882199925678187
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Pericyte	all	258	163	116	0.23332249260533755	0.23445949961371604
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Pericyte	measured	254	162	115	0.23488854697806344	0.23573823895755486
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Pericyte	missing	4	1	1	0.13387803993724437	0.08358662613981763
+P14	core_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	all	78	0	78	0.014265448193448767	0.0
+P14	core_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	measured	76	0	76	0.014640854724855315	0.0
+P14	core_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	missing	2	0	2	0.0	0.0
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	all	122	89	52	0.27292482752424013	0.27571462506928496
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	measured	121	89	52	0.27518040461121734	0.2774566473988439
+P14	core_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	missing	1	0	0	0.0	0.0
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	all	1080	1080	900	1.2324677001286872	1.1583580656057335
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	measured	930	930	783	1.238630023491547	1.1635834072860491
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Ambiguous/review	missing	150	150	117	1.1942612952789542	1.129000084882438
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	all	5032	5032	4899	1.1652191048614533	1.1231238341639764
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	measured	3572	3572	3505	1.1560170777577297	1.1218458991515488
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	missing	1460	1460	1394	1.1877325574741255	1.127659574468085
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Endothelial	all	1284	1284	1154	1.215209732115698	1.1641832839604427
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Endothelial	measured	1269	1269	1142	1.2126422544014717	1.1612903225806452
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Endothelial	missing	15	15	12	1.4324183467392502	1.404040404040404
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Epicardial	all	16	16	14	1.1493719975548156	1.115085604472397
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Epicardial	measured	16	16	14	1.1493719975548156	1.115085604472397
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	all	437	437	383	1.2699013189668862	1.2142857142857142
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	measured	426	426	372	1.2706967494090302	1.2148598989435002
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Fibroblast	missing	11	11	11	1.2390964672984077	1.1206896551724137
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Immune	all	112	112	97	1.212364474758642	1.1670892494929006
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Immune	measured	111	111	96	1.2140490131739459	1.1724137931034482
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Immune	missing	1	1	1	1.0253807106598984	1.0253807106598984
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	all	320	320	179	1.2296965586438517	1.1641475335770322
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	measured	316	316	176	1.2297968351759236	1.1641475335770322
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Mixed-marker review	missing	4	4	3	1.2217747126101772	1.1362493715434892
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Pericyte	all	258	258	231	1.2419207640941947	1.1816998280520759
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Pericyte	measured	254	254	228	1.2403880896398867	1.1816998280520759
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Pericyte	missing	4	4	3	1.3392455919427473	1.207669413919414
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	all	78	38	40	1.6872810418249968	1.3095238095238095
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	measured	76	37	39	1.6926133131504495	1.3095238095238095
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	QC/information flag	missing	2	1	1	1.4846547314578005	1.4846547314578005
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	all	122	122	110	1.1157217034775295	1.090219472676388
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	measured	121	121	109	1.1155589351867103	1.0890410958904109
+P14	dilation_2um	geometry_targets_and_all_frozen_pairs	Smooth muscle	missing	1	1	1	1.1354166666666667	1.1354166666666667
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	all	1080	1020	733	0.7305897200789112	0.7403846153846154
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	measured	930	873	630	0.7242405159788796	0.7357022708158116
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Ambiguous/review	missing	150	147	103	0.7699547854991073	0.7761985307111661
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	all	5032	5029	4954	0.7635906936561775	0.7685647221378302
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	measured	3572	3570	3519	0.7589930823281597	0.7648827635582602
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Cardiomyocyte	missing	1460	1459	1435	0.774839096165547	0.7783587484275656
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Endothelial	all	1284	1281	1034	0.7502073263651655	0.7541255922880017
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Endothelial	measured	1269	1266	1022	0.7502291894770752	0.7541528239202658
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Endothelial	missing	15	15	12	0.7483577070976026	0.7535545023696683
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Epicardial	all	16	16	16	0.7261761888571509	0.7317523512780566
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Epicardial	measured	16	16	16	0.7261761888571509	0.7317523512780566
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Fibroblast	all	437	425	341	0.7027782396137782	0.7058823529411765
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Fibroblast	measured	426	414	334	0.7024287444444873	0.7055191508998615
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Fibroblast	missing	11	11	7	0.7163132343517676	0.7214285714285714
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Immune	all	112	108	99	0.7463741380889193	0.7558979907264296
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Immune	measured	111	107	98	0.7458269988015693	0.7557959814528593
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Immune	missing	1	1	1	0.8071065989847716	0.8071065989847716
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	all	320	317	212	0.7457182094389214	0.75
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	measured	316	313	210	0.7456852778518162	0.75
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Mixed-marker review	missing	4	4	2	0.7483198048202311	0.7357968828557064
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Pericyte	all	258	255	216	0.7176064708091682	0.7209302325581395
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Pericyte	measured	254	251	212	0.7175604500506927	0.7209302325581395
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Pericyte	missing	4	4	4	0.7205287889723597	0.7274128893000309
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	QC/information flag	all	78	0	78	0.6505983763180239	0.6602564102564102
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	QC/information flag	measured	76	0	76	0.6466196419756054	0.6602564102564102
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	QC/information flag	missing	2	0	2	0.8017902813299234	0.8017902813299234
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Smooth muscle	all	122	121	87	0.6813180889642168	0.6840508850559102
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Smooth muscle	measured	121	120	87	0.6812669987903673	0.6834170854271356
+P14	native_Q30	geometry_targets_and_all_frozen_pairs	Smooth muscle	missing	1	1	0	0.6875	0.6875
+P14	native_raster_Q20	image_ROI_subset	Ambiguous/review	all	719	711	628	0.9555670784563235	0.9637883008356546
+P14	native_raster_Q20	image_ROI_subset	Ambiguous/review	measured	613	605	541	0.9550222412353085	0.9634146341463414
+P14	native_raster_Q20	image_ROI_subset	Ambiguous/review	missing	106	106	87	0.9587178823854003	0.9664213575510843
+P14	native_raster_Q20	image_ROI_subset	Cardiomyocyte	all	2076	2076	2050	0.966943832556785	0.970886075949367
+P14	native_raster_Q20	image_ROI_subset	Cardiomyocyte	measured	1392	1392	1375	0.9689448077493935	0.972265409206714
+P14	native_raster_Q20	image_ROI_subset	Cardiomyocyte	missing	684	684	675	0.9628716725156867	0.9671292739147137
+P14	native_raster_Q20	image_ROI_subset	Endothelial	all	854	853	805	0.9602131993425963	0.9631806789701527
+P14	native_raster_Q20	image_ROI_subset	Endothelial	measured	844	843	797	0.9602795652109589	0.9632109270040304
+P14	native_raster_Q20	image_ROI_subset	Endothelial	missing	10	10	8	0.9546119200527926	0.9424185018549215
+P14	native_raster_Q20	image_ROI_subset	Epicardial	all	13	13	13	0.9613148870998768	0.9622641509433962
+P14	native_raster_Q20	image_ROI_subset	Epicardial	measured	13	13	13	0.9613148870998768	0.9622641509433962
+P14	native_raster_Q20	image_ROI_subset	Fibroblast	all	312	312	292	0.9589861682862303	0.9628247650635711
+P14	native_raster_Q20	image_ROI_subset	Fibroblast	measured	303	303	284	0.9591228924554585	0.9629629629629629
+P14	native_raster_Q20	image_ROI_subset	Fibroblast	missing	9	9	8	0.954383121255547	0.9622641509433962
+P14	native_raster_Q20	image_ROI_subset	Immune	all	71	69	65	0.9493275471902923	0.9612625538020086
+P14	native_raster_Q20	image_ROI_subset	Immune	measured	71	69	65	0.9493275471902923	0.9612625538020086
+P14	native_raster_Q20	image_ROI_subset	Mixed-marker review	all	210	210	186	0.9539632298076849	0.9577265552875309
+P14	native_raster_Q20	image_ROI_subset	Mixed-marker review	measured	208	208	185	0.953935770225218	0.9577265552875309
+P14	native_raster_Q20	image_ROI_subset	Mixed-marker review	missing	2	2	1	0.9568190263842438	0.9568190263842438
+P14	native_raster_Q20	image_ROI_subset	Pericyte	all	165	165	152	0.9579977745128955	0.9601449275362319
+P14	native_raster_Q20	image_ROI_subset	Pericyte	measured	162	162	149	0.9582401085372275	0.9605695036277784
+P14	native_raster_Q20	image_ROI_subset	Pericyte	missing	3	3	3	0.9449117371989714	0.9538461538461539
+P14	native_raster_Q20	image_ROI_subset	QC/information flag	all	59	0	59	0.8653435226817987	0.896551724137931
+P14	native_raster_Q20	image_ROI_subset	QC/information flag	measured	57	0	57	0.8655094774867149	0.896551724137931
+P14	native_raster_Q20	image_ROI_subset	QC/information flag	missing	2	0	2	0.860613810741688	0.860613810741688
+P14	native_raster_Q20	image_ROI_subset	Smooth muscle	all	95	95	88	0.9664763941270197	0.968944099378882
+P14	native_raster_Q20	image_ROI_subset	Smooth muscle	measured	94	94	88	0.9663413912276618	0.9683430174313765
+P14	native_raster_Q20	image_ROI_subset	Smooth muscle	missing	1	1	0	0.9791666666666666	0.9791666666666666
+P14	centroid_Voronoi	image_ROI_subset	Ambiguous/review	all	719	719	425	2.035445575843721	1.4933333333333334
+P14	centroid_Voronoi	image_ROI_subset	Ambiguous/review	measured	613	613	373	2.101269870603734	1.558252427184466
+P14	centroid_Voronoi	image_ROI_subset	Ambiguous/review	missing	106	106	52	1.6547824372787434	1.1877284076224557
+P14	centroid_Voronoi	image_ROI_subset	Cardiomyocyte	all	2076	2076	1965	1.2171760645815493	0.9922723475355054
+P14	centroid_Voronoi	image_ROI_subset	Cardiomyocyte	measured	1392	1392	1342	1.1254739068601265	0.9414187129005287
+P14	centroid_Voronoi	image_ROI_subset	Cardiomyocyte	missing	684	684	623	1.4037979995935679	1.1298245614035087
+P14	centroid_Voronoi	image_ROI_subset	Endothelial	all	854	854	664	1.731901164700192	1.541213921901528
+P14	centroid_Voronoi	image_ROI_subset	Endothelial	measured	844	844	657	1.7230430962379295	1.535299003322259
+P14	centroid_Voronoi	image_ROI_subset	Endothelial	missing	10	10	7	2.4795221429151573	2.443738656987296
+P14	centroid_Voronoi	image_ROI_subset	Epicardial	all	13	13	11	1.378108079989243	1.3848920863309353
+P14	centroid_Voronoi	image_ROI_subset	Epicardial	measured	13	13	11	1.378108079989243	1.3848920863309353
+P14	centroid_Voronoi	image_ROI_subset	Fibroblast	all	312	312	236	1.8277331976602977	1.5770553835569316
+P14	centroid_Voronoi	image_ROI_subset	Fibroblast	measured	303	303	230	1.8227295245846957	1.5751633986928104
+P14	centroid_Voronoi	image_ROI_subset	Fibroblast	missing	9	9	6	1.9961901912055882	1.8214285714285714
+P14	centroid_Voronoi	image_ROI_subset	Immune	all	71	71	56	1.6815258724615256	1.5109034267912773
+P14	centroid_Voronoi	image_ROI_subset	Immune	measured	71	71	56	1.6815258724615256	1.5109034267912773
+P14	centroid_Voronoi	image_ROI_subset	Mixed-marker review	all	210	210	30	2.139867084335032	1.9432157521463234
+P14	centroid_Voronoi	image_ROI_subset	Mixed-marker review	measured	208	208	30	2.1252767201722444	1.9238304093567251
+P14	centroid_Voronoi	image_ROI_subset	Mixed-marker review	missing	2	2	0	3.6572649572649576	3.6572649572649576
+P14	centroid_Voronoi	image_ROI_subset	Pericyte	all	165	165	129	1.8917512233314113	1.5988700564971752
+P14	centroid_Voronoi	image_ROI_subset	Pericyte	measured	162	162	126	1.8964862255779458	1.605260270967034
+P14	centroid_Voronoi	image_ROI_subset	Pericyte	missing	3	3	3	1.6360611020185487	1.5851063829787233
+P14	centroid_Voronoi	image_ROI_subset	QC/information flag	all	59	58	1	10.879142463691936	7.478260869565218
+P14	centroid_Voronoi	image_ROI_subset	QC/information flag	measured	57	56	1	10.985728787854322	7.478260869565218
+P14	centroid_Voronoi	image_ROI_subset	QC/information flag	missing	2	2	0	7.841432225063938	7.841432225063938
+P14	centroid_Voronoi	image_ROI_subset	Smooth muscle	all	95	95	76	1.329331209815113	1.1607142857142858
+P14	centroid_Voronoi	image_ROI_subset	Smooth muscle	measured	94	94	75	1.2915005134656283	1.1582387627948376
+P14	centroid_Voronoi	image_ROI_subset	Smooth muscle	missing	1	1	1	4.885416666666667	4.885416666666667
+P14	membrane_watershed	image_ROI_subset	Ambiguous/review	all	719	646	348	1.7865093061894515	1.1058394160583942
+P14	membrane_watershed	image_ROI_subset	Ambiguous/review	measured	613	544	308	1.8848033370750328	1.1956521739130435
+P14	membrane_watershed	image_ROI_subset	Ambiguous/review	missing	106	102	40	1.2180730709737786	0.908905399216325
+P14	membrane_watershed	image_ROI_subset	Cardiomyocyte	all	2076	1956	1829	1.0635482985263762	0.958414842172804
+P14	membrane_watershed	image_ROI_subset	Cardiomyocyte	measured	1392	1313	1230	1.1166243909216689	0.9732023686833702
+P14	membrane_watershed	image_ROI_subset	Cardiomyocyte	missing	684	643	599	0.9555337947043767	0.9169971819225551
+P14	membrane_watershed	image_ROI_subset	Endothelial	all	854	813	509	1.7967752095230443	1.5071787148594378
+P14	membrane_watershed	image_ROI_subset	Endothelial	measured	844	804	504	1.7938971065001317	1.5053566354077863
+P14	membrane_watershed	image_ROI_subset	Endothelial	missing	10	9	5	2.0396871046568896	2.346623563218391
+P14	membrane_watershed	image_ROI_subset	Epicardial	all	13	11	7	1.389432277113244	1.1362683438155137
+P14	membrane_watershed	image_ROI_subset	Epicardial	measured	13	11	7	1.389432277113244	1.1362683438155137
+P14	membrane_watershed	image_ROI_subset	Fibroblast	all	312	302	171	2.4217113903202176	1.830099262425036
+P14	membrane_watershed	image_ROI_subset	Fibroblast	measured	303	293	170	2.453956204796337	1.8426395939086295
+P14	membrane_watershed	image_ROI_subset	Fibroblast	missing	9	9	1	1.3361359696241886	0.8965968586387435
+P14	membrane_watershed	image_ROI_subset	Immune	all	71	68	37	2.1646756424013653	1.3349753694581281
+P14	membrane_watershed	image_ROI_subset	Immune	measured	71	68	37	2.1646756424013653	1.3349753694581281
+P14	membrane_watershed	image_ROI_subset	Mixed-marker review	all	210	209	23	2.5903521718571314	2.0162646876932593
+P14	membrane_watershed	image_ROI_subset	Mixed-marker review	measured	208	207	23	2.5865901220560406	2.0118077324973878
+P14	membrane_watershed	image_ROI_subset	Mixed-marker review	missing	2	2	0	2.9816053511705687	2.9816053511705687
+P14	membrane_watershed	image_ROI_subset	Pericyte	all	165	161	86	2.3481860141219797	1.7142857142857142
+P14	membrane_watershed	image_ROI_subset	Pericyte	measured	162	158	85	2.3511414813697997	1.698737684729064
+P14	membrane_watershed	image_ROI_subset	Pericyte	missing	3	3	1	2.188590782739719	1.7743589743589743
+P14	membrane_watershed	image_ROI_subset	QC/information flag	all	59	45	14	8.06304332254313	5.176470588235294
+P14	membrane_watershed	image_ROI_subset	QC/information flag	measured	57	43	14	8.049954969612216	5.142857142857143
+P14	membrane_watershed	image_ROI_subset	QC/information flag	missing	2	2	0	8.436061381074168	8.436061381074168
+P14	membrane_watershed	image_ROI_subset	Smooth muscle	all	95	94	60	1.6448899074585375	1.2173913043478262
+P14	membrane_watershed	image_ROI_subset	Smooth muscle	measured	94	93	59	1.6224951192400114	1.2158385093167703
+P14	membrane_watershed	image_ROI_subset	Smooth muscle	missing	1	1	1	3.75	3.75

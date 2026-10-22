@@ -1,0 +1,50 @@
+{
+  "stage": "P0",
+  "rows_streamed": 22145474,
+  "target_cells": 9330,
+  "ROI_rows": {
+    "P0_arterial_1": 1172206,
+    "P0_arterial_2": 982865,
+    "P0_Endothelial_ordinary": 354622,
+    "P0_Endothelial_flagged": 351634,
+    "P0_Fibroblast_ordinary": 356084,
+    "P0_Fibroblast_flagged": 294340,
+    "P0_anucleate_CM_1": 460387,
+    "P0_anucleate_CM_2": 353353
+  },
+  "source_transcripts_sha256": "6bf36158975f43a23e4609b48d74f792272b148d4c0fa13b0822a7f3e5790d62",
+  "source_native_count_matrix_sha256": "8092b0f56d69c64db37a9cf3c5a0435de491d54a0f74f624c6a08fbae60063e5",
+  "source_transcript_acquisition": {
+    "stage": "P0",
+    "record": "14961929",
+    "archive": "WT_P0__20240528__152132.zip",
+    "url": "https://zenodo.org/api/records/14961929/files/WT_P0__20240528__152132.zip/content",
+    "member": "output-XETG00054__0028928__WT_P0__20240528__152132/transcripts.parquet",
+    "compressed_bytes": 434946439,
+    "bytes": 443130165,
+    "zip_crc32": 4139928245,
+    "bounded_range_bytes": 16777216,
+    "CRC_verified": true
+  },
+  "native_boundary_provenance": {
+    "source_boundary_path": "/workspace/heart-atlas/data/xenium/WT_P0__20240528__152132/cell_boundaries.csv.gz",
+    "source_boundary_sha256": "ad138e21f5656b4c05717007eeec91996309490173e0cb4c2510a214fb6b2812",
+    "vascular_cells_with_native_boundaries": 47611,
+    "median_centroid_outside_own_polygon_um": 0.0,
+    "maximum_centroid_outside_own_polygon_um": 1.5198279307299603
+  },
+  "count_reconstruction": {
+    "stage": "P0",
+    "source_gene_count_entries": 4019102,
+    "reconstructed_QV20_integer_counts_exact": true,
+    "mismatched_entries": 0,
+    "maximum_absolute_difference": 0,
+    "source_total_gene_transcripts": 11227803,
+    "reconstructed_total_gene_transcripts": 11227803,
+    "QV_threshold": 20
+  },
+  "nucleus_required": false,
+  "design_sha256": "f7ef9dd9f93e9b13b2d02aea70543b9b28c974e9c14b66b5297062344d46571e",
+  "ROI_selection_sha256": "d3cce40d5d3c0e9d4483051bcdb4c81a3f602380baecfb214bda79319617416f",
+  "elapsed_seconds": 143.177570104599
+}
