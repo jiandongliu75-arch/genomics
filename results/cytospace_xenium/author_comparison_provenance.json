@@ -1,0 +1,40 @@
+{
+  "repository": "https://github.com/whfbio/PIP_seq",
+  "commit": "102d80e6ea5de44f594461c727a4b3c6e1bc3508",
+  "inspected_source_files": [
+    {
+      "path": "Figure1/1.3_Cytospace_run.sh",
+      "git_blob_sha1": "02034b87f597b451afe613082e155aeda7c9d2cb",
+      "sha256": "9c43ae664bfdec92e4206c96b78aa0863ae1280c6d60e3348d1529d1826e7f87"
+    },
+    {
+      "path": "Figure1/1.4_Post_Cytospace_Correlation.R",
+      "git_blob_sha1": "2a8b1bb9c5079fc738f923a8841ed9cb266183d5",
+      "sha256": "3e8f2a45ecf3b0b572f487a7bb22c47d52dc51699282a54f75610c9e952d0f3b"
+    },
+    {
+      "path": "Figure1/1.5_main_figures_generation.R",
+      "git_blob_sha1": "326c7be0c4d988b66fb50e78d985b6389fc52fe9",
+      "sha256": "ab3f4ea56e18626be7246f314274a376eca61b30bb2aeb7e69c82aa25a190003"
+    },
+    {
+      "path": "Figure1/1.0_snRNA_Manual_Annotation.R",
+      "git_blob_sha1": "349fda867b41dbed5211bc5c6e68a9a08f71f8a9",
+      "sha256": "a4e685c64847afdd0f7150d4eda9bce066f25b7c3aee3aaf81137488ef867ad3"
+    },
+    {
+      "path": "Figure1/1.2_Cytospace.R",
+      "git_blob_sha1": "d37ddde10cdc3f1ee6e7bd7ffc4f7edb5b686948",
+      "sha256": "bb340dfc59ba670fb02cf4aa6f12d250ccd15bbf79a40ae408a2c434402cb1ce"
+    },
+    {
+      "path": "Figure1/1.1_snRNA_ref_dataset_creation.R",
+      "git_blob_sha1": "697b0109d3756dfabbb35c44683aa3aadd9f7f63",
+      "sha256": "700173be53e13d66d26b652edadb1571f57565ea03e09e2cd5ca92cb503ab232"
+    }
+  ],
+  "paper": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13561863/",
+  "exact_ST_input_label_contents_verified": false,
+  "authors_final_RDS_objects_loaded": false,
+  "paper_matched_analysis_rerun": false
+}

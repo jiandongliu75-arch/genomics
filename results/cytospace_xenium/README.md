@@ -2,7 +2,9 @@
 
 CytoSPACE **1.1.0** was run in its **single-cell mode** on all four stages. It assigns reference nuclei to **241,449 eligible Xenium segments**, including **168,588 ventricular-enriched candidates**. All **408,054 original segments** remain in the annotation tables with eligibility/review flags and unchanged physical coordinates.
 
-**The alignment is complete, but the 381-gene panel and unintegrated CytoSPACE cost do not reliably resolve most fine ventricular groups.** Raw forced assignments are supplied alongside candidates that pass explicit recoverability and stability checks. Neither native assignment counts nor the filtered subset estimates biological subtype abundance.
+**This is an independent analysis, not an exact reproduction of the authors' pipeline.** Annotation granularity, reference preparation, partition size and acceptance checks differ. The 259 accepted fine matches are an additional filtered subset, not the yield of native alignment. See the [comparison with the released author workflow](author_pipeline_comparison.md).
+
+**Under this independent setup, most fine ventricular groups do not pass the additional panel-recoverability and stability checks.** Raw forced assignments are supplied alongside candidates that pass these checks. Neither native assignment counts nor the filtered subset estimates biological subtype abundance.
 
 ## Results by stage
 
