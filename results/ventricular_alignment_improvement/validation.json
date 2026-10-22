@@ -1,0 +1,50 @@
+{
+  "status": "PASS",
+  "stages": [
+    {
+      "stage": "P0",
+      "original_rows_conserved": 47611,
+      "native_pairs_checked": 21994,
+      "production_neighbor_pairs_checked": 659820,
+      "sampled_neighbor_projection_rows_independently_recalculated": 80,
+      "heldout_metrics_recomputed": 234,
+      "native_withheld_predictions_recomputed": 857766,
+      "source_counts_and_coordinates_unchanged": true,
+      "author_spatial_labels_used_in_fit": false
+    },
+    {
+      "stage": "P7",
+      "original_rows_conserved": 99429,
+      "native_pairs_checked": 38580,
+      "production_neighbor_pairs_checked": 1157400,
+      "sampled_neighbor_projection_rows_independently_recalculated": 80,
+      "heldout_metrics_recomputed": 234,
+      "native_withheld_predictions_recomputed": 1504620,
+      "source_counts_and_coordinates_unchanged": true,
+      "author_spatial_labels_used_in_fit": false
+    },
+    {
+      "stage": "P14",
+      "original_rows_conserved": 117070,
+      "native_pairs_checked": 49656,
+      "production_neighbor_pairs_checked": 1489680,
+      "sampled_neighbor_projection_rows_independently_recalculated": 80,
+      "heldout_metrics_recomputed": 234,
+      "native_withheld_predictions_recomputed": 1936584,
+      "source_counts_and_coordinates_unchanged": true,
+      "author_spatial_labels_used_in_fit": false
+    },
+    {
+      "stage": "P21",
+      "original_rows_conserved": 143944,
+      "native_pairs_checked": 58358,
+      "production_neighbor_pairs_checked": 1750740,
+      "sampled_neighbor_projection_rows_independently_recalculated": 80,
+      "heldout_metrics_recomputed": 234,
+      "native_withheld_predictions_recomputed": 2275962,
+      "source_counts_and_coordinates_unchanged": true,
+      "author_spatial_labels_used_in_fit": false
+    }
+  ],
+  "scope": "Numerical conservation and internal held-out predictions; not independent anatomical truth or animal-level validation."
+}

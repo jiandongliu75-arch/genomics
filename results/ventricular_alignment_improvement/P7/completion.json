@@ -1,0 +1,14 @@
+{
+  "stage": "P7",
+  "query_cells": 38580,
+  "reference_nuclei": 13040,
+  "all_original_cells": 99429,
+  "training_genes": 342,
+  "withheld_genes": 39,
+  "excluded_zero_training_query": 0,
+  "excluded_zero_training_reference": 0,
+  "elapsed_seconds": 79.00973534584045,
+  "source_query_sha256": "f46cf9fdb12697a2d7e55c4394f034f67f525a871baac6b94314b6ddef336fce",
+  "author_labels_used_in_fit": false,
+  "production_projection": "assay_scaled_soft30, all381 genes, unsmoothed; candidate interpretation contingent on benchmark"
+}
