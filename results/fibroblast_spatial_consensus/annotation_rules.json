@@ -1,0 +1,15 @@
+{
+  "source": "Existing all-stage nuclear-anchored segmentation and reviewed RNA-family transfer; no retraining",
+  "A": "Native and resegmented cell calls supported and identical; frozen-native and nuclear-modality-calibrated nuclear calls both supported and identical to the cell; no strong conflicting view or compartment mixed-marker flag",
+  "B": "Previously native-unresolved; resegmented cell and both nuclear calibration calls supported and identical; no strong conflicting view or compartment mixed-marker flag",
+  "C": "Native, resegmented and boundary-core cell calls supported and identical; A/B criteria unmet; no strong conflicting view or compartment mixed-marker flag",
+  "conflict": "More than one family receives a supported call among native, resegmented, boundary-core, both nuclear calibrations or cytoplasmic-only views",
+  "mixed": "Existing CM/FB mixed-marker review flag in resegmented whole-cell, nuclear-only or cytoplasmic-only counts; a review criterion, not proven contamination or doublets",
+  "support_gates": "Inherited unchanged: weight>=0.6,margin>=0.15,>=2 measured supplied state markers including>=1 anchor,raw/both-library agreement,>=20 training molecules and>=8 training genes",
+  "primary_high_confidence_map": "A+B; C supplied as a separate moderate-confidence extension",
+  "no_nucleus_area_filter": true,
+  "no_spatial_smoothing_or_label_quota": true,
+  "no_cross_stage_label_borrowing": true,
+  "no_random_thinning_votes": true,
+  "interpretation": "Operational robustness tiers, not independent accuracy estimates, posterior probabilities or anatomical subtype validation"
+}

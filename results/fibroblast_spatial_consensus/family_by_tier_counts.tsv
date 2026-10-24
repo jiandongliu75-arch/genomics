@@ -1,0 +1,38 @@
+stage	confidence_tier	family	profiles
+P0	A: stable cell and nuclear	Postn-associated	1165
+P0	B: new cell and nuclear	Postn-associated	9
+P0	C: stable cell only	Postn-associated	136
+P0	Review: mixed lineage markers	Unresolved fibroblast program	67
+P0	Unresolved: insufficient corroboration	Unresolved fibroblast program	942
+P7	A: stable cell and nuclear	Postn-associated	3620
+P7	A: stable cell and nuclear	Gfpt2-associated	150
+P7	B: new cell and nuclear	Postn-associated	87
+P7	B: new cell and nuclear	Gfpt2-associated	8
+P7	C: stable cell only	Postn-associated	505
+P7	C: stable cell only	Gfpt2-associated	27
+P7	Review: mixed lineage markers	Unresolved fibroblast program	325
+P7	Review: supported families conflict	Unresolved fibroblast program	95
+P7	Unresolved: insufficient corroboration	Unresolved fibroblast program	3747
+P14	A: stable cell and nuclear	Col8a1-associated	375
+P14	A: stable cell and nuclear	Gfpt2-associated	185
+P14	A: stable cell and nuclear	Lsamp-associated	2
+P14	B: new cell and nuclear	Col8a1-associated	17
+P14	B: new cell and nuclear	Gfpt2-associated	24
+P14	C: stable cell only	Col8a1-associated	121
+P14	C: stable cell only	Gfpt2-associated	52
+P14	C: stable cell only	Lsamp-associated	2
+P14	Review: mixed lineage markers	Unresolved fibroblast program	945
+P14	Review: supported families conflict	Unresolved fibroblast program	10
+P14	Unresolved: insufficient corroboration	Unresolved fibroblast program	8091
+P21	A: stable cell and nuclear	Col8a1-associated	629
+P21	A: stable cell and nuclear	Gfpt2-associated	11
+P21	A: stable cell and nuclear	Lsamp-associated	6
+P21	B: new cell and nuclear	Col8a1-associated	48
+P21	B: new cell and nuclear	Gfpt2-associated	1
+P21	B: new cell and nuclear	Lsamp-associated	3
+P21	C: stable cell only	Col8a1-associated	209
+P21	C: stable cell only	Gfpt2-associated	5
+P21	C: stable cell only	Lsamp-associated	14
+P21	Review: mixed lineage markers	Unresolved fibroblast program	1019
+P21	Review: supported families conflict	Unresolved fibroblast program	5
+P21	Unresolved: insufficient corroboration	Unresolved fibroblast program	11133
