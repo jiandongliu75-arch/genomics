@@ -1,0 +1,82 @@
+{
+  "user_url": "https://www.cell.com/fulltext/S0092-8674(05)00807-X",
+  "pii": "S0092-8674(05)00807-X",
+  "pii_verification": {
+    "source": "NCBI PubMed ArticleIdList",
+    "url": "https://www.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=16239150&retmode=xml",
+    "ArticleId_pii": "S0092-8674(05)00807-X",
+    "ArticleId_doi": "10.1016/j.cell.2005.08.004"
+  },
+  "title": "The homeodomain transcription factor Irx5 establishes the mouse cardiac ventricular repolarization gradient.",
+  "authors_first": "Costantini DL et al.",
+  "journal": "Cell",
+  "year": 2005,
+  "volume": 123,
+  "issue": 2,
+  "pages": "347-358",
+  "pmid": "16239150",
+  "pmcid": "PMC1480411",
+  "doi": "10.1016/j.cell.2005.08.004",
+  "accessible_metadata_abstract": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:16239150&resultType=core&format=json",
+  "pmc_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1480411/",
+  "access_level": "Primary abstract and NCBI metadata verified. EPMC fullTextXML returns500 for this non-OA author manuscript; NCBI PMC efetch provides front matter/abstract only. Publisher endpoint blocked in current environment. Do not claim the full original results/methods were read.",
+  "primary_findings": [
+    "Mouse Irx5 loss abolishes the ventricular repolarization gradient through increased Kv4.2 expression in endocardial myocardium and increased fast transient outward K current Ito,f.",
+    "Irx5 shows an inverse myocardial gradient to Kv4.2 and recruits the mBop transcriptional corepressor to repress Kv4.2.",
+    "The knockout model has increased susceptibility to arrhythmias; the paper is mechanistic electrophysiology, not a single-cell transcriptomic classifier."
+  ],
+  "short_exact_abstract_quotes": [
+    "Myocardial Irx5 is expressed in a gradient opposite that of Kv4.2",
+    "Irx5 represses Kv4.2 expression by recruiting mBop, a cardiac transcriptional repressor."
+  ],
+  "gene_mapping": [
+    {
+      "gene": "Irx5",
+      "role": "Regulator; endomyocardial-high gradient in the established mouse model; inverse to Kv4.2/Ito,f."
+    },
+    {
+      "gene": "Kcnd2",
+      "protein": "Kv4.2",
+      "role": "Pore-forming fast transient outward potassium-current component; higher epicardial expression in established mouse gradient."
+    },
+    {
+      "gene": "Smyd1",
+      "aliases": [
+        "Bop",
+        "mBop"
+      ],
+      "role": "Corepressor recruited by Irx5; not itself a demonstrated opposite-gradient marker in the abstract.",
+      "ncbi_gene": "12180",
+      "alias_source": "https://www.ncbi.nlm.nih.gov/gene/12180"
+    },
+    {
+      "gene": "Kcnip2",
+      "protein": "KChIP2",
+      "role": "Auxiliary subunit; explicitly supported by the2022 primary follow-up, not claimed as a core result from the2005 abstract alone."
+    }
+  ],
+  "follow_up_primary": {
+    "title": "Irx5 and transient outward K+ currents contribute to transmural contractile heterogeneities in the mouse ventricle.",
+    "year": 2022,
+    "pmid": "35245131",
+    "doi": "10.1152/ajpheart.00572.2021",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35245131/",
+    "source": "EuropePMC verified primary abstract",
+    "findings": "Irx5 knockout increases Kcnd2 and Kcnip2 expression in ENDO but notEPI, reduces endocardial shortening/Ca transients; Kv4.2 knockout instead increases epicardial shortening/Ca transients. Supports an electromechanical, not merely molecular, axis."
+  },
+  "related_review": {
+    "title": "Transmural gradients in ion channel and auxiliary subunit expression.",
+    "pmid": "27702655",
+    "pmcid": "PMC5161590",
+    "doi": "10.1016/j.pbiomolbio.2016.09.012",
+    "scope": "Regional and species-dependent channel/auxiliary-subunit gradients; source abstract verified."
+  },
+  "application_to_current_postnatal_data": [
+    "Test a signed repolarization axis: Irx5 versus Kcnd2/Kcnip2, not one unsigned average of all genes.",
+    "Evaluate each of P0/P7/P14/P21 and both original libraries separately; channel maturation may dominate across-age patterns.",
+    "Irx5/Smyd1 transcripts and Kcnd2/Kcnip2 RNA do not measure channel assembly, Ito,f, action-potential duration or contractility.",
+    "The verified abstract does not specify the ages of mice, so do not claim the original gradient is already fully established atP0/P7.",
+    "These gradients do not automatically define discrete CM subtypes. Shared gene expression should remain transcriptomic evidence until spatial/electrophysiological validation.",
+    "Mouse Kv4.2 biology should not be transferred unchanged to human/dog/rat gradients where Kcnd3/Kcnip2 contributions can differ."
+  ]
+}

@@ -1,0 +1,177 @@
+stage	family	summary	measure	sum_weights_or_supported_profiles	weighted_mean	all_FB_mean	interpretation
+P0	Postn-associated	soft_reference_weight	arterial_boundary_distance_um	1884.989	271.7993	269.0947	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P0	Postn-associated	soft_reference_weight	neighbor_fraction__Cardiomyocyte	1884.989	0.5410595	0.4939512	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P0	Postn-associated	soft_reference_weight	neighbor_fraction__Endothelial	1884.989	0.1620899	0.1561539	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P0	Postn-associated	soft_reference_weight	neighbor_fraction__Fibroblast	1884.989	0.2219391	0.2776007	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P0	Postn-associated	soft_reference_weight	neighbor_fraction__Pericyte	1884.989	0.008340543	0.007451135	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P0	Postn-associated	soft_reference_weight	neighbor_fraction__Smooth muscle	1884.989	0.03439276	0.03419484	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P0	Postn-associated	soft_reference_weight	neighbor_fraction__Immune	1884.989	0.01832948	0.01797309	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P0	Postn-associated	soft_reference_weight	neighbor_fraction__Epicardial	1884.989	0.01384874	0.01267508	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P0	Postn-associated	supported_labels	arterial_boundary_distance_um	1576	274.9795	269.0947	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P0	Postn-associated	supported_labels	neighbor_fraction__Cardiomyocyte	1576	0.5572547	0.4939512	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P0	Postn-associated	supported_labels	neighbor_fraction__Endothelial	1576	0.1659442	0.1561539	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P0	Postn-associated	supported_labels	neighbor_fraction__Fibroblast	1576	0.2051169	0.2776007	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P0	Postn-associated	supported_labels	neighbor_fraction__Pericyte	1576	0.008024168	0.007451135	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P0	Postn-associated	supported_labels	neighbor_fraction__Smooth muscle	1576	0.03112674	0.03419484	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P0	Postn-associated	supported_labels	neighbor_fraction__Immune	1576	0.01836258	0.01797309	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P0	Postn-associated	supported_labels	neighbor_fraction__Epicardial	1576	0.01417057	0.01267508	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P0	Kirrel3-associated	soft_reference_weight	arterial_boundary_distance_um	413.0114	256.7511	269.0947	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P0	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Cardiomyocyte	413.0114	0.2789485	0.4939512	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P0	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Endothelial	413.0114	0.1290619	0.1561539	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P0	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Fibroblast	413.0114	0.5316412	0.2776007	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P0	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Pericyte	413.0114	0.003391868	0.007451135	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P0	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Smooth muscle	413.0114	0.03329154	0.03419484	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P0	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Immune	413.0114	0.01634653	0.01797309	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P0	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Epicardial	413.0114	0.0073185	0.01267508	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Postn-associated	soft_reference_weight	arterial_boundary_distance_um	6273.789	335.4773	336.6752	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Postn-associated	soft_reference_weight	neighbor_fraction__Cardiomyocyte	6273.789	0.4463288	0.4306303	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Postn-associated	soft_reference_weight	neighbor_fraction__Endothelial	6273.789	0.163205	0.1579642	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Postn-associated	soft_reference_weight	neighbor_fraction__Fibroblast	6273.789	0.3213366	0.344372	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Postn-associated	soft_reference_weight	neighbor_fraction__Pericyte	6273.789	0.01488053	0.01498044	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Postn-associated	soft_reference_weight	neighbor_fraction__Smooth muscle	6273.789	0.01757718	0.01703138	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Postn-associated	soft_reference_weight	neighbor_fraction__Immune	6273.789	0.02517374	0.02473114	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Postn-associated	soft_reference_weight	neighbor_fraction__Epicardial	6273.789	0.01149819	0.01029051	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Postn-associated	supported_labels	arterial_boundary_distance_um	5118	339.3285	336.6752	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Postn-associated	supported_labels	neighbor_fraction__Cardiomyocyte	5118	0.4494424	0.4306303	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Postn-associated	supported_labels	neighbor_fraction__Endothelial	5118	0.1682727	0.1579642	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Postn-associated	supported_labels	neighbor_fraction__Fibroblast	5118	0.3145165	0.344372	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Postn-associated	supported_labels	neighbor_fraction__Pericyte	5118	0.01436529	0.01498044	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Postn-associated	supported_labels	neighbor_fraction__Smooth muscle	5118	0.01589035	0.01703138	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Postn-associated	supported_labels	neighbor_fraction__Immune	5118	0.02497471	0.02473114	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Postn-associated	supported_labels	neighbor_fraction__Epicardial	5118	0.01253803	0.01029051	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Gfpt2-associated	soft_reference_weight	arterial_boundary_distance_um	1553.617	318.7861	336.6752	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Gfpt2-associated	soft_reference_weight	neighbor_fraction__Cardiomyocyte	1553.617	0.4960348	0.4306303	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Gfpt2-associated	soft_reference_weight	neighbor_fraction__Endothelial	1553.617	0.1741114	0.1579642	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Gfpt2-associated	soft_reference_weight	neighbor_fraction__Fibroblast	1553.617	0.2624849	0.344372	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Gfpt2-associated	soft_reference_weight	neighbor_fraction__Pericyte	1553.617	0.02032631	0.01498044	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Gfpt2-associated	soft_reference_weight	neighbor_fraction__Smooth muscle	1553.617	0.01597847	0.01703138	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Gfpt2-associated	soft_reference_weight	neighbor_fraction__Immune	1553.617	0.02372823	0.02473114	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Gfpt2-associated	soft_reference_weight	neighbor_fraction__Epicardial	1553.617	0.007335977	0.01029051	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Gfpt2-associated	supported_labels	arterial_boundary_distance_um	337	308.7374	336.6752	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Gfpt2-associated	supported_labels	neighbor_fraction__Cardiomyocyte	337	0.6066319	0.4306303	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Gfpt2-associated	supported_labels	neighbor_fraction__Endothelial	337	0.2130126	0.1579642	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Gfpt2-associated	supported_labels	neighbor_fraction__Fibroblast	337	0.125645	0.344372	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Gfpt2-associated	supported_labels	neighbor_fraction__Pericyte	337	0.02725942	0.01498044	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Gfpt2-associated	supported_labels	neighbor_fraction__Smooth muscle	337	0.005014589	0.01703138	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Gfpt2-associated	supported_labels	neighbor_fraction__Immune	337	0.02111173	0.02473114	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Gfpt2-associated	supported_labels	neighbor_fraction__Epicardial	337	0.001324714	0.01029051	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Kirrel3-associated	soft_reference_weight	arterial_boundary_distance_um	654.5934	390.6145	336.6752	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Cardiomyocyte	654.5934	0.12494	0.4306303	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Endothelial	654.5934	0.06941206	0.1579642	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Fibroblast	654.5934	0.7595009	0.344372	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Pericyte	654.5934	0.003250102	0.01498044	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Smooth muscle	654.5934	0.01429926	0.01703138	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Immune	654.5934	0.02286956	0.02473114	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P7	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Epicardial	654.5934	0.005728102	0.01029051	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Col8a1-associated	soft_reference_weight	arterial_boundary_distance_um	5547.034	262.4182	264.2885	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Col8a1-associated	soft_reference_weight	neighbor_fraction__Cardiomyocyte	5547.034	0.4410657	0.4203065	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Col8a1-associated	soft_reference_weight	neighbor_fraction__Endothelial	5547.034	0.2270071	0.2159546	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Col8a1-associated	soft_reference_weight	neighbor_fraction__Fibroblast	5547.034	0.2029294	0.2287753	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Col8a1-associated	soft_reference_weight	neighbor_fraction__Pericyte	5547.034	0.04253624	0.03934974	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Col8a1-associated	soft_reference_weight	neighbor_fraction__Smooth muscle	5547.034	0.04820656	0.05464662	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Col8a1-associated	soft_reference_weight	neighbor_fraction__Immune	5547.034	0.03216264	0.03380479	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Col8a1-associated	soft_reference_weight	neighbor_fraction__Epicardial	5547.034	0.006092429	0.007162396	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Col8a1-associated	supported_labels	arterial_boundary_distance_um	786	206.6891	264.2885	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Col8a1-associated	supported_labels	neighbor_fraction__Cardiomyocyte	786	0.4219526	0.4203065	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Col8a1-associated	supported_labels	neighbor_fraction__Endothelial	786	0.2363155	0.2159546	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Col8a1-associated	supported_labels	neighbor_fraction__Fibroblast	786	0.1961912	0.2287753	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Col8a1-associated	supported_labels	neighbor_fraction__Pericyte	786	0.04126691	0.03934974	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Col8a1-associated	supported_labels	neighbor_fraction__Smooth muscle	786	0.0721643	0.05464662	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Col8a1-associated	supported_labels	neighbor_fraction__Immune	786	0.02820641	0.03380479	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Col8a1-associated	supported_labels	neighbor_fraction__Epicardial	786	0.003903185	0.007162396	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Gfpt2-associated	soft_reference_weight	arterial_boundary_distance_um	1869.163	245.7457	264.2885	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Gfpt2-associated	soft_reference_weight	neighbor_fraction__Cardiomyocyte	1869.163	0.4582357	0.4203065	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Gfpt2-associated	soft_reference_weight	neighbor_fraction__Endothelial	1869.163	0.2297465	0.2159546	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Gfpt2-associated	soft_reference_weight	neighbor_fraction__Fibroblast	1869.163	0.1893078	0.2287753	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Gfpt2-associated	soft_reference_weight	neighbor_fraction__Pericyte	1869.163	0.04712104	0.03934974	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Gfpt2-associated	soft_reference_weight	neighbor_fraction__Smooth muscle	1869.163	0.03888635	0.05464662	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Gfpt2-associated	soft_reference_weight	neighbor_fraction__Immune	1869.163	0.03248768	0.03380479	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Gfpt2-associated	soft_reference_weight	neighbor_fraction__Epicardial	1869.163	0.004214849	0.007162396	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Gfpt2-associated	supported_labels	arterial_boundary_distance_um	512	231.2698	264.2885	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Gfpt2-associated	supported_labels	neighbor_fraction__Cardiomyocyte	512	0.5026381	0.4203065	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Gfpt2-associated	supported_labels	neighbor_fraction__Endothelial	512	0.2436396	0.2159546	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Gfpt2-associated	supported_labels	neighbor_fraction__Fibroblast	512	0.1476027	0.2287753	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Gfpt2-associated	supported_labels	neighbor_fraction__Pericyte	512	0.05360996	0.03934974	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Gfpt2-associated	supported_labels	neighbor_fraction__Smooth muscle	512	0.0200747	0.05464662	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Gfpt2-associated	supported_labels	neighbor_fraction__Immune	512	0.03131311	0.03380479	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Gfpt2-associated	supported_labels	neighbor_fraction__Epicardial	512	0.001121795	0.007162396	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Lsamp-associated	soft_reference_weight	arterial_boundary_distance_um	1698.06	288.6213	264.2885	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Lsamp-associated	soft_reference_weight	neighbor_fraction__Cardiomyocyte	1698.06	0.3507016	0.4203065	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Lsamp-associated	soft_reference_weight	neighbor_fraction__Endothelial	1698.06	0.1831405	0.2159546	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Lsamp-associated	soft_reference_weight	neighbor_fraction__Fibroblast	1698.06	0.3011556	0.2287753	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Lsamp-associated	soft_reference_weight	neighbor_fraction__Pericyte	1698.06	0.02475801	0.03934974	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Lsamp-associated	soft_reference_weight	neighbor_fraction__Smooth muscle	1698.06	0.08525891	0.05464662	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Lsamp-associated	soft_reference_weight	neighbor_fraction__Immune	1698.06	0.04079819	0.03380479	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Lsamp-associated	soft_reference_weight	neighbor_fraction__Epicardial	1698.06	0.01418722	0.007162396	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Lsamp-associated	supported_labels	arterial_boundary_distance_um	17	247.976	264.2885	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Lsamp-associated	supported_labels	neighbor_fraction__Cardiomyocyte	17	0.2178115	0.4203065	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Lsamp-associated	supported_labels	neighbor_fraction__Endothelial	17	0.09153298	0.2159546	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Lsamp-associated	supported_labels	neighbor_fraction__Fibroblast	17	0.3763257	0.2287753	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Lsamp-associated	supported_labels	neighbor_fraction__Pericyte	17	0.005347594	0.03934974	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Lsamp-associated	supported_labels	neighbor_fraction__Smooth muscle	17	0.2071813	0.05464662	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Lsamp-associated	supported_labels	neighbor_fraction__Immune	17	0.07079975	0.03380479	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Lsamp-associated	supported_labels	neighbor_fraction__Epicardial	17	0.03100119	0.007162396	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Kirrel3-associated	soft_reference_weight	arterial_boundary_distance_um	371.4344	269.2256	264.2885	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Cardiomyocyte	371.4344	0.2343844	0.4203065	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Endothelial	371.4344	0.1333602	0.2159546	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Fibroblast	371.4344	0.4793177	0.2287753	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Pericyte	371.4344	0.0184522	0.03934974	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Smooth muscle	371.4344	0.09570724	0.05464662	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Immune	371.4344	0.03220692	0.03380479	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P14	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Epicardial	371.4344	0.006571336	0.007162396	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Col8a1-associated	soft_reference_weight	arterial_boundary_distance_um	7789.72	465.4615	462.0663	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Col8a1-associated	soft_reference_weight	neighbor_fraction__Cardiomyocyte	7789.72	0.4644521	0.4220246	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Col8a1-associated	soft_reference_weight	neighbor_fraction__Endothelial	7789.72	0.2002853	0.1871133	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Col8a1-associated	soft_reference_weight	neighbor_fraction__Fibroblast	7789.72	0.2398396	0.2962566	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Col8a1-associated	soft_reference_weight	neighbor_fraction__Pericyte	7789.72	0.0317123	0.02728523	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Col8a1-associated	soft_reference_weight	neighbor_fraction__Smooth muscle	7789.72	0.01905401	0.01998195	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Col8a1-associated	soft_reference_weight	neighbor_fraction__Immune	7789.72	0.0406116	0.04266154	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Col8a1-associated	soft_reference_weight	neighbor_fraction__Epicardial	7789.72	0.004045177	0.004676774	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Col8a1-associated	supported_labels	arterial_boundary_distance_um	1385	476.7063	462.0663	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Col8a1-associated	supported_labels	neighbor_fraction__Cardiomyocyte	1385	0.4832962	0.4220246	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Col8a1-associated	supported_labels	neighbor_fraction__Endothelial	1385	0.2313672	0.1871133	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Col8a1-associated	supported_labels	neighbor_fraction__Fibroblast	1385	0.1749553	0.2962566	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Col8a1-associated	supported_labels	neighbor_fraction__Pericyte	1385	0.04124886	0.02728523	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Col8a1-associated	supported_labels	neighbor_fraction__Smooth muscle	1385	0.02671036	0.01998195	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Col8a1-associated	supported_labels	neighbor_fraction__Immune	1385	0.04048288	0.04266154	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Col8a1-associated	supported_labels	neighbor_fraction__Epicardial	1385	0.001939276	0.004676774	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Gfpt2-associated	soft_reference_weight	arterial_boundary_distance_um	894.3437	468.9423	462.0663	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Gfpt2-associated	soft_reference_weight	neighbor_fraction__Cardiomyocyte	894.3437	0.4767667	0.4220246	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Gfpt2-associated	soft_reference_weight	neighbor_fraction__Endothelial	894.3437	0.1960492	0.1871133	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Gfpt2-associated	soft_reference_weight	neighbor_fraction__Fibroblast	894.3437	0.2289257	0.2962566	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Gfpt2-associated	soft_reference_weight	neighbor_fraction__Pericyte	894.3437	0.03406239	0.02728523	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Gfpt2-associated	soft_reference_weight	neighbor_fraction__Smooth muscle	894.3437	0.01947225	0.01998195	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Gfpt2-associated	soft_reference_weight	neighbor_fraction__Immune	894.3437	0.03972861	0.04266154	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Gfpt2-associated	soft_reference_weight	neighbor_fraction__Epicardial	894.3437	0.004995187	0.004676774	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Gfpt2-associated	supported_labels	arterial_boundary_distance_um	38	446.0974	462.0663	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Gfpt2-associated	supported_labels	neighbor_fraction__Cardiomyocyte	38	0.5371686	0.4220246	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Gfpt2-associated	supported_labels	neighbor_fraction__Endothelial	38	0.2432221	0.1871133	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Gfpt2-associated	supported_labels	neighbor_fraction__Fibroblast	38	0.08565032	0.2962566	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Gfpt2-associated	supported_labels	neighbor_fraction__Pericyte	38	0.06149075	0.02728523	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Gfpt2-associated	supported_labels	neighbor_fraction__Smooth muscle	38	0.04209165	0.01998195	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Gfpt2-associated	supported_labels	neighbor_fraction__Immune	38	0.03037659	0.04266154	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Gfpt2-associated	supported_labels	neighbor_fraction__Epicardial	38	0	0.004676774	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Lsamp-associated	soft_reference_weight	arterial_boundary_distance_um	3694.119	463.8432	462.0663	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Lsamp-associated	soft_reference_weight	neighbor_fraction__Cardiomyocyte	3694.119	0.3717416	0.4220246	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Lsamp-associated	soft_reference_weight	neighbor_fraction__Endothelial	3694.119	0.1720742	0.1871133	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Lsamp-associated	soft_reference_weight	neighbor_fraction__Fibroblast	3694.119	0.3606604	0.2962566	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Lsamp-associated	soft_reference_weight	neighbor_fraction__Pericyte	3694.119	0.0199039	0.02728523	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Lsamp-associated	soft_reference_weight	neighbor_fraction__Smooth muscle	3694.119	0.02341305	0.01998195	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Lsamp-associated	soft_reference_weight	neighbor_fraction__Immune	3694.119	0.04572995	0.04266154	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Lsamp-associated	soft_reference_weight	neighbor_fraction__Epicardial	3694.119	0.006476951	0.004676774	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Lsamp-associated	supported_labels	arterial_boundary_distance_um	67	518.6018	462.0663	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Lsamp-associated	supported_labels	neighbor_fraction__Cardiomyocyte	67	0.2898627	0.4220246	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Lsamp-associated	supported_labels	neighbor_fraction__Endothelial	67	0.1346515	0.1871133	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Lsamp-associated	supported_labels	neighbor_fraction__Fibroblast	67	0.4718492	0.2962566	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Lsamp-associated	supported_labels	neighbor_fraction__Pericyte	67	0.007413482	0.02728523	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Lsamp-associated	supported_labels	neighbor_fraction__Smooth muscle	67	0.04987972	0.01998195	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Lsamp-associated	supported_labels	neighbor_fraction__Immune	67	0.038426	0.04266154	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Lsamp-associated	supported_labels	neighbor_fraction__Epicardial	67	0.007917456	0.004676774	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Kirrel3-associated	soft_reference_weight	arterial_boundary_distance_um	627.8169	399.6895	462.0663	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Cardiomyocyte	627.8169	0.113487	0.4220246	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Endothelial	627.8169	0.09944221	0.1871133	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Fibroblast	627.8169	0.7132171	0.2962566	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Pericyte	627.8169	0.006133741	0.02728523	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Smooth muscle	627.8169	0.01203269	0.01998195	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Immune	627.8169	0.05421981	0.04266154	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities
+P21	Kirrel3-associated	soft_reference_weight	neighbor_fraction__Epicardial	627.8169	0.001467444	0.004676774	Reviewed-reference native-coordinate 30um neighborhood; soft weights are not calibrated identities

@@ -1,0 +1,18 @@
+{
+  "native_gene_targets": 403,
+  "RNA_reference_features": 381,
+  "maturation_primary": "Mean log1p CP10k of the exact 21 Figure4b genes; not claimed identical to precomputed author index",
+  "matched_control_sensitivity": "Fixed 8 expression bins,10 controls per target, seed42; unique control union; balanced-stage calibration; outcome genes excluded",
+  "maturation_denominator_sensitivity": "21-gene mean using total excluding all maturation+Ankrd1/Creb5/Tlr4/Atf3 genes",
+  "Ankrd1": "Measured log1pCP10k; denominator excludes four prior outcome genes; full-total sensitivity saved",
+  "neighborhoods_um": [
+    30,
+    50,
+    100
+  ],
+  "primary_radius_um": 50,
+  "matrix_exposures": "Measured FB-only RNA; exact annotation marker genes withheld from tested ECM panels",
+  "source_QC": "Original broad resolved atlas, frozen before fine-state/maturation fitting; inherited lineage gates use some maturation markers and are not fully outcome-independent",
+  "fine_transfer": "Same-age all-fibroblast weighted 30-neighbor projection; no spatial smoothing, subtype quotas or author labels; weights not calibrated probabilities",
+  "technical_recovery": "Opposite-library recovery of joint-fit RNA labels is not independent anatomical validation"
+}

@@ -1,0 +1,2 @@
+# Additional geometry dependency; scientific/runtime versions are recorded in methods.json.
+shapely==2.1.2

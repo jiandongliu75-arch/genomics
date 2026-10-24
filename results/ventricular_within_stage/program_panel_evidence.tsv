@@ -1,0 +1,208 @@
+stage	stage_subcluster_id	program	relative_score	supported_panel_genes	panel_rule_pass
+P0	P0_V0	Cycling/DNA-replication program	2.169463447891612	Mki67;Top2a;Cdk1;Cenpf	True
+P0	P0_V0	Lipid/substrate-handling program	-1.6801848032350897		False
+P0	P0_V0	Calcium/contractile program	-1.202247387914408		False
+P0	P0_V0	Adhesion/structural program	0.6017795454279321	Ncam1;Vcl;Smpx;Tecrl	True
+P0	P0_V0	Neonatal contractile program	-1.242258833944044		False
+P0	P0_V0	Response-associated program	0.001061616034901	Ankrd1	False
+P0	P0_V0	Compact-associated candidate	-0.2953686540160604		False
+P0	P0_V0	Trabecular-associated candidate	0.1140347748662171	Erbb4	False
+P0	P0_V0	Conduction-overlap check	-0.2208255913196345		False
+P0	P0_V1	Cycling/DNA-replication program	-0.1191124557932685		False
+P0	P0_V1	Lipid/substrate-handling program	1.162963624806476	Cd36;Slc27a1;Cpt1b;Pdk4;Hmgcs2;Acadm;Hadha	True
+P0	P0_V1	Calcium/contractile program	0.0322473345315712	Atp2a2;Pln;Tnni3	True
+P0	P0_V1	Adhesion/structural program	-0.7571189643413686		False
+P0	P0_V1	Neonatal contractile program	0.2679833755758799	Tnni1;Myh7	True
+P0	P0_V1	Response-associated program	-0.2642137780563164		False
+P0	P0_V1	Compact-associated candidate	0.2547883225624259	Hey2	False
+P0	P0_V1	Trabecular-associated candidate	-0.0402050237692302		False
+P0	P0_V1	Conduction-overlap check	-0.1680117901847952		False
+P0	P0_V2	Cycling/DNA-replication program	-0.1228644120480082		False
+P0	P0_V2	Lipid/substrate-handling program	-1.2340785365339877		False
+P0	P0_V2	Calcium/contractile program	0.2907303998676963	Ryr2;Casq2;Srl;Actn2	True
+P0	P0_V2	Adhesion/structural program	1.570178485729368	Ncam1;Vcl;Smpx;Bves;Tecrl;Fhl2	True
+P0	P0_V2	Neonatal contractile program	-0.4330661112774173		False
+P0	P0_V2	Response-associated program	-0.0148905918186644	Ankrd1	False
+P0	P0_V2	Compact-associated candidate	0.0962215852935548		False
+P0	P0_V2	Trabecular-associated candidate	-0.3821030548550605		False
+P0	P0_V2	Conduction-overlap check	0.1603056160922032		False
+P0	P0_V3	Cycling/DNA-replication program	-0.1006171489373657		False
+P0	P0_V3	Lipid/substrate-handling program	0.2698468796264502	Cd36;Cpt1b;Pdk4	True
+P0	P0_V3	Calcium/contractile program	0.3795145749457395	Casq2;Jph2;Srl;Actn2	True
+P0	P0_V3	Adhesion/structural program	-0.50957179302005	Bves	False
+P0	P0_V3	Neonatal contractile program	0.9847398486893166	Myh7;Nppa	True
+P0	P0_V3	Response-associated program	0.2764860178439438	Ankrd1	False
+P0	P0_V3	Compact-associated candidate	-0.4249486646924343		False
+P0	P0_V3	Trabecular-associated candidate	0.4587529939746191	Nppa	False
+P0	P0_V3	Conduction-overlap check	-0.4022666509724991		False
+P0	P0_V4	Cycling/DNA-replication program	-0.1358106364599596		False
+P0	P0_V4	Lipid/substrate-handling program	1.2020226355467003	Cd36;Slc27a1;Cpt1b;Pdk4;Hmgcs2;Hadha	True
+P0	P0_V4	Calcium/contractile program	-0.3169485173970405	Atp2a2;Pln	False
+P0	P0_V4	Adhesion/structural program	-1.4539993566449645		False
+P0	P0_V4	Neonatal contractile program	-0.158507251498337	Tnni1	False
+P0	P0_V4	Response-associated program	-0.0542702311849749		False
+P0	P0_V4	Compact-associated candidate	0.4497370722336339	Hey2	False
+P0	P0_V4	Trabecular-associated candidate	0.2905026862510422	Erbb4	False
+P0	P0_V4	Conduction-overlap check	-0.1369390451209423		False
+P0	P0_V5	Cycling/DNA-replication program	-0.0478584703919224		False
+P0	P0_V5	Lipid/substrate-handling program	0.0990084064283724	Slc27a1	False
+P0	P0_V5	Calcium/contractile program	-0.0961976906138215	Casq2	False
+P0	P0_V5	Adhesion/structural program	-0.3103450349771186	Fhl2	False
+P0	P0_V5	Neonatal contractile program	0.6227106438799906	Tnni1;Myh7;Nppa	True
+P0	P0_V5	Response-associated program	-0.1576377780019026		False
+P0	P0_V5	Compact-associated candidate	-0.5270830545990651		False
+P0	P0_V5	Trabecular-associated candidate	0.1314170240728843	Nppa	False
+P0	P0_V5	Conduction-overlap check	1.020072670261311	Etv1;Scn5a	True
+P0	P0_V6	Cycling/DNA-replication program	-0.1097534260747382		False
+P0	P0_V6	Lipid/substrate-handling program	-1.3062447613760817		False
+P0	P0_V6	Calcium/contractile program	0.2007955542428571	Casq2;Jph2;Srl;Actn2	True
+P0	P0_V6	Adhesion/structural program	1.01374558142961	Vcl;Smpx;Bves	True
+P0	P0_V6	Neonatal contractile program	0.1311547625913048	Myh7;Nppa	True
+P0	P0_V6	Response-associated program	0.931213732719578	Ankrd1;Nppb	True
+P0	P0_V6	Compact-associated candidate	-0.9110598279817832		False
+P0	P0_V6	Trabecular-associated candidate	-0.1059726602413787	Nppa	False
+P0	P0_V6	Conduction-overlap check	-0.3350381448425482		False
+P0	P0_V7	Cycling/DNA-replication program	-0.0747240750064541		False
+P0	P0_V7	Lipid/substrate-handling program	-1.132687072148287		False
+P0	P0_V7	Calcium/contractile program	-0.7134369215979945		False
+P0	P0_V7	Adhesion/structural program	-0.5478042689388454		False
+P0	P0_V7	Neonatal contractile program	-0.3823062874427316		False
+P0	P0_V7	Response-associated program	-0.0839620765675565		False
+P0	P0_V7	Compact-associated candidate	-1.2302057563474589		False
+P0	P0_V7	Trabecular-associated candidate	0.0204154826010347		False
+P0	P0_V7	Conduction-overlap check	-0.8344188132196031		False
+P7	P7_V0	Cycling/DNA-replication program	-0.1812182029070719		False
+P7	P7_V0	Lipid/substrate-handling program	0.6412764209951761	Slc27a1;Pdk4	True
+P7	P7_V0	Calcium/contractile program	0.7824622458595296	Ryr2;Atp2a2;Casq2;Pln;Jph2;Srl;Tnni3	True
+P7	P7_V0	Adhesion/structural program	0.6615172137315616	Tecrl;Fhl2	True
+P7	P7_V0	Neonatal contractile program	0.2569210653103561	Myh7	False
+P7	P7_V0	Response-associated program	-0.1993614280049062		False
+P7	P7_V0	Compact-associated candidate	0.1640381816558689		False
+P7	P7_V0	Trabecular-associated candidate	0.0364379942432359		False
+P7	P7_V0	Conduction-overlap check	0.2003909583589604	Scn5a	False
+P7	P7_V1	Cycling/DNA-replication program	-0.193923929884392		False
+P7	P7_V1	Lipid/substrate-handling program	-0.321056962709967		False
+P7	P7_V1	Calcium/contractile program	0.2060795014629919	Srl;Actn2	True
+P7	P7_V1	Adhesion/structural program	0.0984323367776512	Smpx;Bves	True
+P7	P7_V1	Neonatal contractile program	-0.077219681080082		False
+P7	P7_V1	Response-associated program	0.632460614785144	Ankrd1	False
+P7	P7_V1	Compact-associated candidate	-0.2334711660005961		False
+P7	P7_V1	Trabecular-associated candidate	-0.0433192328781566		False
+P7	P7_V1	Conduction-overlap check	-0.2475690698755688		False
+P7	P7_V2	Cycling/DNA-replication program	-0.2112464648817275		False
+P7	P7_V2	Lipid/substrate-handling program	0.5089489769281312		False
+P7	P7_V2	Calcium/contractile program	-0.5807628136197126	Pln	False
+P7	P7_V2	Adhesion/structural program	-0.7281639307619816		False
+P7	P7_V2	Neonatal contractile program	0.1286994816933167		False
+P7	P7_V2	Response-associated program	-0.3198153837534558		False
+P7	P7_V2	Compact-associated candidate	0.1385583438378851		False
+P7	P7_V2	Trabecular-associated candidate	-0.0729371584429349		False
+P7	P7_V2	Conduction-overlap check	-0.0506276461718133		False
+P7	P7_V3	Cycling/DNA-replication program	2.007619978723723	Mki67;Top2a;Cenpf	True
+P7	P7_V3	Lipid/substrate-handling program	-1.816691013058404		False
+P7	P7_V3	Calcium/contractile program	-1.605406725613411		False
+P7	P7_V3	Adhesion/structural program	-0.3830009169696296	Ncam1	False
+P7	P7_V3	Neonatal contractile program	-0.8367227716692346		False
+P7	P7_V3	Response-associated program	-0.0377553977210615	Ankrd1	False
+P7	P7_V3	Compact-associated candidate	-0.0550017681764567		False
+P7	P7_V3	Trabecular-associated candidate	0.254784210305873	Erbb4	False
+P7	P7_V3	Conduction-overlap check	-0.2017713891249763		False
+P7	P7_V4	Cycling/DNA-replication program	0.3490944437870865		False
+P7	P7_V4	Lipid/substrate-handling program	-0.6035376681954984		False
+P7	P7_V4	Calcium/contractile program	-0.1464044605154229		False
+P7	P7_V4	Adhesion/structural program	-0.1117344731680869	Ncam1	False
+P7	P7_V4	Neonatal contractile program	-0.2975964523911322		False
+P7	P7_V4	Response-associated program	-0.0467110761906557		False
+P7	P7_V4	Compact-associated candidate	-0.0050480655040951		False
+P7	P7_V4	Trabecular-associated candidate	0.1584289197801336	Erbb4	False
+P7	P7_V4	Conduction-overlap check	-0.1130785323116063		False
+P7	P7_V5	Cycling/DNA-replication program	-0.1125634790418241		False
+P7	P7_V5	Lipid/substrate-handling program	-1.0969275310050874		False
+P7	P7_V5	Calcium/contractile program	-0.2064976529723071	Atp2a2;Pln	False
+P7	P7_V5	Adhesion/structural program	-0.0215910478424954	Ncam1;Fhl2	False
+P7	P7_V5	Neonatal contractile program	-0.1603129780648394		False
+P7	P7_V5	Response-associated program	-0.3674134565389688		False
+P7	P7_V5	Compact-associated candidate	-0.2874824297583868		False
+P7	P7_V5	Trabecular-associated candidate	-0.1098542485620554		False
+P7	P7_V5	Conduction-overlap check	0.8532992745103098	Scn5a	False
+P7	P7_V6	Cycling/DNA-replication program	0.0449444190778651		False
+P7	P7_V6	Lipid/substrate-handling program	0.61993432396997		False
+P7	P7_V6	Calcium/contractile program	-1.2053464334360162		False
+P7	P7_V6	Adhesion/structural program	-0.4071022290557635		False
+P7	P7_V6	Neonatal contractile program	-0.3551946143952447		False
+P7	P7_V6	Response-associated program	-0.365488919214878		False
+P7	P7_V6	Compact-associated candidate	-0.1470862404055912		False
+P7	P7_V6	Trabecular-associated candidate	-0.9527813721741708		False
+P7	P7_V6	Conduction-overlap check	-0.096454866697345		False
+P7	P7_V7	Cycling/DNA-replication program	-0.1827835451599523		False
+P7	P7_V7	Lipid/substrate-handling program	-1.3325605530698208		False
+P7	P7_V7	Calcium/contractile program	-0.6740225767828695		False
+P7	P7_V7	Adhesion/structural program	-0.6743254127482347		False
+P7	P7_V7	Neonatal contractile program	0.3298655725649316		False
+P7	P7_V7	Response-associated program	-0.1036691154574175		False
+P7	P7_V7	Compact-associated candidate	-0.2556929306853111		False
+P7	P7_V7	Trabecular-associated candidate	0.0730286263037804		False
+P7	P7_V7	Conduction-overlap check	-0.5053110532050564		False
+P14	P14_V0	Cycling/DNA-replication program	0.1363734131810293		False
+P14	P14_V0	Lipid/substrate-handling program	-0.123884838055857		False
+P14	P14_V0	Calcium/contractile program	-0.368263252687569	Atp2a2;Pln	False
+P14	P14_V0	Adhesion/structural program	0.4602272357519597	Ncam1;Tecrl	True
+P14	P14_V0	Neonatal contractile program	-0.0647256669080421		False
+P14	P14_V0	Response-associated program	-0.2282911328003958		False
+P14	P14_V0	Compact-associated candidate	-0.0727676834053454		False
+P14	P14_V0	Trabecular-associated candidate	-0.1326042902864736		False
+P14	P14_V0	Conduction-overlap check	1.0101505392747516	Etv1;Scn5a	True
+P14	P14_V1	Cycling/DNA-replication program	-0.0369020262877405		False
+P14	P14_V1	Lipid/substrate-handling program	-0.4291919446324131		False
+P14	P14_V1	Calcium/contractile program	-0.4408738385473568		False
+P14	P14_V1	Adhesion/structural program	-1.3796917969650382		False
+P14	P14_V1	Neonatal contractile program	0.0894660789775546		False
+P14	P14_V1	Response-associated program	-0.1148367827048793		False
+P14	P14_V1	Compact-associated candidate	-0.0029309944456497		False
+P14	P14_V1	Trabecular-associated candidate	-0.6578443306791694		False
+P14	P14_V1	Conduction-overlap check	-0.0573386398632887		False
+P14	P14_V2	Cycling/DNA-replication program	-0.0431446618511816		False
+P14	P14_V2	Lipid/substrate-handling program	0.6370288384049559	Pdk4	False
+P14	P14_V2	Calcium/contractile program	0.3215670017315019	Atp2a2;Pln	True
+P14	P14_V2	Adhesion/structural program	0.2874914220150952	Tecrl;Fhl2	True
+P14	P14_V2	Neonatal contractile program	0.109954284735306		False
+P14	P14_V2	Response-associated program	-0.1924821349999656		False
+P14	P14_V2	Compact-associated candidate	0.0852602586393214		False
+P14	P14_V2	Trabecular-associated candidate	0.4586329260175997	Erbb4	False
+P14	P14_V2	Conduction-overlap check	-0.1702314659250566		False
+P14	P14_V3	Cycling/DNA-replication program	-0.0613652405019358		False
+P14	P14_V3	Lipid/substrate-handling program	-0.4057889273591563		False
+P14	P14_V3	Calcium/contractile program	0.1356059490338234	Srl;Actn2	True
+P14	P14_V3	Adhesion/structural program	-0.23255077826737	Smpx;Bves	False
+P14	P14_V3	Neonatal contractile program	-0.0873649137684407		False
+P14	P14_V3	Response-associated program	0.4351771838677356	Ankrd1	False
+P14	P14_V3	Compact-associated candidate	-0.023883921702368		False
+P14	P14_V3	Trabecular-associated candidate	-0.137365428807545		False
+P14	P14_V3	Conduction-overlap check	-0.6811901265430444		False
+P21	P21_V0	Cycling/DNA-replication program	-0.0523356984338929		False
+P21	P21_V0	Lipid/substrate-handling program	0.5231420982876052	Pdk4	False
+P21	P21_V0	Calcium/contractile program	-0.1722302020992967	Pln	False
+P21	P21_V0	Adhesion/structural program	-0.1593349123441119		False
+P21	P21_V0	Neonatal contractile program	-0.1168543581470243		False
+P21	P21_V0	Response-associated program	-0.4180309928583381		False
+P21	P21_V0	Compact-associated candidate	0.0451881262079841		False
+P21	P21_V0	Trabecular-associated candidate	0.3957942250232598	Erbb4	False
+P21	P21_V0	Conduction-overlap check	-0.2603579382206469		False
+P21	P21_V1	Cycling/DNA-replication program	-0.1232761151236792		False
+P21	P21_V1	Lipid/substrate-handling program	-0.3974275408904885		False
+P21	P21_V1	Calcium/contractile program	0.6767619674193762	Ryr2;Casq2;Jph2;Srl;Actn2	True
+P21	P21_V1	Adhesion/structural program	0.0709577626196879	Bves	False
+P21	P21_V1	Neonatal contractile program	0.188387427462676		False
+P21	P21_V1	Response-associated program	0.6420416860834907	Ankrd1;Jun	True
+P21	P21_V1	Compact-associated candidate	-0.0010821539679778		False
+P21	P21_V1	Trabecular-associated candidate	-0.0682785969279434		False
+P21	P21_V1	Conduction-overlap check	-0.4322492053206057		False
+P21	P21_V2	Cycling/DNA-replication program	0.1850385436628999	Cenpf	False
+P21	P21_V2	Lipid/substrate-handling program	-0.1457418656000553		False
+P21	P21_V2	Calcium/contractile program	-0.5227946700879171		False
+P21	P21_V2	Adhesion/structural program	0.0967574840423848	Ncam1;Tecrl	True
+P21	P21_V2	Neonatal contractile program	-0.0715951013550724		False
+P21	P21_V2	Response-associated program	-0.2227806446590898		False
+P21	P21_V2	Compact-associated candidate	-0.0473496688837674		False
+P21	P21_V2	Trabecular-associated candidate	-0.3532493113786554		False
+P21	P21_V2	Conduction-overlap check	0.7312608527054261	Scn5a	False

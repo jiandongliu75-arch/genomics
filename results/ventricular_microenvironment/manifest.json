@@ -1,0 +1,397 @@
+{
+  "status": "validated",
+  "validation": [
+    "44,463 unique expanded-gate nuclei =43,249 core +1,214 tracked ambiguous references",
+    "Independent stage UMAP/PC/graph/CSV alignment",
+    "Per-library score centering/scaling, finite values and detection coverage",
+    "One scoring feature per requested gene symbol; distinct-symbol support",
+    "Original corrected counts conserved; metadata-only files have no expression",
+    "State/program support gates and HIF specificity guard",
+    "Source provenance and artifact hashes"
+  ],
+  "scripts": [
+    {
+      "file": "analysis/ventricular_microenvironment.py",
+      "sha256": "5347d46831811fd70571ccce0f5285459904b23b3194101a2ca87550d8ec25a1"
+    },
+    {
+      "file": "analysis/plot_ventricular_microenvironment.py",
+      "sha256": "a8d827e41cff442a2661f185ba7ce55b4e38b97fb9515c36d8fe416276bfa66a"
+    },
+    {
+      "file": "analysis/validate_ventricular_microenvironment.py",
+      "sha256": "e04c999a38b659c80a9ec281880b0c74f66a7eb3aaa49843cfa11744a8708b88"
+    },
+    {
+      "file": "analysis/finalize_ventricular_microenvironment.py",
+      "sha256": "53c4805eb401c75051dd4ddb515e1b0bc6bafd5a216b28fd27132ab2df6b4a21"
+    }
+  ],
+  "files": [
+    {
+      "file": "P0/cell_annotations_and_scores.csv.gz",
+      "bytes": 7815246,
+      "sha256": "863b08ad2a55d2c6f2882c667a822fa5db99525de8119fcb4a82eb982b7c2272"
+    },
+    {
+      "file": "P0/cluster_by_gate_origin.tsv",
+      "bytes": 168,
+      "sha256": "5d5dbd74ee9e71ef168e72b9ee1c869c3146f83d09d689fe728aa116890a871e"
+    },
+    {
+      "file": "P0/cluster_by_prior_stage_group.tsv",
+      "bytes": 343,
+      "sha256": "8450d7527e24d9d866cf279ac2db6c70c77937342b3562b29d8c3be41b2777a1"
+    },
+    {
+      "file": "P0/cluster_by_sample.tsv",
+      "bytes": 173,
+      "sha256": "d6a9d7aa5496aa60150d39e95b1d488a60e7a37f09e51164c2fda075d2fda13a"
+    },
+    {
+      "file": "P0/cluster_by_subcluster_id.tsv",
+      "bytes": 211,
+      "sha256": "334bc715f016c17ee6a660688906ba2566861d79cdabcc54e4febc7440a85493"
+    },
+    {
+      "file": "P0/corrected_pseudobulk.tsv.gz",
+      "bytes": 911576,
+      "sha256": "c9135c0996536009db22c3a84b54a412f72a30c77d8b906603165a8eac8a07d7"
+    },
+    {
+      "file": "P0/embeddings_and_scores_metadata_only.h5ad",
+      "bytes": 24232941,
+      "sha256": "c62001992ff1f0830dd5cd0a1ac6bef54711abe70dc310a235660fcd64720d11"
+    },
+    {
+      "file": "P0_microenvironment_clusters.pdf",
+      "bytes": 424906,
+      "sha256": "1289e6dac70dbac7d26031a7a2654a8b6d647997254ed5343197795d98c72b84"
+    },
+    {
+      "file": "P0_microenvironment_clusters.png",
+      "bytes": 1878926,
+      "sha256": "5c5b2565f14fad7a93e9b9e7a03fe37236a8a93184b22df2ab97e0791972f618"
+    },
+    {
+      "file": "P0_microenvironment_programs.pdf",
+      "bytes": 908791,
+      "sha256": "55f14db1961ddb3f9fca5d2011aeaa949299585a080f07ca7432bbe0ffa8d83c"
+    },
+    {
+      "file": "P0_microenvironment_programs.png",
+      "bytes": 2341723,
+      "sha256": "baab6a681d07bfb09311f36d64a9e729c4d3274c32da449db02f0b79a473d00e"
+    },
+    {
+      "file": "P14/cell_annotations_and_scores.csv.gz",
+      "bytes": 7736605,
+      "sha256": "1b45a559d938d1a40fa025220d5687c34d0c6c960e7e122dfdc6181b0e6af31d"
+    },
+    {
+      "file": "P14/cluster_by_gate_origin.tsv",
+      "bytes": 136,
+      "sha256": "22ca3817b43d1641d76a7f99726370d23990cdc2aa29420f6c0a6ce49d684d28"
+    },
+    {
+      "file": "P14/cluster_by_prior_stage_group.tsv",
+      "bytes": 204,
+      "sha256": "b16bf939b1d03e53706cfb143ded73b83b7ee9f56bd6daea2e8dd6eba90f6cb5"
+    },
+    {
+      "file": "P14/cluster_by_sample.tsv",
+      "bytes": 140,
+      "sha256": "54f7b0f5eecb5c6f63759fedc0dad37175fb26723722bc79038399153f200f4b"
+    },
+    {
+      "file": "P14/cluster_by_subcluster_id.tsv",
+      "bytes": 173,
+      "sha256": "26f188edd8aec2735667888956a1ad55adf4aa8588c34ebd5043f87432bb9d94"
+    },
+    {
+      "file": "P14/corrected_pseudobulk.tsv.gz",
+      "bytes": 703870,
+      "sha256": "bf1738c5257f7ecfe5f78db10b8e68351a55e0c2cbd4779cf3ae7f5799899da5"
+    },
+    {
+      "file": "P14/embeddings_and_scores_metadata_only.h5ad",
+      "bytes": 24349149,
+      "sha256": "54bab282e61312e819ff922ccf3762e0ef9450b52e8ea390b166043e6bca7f92"
+    },
+    {
+      "file": "P14_microenvironment_clusters.pdf",
+      "bytes": 458787,
+      "sha256": "e723c2eb4b98c830a048a2c8e3d4cdac39825e19e15688a22cda6927d69c0c68"
+    },
+    {
+      "file": "P14_microenvironment_clusters.png",
+      "bytes": 1874757,
+      "sha256": "5b710aa7a8c647f2d25a3086a48978cf583e3d4bfaa9c413cd14ff7254664cb8"
+    },
+    {
+      "file": "P14_microenvironment_programs.pdf",
+      "bytes": 990900,
+      "sha256": "bada9f3dfc1a66e07605ef4f3b94d5742021cae69d82dc086fc0d8c5679d46ed"
+    },
+    {
+      "file": "P14_microenvironment_programs.png",
+      "bytes": 2503649,
+      "sha256": "f63a7376528c854ac70fbfc03226f056e9066d63d20d2f282e4604e5846338d7"
+    },
+    {
+      "file": "P21/cell_annotations_and_scores.csv.gz",
+      "bytes": 6549332,
+      "sha256": "147b5d7d3e6e05642663cf0149fdbf1b277c965a45604401964a8449e97eb8ca"
+    },
+    {
+      "file": "P21/cluster_by_gate_origin.tsv",
+      "bytes": 149,
+      "sha256": "8d36d0b90fe0d88de7881ba204f86c3f261fd740a107fc0de4f306e8e8fd9590"
+    },
+    {
+      "file": "P21/cluster_by_prior_stage_group.tsv",
+      "bytes": 202,
+      "sha256": "7833ecb7f4cfbe11d2cda40b1ac5910958543dae9371bf3bc12f466b4bd81a53"
+    },
+    {
+      "file": "P21/cluster_by_sample.tsv",
+      "bytes": 151,
+      "sha256": "371fde1f174ed0a57148a6a7811af07491b3edaa9c899a2cb1c1234d9e4a481b"
+    },
+    {
+      "file": "P21/cluster_by_subcluster_id.tsv",
+      "bytes": 141,
+      "sha256": "68fcf5579c7e80515c54ad1f0e3bcff257c63c834e0f530aa4902e0970fcfaf2"
+    },
+    {
+      "file": "P21/corrected_pseudobulk.tsv.gz",
+      "bytes": 760646,
+      "sha256": "32e3ff58c3be4fc0a2c9b93ddd6e283041936d59cb07008edd7b36ef1673ac1d"
+    },
+    {
+      "file": "P21/embeddings_and_scores_metadata_only.h5ad",
+      "bytes": 20609287,
+      "sha256": "bfee6ecddc9dd3a37413e413fb376286ddff98c123778a62612eb928b45d5ad6"
+    },
+    {
+      "file": "P21_microenvironment_clusters.pdf",
+      "bytes": 411749,
+      "sha256": "8ce961b86e950fe7c8cf34498e3981e31f309f8bde05c9f382978feb30586b2e"
+    },
+    {
+      "file": "P21_microenvironment_clusters.png",
+      "bytes": 1739465,
+      "sha256": "9c67228305ebfd0582ec7e793da2b1aba38e97fc801a7cfb3faa4bc313d8a92a"
+    },
+    {
+      "file": "P21_microenvironment_programs.pdf",
+      "bytes": 980777,
+      "sha256": "4bb07db625210ed234057f5c03e8a697cd00ef2fd0a21a20bf260224f9c172a4"
+    },
+    {
+      "file": "P21_microenvironment_programs.png",
+      "bytes": 2258091,
+      "sha256": "d04d4bd1bbed22625eaf24d45e79f4cbad0b33905dc7726cb1747b577b887387"
+    },
+    {
+      "file": "P7/cell_annotations_and_scores.csv.gz",
+      "bytes": 9085271,
+      "sha256": "9c32dd401980091eda2e43b6aa0c2d0d146fbded44be7553865e721dd3c53086"
+    },
+    {
+      "file": "P7/cluster_by_gate_origin.tsv",
+      "bytes": 176,
+      "sha256": "de5d9fd1fdbaa41cbacbc94cfe522dbc5ddf3f871e0090705362ac01c5fd35fb"
+    },
+    {
+      "file": "P7/cluster_by_prior_stage_group.tsv",
+      "bytes": 365,
+      "sha256": "567e16bc67401f26e106cd7f06b39bbe2b301a17a24460f21a871804c2bf4a9e"
+    },
+    {
+      "file": "P7/cluster_by_sample.tsv",
+      "bytes": 183,
+      "sha256": "810934d132ada86b6380a3840573512cc1470e7b5b5a5546f2360c9e625b7710"
+    },
+    {
+      "file": "P7/cluster_by_subcluster_id.tsv",
+      "bytes": 226,
+      "sha256": "a410adeb919311e067e3979d53ebaf48224ea611566a73d0f71809de1ddd2bb2"
+    },
+    {
+      "file": "P7/corrected_pseudobulk.tsv.gz",
+      "bytes": 883029,
+      "sha256": "ddb46c10011136f46d4ef6eeedf9a404248468d1189e306617dcc93b9612d85f"
+    },
+    {
+      "file": "P7/embeddings_and_scores_metadata_only.h5ad",
+      "bytes": 28538513,
+      "sha256": "fa7eaa8040e5b772ad610e478cf8770d0837c8d45367c2d0cffb70e712be33a3"
+    },
+    {
+      "file": "P7_microenvironment_clusters.pdf",
+      "bytes": 312871,
+      "sha256": "cce5fc2969f867b527e4b8d79eb36f19e881a507e2b2750336cc4a4197222aa7"
+    },
+    {
+      "file": "P7_microenvironment_clusters.png",
+      "bytes": 1414104,
+      "sha256": "6b1cfb3687f627734046bb3c19b41f9cbff60518fad6319ab462670c2e040a71"
+    },
+    {
+      "file": "P7_microenvironment_programs.pdf",
+      "bytes": 682713,
+      "sha256": "6884c1552742c3096a25fd9249833441740e479b9e752e09ef05e405542bf9c4"
+    },
+    {
+      "file": "P7_microenvironment_programs.png",
+      "bytes": 1965168,
+      "sha256": "bf5757833ffd5578bed1a4d820ff1929c81578545fcd18a7c45915ec8813ef96"
+    },
+    {
+      "file": "README.md",
+      "bytes": 16325,
+      "sha256": "ce62f0e9c5862a54cc198f818c531af8f6b8b1a3fc9bf6b22a5a25fe1be02b11"
+    },
+    {
+      "file": "cell_annotations_and_scores.csv.gz",
+      "bytes": 30686903,
+      "sha256": "26bdc52bca1dbc1da9c6bd220f43046edd147675d454ceec2f424e254019b649"
+    },
+    {
+      "file": "cluster_gene_markers.tsv",
+      "bytes": 219887,
+      "sha256": "2faf337fb071b8e610d4b2822ef01113402e725fca02d4ed14001ae070e81a93"
+    },
+    {
+      "file": "cluster_program_evidence.tsv",
+      "bytes": 130765,
+      "sha256": "58189e505d135131eb2f624109bcc75020184a781c7f72b43bdeb8e8bef84acc"
+    },
+    {
+      "file": "cluster_summary.tsv",
+      "bytes": 10587,
+      "sha256": "4e7f4256d38da57b4881e293d30ce6027e1146a7280185464723500cca493996"
+    },
+    {
+      "file": "clustering_stability.tsv",
+      "bytes": 1594,
+      "sha256": "b2ad0c260eaacc6f44e903e8af0997968c8d9916233d198129d5099e12eff5ce"
+    },
+    {
+      "file": "cohort_summary.tsv",
+      "bytes": 289,
+      "sha256": "c1b242d6612e8c9404626ea3ce1c3cf933f12b811f741a042c8f28e211da30eb"
+    },
+    {
+      "file": "core_gate_sensitivity.tsv",
+      "bytes": 14918,
+      "sha256": "6e43c9b0c6cbd769bb67cca90b9c218bf110db61b2c32a7aea15ba2c161ab1ee"
+    },
+    {
+      "file": "embedding_genes.tsv",
+      "bytes": 283956,
+      "sha256": "1e58cf7149799aa360e3bf6b20d8fd758ef4133d10b232b6b4aca9e575aa1b30"
+    },
+    {
+      "file": "gradient_metrics.tsv",
+      "bytes": 13064,
+      "sha256": "a21f6d01a39bd589bf56ff74bb2f50929750f4f36c3624ad5e0bfaeb2c02eb32"
+    },
+    {
+      "file": "matched_control_genes.tsv",
+      "bytes": 305713,
+      "sha256": "39b9f75f50367744768f433ecc8a47782ef59db37a496bd5d3cb671c7c346802"
+    },
+    {
+      "file": "methods.json",
+      "bytes": 3353,
+      "sha256": "8c5acbaf2c5a4819b35686c2909e71fef7b0a6124c6debe4232a41ab5bc86678"
+    },
+    {
+      "file": "module_score_quality.tsv",
+      "bytes": 12184,
+      "sha256": "98428afc024398aa2dc44f17db76fe29b137c518c0900e3be0af1a309925a7f1"
+    },
+    {
+      "file": "prior_annotation_review.tsv",
+      "bytes": 1047,
+      "sha256": "0800b9ebc8da05535b815762f874d6a926d0d3026bf40fc2a69b5e79aecfa75c"
+    },
+    {
+      "file": "program_correlations.tsv",
+      "bytes": 71145,
+      "sha256": "0e969ca50c3bf368ad862f70d00a59103c200dc8d127d935a1345bbb05abdf86"
+    },
+    {
+      "file": "program_definitions.json",
+      "bytes": 11452,
+      "sha256": "04eb326fb9518f770b5b07164321e9be5741d6ee0bf0d0c6476c6eba4226a7d9"
+    },
+    {
+      "file": "program_gene_mapping.tsv",
+      "bytes": 20727,
+      "sha256": "fc48d58844930d8d2b89c5043ba27f6cb82c96b5c9962dbafa6c76f972b42421"
+    },
+    {
+      "file": "program_gene_overlap.tsv",
+      "bytes": 10898,
+      "sha256": "d93268ebf352945e0b0ad22f8e4f6881b55c38b3ffc69d465571da7ea4289802"
+    },
+    {
+      "file": "program_gene_profiles.tsv",
+      "bytes": 568893,
+      "sha256": "5af2c93cea4b4fbb1d02943f3272a26783dc06a5568c934e2ccba516bf0d581a"
+    },
+    {
+      "file": "resolution_sensitivity.tsv",
+      "bytes": 773,
+      "sha256": "a56d6f9b722c55c51483c57aa7e0e6e08091787ddcff94eecc8f025b3e79356a"
+    },
+    {
+      "file": "sample_mixing.tsv",
+      "bytes": 1391,
+      "sha256": "0614590d8db7e39d90f46f0ec14814aa4968e2048a34acc5ccde9d1dd1b5fdc3"
+    },
+    {
+      "file": "sources/README.md",
+      "bytes": 1683,
+      "sha256": "050699d036eb5920320bf052bf38940c6e3948c3ea41011ac577a7dc1cc003ac"
+    },
+    {
+      "file": "sources/curated_programs_and_limitations.json",
+      "bytes": 5481,
+      "sha256": "2c738023a6b8b3993aec39249b2de1ab184261aee89e353b05bbc5aa684257cb"
+    },
+    {
+      "file": "sources/paper_provenance.json",
+      "bytes": 2423,
+      "sha256": "91746d5353ea1d83ae6979552e8f345a697d25ca0282986a7f4de5beb6b91066"
+    },
+    {
+      "file": "sources/paper_supplementary_table3_CM_markers.tsv",
+      "bytes": 2167,
+      "sha256": "0d3dce0b7bb92a8dff7b2769bb0519a4a77a1f5c3b26492a298170d7dedbe8ce"
+    },
+    {
+      "file": "sources/supporting_references.json",
+      "bytes": 2170,
+      "sha256": "be00181d80c7683aedd22dceacee57b9dcbbef1330253a3bef3573679f8a2c19"
+    },
+    {
+      "file": "ventricular_microenvironment_figures.pdf",
+      "bytes": 5569008,
+      "sha256": "51aff497472c62a171a6e955aa59fecd4adae46492fc4869ab7ea35c1d3dc8b2"
+    },
+    {
+      "file": "ventricular_microenvironment_overview.pdf",
+      "bytes": 604798,
+      "sha256": "b5ce8c61a6860cbb7506bef4da263246e4a0295dcae402b54cc1913945518645"
+    },
+    {
+      "file": "ventricular_microenvironment_overview.png",
+      "bytes": 2765628,
+      "sha256": "5839fccc3955340a065eaaf3a584f1e459b94b21a6f878f1f2b2b70b6caf059b"
+    }
+  ]
+}

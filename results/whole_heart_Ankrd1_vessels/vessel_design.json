@@ -1,0 +1,22 @@
+{
+  "arterial_seed_cluster_eps_um": 35,
+  "minimum_arterial_ECs": 2,
+  "minimum_SMCs": 2,
+  "SMC_distance_to_clustered_arterial_EC_um": 35,
+  "minimum_EC_mural_coverage": 0.5,
+  "minimum_mural_angular_quadrants": 2,
+  "primary_boundary": "Union of deposited arterial EC and assigned SMC cell polygons, buffered3\u00b5m; vascular-cell envelope, not histologically traced vessel wall",
+  "primary_small_segment": "Convex-hull equivalent diameter<=150\u00b5m and maximum boundary span<=300\u00b5m",
+  "sensitivity_boundaries": [
+    "unbuffered vascular-cell union",
+    "convex hull",
+    "clustered arterial EC centroid"
+  ],
+  "definitions": [
+    "independent_strict",
+    "independent_marker",
+    "published_comparator"
+  ],
+  "outcome_expression_used_to_define_vessels": false,
+  "interpretation": "Arteriole-like candidate vascular segments; a fragmented vessel can form multiple segments; no independently validated anatomical segmentation."
+}

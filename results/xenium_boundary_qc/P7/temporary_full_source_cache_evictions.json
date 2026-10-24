@@ -1,0 +1,12 @@
+[
+  {
+    "file": "transcripts.parquet",
+    "bytes": 1009948634,
+    "reason": "Verified temporary full-member cache evicted after exact count reconstruction and ROI extraction; source member/CRC/SHA remain recorded"
+  },
+  {
+    "file": "morphology_focus_0001.ome.tif",
+    "bytes": 368212593,
+    "reason": "Verified temporary full-member cache evicted after exact count reconstruction and ROI extraction; source member/CRC/SHA remain recorded"
+  }
+]

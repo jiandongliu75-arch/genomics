@@ -1,0 +1,5 @@
+stage	expanded_nuclei	core_nuclei	reference_nuclei	primary_clusters	corrected_count_sum	original_integer_count_sum
+P0	11046	10315	731	8	65296228.0	74198464.0
+P7	13040	12854	186	9	46310780.0	49573440.0
+P14	11042	10873	169	5	102336304.0	110268088.0
+P21	9335	9207	128	6	90919520.0	97944640.0

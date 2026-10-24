@@ -1,0 +1,56 @@
+stage	scope	variant	original_supported_family	profiles	information_QC_fraction	same_proposal_fraction	same_supported_label_fraction
+P0	geometry	native_Q20	Postn-associated	270	1	1	1
+P0	geometry	native_Q20	Unresolved fibroblast program	221	1	1	1
+P0	geometry	core_1um	Postn-associated	270	0.9740741	0.9555556	0.7666667
+P0	geometry	core_1um	Unresolved fibroblast program	221	0.9049774	0.8597285	0.9819005
+P0	geometry	thin_to_core1	Postn-associated	270	0.9703704	0.9740741	0.6444444
+P0	geometry	thin_to_core1	Unresolved fibroblast program	221	0.8823529	0.8144796	0.9502262
+P0	image	native_Q20	Postn-associated	183	1	1	1
+P0	image	native_Q20	Unresolved fibroblast program	158	1	1	1
+P0	image	membrane_watershed	Postn-associated	183	0.9508197	0.9672131	0.7978142
+P0	image	membrane_watershed	Unresolved fibroblast program	158	0.9240506	0.8544304	0.9113924
+P7	geometry	native_Q20	Postn-associated	315	1	1	1
+P7	geometry	native_Q20	Gfpt2-associated	21	1	1	1
+P7	geometry	native_Q20	Unresolved fibroblast program	134	1	1	1
+P7	geometry	core_1um	Postn-associated	315	0.9809524	0.9936508	0.7587302
+P7	geometry	core_1um	Gfpt2-associated	21	0.952381	0.7619048	0.5714286
+P7	geometry	core_1um	Unresolved fibroblast program	134	0.8880597	0.8358209	0.9179104
+P7	geometry	thin_to_core1	Postn-associated	315	0.9809524	1	0.7365079
+P7	geometry	thin_to_core1	Gfpt2-associated	21	0.9047619	0.7142857	0.4285714
+P7	geometry	thin_to_core1	Unresolved fibroblast program	134	0.880597	0.858209	0.8955224
+P7	image	native_Q20	Postn-associated	190	1	1	1
+P7	image	native_Q20	Gfpt2-associated	17	1	1	1
+P7	image	native_Q20	Unresolved fibroblast program	87	1	1	1
+P7	image	membrane_watershed	Postn-associated	190	0.9578947	0.9947368	0.8473684
+P7	image	membrane_watershed	Gfpt2-associated	17	1	0.4117647	0.2941176
+P7	image	membrane_watershed	Unresolved fibroblast program	87	0.954023	0.8735632	0.7701149
+P14	geometry	native_Q20	Col8a1-associated	55	1	1	1
+P14	geometry	native_Q20	Gfpt2-associated	31	1	1	1
+P14	geometry	native_Q20	Unresolved fibroblast program	351	1	1	1
+P14	geometry	core_1um	Col8a1-associated	55	0.9454545	0.9454545	0.6363636
+P14	geometry	core_1um	Gfpt2-associated	31	0.9677419	0.8064516	0.5483871
+P14	geometry	core_1um	Unresolved fibroblast program	351	0.9230769	0.8689459	0.954416
+P14	geometry	thin_to_core1	Col8a1-associated	55	0.9636364	0.9636364	0.5090909
+P14	geometry	thin_to_core1	Gfpt2-associated	31	0.9677419	0.7419355	0.4516129
+P14	geometry	thin_to_core1	Unresolved fibroblast program	351	0.9202279	0.8860399	0.960114
+P14	image	native_Q20	Col8a1-associated	45	1	1	1
+P14	image	native_Q20	Gfpt2-associated	23	1	1	1
+P14	image	native_Q20	Unresolved fibroblast program	244	1	1	1
+P14	image	membrane_watershed	Col8a1-associated	45	1	0.9555556	0.7555556
+P14	image	membrane_watershed	Gfpt2-associated	23	0.9565217	0.6521739	0.2608696
+P14	image	membrane_watershed	Unresolved fibroblast program	244	0.9713115	0.8319672	0.9508197
+P21	geometry	native_Q20	Col8a1-associated	69	1	1	1
+P21	geometry	native_Q20	Lsamp-associated	1	1	1	1
+P21	geometry	native_Q20	Unresolved fibroblast program	591	1	1	1
+P21	geometry	core_1um	Col8a1-associated	69	0.9710145	0.9855072	0.5507246
+P21	geometry	core_1um	Lsamp-associated	1	1	1	1
+P21	geometry	core_1um	Unresolved fibroblast program	591	0.9221658	0.8121827	0.9813875
+P21	geometry	thin_to_core1	Col8a1-associated	69	0.9710145	1	0.4492754
+P21	geometry	thin_to_core1	Lsamp-associated	1	1	1	1
+P21	geometry	thin_to_core1	Unresolved fibroblast program	591	0.9187817	0.8054146	0.9830795
+P21	image	native_Q20	Col8a1-associated	44	1	1	1
+P21	image	native_Q20	Lsamp-associated	1	1	1	1
+P21	image	native_Q20	Unresolved fibroblast program	370	1	1	1
+P21	image	membrane_watershed	Col8a1-associated	44	0.9545455	0.9318182	0.4772727
+P21	image	membrane_watershed	Lsamp-associated	1	1	1	1
+P21	image	membrane_watershed	Unresolved fibroblast program	370	0.9432432	0.7567568	0.9486486

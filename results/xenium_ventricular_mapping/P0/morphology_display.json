@@ -1,0 +1,24 @@
+{
+  "stage": "P0",
+  "source_section": "WT_P0__20240528__152132",
+  "source": "/workspace/heart-atlas/data/xenium/WT_P0__20240528__152132/morphology_focus_0000.ome.tif",
+  "channel": "DAPI only",
+  "full_resolution_shape_yx": [
+    17094,
+    17126
+  ],
+  "pyramid_level": 3,
+  "overview_shape_yx": [
+    2136,
+    2140
+  ],
+  "pixel_size_um_at_full_resolution": 0.2125,
+  "extent_um": [
+    0,
+    3639.275,
+    3632.475,
+    0
+  ],
+  "display_transform": "2nd\u201399.8th percentile clipping of nonzero pyramid intensity, square-root display contrast, uint8. Analysis counts and coordinates unchanged.",
+  "source_sha256": "17b978e1138e667c90b1d8b9089d1e96c4c7f85b437c8aa718ecb2daf4202d63"
+}

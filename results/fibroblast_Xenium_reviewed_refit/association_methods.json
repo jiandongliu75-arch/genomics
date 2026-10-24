@@ -1,0 +1,11 @@
+{
+  "RNA_unit": "Library x reassessed family,>=30 nuclei; corrected and original pseudobulk scores",
+  "RNA_variance": "Equal-unit OLS, stage+family; conditional DeltaR2; rank reported; no cell-level p-values or state-independence claim",
+  "RNA_gene_stage_screen": "Adjacent ages with2libraries each,family>=30/library; abs corrected log2CPM effect>=0.5,all4library crosses same direction>=0.25,raw agreement; CM-enriched/sex/mt/ribosomal/Gm genes excluded",
+  "spatial_primary": "Within-section 50um FB neighborhoods; >=3FB,>=5resolved neighbors; all original broad labels frozen",
+  "controls": "RNA depth excluding all25outcome genes,cell area,nuclear-area missing,arterial distance,endocardial proxy,density,broad FB/EC/mural/immune composition,Slit2/cycling RNA,XY splines+interaction",
+  "coefficient_units": "Standardized outcome per SD predictor,conditional joint-family or joint-matrix model; both fit at50um",
+  "uncertainty": "96resamples of400um spatial blocks; descriptive within-section intervals,not independent animals",
+  "prediction": "Five deterministic400um-block folds; training CMs within100um of any held-out CM removed; Ridge alpha10; train-only feature scaling; identical folds for baseline/augmented",
+  "limitations": "Unreviewed anatomical regions,cell segmentation/reference mapping residuals and spatial confounding remain; no causal signaling,stiffness,ancestry or independent replicated developmental spatial claim"
+}

@@ -1,0 +1,11 @@
+reassessed_lineage	Ankrd1.CM	Blood	Ddc.CM	Epic	Gfpt2.Fib	Neur	Not present in published atlas	Peri	Postn.Fib	SMC	Slit2.CM	a.CM	arteriole.EC	av.CM	cap.EC	cap.EC.High.Myo.	endocardial.EC	p.CM	p.EC	p.Fib	v.CM	valve.Fib
+Ambiguous/review	468	170	389	211	0	32	195	590	1493	940	419	387	79	82	103	775	436	605	101	117	212	321
+Cardiomyocyte	6258	30	4399	0	0	0	173	60	75	0	2002	2702	2	263	1	293	13	4354	7	10	6052	66
+Endothelial	21	13	45	0	0	0	8	55	27	12	31	17	387	2	2480	674	2253	49	701	4	4	15
+Epicardial	0	0	0	231	0	0	0	0	5	0	0	2	0	0	0	0	0	1	0	0	0	0
+Fibroblast	13	5	17	5	1	11	3	20	1884	152	14	9	0	7	0	1	20	8	0	209	0	432
+Immune	0	340	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0	1	0	0	0	0
+Mixed CM/non-CM; review	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0
+Pericyte	0	0	2	0	0	0	0	481	0	2	0	1	0	0	0	0	0	1	0	0	0	0
+QC/information flag	35	14	15	38	0	0	485	32	175	93	82	24	20	4	16	88	93	68	4	3	29	93
+Smooth muscle	0	0	0	0	0	0	0	0	0	633	0	0	0	0	0	0	0	0	0	0	0	0

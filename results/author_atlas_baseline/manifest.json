@@ -1,0 +1,454 @@
+{
+  "results": [
+    {
+      "path": "results/author_atlas_baseline/P0/P0_published_CM_states_and_baseline.pdf",
+      "bytes": 1503886,
+      "sha256": "060d6e82ee0731f44f4e6b049984112d421a6fb56bb2e95f179ad8b8db806006"
+    },
+    {
+      "path": "results/author_atlas_baseline/P0/P0_published_CM_states_and_baseline.png",
+      "bytes": 5118742,
+      "sha256": "8abbc094bc82141a5041d94213404fb6d1e094a0f76598a3c8cb86a46e1c4842"
+    },
+    {
+      "path": "results/author_atlas_baseline/P0/acquisition_summary.json",
+      "bytes": 1898,
+      "sha256": "4b4891a3f0ffe9f2c663f7c92b8e405ced455f468fbbfbf8bc23c6460c670907"
+    },
+    {
+      "path": "results/author_atlas_baseline/P0/atlas_features.tsv",
+      "bytes": 21327,
+      "sha256": "ebe71be292cb263f198df9c0ec1a5fa14b2582055b8233c6e98f0b9589c3201d"
+    },
+    {
+      "path": "results/author_atlas_baseline/P0/author_atlas_annotations.tsv.gz",
+      "bytes": 2899839,
+      "sha256": "f1785288ef98149ee270c700debaaad960a308dacf5c52feebfdf2f0b1a9b1a8"
+    },
+    {
+      "path": "results/author_atlas_baseline/P0/author_state_vs_previous_lineage.tsv",
+      "bytes": 1166,
+      "sha256": "db9832de345a1b3a9707addf93883f8fff8a2f061669f8a5001326f2c060e042"
+    },
+    {
+      "path": "results/author_atlas_baseline/P0/http_provenance.json",
+      "bytes": 21856,
+      "sha256": "c9b011a3ece66b9096fddb59494bf0fe8ab7715e76efa1b193d5757684f9dd3e"
+    },
+    {
+      "path": "results/author_atlas_baseline/P0/independent_default_parameters/annotated_assignments.tsv.gz",
+      "bytes": 1562567,
+      "sha256": "87c25f9cc8ae8f8999aa5b040b75167ec682b2f45a5c19c9c11008a7a8637eb7"
+    },
+    {
+      "path": "results/author_atlas_baseline/P0/independent_default_parameters/assigned_locations.csv.gz",
+      "bytes": 878457,
+      "sha256": "963896b942945d0d4ac8b656af7b607906f05d42cd401356a269f50bfb3997b6"
+    },
+    {
+      "path": "results/author_atlas_baseline/P0/independent_default_parameters/reference_pool.tsv.gz",
+      "bytes": 94502,
+      "sha256": "67679d833d336dd75ecaea8e8763816c05b25286b7b792a1ef9ec7483fc6ba8f"
+    },
+    {
+      "path": "results/author_atlas_baseline/P0/independent_default_parameters/run_manifest.json",
+      "bytes": 2469,
+      "sha256": "18b9184370b50af2d557a761a826087cd19708c45a5695089344487a2361e3d7"
+    },
+    {
+      "path": "results/author_atlas_baseline/P0/independent_default_parameters/upstream_log.txt",
+      "bytes": 1346,
+      "sha256": "05cd2d36d8c801f48ed506635480cae75b8462e30704e58b665a5c459fa1465e"
+    },
+    {
+      "path": "results/author_atlas_baseline/P0/independent_default_parameters/upstream_stdout.txt",
+      "bytes": 1180,
+      "sha256": "75cb7fe5954a5bdd70154e3a4ac97b06b8d37e9cc8b4b53fe7a6baa2dbbf0784"
+    },
+    {
+      "path": "results/author_atlas_baseline/P0/original_cells_with_author_labels.tsv.gz",
+      "bytes": 10627443,
+      "sha256": "4e31de5477b1d505841f5b01dd400f9dd0105bddfab6a54e39a2a19ece42cca0"
+    },
+    {
+      "path": "results/author_atlas_baseline/P0/published_vs_independent_program_crosstab.tsv",
+      "bytes": 272,
+      "sha256": "7f8a7f2bd48963a88c8ffbf168f601633614626343c0276f25c8f5067f085d5f"
+    },
+    {
+      "path": "results/author_atlas_baseline/P14/P14_published_CM_states_and_baseline.pdf",
+      "bytes": 1444546,
+      "sha256": "b0fe1304b9ab8373c6e0dd11c177266f9b3b4686a3fec0d51a87858a2463a51c"
+    },
+    {
+      "path": "results/author_atlas_baseline/P14/P14_published_CM_states_and_baseline.png",
+      "bytes": 5149828,
+      "sha256": "c41fe5f2e9ebffc492a2bbea634f922fb06c180f2e65e8a92a871c86bb584006"
+    },
+    {
+      "path": "results/author_atlas_baseline/P14/acquisition_summary.json",
+      "bytes": 1976,
+      "sha256": "aa9b110cfd1569b7bbc0c0199180577bb25014edb29a7654273bc047d7674566"
+    },
+    {
+      "path": "results/author_atlas_baseline/P14/atlas_features.tsv",
+      "bytes": 21300,
+      "sha256": "79299b17fb0a6591532df186b6683e04c813fc71224063cf3a622748c205f581"
+    },
+    {
+      "path": "results/author_atlas_baseline/P14/author_atlas_annotations.tsv.gz",
+      "bytes": 7046472,
+      "sha256": "b50993a83a1e3549830e2310af68ce5f8d56008a55d5356aaf0602fc6cf197a1"
+    },
+    {
+      "path": "results/author_atlas_baseline/P14/author_state_vs_previous_lineage.tsv",
+      "bytes": 1326,
+      "sha256": "2b62ffae7e8427772d8d6b30a91b286d958c2aef7bb68ae223da3dcdffd6b604"
+    },
+    {
+      "path": "results/author_atlas_baseline/P14/http_provenance.json",
+      "bytes": 28932,
+      "sha256": "c0038427646ec2ed521c6bf104d94fc3c392cd08fc9a6ba7ec78fa03b8b263b5"
+    },
+    {
+      "path": "results/author_atlas_baseline/P14/independent_default_parameters/annotated_assignments.tsv.gz",
+      "bytes": 2592979,
+      "sha256": "f25f44da86798b956d583bb6d5dc832737e3f500fd8329cc55166a36c3914c70"
+    },
+    {
+      "path": "results/author_atlas_baseline/P14/independent_default_parameters/assigned_locations.csv.gz",
+      "bytes": 1443733,
+      "sha256": "4f2c1f64fa6f697692da2ca410a75190262068b44ad9d427fb2bf1903195e8a7"
+    },
+    {
+      "path": "results/author_atlas_baseline/P14/independent_default_parameters/reference_pool.tsv.gz",
+      "bytes": 92983,
+      "sha256": "e5afc4d2f14b84f653342a10eea3d0275d75400fd8933cb7dcf58ea765652111"
+    },
+    {
+      "path": "results/author_atlas_baseline/P14/independent_default_parameters/run_manifest.json",
+      "bytes": 2476,
+      "sha256": "314de71b600e8f98c624ad3997b76097241025e4a80d8de749968d7972bc0826"
+    },
+    {
+      "path": "results/author_atlas_baseline/P14/independent_default_parameters/upstream_log.txt",
+      "bytes": 1353,
+      "sha256": "cbcf734355ed89ac3084e42bd2055cd17a8616a55001dbd13e9222cefea81e33"
+    },
+    {
+      "path": "results/author_atlas_baseline/P14/independent_default_parameters/upstream_stdout.txt",
+      "bytes": 1496,
+      "sha256": "40a45e9f96d183f15eb0f547cabe16c1b8bdce1b307574589b9ed2df05a1b4a7"
+    },
+    {
+      "path": "results/author_atlas_baseline/P14/original_cells_with_author_labels.tsv.gz",
+      "bytes": 26574197,
+      "sha256": "05d8d581ad93e905d59dec2bb3bc03a36e0993a530024d89e96606785e400d37"
+    },
+    {
+      "path": "results/author_atlas_baseline/P14/published_vs_independent_program_crosstab.tsv",
+      "bytes": 248,
+      "sha256": "0f549b5f9b08d8e481a1bfc6597fdd251e08ca034d1ccd08b0929d56728b93b0"
+    },
+    {
+      "path": "results/author_atlas_baseline/P21/P21_published_CM_states_and_baseline.pdf",
+      "bytes": 2053812,
+      "sha256": "ea605fea3f27c6d047fe88ea19831b0171171b4b2b8413615dc48bb305c23e26"
+    },
+    {
+      "path": "results/author_atlas_baseline/P21/P21_published_CM_states_and_baseline.png",
+      "bytes": 7174368,
+      "sha256": "65b9340fd2f23d4708e0e2546d2205473517bb0fa6594dfb5f22c5ef5fbda6f7"
+    },
+    {
+      "path": "results/author_atlas_baseline/P21/acquisition_summary.json",
+      "bytes": 1907,
+      "sha256": "53f6d7cf71ed8c7a9d1bb6dc9f96a3b2fdf454a24eb5e294b515d082217516be"
+    },
+    {
+      "path": "results/author_atlas_baseline/P21/atlas_features.tsv",
+      "bytes": 21300,
+      "sha256": "79299b17fb0a6591532df186b6683e04c813fc71224063cf3a622748c205f581"
+    },
+    {
+      "path": "results/author_atlas_baseline/P21/author_atlas_annotations.tsv.gz",
+      "bytes": 8745819,
+      "sha256": "ee43dfc21a0bc59ca75cfc0143946259e0e3a564c6eebde182e46bedc0780c29"
+    },
+    {
+      "path": "results/author_atlas_baseline/P21/author_state_vs_previous_lineage.tsv",
+      "bytes": 1202,
+      "sha256": "f027bfb43e35e3a8493b2fadf21e718b1022324821ef342df555f2bca60a35e7"
+    },
+    {
+      "path": "results/author_atlas_baseline/P21/http_provenance.json",
+      "bytes": 30716,
+      "sha256": "f196e0184a151a1228d715579836a3f407ff6c6a368220683407ff984fff3e34"
+    },
+    {
+      "path": "results/author_atlas_baseline/P21/independent_default_parameters/annotated_assignments.tsv.gz",
+      "bytes": 3270728,
+      "sha256": "b3ec518a147131d253f0dd91352b2368ec5e14f0ee25422b526922c788ebf84e"
+    },
+    {
+      "path": "results/author_atlas_baseline/P21/independent_default_parameters/assigned_locations.csv.gz",
+      "bytes": 1819514,
+      "sha256": "f70c647ac990ad937db7fc99cbaf8d1367dcea0d7e148bf095737cc7632c4139"
+    },
+    {
+      "path": "results/author_atlas_baseline/P21/independent_default_parameters/reference_pool.tsv.gz",
+      "bytes": 79855,
+      "sha256": "e1c85ee3729982159e05dc83731637a38955c3b09071e71639ad40f953906c52"
+    },
+    {
+      "path": "results/author_atlas_baseline/P21/independent_default_parameters/run_manifest.json",
+      "bytes": 2476,
+      "sha256": "361b177d3c66444c881a3a645800cd0152328d68254f8351b282d49d3b568c32"
+    },
+    {
+      "path": "results/author_atlas_baseline/P21/independent_default_parameters/upstream_log.txt",
+      "bytes": 1354,
+      "sha256": "b00dfb79e3e79e1a5cd9a1c1b2398716538f919172ede903ea6cc0f830584b47"
+    },
+    {
+      "path": "results/author_atlas_baseline/P21/independent_default_parameters/upstream_stdout.txt",
+      "bytes": 1657,
+      "sha256": "f9a038d8d94ee22d49a71e9ad61a8e1e426749b1781180149da0f1300a939373"
+    },
+    {
+      "path": "results/author_atlas_baseline/P21/original_cells_with_author_labels.tsv.gz",
+      "bytes": 32820332,
+      "sha256": "6a48bbfa0d83c2085f9b0115e147636c651b7c6edb63c7e9aef7c4101ee605e3"
+    },
+    {
+      "path": "results/author_atlas_baseline/P21/published_vs_independent_program_crosstab.tsv",
+      "bytes": 213,
+      "sha256": "f473258bc3c23ef0fc63d71ab409e1f1254edf8f893ed5fa83468ef09c3a1292"
+    },
+    {
+      "path": "results/author_atlas_baseline/P7/P7_published_CM_states_and_baseline.pdf",
+      "bytes": 1484346,
+      "sha256": "933fedc1d77e80f63ff5dddb3ed38b61a37863196d3df3ae5036659d76eb000b"
+    },
+    {
+      "path": "results/author_atlas_baseline/P7/P7_published_CM_states_and_baseline.png",
+      "bytes": 5317060,
+      "sha256": "6c4121672cd8250b697ad3f6b241fec974da5141a83bd3640f9f977fac429b5f"
+    },
+    {
+      "path": "results/author_atlas_baseline/P7/acquisition_summary.json",
+      "bytes": 1932,
+      "sha256": "87785dbeb1561e60b54a655369b9c61400fc55d784240e2d569dc8d149bb962a"
+    },
+    {
+      "path": "results/author_atlas_baseline/P7/atlas_features.tsv",
+      "bytes": 21300,
+      "sha256": "79299b17fb0a6591532df186b6683e04c813fc71224063cf3a622748c205f581"
+    },
+    {
+      "path": "results/author_atlas_baseline/P7/author_atlas_annotations.tsv.gz",
+      "bytes": 5997289,
+      "sha256": "3498340ca4ea88cf79cc58e4fd365aecf8d02538cd2741972684fa84c5492078"
+    },
+    {
+      "path": "results/author_atlas_baseline/P7/author_state_vs_previous_lineage.tsv",
+      "bytes": 1261,
+      "sha256": "3e0793d63a9d73ed325c351b9d5c4046f43de567636d373679a4edf5089c8b91"
+    },
+    {
+      "path": "results/author_atlas_baseline/P7/http_provenance.json",
+      "bytes": 28865,
+      "sha256": "59150cca0a764cde8b43293ccb6e50610790cdd3acd945fd1551f16c43860ac1"
+    },
+    {
+      "path": "results/author_atlas_baseline/P7/independent_default_parameters/annotated_assignments.tsv.gz",
+      "bytes": 2340089,
+      "sha256": "4bdbe566f41942580e04caab196e7085670f6f791cb7ac37c92791cf891c0b42"
+    },
+    {
+      "path": "results/author_atlas_baseline/P7/independent_default_parameters/assigned_locations.csv.gz",
+      "bytes": 1300470,
+      "sha256": "abc7f4d2bcc21d7c87acd99ca36ce66cbe04c876e0479526012aeb4276fac2fd"
+    },
+    {
+      "path": "results/author_atlas_baseline/P7/independent_default_parameters/reference_pool.tsv.gz",
+      "bytes": 111154,
+      "sha256": "bfca8a533eaaf35cde47035d7ebd0b7d6c03a415f5cfd66893d98798108d0e01"
+    },
+    {
+      "path": "results/author_atlas_baseline/P7/independent_default_parameters/run_manifest.json",
+      "bytes": 2468,
+      "sha256": "71c0e86376fee59c5b1fd8b0b3c66764e9dc80f3b63e42db759af47c9aefeb64"
+    },
+    {
+      "path": "results/author_atlas_baseline/P7/independent_default_parameters/upstream_log.txt",
+      "bytes": 1347,
+      "sha256": "9f28154f22df76fe52c9e72306bca94336f3342a261559e29eb7d11b661a096b"
+    },
+    {
+      "path": "results/author_atlas_baseline/P7/independent_default_parameters/upstream_stdout.txt",
+      "bytes": 1340,
+      "sha256": "87bf5d69c9562c74a53ab972b971bd451f1fe6e8db553b78391a474b713bc4e1"
+    },
+    {
+      "path": "results/author_atlas_baseline/P7/original_cells_with_author_labels.tsv.gz",
+      "bytes": 22854262,
+      "sha256": "ce270682e85f727299d433cf1e6a694e5bfcd9819aedeac208fcfef3cc7ab687"
+    },
+    {
+      "path": "results/author_atlas_baseline/P7/published_vs_independent_program_crosstab.tsv",
+      "bytes": 375,
+      "sha256": "663b9da956fc028a38dfde2b4cef00b7ad755874c0bddc267cb724e0f057a22f"
+    },
+    {
+      "path": "results/author_atlas_baseline/README.md",
+      "bytes": 14464,
+      "sha256": "04f206023119e8ae33d64cfafa1ba6a2a62ad5dabac55db2b07c2b59e72fc982"
+    },
+    {
+      "path": "results/author_atlas_baseline/author_atlas_acquisition.json",
+      "bytes": 8273,
+      "sha256": "8d4d4a824fbd7f30478da38bd9725ec0edc2c4df9e0a998dd9b8e3853855a130"
+    },
+    {
+      "path": "results/author_atlas_baseline/author_cell_state_counts.tsv",
+      "bytes": 1456,
+      "sha256": "2b4d68195f6d7f3e1826b35e5ecaddfed4b3b94ce685027e5e767e1d660619a3"
+    },
+    {
+      "path": "results/author_atlas_baseline/descriptive_distances_to_author_EC_states.tsv",
+      "bytes": 3682,
+      "sha256": "af5fa59995b6e331d3735db3b052220ff37fdb859a30280925fbe1f5ce728048"
+    },
+    {
+      "path": "results/author_atlas_baseline/independent_parameter_baseline_summary.tsv",
+      "bytes": 1480,
+      "sha256": "58a1ad5f68ca3748af75c6d192ea55f2ceee13bbc49172fe0c4f33136157e523"
+    },
+    {
+      "path": "results/author_atlas_baseline/measured_marker_profiles_by_author_CM_state.tsv",
+      "bytes": 33449,
+      "sha256": "a5f735cbc3166da4d69d62f316a35d30c5a3c9b1860f6a0e85325b1ec5d0bcb4"
+    },
+    {
+      "path": "results/author_atlas_baseline/measured_markers_by_published_CM_state.pdf",
+      "bytes": 121616,
+      "sha256": "9de99416cdde7d5e88a340bf41e00e31091b7a821cdc2e06ecf0ecb0ad91032d"
+    },
+    {
+      "path": "results/author_atlas_baseline/measured_markers_by_published_CM_state.png",
+      "bytes": 499043,
+      "sha256": "cd62b20100f61ccd631c2daa36ebd5d1e0c72109c653ff98ec9e618368b27688"
+    },
+    {
+      "path": "results/author_atlas_baseline/methods.json",
+      "bytes": 1937,
+      "sha256": "d1277b9c124a7aba6aa83f2bce897e81cc09923e3a73cbd1326f9256b838fdcb"
+    },
+    {
+      "path": "results/author_atlas_baseline/previous_CM_EC_review_vs_author_state.tsv",
+      "bytes": 2013,
+      "sha256": "8796d7b10b340b3e6802a4a70c3883e89a77e18996088fa16f5fb78a8361cc4a"
+    },
+    {
+      "path": "results/author_atlas_baseline/published_CM_maps_and_independent_baseline.pdf",
+      "bytes": 6480295,
+      "sha256": "3b401d8e6fa840ef14937da17d3537c4818865178eed13b92d98dab745673f5a"
+    },
+    {
+      "path": "results/author_atlas_baseline/published_CM_state_counts_by_stage.tsv",
+      "bytes": 214,
+      "sha256": "729f5d968f89e316919c8f8a6a95d22dcba2cf0dd5f22e1fe63b247908bbe40a"
+    },
+    {
+      "path": "results/author_atlas_baseline/stage_summary.tsv",
+      "bytes": 438,
+      "sha256": "54cd83ed1d40a5c723fe88db5db08b68220e3adbf4e960a69399fc702135b308"
+    },
+    {
+      "path": "results/author_atlas_baseline/validation.json",
+      "bytes": 1806,
+      "sha256": "3009fb004e29a3a6589c8da881648f11f6ebfbaa26f3b1ed103879ccaa819bc8"
+    }
+  ],
+  "analysis": [
+    {
+      "path": "analysis/acquire_author_heart_atlas.py",
+      "sha256": "4be636f66e10c30024489020388f49e368c60fc7f62cf96da351b463251f3154"
+    },
+    {
+      "path": "analysis/run_author_parameter_baseline.py",
+      "sha256": "19a4c77b9eea66a3416773353b9f514e90b763af4d19b49200fc8b10a5518769"
+    },
+    {
+      "path": "analysis/analyze_author_atlas_baseline.py",
+      "sha256": "f2e983b9549260ac7efe72219fcab99c712e220705bb5feb3923e32e50fdb39f"
+    },
+    {
+      "path": "analysis/plot_author_atlas_baseline.py",
+      "sha256": "39b707be3d3fd9f1d80c471f6c9e0f2d0f1d251b792a3ed1cbb6ac55259c5e2d"
+    },
+    {
+      "path": "analysis/validate_author_atlas_baseline.py",
+      "sha256": "5b4300d602a44c6e04520639fc4c7a4c16010119abb674e205358ff15a851ab1"
+    },
+    {
+      "path": "analysis/write_author_atlas_report.py",
+      "sha256": "4ca0f5f789cd9ffe32f1410a55024edc897ca525410be6c7c4b19eee2f2a1183"
+    }
+  ],
+  "validation": {
+    "status": "PASS",
+    "stages": [
+      {
+        "stage": "P0",
+        "original_cells": 47611,
+        "published_atlas_cells": 46747,
+        "native_pairs_checked": 25596,
+        "reference_nuclei": 11046,
+        "sampled_correlations_checked": 100,
+        "maximum_sampled_correlation_error": 7.771561172376096e-16,
+        "marker_state_summaries_recomputed": 112,
+        "centroid_and_count_delta": 0,
+        "source_hashes_unchanged": true
+      },
+      {
+        "stage": "P7",
+        "original_cells": 99429,
+        "published_atlas_cells": 98188,
+        "native_pairs_checked": 38775,
+        "reference_nuclei": 13040,
+        "sampled_correlations_checked": 100,
+        "maximum_sampled_correlation_error": 4.996003610813204e-16,
+        "marker_state_summaries_recomputed": 112,
+        "centroid_and_count_delta": 0,
+        "source_hashes_unchanged": true
+      },
+      {
+        "stage": "P14",
+        "original_cells": 117070,
+        "published_atlas_cells": 114524,
+        "native_pairs_checked": 42878,
+        "reference_nuclei": 11042,
+        "sampled_correlations_checked": 100,
+        "maximum_sampled_correlation_error": 6.661338147750939e-16,
+        "marker_state_summaries_recomputed": 96,
+        "centroid_and_count_delta": 0,
+        "source_hashes_unchanged": true
+      },
+      {
+        "stage": "P21",
+        "original_cells": 143944,
+        "published_atlas_cells": 143709,
+        "native_pairs_checked": 53807,
+        "reference_nuclei": 9335,
+        "sampled_correlations_checked": 100,
+        "maximum_sampled_correlation_error": 6.661338147750939e-16,
+        "marker_state_summaries_recomputed": 80,
+        "centroid_and_count_delta": 0,
+        "source_hashes_unchanged": true
+      }
+    ],
+    "scope": "Data correspondence, native constraints, diagnostic calculations and measured summaries; not independent biological validation."
+  }
+}

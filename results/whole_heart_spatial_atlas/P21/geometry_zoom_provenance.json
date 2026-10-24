@@ -1,0 +1,20 @@
+{
+  "stage": "P21",
+  "bounds_um": [
+    4000.0,
+    4500.0,
+    1600.0,
+    2100.0
+  ],
+  "selection_tile": [
+    42,
+    18
+  ],
+  "selection_entropy": 1.646828907959485,
+  "native_cells": 1509,
+  "source_boundary_path": "/workspace/heart-atlas/data/xenium/WT_P21__20240528__152132/cell_boundaries.csv.gz",
+  "source_boundary_sha256": "820bd25a28d73af423d1f25819f9ac1d7dabb13db0d012e3053876ccd84c0350",
+  "vascular_cells_with_native_boundaries": 1509,
+  "median_centroid_outside_own_polygon_um": 0.0,
+  "maximum_centroid_outside_own_polygon_um": 0.0
+}

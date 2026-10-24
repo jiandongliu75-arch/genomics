@@ -1,0 +1,998 @@
+{
+  "status": "Counts/coordinates and candidate-rule invariants validated; spatial biological accuracy not independently established.",
+  "validation": [
+    "408,054 original segmented cells preserved across four sections; 403 measured gene targets each",
+    "Every original gene count and centroid conserved exactly against Zenodo inputs",
+    "QC, missing-nucleus flags, EC/CM overlap review and ventricular marker gates checked",
+    "Family/fine subset, score, depth, reference-support and source-marker invariants checked for all assigned cells",
+    "Stratified accepted fine-label votes, margins, original-reference and individual-library agreement independently recomputed from published embeddings",
+    "Physical image bounds, figure existence and summary accounting checked",
+    "Kcnd2/Irx5 absent; no measured or imputed gene-expression columns added"
+  ],
+  "fine_vote_samples": 301,
+  "files": [
+    {
+      "file": "P0/DAPI_overview.png",
+      "bytes": 1734805,
+      "sha256": "928f8808b8dabb7fa205b96b1f1a64b40dcbb140e5e16f0858381dcd41959bcb"
+    },
+    {
+      "file": "P0/P0_boundary_zoom.pdf",
+      "bytes": 653061,
+      "sha256": "575be1734481507ae70afe4762540e2cfa4eb7027683260860ebee4044f5238e"
+    },
+    {
+      "file": "P0/P0_boundary_zoom.png",
+      "bytes": 2022288,
+      "sha256": "551fb25738cd5e9070f831d583c5382d254315dd0f55c6165ef42a5e05220ce8"
+    },
+    {
+      "file": "P0/P0_measured_marker_maps.pdf",
+      "bytes": 1580385,
+      "sha256": "35ff4c94fd0c42fa2ea153fd53043f32de0526c7f20751af7c30e7bdfea073cd"
+    },
+    {
+      "file": "P0/P0_measured_marker_maps.png",
+      "bytes": 5465555,
+      "sha256": "165ba58d3948432173abe3c3ce4fb799a0c34c23976fdfe4f75526741d8669b8"
+    },
+    {
+      "file": "P0/P0_spatial_candidate_maps.pdf",
+      "bytes": 1649575,
+      "sha256": "ce7b6935476efb11cf18dfd1466e4b06867a4f4ad4944891a9fd989e350714a2"
+    },
+    {
+      "file": "P0/P0_spatial_candidate_maps.png",
+      "bytes": 5344781,
+      "sha256": "7bcdfaa7e810f3b951a1c934ef15adb802da032de7df816b3e6b320f7b2111fd"
+    },
+    {
+      "file": "P0/P0_xenium_counts_and_candidate_mapping.h5ad",
+      "bytes": 24549714,
+      "sha256": "8092b0f56d69c64db37a9cf3c5a0435de491d54a0f74f624c6a08fbae60063e5"
+    },
+    {
+      "file": "P0/assay_aligned_family_heldout_metrics.tsv",
+      "bytes": 1205,
+      "sha256": "a8071a87ed74054cf9ead6dd7a68fdeb3f60e7046622addbadbc373aa2e05ef4"
+    },
+    {
+      "file": "P0/assay_aligned_family_recoverability.tsv",
+      "bytes": 552,
+      "sha256": "61597270373b060f0dbf86477cf176375f8472b645f642954d6c9eef56031163"
+    },
+    {
+      "file": "P0/assay_aligned_fine_group_heldout_metrics.tsv",
+      "bytes": 1682,
+      "sha256": "cade7c7dff87d423d741b1aca49bc96708a84fe55eba0f7e7c94e349f14df16f"
+    },
+    {
+      "file": "P0/assay_aligned_fine_group_recoverability.tsv",
+      "bytes": 715,
+      "sha256": "50c5d13c096a3fe4d0997be49da50bd7feaaeca3424648355bd0e474160d8ba8"
+    },
+    {
+      "file": "P0/assay_aligned_lineage_heldout_metrics.tsv",
+      "bytes": 1746,
+      "sha256": "d0d947fa5d536bfd6efe26bc743a9172d8d7626df414f58f8dcb68ab8a5fd270"
+    },
+    {
+      "file": "P0/assay_aligned_lineage_recoverability.tsv",
+      "bytes": 758,
+      "sha256": "f4ad9ecb636d12d48c50bbaa85d0359df7d3dda2a376c5a463633daecbe8892d"
+    },
+    {
+      "file": "P0/morphology_display.json",
+      "bytes": 693,
+      "sha256": "0072766123858f85b587561ea5bbc21210b5cb22f52f0682d13ee1e64b2245eb"
+    },
+    {
+      "file": "P0/reference_aligned_embeddings.npz",
+      "bytes": 4247732,
+      "sha256": "afe05eac8664e8ba1aea4f806f835e577c4658a740eb30089ef3852b8ab9c6ca"
+    },
+    {
+      "file": "P0/spatial_candidate_counts.tsv",
+      "bytes": 1219,
+      "sha256": "8d13c5b85a009d754d29a9ff7680ba6ef67dab6136e647ca1d261d31d4724387"
+    },
+    {
+      "file": "P0/spatial_candidates_and_measured_programs.tsv.gz",
+      "bytes": 6652376,
+      "sha256": "759928b3992c9e19ccf0d4ffeb14ac3271841260872890ee254233e797112275"
+    },
+    {
+      "file": "P0/spatial_summary.json",
+      "bytes": 491,
+      "sha256": "f1f2c1ec252036d868f829f005060f0a5360965b56511e574d45f16718317501"
+    },
+    {
+      "file": "P0/zoom_original_cell_boundary_vertices.tsv.gz",
+      "bytes": 451228,
+      "sha256": "b9d0a78dc650ed7a1370a2f91b2b17e5238cef19b9eb48f8f4722131cc703dc2"
+    },
+    {
+      "file": "P0/zoom_selection.json",
+      "bytes": 357,
+      "sha256": "e8bf62fcde3caef962d322a19ee7f139d81604fde21289ca43d220ae6e383d50"
+    },
+    {
+      "file": "P14/DAPI_overview.png",
+      "bytes": 1491124,
+      "sha256": "4a1f5749272579fd53c3429cd7b02821e30cd672407302f9e5032ffd5571a53b"
+    },
+    {
+      "file": "P14/P14_boundary_zoom.pdf",
+      "bytes": 434082,
+      "sha256": "35c5f13656e80858441d7863e6ebe2499645c3c7c4d239e043485173994af00e"
+    },
+    {
+      "file": "P14/P14_boundary_zoom.png",
+      "bytes": 1338461,
+      "sha256": "9e24ee633c5bba57dfc5c934e2be8176013d8653359f47d90a83c4c221510c43"
+    },
+    {
+      "file": "P14/P14_measured_marker_maps.pdf",
+      "bytes": 1877065,
+      "sha256": "1510f0339104e1d9995445b84d456bb718cd44f61a4441cf708229ecfe1c9a92"
+    },
+    {
+      "file": "P14/P14_measured_marker_maps.png",
+      "bytes": 6203699,
+      "sha256": "28dbc29891682f4b389db3c42021bbb776041f785cb346e02eabcb9412d7b124"
+    },
+    {
+      "file": "P14/P14_spatial_candidate_maps.pdf",
+      "bytes": 1398464,
+      "sha256": "686d94ccac9d0e59a41fbb16eddfb30f5e7e5d4360075ce857318b69d2fa5e2c"
+    },
+    {
+      "file": "P14/P14_spatial_candidate_maps.png",
+      "bytes": 5005412,
+      "sha256": "8cd2e2dfbb669348e564baf294916ebec7f95824895e8fe7f77aea22bd94a813"
+    },
+    {
+      "file": "P14/P14_xenium_counts_and_candidate_mapping.h5ad",
+      "bytes": 62479565,
+      "sha256": "90b7de1017b0ff254609c989fa2ac19c050a6d86526d6b77431f4ee9ccf7bf3e"
+    },
+    {
+      "file": "P14/assay_aligned_family_heldout_metrics.tsv",
+      "bytes": 1022,
+      "sha256": "f38303b2b938c70412cae167b4cf49e4c7d279726349b8c80ee3321804399f67"
+    },
+    {
+      "file": "P14/assay_aligned_family_recoverability.tsv",
+      "bytes": 483,
+      "sha256": "df85ace1f2977ef24fe4f9e2fc336dcb09f7eea172e43483c01cdcf3010a2e1a"
+    },
+    {
+      "file": "P14/assay_aligned_fine_group_heldout_metrics.tsv",
+      "bytes": 1119,
+      "sha256": "9d163d65af8d1aa36ff41e4e064e08f04ccef7ccf74a6af86d23409e2d48557d"
+    },
+    {
+      "file": "P14/assay_aligned_fine_group_recoverability.tsv",
+      "bytes": 482,
+      "sha256": "b73f73145876b41ebde7b8bb124f3a542cc645f4a9c4ae992b56092b5e96e146"
+    },
+    {
+      "file": "P14/assay_aligned_lineage_heldout_metrics.tsv",
+      "bytes": 1837,
+      "sha256": "61018426f9d7a067d5ac3d172afd9893861d9371a21bfe8ebe64110a78c65bad"
+    },
+    {
+      "file": "P14/assay_aligned_lineage_recoverability.tsv",
+      "bytes": 747,
+      "sha256": "3ff0842a405ddd9834a1632b1a243e37d20150b868fb943952361a14411d1e09"
+    },
+    {
+      "file": "P14/morphology_display.json",
+      "bytes": 706,
+      "sha256": "5cebcf535bba5844dd20dcd56ece2ec5de8f85dcb287fad0bf263e9031bbb494"
+    },
+    {
+      "file": "P14/reference_aligned_embeddings.npz",
+      "bytes": 4860396,
+      "sha256": "a6d7dad48f53dc804e8ddde3c3a5c50edb57efa8ffaf9c247ce8db04e25a1a60"
+    },
+    {
+      "file": "P14/spatial_candidate_counts.tsv",
+      "bytes": 1082,
+      "sha256": "2aae9d2d3988dd9fb07dbb088ca6e4c38d93cfd7fb4d6f839b24ebe2561892b7"
+    },
+    {
+      "file": "P14/spatial_candidates_and_measured_programs.tsv.gz",
+      "bytes": 16575430,
+      "sha256": "fd6a203bde8adb56f1d1e1f10e4f79b473417110ffcc5a280366e1fbf6567c84"
+    },
+    {
+      "file": "P14/spatial_summary.json",
+      "bytes": 496,
+      "sha256": "f1818f6e50ffc42e2b271584b7c229732b59d69c6aa293c7f4a6c86aede38771"
+    },
+    {
+      "file": "P14/zoom_original_cell_boundary_vertices.tsv.gz",
+      "bytes": 283845,
+      "sha256": "1b129956ca75696e3d16713419cb24fe99f87aa7fee28af39d3532c18f943c72"
+    },
+    {
+      "file": "P14/zoom_selection.json",
+      "bytes": 358,
+      "sha256": "f16cb6d4f578b8ed8c4255021b009dca0592462a6e63aaebff6d73147465af8c"
+    },
+    {
+      "file": "P21/DAPI_overview.png",
+      "bytes": 1788950,
+      "sha256": "9064443832899f60311d2b2a162af6e1d56a24a0ad6eda1774a652bb989f4ad9"
+    },
+    {
+      "file": "P21/P21_boundary_zoom.pdf",
+      "bytes": 514367,
+      "sha256": "320a9c66354456b5d98f233cf917d315be2d8b3530a5cd3b96c37ebcb54b83e0"
+    },
+    {
+      "file": "P21/P21_boundary_zoom.png",
+      "bytes": 1630993,
+      "sha256": "64f6e8315520077c0de167ead5bf2255f2b2aeee5c4216c91823ccd0fcee3df6"
+    },
+    {
+      "file": "P21/P21_measured_marker_maps.pdf",
+      "bytes": 2198988,
+      "sha256": "795aff51844078f8e7ad1525b456519f8f1fb371523b7912d06cb25e5708fd0f"
+    },
+    {
+      "file": "P21/P21_measured_marker_maps.png",
+      "bytes": 7320644,
+      "sha256": "e39524632a1bbbc50f5eb49d4d4510adef1a2a6210a1ed38c42c9aa8281d9a41"
+    },
+    {
+      "file": "P21/P21_spatial_candidate_maps.pdf",
+      "bytes": 1935498,
+      "sha256": "b238830992f5c6880ebc1eb5d341f7b3836d05fbf77266983044a7837c1371e2"
+    },
+    {
+      "file": "P21/P21_spatial_candidate_maps.png",
+      "bytes": 6850877,
+      "sha256": "84694c9942278f59d7806567a640a53c72c51d60caf821194b0971e255bd89ff"
+    },
+    {
+      "file": "P21/P21_xenium_counts_and_candidate_mapping.h5ad",
+      "bytes": 76019080,
+      "sha256": "625a401e7be403492702d035a29cb86fbc757aee93c1c5201992eb914403c425"
+    },
+    {
+      "file": "P21/assay_aligned_family_heldout_metrics.tsv",
+      "bytes": 1006,
+      "sha256": "c425631a96a28fc8525b502cdfbc5281cfb43cca45682f349bf80ca63fb4f991"
+    },
+    {
+      "file": "P21/assay_aligned_family_recoverability.tsv",
+      "bytes": 463,
+      "sha256": "cbc5dfe75fd05c17eeac1fbae676dd2b0ac473f4f5b5e118466029d1262bf1e1"
+    },
+    {
+      "file": "P21/assay_aligned_fine_group_heldout_metrics.tsv",
+      "bytes": 1334,
+      "sha256": "da55af559cf00f7794f2a344e63607d8a95d7d4ca6a56fd8c6e2073d47d0fc65"
+    },
+    {
+      "file": "P21/assay_aligned_fine_group_recoverability.tsv",
+      "bytes": 556,
+      "sha256": "aed5d3c3a786010065733d77f37a7901801ce14a7a07cc3779499c97f7c741f4"
+    },
+    {
+      "file": "P21/assay_aligned_lineage_heldout_metrics.tsv",
+      "bytes": 1758,
+      "sha256": "411f7902ee00d3ce9e0b7e3d127f8460cad6ce3d886a2a360ed36fa2bf781812"
+    },
+    {
+      "file": "P21/assay_aligned_lineage_recoverability.tsv",
+      "bytes": 729,
+      "sha256": "88af132b3270527aa7777ae4dde8679bd19916404c037899d3a28d08b9d501a2"
+    },
+    {
+      "file": "P21/morphology_display.json",
+      "bytes": 706,
+      "sha256": "1f402c13407313582e450bbe3e15f09ff138a4c07901959496735c46e97b98f7"
+    },
+    {
+      "file": "P21/reference_aligned_embeddings.npz",
+      "bytes": 4146123,
+      "sha256": "fdd524e1a8ae011edfeb29950dc3b30df3436fbcb8ef174e74640103f9c04280"
+    },
+    {
+      "file": "P21/spatial_candidate_counts.tsv",
+      "bytes": 1097,
+      "sha256": "09b2e84ed28edacf306a2341b104829bfb2d38f5159f5ecfe8f28b3e6559f2a7"
+    },
+    {
+      "file": "P21/spatial_candidates_and_measured_programs.tsv.gz",
+      "bytes": 20460647,
+      "sha256": "b0274a88b737d149f4c4ec6967a86f828db964b30e594804f756a36e857bd6bd"
+    },
+    {
+      "file": "P21/spatial_summary.json",
+      "bytes": 495,
+      "sha256": "05af356ebdfb6061b2288cfc9c7a1110d322ea16af5b341efd0d277fe6001c20"
+    },
+    {
+      "file": "P21/zoom_original_cell_boundary_vertices.tsv.gz",
+      "bytes": 391683,
+      "sha256": "c572ab278adbc925122acb46dc8231278ac185c217bf1f2fb3e1aaad5fa31bde"
+    },
+    {
+      "file": "P21/zoom_selection.json",
+      "bytes": 349,
+      "sha256": "9675dda2c72a1784cca9f1b168d000813f9929ed1f7fb0c965eac565c21e6847"
+    },
+    {
+      "file": "P7/DAPI_overview.png",
+      "bytes": 3598562,
+      "sha256": "b9eb874ab0c4cf27f5c2651a98c83fd59c3c817f7f1ab028d0280ac8d22a3f7a"
+    },
+    {
+      "file": "P7/P7_boundary_zoom.pdf",
+      "bytes": 658236,
+      "sha256": "9935dd1f012dc8e8fb14d8256921c3d01848d5a34a1ef6ca82fb0c096134d055"
+    },
+    {
+      "file": "P7/P7_boundary_zoom.png",
+      "bytes": 2083055,
+      "sha256": "4a4967eb45953d9ef6933ae777fc022ae203abeef0804508a3c7958215e6149e"
+    },
+    {
+      "file": "P7/P7_measured_marker_maps.pdf",
+      "bytes": 1539194,
+      "sha256": "59dc4953ddbf4e2a47bc3690eab875e534bacc055f2aa4ace760741c3b100535"
+    },
+    {
+      "file": "P7/P7_measured_marker_maps.png",
+      "bytes": 5502061,
+      "sha256": "9fdc9e0f6e2b75affe2180c01efcf25156a64c21588c2ea6d6c88becfef43bfb"
+    },
+    {
+      "file": "P7/P7_spatial_candidate_maps.pdf",
+      "bytes": 1704305,
+      "sha256": "efb8a138593bfaaaa01e7b9d6e963e68125a81708a6f93888d52041868b59210"
+    },
+    {
+      "file": "P7/P7_spatial_candidate_maps.png",
+      "bytes": 5912421,
+      "sha256": "f430f5baf37c659012f90a2aa2168ae189a9e53d70f2c262d02989cc9dc6ae24"
+    },
+    {
+      "file": "P7/P7_xenium_counts_and_candidate_mapping.h5ad",
+      "bytes": 52506932,
+      "sha256": "f46cf9fdb12697a2d7e55c4394f034f67f525a871baac6b94314b6ddef336fce"
+    },
+    {
+      "file": "P7/assay_aligned_family_heldout_metrics.tsv",
+      "bytes": 1440,
+      "sha256": "5675c37a7255d94eeaa98fcef10eeca4f4d7b3d51269083cc86a2d0c3d118b0c"
+    },
+    {
+      "file": "P7/assay_aligned_family_recoverability.tsv",
+      "bytes": 645,
+      "sha256": "28bdc617aad14099275175ae6fca09a132d86cab4611acaec7795fe8320f7b1d"
+    },
+    {
+      "file": "P7/assay_aligned_fine_group_heldout_metrics.tsv",
+      "bytes": 1702,
+      "sha256": "3e9322be22ca96bbeb704ce67965a01631c956fb4340ffbd0e293dfee1f93839"
+    },
+    {
+      "file": "P7/assay_aligned_fine_group_recoverability.tsv",
+      "bytes": 685,
+      "sha256": "6695bc34264dece4a3f1bfa2f47c4cc8469b160b3d8995f7f9f7351ffcd142d3"
+    },
+    {
+      "file": "P7/assay_aligned_lineage_heldout_metrics.tsv",
+      "bytes": 1806,
+      "sha256": "2ecc77b10d9b5258b0346323232db7c42a761559c902678dc0501dcf3acb8501"
+    },
+    {
+      "file": "P7/assay_aligned_lineage_recoverability.tsv",
+      "bytes": 749,
+      "sha256": "601b7c2b6e1012ae69fe2c8a5ddc3a65c3f3746f787ce3760fd9e80a77f08938"
+    },
+    {
+      "file": "P7/morphology_display.json",
+      "bytes": 695,
+      "sha256": "7bf48b176ba8ea78339cca1316c172531628e5b625c1dfd218133e60dd7bda51"
+    },
+    {
+      "file": "P7/reference_aligned_embeddings.npz",
+      "bytes": 4861829,
+      "sha256": "37a7df7386f486bf9c6eb087d66f40a528bfd5fb12b6d2ebd3cefa437d768bee"
+    },
+    {
+      "file": "P7/spatial_candidate_counts.tsv",
+      "bytes": 1110,
+      "sha256": "c023ed0cdd45be3ef537f9561554282fda1cafc069ed93d00969111f614f7428"
+    },
+    {
+      "file": "P7/spatial_candidates_and_measured_programs.tsv.gz",
+      "bytes": 14368920,
+      "sha256": "a3ced534e4bc07687ba6cb9b39da456858b76b95b583d3664ff618f4213e1332"
+    },
+    {
+      "file": "P7/spatial_summary.json",
+      "bytes": 494,
+      "sha256": "369858147fd35e979abe8861b50e1b62ef808506316fcf97c79d3d6e513f16fa"
+    },
+    {
+      "file": "P7/zoom_original_cell_boundary_vertices.tsv.gz",
+      "bytes": 470064,
+      "sha256": "a71ed08017707160f891ac6b9e664be0dd05c40d5688c4a9aee024107d7cdb1b"
+    },
+    {
+      "file": "P7/zoom_selection.json",
+      "bytes": 346,
+      "sha256": "3e4f52800a912b473871d6af0b1e320d2f94f0daaa6fac201f02ecbbb8edd724"
+    },
+    {
+      "file": "README.md",
+      "bytes": 14457,
+      "sha256": "e205454c6a2779bf1397c3b582bb6d7bc00c821bc150a724aad40b6e5e56e851"
+    },
+    {
+      "file": "candidate_landmark_distance_summary.tsv",
+      "bytes": 2402,
+      "sha256": "0d22d746cee7375afe026934ddd9818eab4c48a2d165b76f295a36863ae2457f"
+    },
+    {
+      "file": "fine_group_spatial_mapping_coverage.tsv",
+      "bytes": 5838,
+      "sha256": "000b7a43c50f44712d92a4904ff50f976f106adbf54339e85c494139c78f2a96"
+    },
+    {
+      "file": "landmark_depth_area_matched.pdf",
+      "bytes": 22442,
+      "sha256": "4c5be354225b24027e1fb6f9250d3469d0519f61f447880045ede6e85a677d29"
+    },
+    {
+      "file": "landmark_depth_area_matched.png",
+      "bytes": 178459,
+      "sha256": "08c14f1aee1600da207a32a5d60abee43848e3c23d061de4c27e4e574ec34e62"
+    },
+    {
+      "file": "landmark_depth_area_matched_summary.tsv",
+      "bytes": 2205,
+      "sha256": "05e9e3a2ade9061478b6d53d7a8ec7011be742d55eeb9141eae5015c2c5038ba"
+    },
+    {
+      "file": "landmark_matched_control_pairs.tsv.gz",
+      "bytes": 5200764,
+      "sha256": "844bb519fa950970e9a33f89734bb37684ab5f24dce25e03d30640af17feb7cf"
+    },
+    {
+      "file": "landmark_matching_methods.json",
+      "bytes": 733,
+      "sha256": "52fe6e13252283263d9a09d4f739bb17e4efad4e3b02fd8ec1531c7046e738a2"
+    },
+    {
+      "file": "landmark_validation.json",
+      "bytes": 826,
+      "sha256": "4166f13327346003fd7f5da4d259344aa16927ccf0106ebeda7387bc286d57ae"
+    },
+    {
+      "file": "mapping_methods.json",
+      "bytes": 2927,
+      "sha256": "5eabb7a4d3c06a8427d0574f1877069653bfc9049be9b269654250deed8cb60d"
+    },
+    {
+      "file": "measured_gene_profiles_by_mapped_family.tsv",
+      "bytes": 40334,
+      "sha256": "90dd26a8b0e6f7b8c0f196abf58dc60294cad94f8e3d8bc76ed8df3afa1825e4"
+    },
+    {
+      "file": "measured_marker_color_scales.json",
+      "bytes": 229,
+      "sha256": "9634caf8e9c9f7313a9623f42a6c2732e1e7620d2d9b3f1cf0c7021a801f4ea4"
+    },
+    {
+      "file": "measured_program_definitions.json",
+      "bytes": 1629,
+      "sha256": "cd763b499c99f923bc4cb3e801304c9a00053e176eb20f302f140cc2b0c46fa5"
+    },
+    {
+      "file": "panel_feature_mapping.tsv",
+      "bytes": 37667,
+      "sha256": "5c9e7c70d15cc5816399b3d3b262fca292973722c5c159afe520800447cbe82b"
+    },
+    {
+      "file": "primary_spatial_methods.json",
+      "bytes": 5404,
+      "sha256": "91f42fc36aaf2fb53a1dd22ffe207a5fb7d6a413d137e6ab2465966b12f31786"
+    },
+    {
+      "file": "program_panel_coverage.tsv",
+      "bytes": 1322,
+      "sha256": "5c0c3bfea2f7e73c25f7f7be988f9c7f3b30f7e8c89a37c5e21453faf844712d"
+    },
+    {
+      "file": "reference_electrical_profiles_NOT_spatial_measurements.tsv",
+      "bytes": 8171,
+      "sha256": "7d11aeff03d29467622dbb071df91065da3f3a1c45f610642b310bef5177f0a7"
+    },
+    {
+      "file": "reference_group_catalog.tsv",
+      "bytes": 17477,
+      "sha256": "3795aa0da593e200f6685e297415d17bd1ca509638e292f0ff375e29fe7927be"
+    },
+    {
+      "file": "reference_lineage_counts.tsv",
+      "bytes": 841,
+      "sha256": "29c865c43e89240a1e4d64ee90e73b7d8513f389569eb6714fabc18e96840142"
+    },
+    {
+      "file": "reference_metadata.tsv.gz",
+      "bytes": 527362,
+      "sha256": "269d0ed08ce9e7862aa4affe73912bf49d64a9378f84076083e8ae6a5b680722"
+    },
+    {
+      "file": "reference_preparation.json",
+      "bytes": 1138,
+      "sha256": "2138ff1a53e4bca6f39a39a0e52994e9d341b362650d3b909a6138f8c7108549"
+    },
+    {
+      "file": "reference_shared_panel_counts.npz",
+      "bytes": 37357202,
+      "sha256": "6615efea98c8d1f63f4819d620a8af095c93e2187ffed8c93b8520729b82ab64"
+    },
+    {
+      "file": "section_summary.tsv",
+      "bytes": 625,
+      "sha256": "82807521fce82ca0a34ef76d9f3b901b9d6b4b5bfbea3371ab5a399df65ae83d"
+    },
+    {
+      "file": "sources/author_SuppTable2_cell_counts.tsv",
+      "bytes": 3689,
+      "sha256": "fd1e4d746860cebb8856bc147d469e48aeec30c12a555802308beebf8192317c"
+    },
+    {
+      "file": "sources/input_file_checksums.json",
+      "bytes": 4018,
+      "sha256": "66167b4efc1dabb3480439d612833de5f8933b2ac7ec4727ce58b70f6404e8a6"
+    },
+    {
+      "file": "sources/provenance_and_access_limits.json",
+      "bytes": 2620,
+      "sha256": "007d33746e4f28f85aee25ab6f09c1a5e90275cb40f06a874b2b5a37be729067"
+    },
+    {
+      "file": "subtype_marker_panel_coverage.tsv",
+      "bytes": 1113,
+      "sha256": "16a28f57f787499ddaa425a4a19707b3a861ad31b470f804694e674c2724f7a9"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P0/family_corrected_reference_coefficients.npz",
+      "bytes": 15630,
+      "sha256": "b89a64a05ac860bb73f3ec21cd5e59fedfc0a5b01117aa5d621d935626d08a84"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P0/family_heldout_confusion.tsv",
+      "bytes": 9859,
+      "sha256": "0b5f691d7e0254705c30e585dd29d01e58fa3419f35c09e31dbd346cdd56c09f"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P0/family_heldout_metrics.tsv",
+      "bytes": 2797,
+      "sha256": "87c1a3996ee99299012d70a13e4f49acf2e222eaed1ac4a61ca530534178e2d7"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P0/family_original_reference_coefficients.npz",
+      "bytes": 15537,
+      "sha256": "df84f7970172b3b537f8c61b17036fdd77d7dae0334e82abd85d61935ef1fef0"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P0/family_panel_recoverability.tsv",
+      "bytes": 523,
+      "sha256": "adc5d406de8a7649e228a66fb38151dbfa89af8f5a332f3a63a6096969804ec8"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P0/fine_group_corrected_reference_coefficients.npz",
+      "bytes": 24348,
+      "sha256": "6f19f70d4abebd5a9df44fb2ee6458ad0405de86bf1e4bc98041d21960201527"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P0/fine_group_heldout_confusion.tsv",
+      "bytes": 17945,
+      "sha256": "1626f8b8be5d5e998ee080c2a41e4c83f0a29e4a4697c92bfae454ce4e89ca06"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P0/fine_group_heldout_metrics.tsv",
+      "bytes": 4147,
+      "sha256": "913c4246a3d6827a807f3e7c2e768d113e34df5e9f9ea555eb13efcddeb92f14"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P0/fine_group_original_reference_coefficients.npz",
+      "bytes": 24180,
+      "sha256": "84a5b5517c47114f599863ccc3f2ea44ce18b1e9d79d58550b0aa1be71562b43"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P0/fine_group_panel_recoverability.tsv",
+      "bytes": 957,
+      "sha256": "1809b5de1bbbf98c7e55cdccd831fa8651b323bec0db4e0f2af16f2d4c678178"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P0/lineage_corrected_reference_coefficients.npz",
+      "bytes": 27340,
+      "sha256": "4445d04f8da01a984b0a197925a7db1ff06c05f2cfb4ca54d445d1c79464f0e3"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P0/lineage_heldout_confusion.tsv",
+      "bytes": 25476,
+      "sha256": "dc2c120d350925da739f06527559d236de14c7492e25a2b5bc77b4bdfd025171"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P0/lineage_heldout_metrics.tsv",
+      "bytes": 4361,
+      "sha256": "069a45febc96486fb9cd21a8ba930fa2064c0c32b2f092bfc7a7957bfb2084e0"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P0/lineage_original_reference_coefficients.npz",
+      "bytes": 27337,
+      "sha256": "80f558f4f2bbf29dfbd1e22dc45d954ba0f6f31986003b8f7e51652d950436e7"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P0/lineage_panel_recoverability.tsv",
+      "bytes": 775,
+      "sha256": "26c09d9b859c97d2a159b299cd904af78e6d13580d202e07f5c6d902a07bb77e"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P0/mapping_counts.tsv",
+      "bytes": 728,
+      "sha256": "096061133f41ed79e921688b77a5c9351e3759d102e84edfaf6b5e67929aa047"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P0/section_summary.json",
+      "bytes": 431,
+      "sha256": "b9ed34b248fc7379cd4d49828e4e7d027e84ce11b148cbed67c88bdd5abbfea3"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P14/family_corrected_reference_coefficients.npz",
+      "bytes": 12749,
+      "sha256": "04d16756a86c94f9cb54c5fed9a7083144db42f062f1ad55837a5bc2bea520c5"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P14/family_heldout_confusion.tsv",
+      "bytes": 6680,
+      "sha256": "2820105fbb62cd495e8c3bd1404a6b6327b42f74a7ff5c2f500463be67b2c6c9"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P14/family_heldout_metrics.tsv",
+      "bytes": 2390,
+      "sha256": "68080e263499d96d0fee6ff47c6fdb8c900d7a1e4f842dd9eccf70ef9579290b"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P14/family_original_reference_coefficients.npz",
+      "bytes": 12657,
+      "sha256": "cac3695b1e0d6099296fe5c3e51aaaab0f556a7f0daf6792efe62e96c2cd9652"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P14/family_panel_recoverability.tsv",
+      "bytes": 489,
+      "sha256": "f314cb73db9e32826e4d3f33b6a803aeabbf97418451c4808db37ba56549ec8e"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P14/fine_group_corrected_reference_coefficients.npz",
+      "bytes": 15598,
+      "sha256": "405502eb99de4909263af0c61e0ba9f02eec826daea1d896043ff4ea65822ca7"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P14/fine_group_heldout_confusion.tsv",
+      "bytes": 7486,
+      "sha256": "a8b2e4277da9fbe5a24a3c03047463da232f7f1da64ad77fbbee64f84deed6fe"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P14/fine_group_heldout_metrics.tsv",
+      "bytes": 2647,
+      "sha256": "e61ed5e193369bf08c56fed19f0cfe15e092283b0c9555fb9a6ffa9d90db0d61"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P14/fine_group_original_reference_coefficients.npz",
+      "bytes": 15490,
+      "sha256": "5fccd9f8786f47cd7718c33f62ba1fad1e16f88c35cb807a5de9c3546e29764f"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P14/fine_group_panel_recoverability.tsv",
+      "bytes": 685,
+      "sha256": "b11d21ccac59faa1741ce44632f22cd8531f222870588be9b37092fb4e2a39b1"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P14/lineage_corrected_reference_coefficients.npz",
+      "bytes": 27349,
+      "sha256": "102418ecaaf62c88e31a7d893a4338d79deb75dd0677cef019017067ed1336b7"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P14/lineage_heldout_confusion.tsv",
+      "bytes": 26134,
+      "sha256": "043de2b9fc2507f116b641c278ecfdf0f5da005e95cd10e58f9e4e75bf9e25b2"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P14/lineage_heldout_metrics.tsv",
+      "bytes": 4493,
+      "sha256": "dba7fa58a968fee4a3956edfe02d5da6def8a70f409aedb8ed5d2f85a15a3f7f"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P14/lineage_original_reference_coefficients.npz",
+      "bytes": 27332,
+      "sha256": "962eaa4cda80a9b9fa254420f6a6db5a6127ab49cbc85ea998844d1b33029755"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P14/lineage_panel_recoverability.tsv",
+      "bytes": 822,
+      "sha256": "9991c3f37051be1c5dd37ea6182fe6399f0d794c2d822a44a3360226427e9a83"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P14/mapping_counts.tsv",
+      "bytes": 603,
+      "sha256": "6e8d838ad48a97dbc510e1b7371d01ea4b8354399304be48533284add69e6c5f"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P14/section_summary.json",
+      "bytes": 430,
+      "sha256": "df9d32366e0d86adbd88a844a0b7239755159f0de05b6a25ec330956c4d52ca7"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P21/family_corrected_reference_coefficients.npz",
+      "bytes": 12770,
+      "sha256": "bd6f77aaf3086aa635eb6c34d2e736e05a79c911b49eca37fda4602f6cf40daa"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P21/family_heldout_confusion.tsv",
+      "bytes": 6660,
+      "sha256": "3e1ee7edcc5b2416fc1a205175e599bd1770a189dd1e1efb4a15fc7639617ee4"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P21/family_heldout_metrics.tsv",
+      "bytes": 2368,
+      "sha256": "60b15cecabeba7a8b74acd5f98b838e2518312f927c4ca7a236365557377b2e9"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P21/family_original_reference_coefficients.npz",
+      "bytes": 12653,
+      "sha256": "c1fc7a05a18ed023c695f95c591e494c290bccd731cf413fc5778de2ef63510d"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P21/family_panel_recoverability.tsv",
+      "bytes": 489,
+      "sha256": "532added36346920135e0c1c2ea1910eba676753a65fdce00a559964eb8ea56e"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P21/fine_group_corrected_reference_coefficients.npz",
+      "bytes": 18625,
+      "sha256": "94fb6fbb977d39717f7645882a8b5ae51b9e4b62aff06207e83738526d1fa8d0"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P21/fine_group_heldout_confusion.tsv",
+      "bytes": 10698,
+      "sha256": "643f3aa1debb76c2da5b3c07fa2a411c3cdbc38188ec303b9aaa11a8e64e644b"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P21/fine_group_heldout_metrics.tsv",
+      "bytes": 3203,
+      "sha256": "1cf36113a35471e3b3d8ce1e86a98ad20c9d62b9de15f53fcdb243d0346253ea"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P21/fine_group_original_reference_coefficients.npz",
+      "bytes": 18461,
+      "sha256": "65963030226073779c7e85e26c23acfa45e69961b42170b9cda51b2fe5612ecb"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P21/fine_group_panel_recoverability.tsv",
+      "bytes": 770,
+      "sha256": "9e0f11ae6a14659210071cc927e64558955839d36974c8a0b7d325656dca54fd"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P21/lineage_corrected_reference_coefficients.npz",
+      "bytes": 27364,
+      "sha256": "d0647b845ce37d5aad33b914ef5c2375d30cfaf53b7fc9baa5a61c09fb723ed4"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P21/lineage_heldout_confusion.tsv",
+      "bytes": 26128,
+      "sha256": "8b6a186369adebf68bfe05fbfb7083b64c4374aa42116f4e7bc6ce0a4264c6b2"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P21/lineage_heldout_metrics.tsv",
+      "bytes": 4449,
+      "sha256": "e874b37f5c4d117ed199d6b827741d8ea81f2d613c0098f0d19d7725d5c47fa1"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P21/lineage_original_reference_coefficients.npz",
+      "bytes": 27352,
+      "sha256": "79b90cd943977f5da1771f7bf9b7dc1d28f2a81472ae5ccbf6ff3b78b5d11044"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P21/lineage_panel_recoverability.tsv",
+      "bytes": 775,
+      "sha256": "69d7d95f409ac6cfa078e5423fe7b0ff99e9d1c0edb11e7af09366ee2fd06f64"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P21/mapping_counts.tsv",
+      "bytes": 578,
+      "sha256": "307a58874e63bbb2b706c64f0bdba41d4b2c2ceccdcc8c70e69c25b1760329bc"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P21/section_summary.json",
+      "bytes": 433,
+      "sha256": "d1e6ccc9520f4c60e03ef924e51c2f9f7e84c6bc885457d638cf8fba6d9d691f"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P7/family_corrected_reference_coefficients.npz",
+      "bytes": 18578,
+      "sha256": "db32fa5a50c2ad663150a38d8d67d26426c000385a4e44e0bbadc149b4096664"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P7/family_heldout_confusion.tsv",
+      "bytes": 14559,
+      "sha256": "021aef0c1bb5e1e8dea2c3ffcf0589213888550d56df3894a64a7bc2e2ec0527"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P7/family_heldout_metrics.tsv",
+      "bytes": 3400,
+      "sha256": "a1894fde80c05b637806020d0da3813cc81a3bec0bb5a1ea4be0e9678253153a"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P7/family_original_reference_coefficients.npz",
+      "bytes": 18512,
+      "sha256": "179f1d16516669fd5a19cc993a5555c475b3bdd831b6fa8735125b7ed2ab6780"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P7/family_panel_recoverability.tsv",
+      "bytes": 674,
+      "sha256": "a47c61236e733ad7f63cb7d69b4c9719be98f956e36b8eb453da14a0ca7d723b"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P7/fine_group_corrected_reference_coefficients.npz",
+      "bytes": 27183,
+      "sha256": "cc5faa9c66116fb4ab26d058e004e263bf73872f950a5168d943645468f930e0"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P7/fine_group_heldout_confusion.tsv",
+      "bytes": 22623,
+      "sha256": "ee0fa7d6058c3b7f26851c5468bc523af968ce53148dcd7d5e63990f082d281f"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P7/fine_group_heldout_metrics.tsv",
+      "bytes": 4537,
+      "sha256": "8a9c389bf529708f2d46b6005bc29c1fb3c4c39875ccd1062e27e8604a7bc4d0"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P7/fine_group_original_reference_coefficients.npz",
+      "bytes": 27103,
+      "sha256": "6d5c692187cb74a9dd62526c5559f9886596a08c93a9dd771529998bab9f32e5"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P7/fine_group_panel_recoverability.tsv",
+      "bytes": 1105,
+      "sha256": "04f46d31aa5c46049fa1962cd83d0af09273464c9e9ccb7ccd1d5a2afd57e178"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P7/lineage_corrected_reference_coefficients.npz",
+      "bytes": 27344,
+      "sha256": "136eb40ce40de04dc88e2e8a37a992f2625002325f44c388df9cfc30d32ff6e6"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P7/lineage_heldout_confusion.tsv",
+      "bytes": 25486,
+      "sha256": "e38e078affa864f68395a66f51c46ceefd5d2d92a50042dd609b3fc2f363e435"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P7/lineage_heldout_metrics.tsv",
+      "bytes": 4604,
+      "sha256": "b25146165d1ca8489dfa8d452dbba2804639122458451c4b13461dcd3386f4cd"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P7/lineage_original_reference_coefficients.npz",
+      "bytes": 27332,
+      "sha256": "c64945bef898a1a8d61f5538870121ced4e05f78f5de4ba00827a9f5ab9ad859"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P7/lineage_panel_recoverability.tsv",
+      "bytes": 805,
+      "sha256": "03c3482fa43c2ec504e9a6c261c929365eb173baace5f9b1eea30f3016a685e8"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P7/mapping_counts.tsv",
+      "bytes": 603,
+      "sha256": "88a63071d42d0105b50b65f78559cddc1a95e2db540ffdc8444cfbc2e8b0d0c0"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/P7/section_summary.json",
+      "bytes": 430,
+      "sha256": "65c06da3b442a9cd350df5ec01843d7d1c58816e239e7fc087bfce4905f71dec"
+    },
+    {
+      "file": "unintegrated_reference_transfer_diagnostics/README.md",
+      "bytes": 446,
+      "sha256": "cc3af1b185e445dbadf430c8fa4be68265ee76cedb9583d624dfa9ef2c6774bf"
+    },
+    {
+      "file": "validated_fine_vote_samples.tsv",
+      "bytes": 21767,
+      "sha256": "d0d7a042364c71551502bcef9a77ecd771d874687584d5b06a2809b197874afc"
+    },
+    {
+      "file": "xenium_ventricular_spatial_figures.pdf",
+      "bytes": 15857685,
+      "sha256": "f579b161a6c66215a7b96dab1e0f91057f1bba49d9316f1239e7a58317a37ca5"
+    }
+  ],
+  "scripts": [
+    {
+      "file": "analysis/acquire_xenium_context.py",
+      "sha256": "f525f97e82bd97e664b86a0ed11571687be9fd07ec1dd0390d324a34611534ef"
+    },
+    {
+      "file": "analysis/prepare_xenium_reference.py",
+      "sha256": "448353a776e0441199d2c4ec52999a98d7d02ea55b13b471d2de9fb6801be432"
+    },
+    {
+      "file": "analysis/map_xenium_ventricular.py",
+      "sha256": "5aaae3314cd97a1f14c5fb9e04e87803aeb027092fe7fe4245e05cdc653be841"
+    },
+    {
+      "file": "analysis/prepare_xenium_morphology.py",
+      "sha256": "9cda5b09d0e780f360eaa4f9dc46cd25dbff4bb81fccc8e53925459ee7bbd5f0"
+    },
+    {
+      "file": "analysis/align_xenium_assays.py",
+      "sha256": "c3b6ecf7616a341fcc8dc83bd09fe282c2815aa8c3c98935455da68f015459fb"
+    },
+    {
+      "file": "analysis/finalize_xenium_spatial.py",
+      "sha256": "539a030bb09a0de6dddea78210a907efa3babb7a4839f56ad0aa137d805d7049"
+    },
+    {
+      "file": "analysis/plot_xenium_ventricular.py",
+      "sha256": "6ea019f3d6b0f9194aef2a8d077861b65c68100ca562973d8d415c1f49df3572"
+    },
+    {
+      "file": "analysis/check_xenium_landmark_matching.py",
+      "sha256": "d4296207dd1219bac992e9d9a0f3423437aa13634bc3fb17ab7a920f6a8f65fd"
+    },
+    {
+      "file": "analysis/validate_xenium_landmarks.py",
+      "sha256": "d264c691d043ae6fd79b5529ca1f62c61d0562c0207e8f908cefa1bae2029ab9"
+    },
+    {
+      "file": "analysis/validate_xenium_spatial.py",
+      "sha256": "5c3bbca52c9c5ae7f4f9cbb60e6b2ba9f8ceceeee274d1d8a779d7b158fdaebb"
+    }
+  ],
+  "landmark_matching_validation": {
+    "status": "passed",
+    "checks": [
+      {
+        "stage": "P0",
+        "matched_control_draws_checked": 38150,
+        "brute_force_distance_cells": 50,
+        "landmark_sets": 2
+      },
+      {
+        "stage": "P7",
+        "matched_control_draws_checked": 61415,
+        "brute_force_distance_cells": 50,
+        "landmark_sets": 2
+      },
+      {
+        "stage": "P14",
+        "matched_control_draws_checked": 72735,
+        "brute_force_distance_cells": 50,
+        "landmark_sets": 2
+      },
+      {
+        "stage": "P21",
+        "matched_control_draws_checked": 94970,
+        "brute_force_distance_cells": 50,
+        "landmark_sets": 2
+      }
+    ],
+    "total_matched_control_draws": 267270,
+    "notes": "Control draws are with replacement and are not biological replicates. These are numerical checks, not independent spatial/functional verification."
+  }
+}

@@ -1,0 +1,15 @@
+stage	level	label	segmented_cells
+P7	mapped_lineage	Endothelial	39031
+P7	mapped_lineage	Unresolved cell identity	25962
+P7	mapped_lineage	Ventricular-enriched CM	11117
+P7	mapped_lineage	Fibroblast	9202
+P7	mapped_lineage	Immune	7567
+P7	mapped_lineage	Pericyte	2360
+P7	mapped_lineage	Low-information/QC flag	1579
+P7	mapped_lineage	Smooth muscle	1545
+P7	mapped_lineage	Epicardial	1066
+P7	mapped_family	Not assigned ventricular CM	88312
+P7	mapped_family	Unresolved ventricular state	11066
+P7	mapped_family	Conduction-program candidate	51
+P7	mapped_fine_group	Not resolved	99379
+P7	mapped_fine_group	P7_M6	50

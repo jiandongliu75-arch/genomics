@@ -1,0 +1,14 @@
+{
+  "stage": "P14",
+  "source_segmented_cells": 117070,
+  "pass_expression_QC": 115807,
+  "pass_transfer_information": 115807,
+  "ventricular_CM_candidates": 9944,
+  "ventricular_family_assigned": 0,
+  "fine_group_assigned": 0,
+  "missing_nucleus_area_not_automatically_excluded": 13341,
+  "median_transcripts": 290.0,
+  "median_measured_genes": 93.0,
+  "CM_nonCM_marker_overlap_flag": 87,
+  "runtime_seconds": 25.09248574198864
+}

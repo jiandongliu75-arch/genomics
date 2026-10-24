@@ -1,0 +1,761 @@
+[
+  {
+    "key": "obs/.zattrs",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/.zattrs",
+    "bytes": 741,
+    "sha256": "7c12feddbe74f0f983f535bea645fb730211fc4201a497c125dd7f4a1e98e235",
+    "response_headers": {
+      "ETag": "\"bb65c0d29336cbf2f213faf91032cc61\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:29 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/_index/.zarray",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/_index/.zarray",
+    "bytes": 370,
+    "sha256": "bce841833771ef31e0ed1f73852e96ca72abe0010db549075405a54ebeee1aa7",
+    "response_headers": {
+      "ETag": "\"e848250ad3ba361b331c012feb991779\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:29 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/_index/0",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/_index/0",
+    "bytes": 150710,
+    "sha256": "71b7b1b62b5d8acf7be6fa72a2daa8c3affb3feac8f35d49a5a15af624b4ca94",
+    "response_headers": {
+      "ETag": "\"4f86a42e65916ebd615a3807d420c834\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/_index/1",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/_index/1",
+    "bytes": 150595,
+    "sha256": "ebb74ab94d51511627437b2567d0b0bda39bfef2772e7a158787a3578d4ba8e6",
+    "response_headers": {
+      "ETag": "\"1d4a25d4385b89a9668980fffd446e88\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/_index/2",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/_index/2",
+    "bytes": 150371,
+    "sha256": "ac3ac5ad5c8b4132d1b818b652457093c27fb710c943734824fde2cdee28d8c4",
+    "response_headers": {
+      "ETag": "\"79162ca87a4b75bd255c45402b893b5a\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/_index/3",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/_index/3",
+    "bytes": 152410,
+    "sha256": "fc7f572e8b6f52ccdbfd32ba34227c98da8279e6b9059bd521f676a5e5755c96",
+    "response_headers": {
+      "ETag": "\"9a27100d31870899c2af6efa948f4b0b\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/cell_id/.zattrs",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/cell_id/.zattrs",
+    "bytes": 72,
+    "sha256": "e742ffa0cc1702755c79af2411c3c7a92af81651ef1a008adada544e5f31b0cb",
+    "response_headers": {
+      "ETag": "\"c6759c37f5968bbe26a24623923e9002\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/cell_id/.zarray",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/cell_id/.zarray",
+    "bytes": 370,
+    "sha256": "bce841833771ef31e0ed1f73852e96ca72abe0010db549075405a54ebeee1aa7",
+    "response_headers": {
+      "ETag": "\"e848250ad3ba361b331c012feb991779\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/cell_id/0",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/cell_id/0",
+    "bytes": 277166,
+    "sha256": "6017443182132f41153d3d1726dfdd6a0484fde049f8a79a9c5b44ba61bc5bf1",
+    "response_headers": {
+      "ETag": "\"cc12cb2f9c265b663159d3517a2877f8\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/cell_id/1",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/cell_id/1",
+    "bytes": 277658,
+    "sha256": "d5472f3ca2b7269a877dc149ff5cf50a4bc1c9699fe77429ae0d28834c5d487f",
+    "response_headers": {
+      "ETag": "\"f14b3ffd14d0ddff8d05c353b9d4d0aa\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/cell_id/2",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/cell_id/2",
+    "bytes": 277232,
+    "sha256": "d4108a37738fa3ef776a21a1aa5b58a10a81d0a31d10de1117325f07d85e00f3",
+    "response_headers": {
+      "ETag": "\"04bd98b51ab4e97e64ff7632ae36b56c\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/cell_id/3",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/cell_id/3",
+    "bytes": 277602,
+    "sha256": "af9c250518a2f8f6689a9c57fe65ebbe7d1f9e27753f4d0f2883a1eac7390efb",
+    "response_headers": {
+      "ETag": "\"7416b27017e3bf8ba885ec593d9d8c4b\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/x_centroid/.zattrs",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/x_centroid/.zattrs",
+    "bytes": 65,
+    "sha256": "458b39608289d1597660a7287dfd6c2143214dcc5a4df85b44bc54ae1006525c",
+    "response_headers": {
+      "ETag": "\"a5993752ffd33ab722d89eb624a05434\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:31 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/x_centroid/.zarray",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/x_centroid/.zarray",
+    "bytes": 320,
+    "sha256": "8e00134f8d23efe4a466903403bdabd6da3e4f49d88a92b4dde2b516ee7aa31b",
+    "response_headers": {
+      "ETag": "\"3675a314635bd89f718841c08cb0ce6e\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:31 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/x_centroid/0",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/x_centroid/0",
+    "bytes": 112722,
+    "sha256": "2ec281e1ec544c1a67b31748c5f614fb708eb36c2ea62ee1548788edcbe1d268",
+    "response_headers": {
+      "ETag": "\"30a8fc68c48fe5ce406cc5f8ae44fdb6\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:31 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/x_centroid/1",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/x_centroid/1",
+    "bytes": 123779,
+    "sha256": "82708ab7409653ad9595b55fdc9b188e86d1aa62be364fbf69de9fd38af17d83",
+    "response_headers": {
+      "ETag": "\"e17f1a0908f188dece2d7e2b8f296dc2\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:31 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/x_centroid/2",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/x_centroid/2",
+    "bytes": 118739,
+    "sha256": "4581928fc181efb878da439963543d81cb93a3a2d9256e60d0257ec379254664",
+    "response_headers": {
+      "ETag": "\"a55852b94c04183a2397b577085c9d49\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:31 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/x_centroid/3",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/x_centroid/3",
+    "bytes": 110692,
+    "sha256": "c08c500f3b0c74c61b79db438a947a0231edf81057d76aa85848ec117d10db74",
+    "response_headers": {
+      "ETag": "\"e73cc06c6cf4fcf037672b7a96c627e4\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:31 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/y_centroid/.zattrs",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/y_centroid/.zattrs",
+    "bytes": 65,
+    "sha256": "458b39608289d1597660a7287dfd6c2143214dcc5a4df85b44bc54ae1006525c",
+    "response_headers": {
+      "ETag": "\"a5993752ffd33ab722d89eb624a05434\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:31 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/y_centroid/.zarray",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/y_centroid/.zarray",
+    "bytes": 320,
+    "sha256": "8e00134f8d23efe4a466903403bdabd6da3e4f49d88a92b4dde2b516ee7aa31b",
+    "response_headers": {
+      "ETag": "\"3675a314635bd89f718841c08cb0ce6e\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:31 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/y_centroid/0",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/y_centroid/0",
+    "bytes": 120975,
+    "sha256": "2b6ac08a0a5f91bad3c2652e2c2a768247aa1d5c49a219e38139b3c57e676f61",
+    "response_headers": {
+      "ETag": "\"dbe23a7821bcb1cb1fca6080ad086502\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:31 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/y_centroid/1",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/y_centroid/1",
+    "bytes": 120166,
+    "sha256": "dcb547b6643febeb781b162e8937ac838f17bd9bf59568a1663cd0b26989003d",
+    "response_headers": {
+      "ETag": "\"af794b6af6a0b8cc984f3f27bb298914\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:31 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/y_centroid/2",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/y_centroid/2",
+    "bytes": 121062,
+    "sha256": "a9210282b4c9e63f1c16b47851eeb65684771e568422ce1fe1a2522324ecc60d",
+    "response_headers": {
+      "ETag": "\"6adcdf1b6a43f2cdc8725cb88cee437e\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:31 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/y_centroid/3",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/y_centroid/3",
+    "bytes": 119352,
+    "sha256": "3eebd76dac38248b63e9780859216dc0c80916a914b54b6bf8a8850fefe9bf2e",
+    "response_headers": {
+      "ETag": "\"fd9d9defaac0a681464fb1ce79ba7cc1\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:31 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/transcript_counts/.zattrs",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/transcript_counts/.zattrs",
+    "bytes": 65,
+    "sha256": "458b39608289d1597660a7287dfd6c2143214dcc5a4df85b44bc54ae1006525c",
+    "response_headers": {
+      "ETag": "\"a5993752ffd33ab722d89eb624a05434\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:31 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/transcript_counts/.zarray",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/transcript_counts/.zarray",
+    "bytes": 318,
+    "sha256": "c07e68137ebd5b9cad7ad64a385dc2e562b9ce01b30261ca69cdc3aa91989ead",
+    "response_headers": {
+      "ETag": "\"a454acd260e663af356240f3410acdd9\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:31 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/transcript_counts/0",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/transcript_counts/0",
+    "bytes": 119034,
+    "sha256": "2ac94138fbcda70d3ecba8f26c71861d694128346f95e2ce66abf7f86128857f",
+    "response_headers": {
+      "ETag": "\"a920be23fcdd65be30c7552249c38383\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:31 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/transcript_counts/1",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/transcript_counts/1",
+    "bytes": 110367,
+    "sha256": "040426a54d9978f0319bd9605dadb5664ad3bf7f2bcb19cd542e903f58faa5c7",
+    "response_headers": {
+      "ETag": "\"7d474e7ee4901b50f2254a310de98d85\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:31 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/total_counts/.zattrs",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/total_counts/.zattrs",
+    "bytes": 65,
+    "sha256": "458b39608289d1597660a7287dfd6c2143214dcc5a4df85b44bc54ae1006525c",
+    "response_headers": {
+      "ETag": "\"a5993752ffd33ab722d89eb624a05434\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:31 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/total_counts/.zarray",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/total_counts/.zarray",
+    "bytes": 318,
+    "sha256": "c07e68137ebd5b9cad7ad64a385dc2e562b9ce01b30261ca69cdc3aa91989ead",
+    "response_headers": {
+      "ETag": "\"a454acd260e663af356240f3410acdd9\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:31 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/total_counts/0",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/total_counts/0",
+    "bytes": 119108,
+    "sha256": "522a1cb8ac5ec30db67ebfb7899caea18920ff89ebe39c7648c4af46e9fa2d5e",
+    "response_headers": {
+      "ETag": "\"c54bf4810f7f0799df2aaae0370dcae4\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:31 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/total_counts/1",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/total_counts/1",
+    "bytes": 110439,
+    "sha256": "1feffedd09c225fdc68d0b4ce61282460a7734736c75820bcf514416f0bea7e8",
+    "response_headers": {
+      "ETag": "\"e035037532821a6d9ec8caadb9eb6289\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:31 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/control_probe_counts/.zattrs",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/control_probe_counts/.zattrs",
+    "bytes": 65,
+    "sha256": "458b39608289d1597660a7287dfd6c2143214dcc5a4df85b44bc54ae1006525c",
+    "response_headers": {
+      "ETag": "\"a5993752ffd33ab722d89eb624a05434\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/control_probe_counts/.zarray",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/control_probe_counts/.zarray",
+    "bytes": 318,
+    "sha256": "c07e68137ebd5b9cad7ad64a385dc2e562b9ce01b30261ca69cdc3aa91989ead",
+    "response_headers": {
+      "ETag": "\"a454acd260e663af356240f3410acdd9\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/control_probe_counts/0",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/control_probe_counts/0",
+    "bytes": 19628,
+    "sha256": "d69fe3518fb68e4dc5bf201bf637dbbd7896234e1e8048a66ab2a5bfaa7ae48c",
+    "response_headers": {
+      "ETag": "\"d48b2aacd1fcc393102363ef1b44b2af\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/control_probe_counts/1",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/control_probe_counts/1",
+    "bytes": 15635,
+    "sha256": "5a919b8cc347176ef17649212f73c1d65765cb2392dce9a36dd4006298fc2439",
+    "response_headers": {
+      "ETag": "\"39a0e74ad843777cd079970cd6439c03\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/control_codeword_counts/.zattrs",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/control_codeword_counts/.zattrs",
+    "bytes": 65,
+    "sha256": "458b39608289d1597660a7287dfd6c2143214dcc5a4df85b44bc54ae1006525c",
+    "response_headers": {
+      "ETag": "\"a5993752ffd33ab722d89eb624a05434\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/control_codeword_counts/.zarray",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/control_codeword_counts/.zarray",
+    "bytes": 318,
+    "sha256": "c07e68137ebd5b9cad7ad64a385dc2e562b9ce01b30261ca69cdc3aa91989ead",
+    "response_headers": {
+      "ETag": "\"a454acd260e663af356240f3410acdd9\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/control_codeword_counts/0",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/control_codeword_counts/0",
+    "bytes": 9610,
+    "sha256": "b84220b80d5aeecbdadcddec4a5fdc043d9f36a26ad7498913367fb048b2f04e",
+    "response_headers": {
+      "ETag": "\"5417360f59942515fb35bd7e796f4076\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/control_codeword_counts/1",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/control_codeword_counts/1",
+    "bytes": 9857,
+    "sha256": "173e24231fb7e520ce0b613be40e3b752e7d61d0d36922dcdb148c5a53ad0bd9",
+    "response_headers": {
+      "ETag": "\"8a50fb7db7c49de6115be5a76742f17a\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/cell_area/.zattrs",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/cell_area/.zattrs",
+    "bytes": 65,
+    "sha256": "458b39608289d1597660a7287dfd6c2143214dcc5a4df85b44bc54ae1006525c",
+    "response_headers": {
+      "ETag": "\"a5993752ffd33ab722d89eb624a05434\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/cell_area/.zarray",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/cell_area/.zarray",
+    "bytes": 320,
+    "sha256": "8e00134f8d23efe4a466903403bdabd6da3e4f49d88a92b4dde2b516ee7aa31b",
+    "response_headers": {
+      "ETag": "\"3675a314635bd89f718841c08cb0ce6e\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/cell_area/0",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/cell_area/0",
+    "bytes": 205484,
+    "sha256": "d8482b9142236b717b3ec464d82b242cdcb1e387eed3531e337dcdc1f51be6ac",
+    "response_headers": {
+      "ETag": "\"3bb4d66b820512ddc2383f15faa42852\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/cell_area/1",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/cell_area/1",
+    "bytes": 205243,
+    "sha256": "b6c28a35028e8cd5bcd17fdc01f7817d7fd2d8b091577bef0d1c73afd30a22c4",
+    "response_headers": {
+      "ETag": "\"c2983726bb195c3395f95e6bf7ba83a6\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/cell_area/2",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/cell_area/2",
+    "bytes": 204062,
+    "sha256": "d11bffc9db94852f37991c66855d842c481135ee5a3111701e99e22b491ce491",
+    "response_headers": {
+      "ETag": "\"1362998013665848b5f5b1cc2b71be00\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/cell_area/3",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/cell_area/3",
+    "bytes": 204326,
+    "sha256": "8bd7401a38767f81739e6ad8690e40cc9d01055c60519e02d8c06216ef29662e",
+    "response_headers": {
+      "ETag": "\"1fb0c3087b2180c1a16131e8120af934\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/nucleus_area/.zattrs",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/nucleus_area/.zattrs",
+    "bytes": 65,
+    "sha256": "458b39608289d1597660a7287dfd6c2143214dcc5a4df85b44bc54ae1006525c",
+    "response_headers": {
+      "ETag": "\"a5993752ffd33ab722d89eb624a05434\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:31 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/nucleus_area/.zarray",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/nucleus_area/.zarray",
+    "bytes": 320,
+    "sha256": "8e00134f8d23efe4a466903403bdabd6da3e4f49d88a92b4dde2b516ee7aa31b",
+    "response_headers": {
+      "ETag": "\"3675a314635bd89f718841c08cb0ce6e\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:31 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/nucleus_area/0",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/nucleus_area/0",
+    "bytes": 210670,
+    "sha256": "614602529ab2edc0a3c312591b155164bbb476a142409a68e1bc9933826d849c",
+    "response_headers": {
+      "ETag": "\"13d4b6465c320de1c492ab04664376f8\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:31 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/nucleus_area/1",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/nucleus_area/1",
+    "bytes": 206119,
+    "sha256": "5f42015cd8b368773f515f5e5ac282a0eb014ed64ee2613fd7e3b89a82138d14",
+    "response_headers": {
+      "ETag": "\"2569f4093669e81c5b9a8413464323bb\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:31 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/nucleus_area/2",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/nucleus_area/2",
+    "bytes": 205258,
+    "sha256": "bcfc7b227f09e9b5c1c7fee99c9c0ae4de29e6dce7f288c71e2a2d09a2ea35e6",
+    "response_headers": {
+      "ETag": "\"dc9e7a2c808c468e507e0c9285e776d1\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:31 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/nucleus_area/3",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/nucleus_area/3",
+    "bytes": 205665,
+    "sha256": "06d7c6037974b97695a639edb88e90553ca1b8415bbf75ec5db287b6b697c2d6",
+    "response_headers": {
+      "ETag": "\"3c7be63767a9f5d62908ce06c660f412\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:31 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/cytoSPACE.final.anno/.zattrs",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/cytoSPACE.final.anno/.zattrs",
+    "bytes": 93,
+    "sha256": "d685125efaa66adadc05b85896cddbdf828e514cbfd3b81aacdb6c5c29dc3e0c",
+    "response_headers": {
+      "ETag": "\"ee9e2561ffa06a8a5b93ea6c0eff7377\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/cytoSPACE.final.anno/codes/.zarray",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/cytoSPACE.final.anno/codes/.zarray",
+    "bytes": 319,
+    "sha256": "dbe37fff697ec33f345cad49a8208d197aa4b53c21ebb13c848cec9b6b993f84",
+    "response_headers": {
+      "ETag": "\"ca6bdc23aa90cabb9309bad89579e30b\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/cytoSPACE.final.anno/codes/0",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/cytoSPACE.final.anno/codes/0",
+    "bytes": 115720,
+    "sha256": "49ae219421777ff904843fb9d0505996575ce927bde886d6d2408a18b4b86bfc",
+    "response_headers": {
+      "ETag": "\"f04970ef6bcdcb4b63d8f4cd34f3342e\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/cytoSPACE.final.anno/categories/.zarray",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/cytoSPACE.final.anno/categories/.zarray",
+    "bytes": 363,
+    "sha256": "606ff7e96632d9fa427bdf883bc720e85378504848161407530fb6e2b05321c4",
+    "response_headers": {
+      "ETag": "\"57d9dd3fade6a6683abc5d91723a1b54\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obs/cytoSPACE.final.anno/categories/0",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obs/cytoSPACE.final.anno/categories/0",
+    "bytes": 250,
+    "sha256": "df4afb5f982add9f893592c4291118bab6f92f199cebc2e422c48465da4bd7d7",
+    "response_headers": {
+      "ETag": "\"f61e40e7037830b1aeff25d46b109f88\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:30 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obsm/X_spatial/.zarray",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obsm/X_spatial/.zarray",
+    "bytes": 342,
+    "sha256": "eb5aeaf286ccc7dcd15b982eba4df895929cdffc839bcdc0f1e98053e09f5779",
+    "response_headers": {
+      "ETag": "\"e2adf720a90c3e28d98ab0da0b3690fd\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:32 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obsm/X_spatial/0.0",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obsm/X_spatial/0.0",
+    "bytes": 224618,
+    "sha256": "c6d249cbbf9b09ff3ae7395bfdec36056deb362ec12ffc9575e9523c41419291",
+    "response_headers": {
+      "ETag": "\"b10298ddf589884c78765cea7075e0c0\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:32 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obsm/X_spatial/0.1",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obsm/X_spatial/0.1",
+    "bytes": 231926,
+    "sha256": "941d34de27a56a6b091d176ccd1ac154f536ed85553cdde5bd5950e827ccb3be",
+    "response_headers": {
+      "ETag": "\"560a6803c3f359d8b3efdd7fa8151f2c\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:32 GMT",
+      "Content-Type": "application/x-troff-man"
+    }
+  },
+  {
+    "key": "obsm/X_spatial/1.0",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obsm/X_spatial/1.0",
+    "bytes": 230490,
+    "sha256": "cac77c6fea80a1e462b12cdfbbd7cb1a19a949d980cc73e3abfc15848108bcde",
+    "response_headers": {
+      "ETag": "\"985552283f7a53c86c1e1be8e9a0f3d9\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:32 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obsm/X_spatial/1.1",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obsm/X_spatial/1.1",
+    "bytes": 230762,
+    "sha256": "9cfe4def6f639ec37e3cdfa4ec62f3132354bdd53bcc8bd8bc45636bc7f5b250",
+    "response_headers": {
+      "ETag": "\"249d20fa0ef32a878376867faf5022a7\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:32 GMT",
+      "Content-Type": "application/x-troff-man"
+    }
+  },
+  {
+    "key": "obsm/X_spatial/2.0",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obsm/X_spatial/2.0",
+    "bytes": 227371,
+    "sha256": "d510b95e9954df568dadc576ee47f4bc6b2c4e33515ba07a16c7d48bc7d4fe9b",
+    "response_headers": {
+      "ETag": "\"35857b65c58a6c92b66058343af4e511\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:32 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obsm/X_spatial/2.1",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obsm/X_spatial/2.1",
+    "bytes": 231007,
+    "sha256": "13c3c6bc50d53a9ed238c128495d4e26c69d104268559a4329ba10e500207ac4",
+    "response_headers": {
+      "ETag": "\"dda764f24816c3d6bc87fe830e9382d2\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:32 GMT",
+      "Content-Type": "application/x-troff-man"
+    }
+  },
+  {
+    "key": "obsm/X_spatial/3.0",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obsm/X_spatial/3.0",
+    "bytes": 224592,
+    "sha256": "d83a6b8db9cb5f0cc762f1daf0c36cfc5cd88f25351d9889ac397d542eef5e22",
+    "response_headers": {
+      "ETag": "\"4eda6c41f3543f47a5e797d5a35ae6d3\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:32 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "obsm/X_spatial/3.1",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/obsm/X_spatial/3.1",
+    "bytes": 230198,
+    "sha256": "c0271b416b8dfba5bf2d79614c717e75702ca524d085d38998d83342e048fa24",
+    "response_headers": {
+      "ETag": "\"90aa24bec3415519e1290b5d52755618\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:32 GMT",
+      "Content-Type": "application/x-troff-man"
+    }
+  },
+  {
+    "key": "var/.zattrs",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/var/.zattrs",
+    "bytes": 184,
+    "sha256": "aee94b28e9909ffbe4665cc7dddb6ba771c0fe4d030a73f8c7ba989df0c00f35",
+    "response_headers": {
+      "ETag": "\"8daba7c9752027b0d0dce0e8fea2a3df\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:32 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "var/_index/.zarray",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/var/_index/.zarray",
+    "bytes": 367,
+    "sha256": "c1a5c00396c6a60179575a282aae16f3a63ad901690f1af048fbb3f5dfca4e79",
+    "response_headers": {
+      "ETag": "\"5b79c2eb3cab13b89149c57a949cc474\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:32 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  },
+  {
+    "key": "var/_index/0",
+    "url": "https://heart-atlas.s3.us-east-2.amazonaws.com/p21/heart-xenium-anndata.zarr/var/_index/0",
+    "bytes": 8448,
+    "sha256": "19a911791c42d23a8382434a19a6a903daf23202e568c391932df1f729c9bce7",
+    "response_headers": {
+      "ETag": "\"3eac3b0acf1f5c43f5965a5611c2afe9\"",
+      "Last-Modified": "Sat, 20 Jun 2026 04:12:32 GMT",
+      "Content-Type": "binary/octet-stream"
+    }
+  }
+]

@@ -1,0 +1,43 @@
+stage	variant	family	broad_FB_profiles	informative_profiles	supported_family_profiles	proposals	median_gene_molecules	mixed_marker_review_profiles
+P14	native	Postn-associated	9824	9824	0	0	192.0	0
+P14	native	Col8a1-associated	9824	9824	801	7418	192.0	0
+P14	native	Gfpt2-associated	9824	9824	524	1135	192.0	0
+P14	native	Lsamp-associated	9824	9824	18	1003	192.0	0
+P14	native	Kirrel3-associated	9824	9824	0	152	192.0	0
+P14	native	Unresolved fibroblast program	9824	9824	8481	116	192.0	0
+P14	nuclear_anchored	Postn-associated	9824	9667	0	0	231.0	261
+P14	nuclear_anchored	Col8a1-associated	9824	9667	831	7618	231.0	261
+P14	nuclear_anchored	Gfpt2-associated	9824	9667	371	937	231.0	261
+P14	nuclear_anchored	Lsamp-associated	9824	9667	19	961	231.0	261
+P14	nuclear_anchored	Kirrel3-associated	9824	9667	0	159	231.0	261
+P14	nuclear_anchored	Unresolved fibroblast program	9824	9667	8603	149	231.0	261
+P14	nuclear_only	Postn-associated	9824	9242	0	0	95.0	653
+P14	nuclear_only	Col8a1-associated	9824	9242	535	7596	95.0	653
+P14	nuclear_only	Gfpt2-associated	9824	9242	561	1210	95.0	653
+P14	nuclear_only	Lsamp-associated	9824	9242	11	831	95.0	653
+P14	nuclear_only	Kirrel3-associated	9824	9242	0	117	95.0	653
+P14	nuclear_only	Unresolved fibroblast program	9824	9242	8717	70	95.0	653
+P14	high_confidence	Postn-associated	9824	9554	0	0	159.0	435
+P14	high_confidence	Col8a1-associated	9824	9554	702	7546	159.0	435
+P14	high_confidence	Gfpt2-associated	9824	9554	498	1094	159.0	435
+P14	high_confidence	Lsamp-associated	9824	9554	14	947	159.0	435
+P14	high_confidence	Kirrel3-associated	9824	9554	0	133	159.0	435
+P14	high_confidence	Unresolved fibroblast program	9824	9554	8610	104	159.0	435
+P14	depth_matched	Postn-associated	9824	9550	0	0	159.0	319
+P14	depth_matched	Col8a1-associated	9824	9550	625	7729	159.0	319
+P14	depth_matched	Gfpt2-associated	9824	9550	360	959	159.0	319
+P14	depth_matched	Lsamp-associated	9824	9550	12	886	159.0	319
+P14	depth_matched	Kirrel3-associated	9824	9550	0	151	159.0	319
+P14	depth_matched	Unresolved fibroblast program	9824	9550	8827	99	159.0	319
+P14	nuclear_depth_matched	Postn-associated	9824	9174	0	0	95.0	263
+P14	nuclear_depth_matched	Col8a1-associated	9824	9174	414	7845	95.0	263
+P14	nuclear_depth_matched	Gfpt2-associated	9824	9174	391	1031	95.0	263
+P14	nuclear_depth_matched	Lsamp-associated	9824	9174	10	784	95.0	263
+P14	nuclear_depth_matched	Kirrel3-associated	9824	9174	0	108	95.0	263
+P14	nuclear_depth_matched	Unresolved fibroblast program	9824	9174	9009	56	95.0	263
+P14	cytoplasmic_only	Postn-associated	9824	8906	0	0	119.0	154
+P14	cytoplasmic_only	Col8a1-associated	9824	8906	317	8441	119.0	154
+P14	cytoplasmic_only	Gfpt2-associated	9824	8906	119	576	119.0	154
+P14	cytoplasmic_only	Lsamp-associated	9824	8906	6	621	119.0	154
+P14	cytoplasmic_only	Kirrel3-associated	9824	8906	0	108	119.0	154
+P14	cytoplasmic_only	Unresolved fibroblast program	9824	8906	9382	78	119.0	154

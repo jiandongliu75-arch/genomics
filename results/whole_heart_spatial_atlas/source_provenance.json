@@ -1,0 +1,42 @@
+[
+  {
+    "stage": "P0",
+    "cells": 47611,
+    "resolved_cells": 37066,
+    "genes": 403,
+    "count_sum": 11227803,
+    "source_sha256": "8092b0f56d69c64db37a9cf3c5a0435de491d54a0f74f624c6a08fbae60063e5",
+    "previous_annotations_sha256": "367fb9351d2e99fe85d9d8ccdc4bde8317fd3da2e8e61f74d011a8a4537a908b",
+    "DAPI_sha256": "928f8808b8dabb7fa205b96b1f1a64b40dcbb140e5e16f0858381dcd41959bcb"
+  },
+  {
+    "stage": "P7",
+    "cells": 99429,
+    "resolved_cells": 76818,
+    "genes": 403,
+    "count_sum": 28479592,
+    "source_sha256": "f46cf9fdb12697a2d7e55c4394f034f67f525a871baac6b94314b6ddef336fce",
+    "previous_annotations_sha256": "cf84982eac0e397582a6f4ac371df500e236a59b88303eb87d10c887af10c825",
+    "DAPI_sha256": "b9eb874ab0c4cf27f5c2651a98c83fd59c3c817f7f1ab028d0280ac8d22a3f7a"
+  },
+  {
+    "stage": "P14",
+    "cells": 117070,
+    "resolved_cells": 91212,
+    "genes": 403,
+    "count_sum": 41791618,
+    "source_sha256": "90b7de1017b0ff254609c989fa2ac19c050a6d86526d6b77431f4ee9ccf7bf3e",
+    "previous_annotations_sha256": "07de5e428d1b866eb1f709a952c307068b5517c536fd32cc1b1e0143ef9a0256",
+    "DAPI_sha256": "4a1f5749272579fd53c3429cd7b02821e30cd672407302f9e5032ffd5571a53b"
+  },
+  {
+    "stage": "P21",
+    "cells": 143944,
+    "resolved_cells": 108511,
+    "genes": 403,
+    "count_sum": 56096396,
+    "source_sha256": "625a401e7be403492702d035a29cb86fbc757aee93c1c5201992eb914403c425",
+    "previous_annotations_sha256": "dd4f33be43f368a4bcec2115e8a89bb5a54bf0e515f25002bb203f8b9e6f5841",
+    "DAPI_sha256": "9064443832899f60311d2b2a162af6e1d56a24a0ad6eda1774a652bb989f4ad9"
+  }
+]

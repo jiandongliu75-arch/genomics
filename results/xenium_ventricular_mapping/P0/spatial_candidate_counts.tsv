@@ -1,0 +1,25 @@
+stage	level	label	candidate_segments
+P0	spatial_lineage_candidate	Ventricular-enriched CM	21994
+P0	spatial_lineage_candidate	CM; chamber unresolved	8661
+P0	spatial_lineage_candidate	CM/EC program overlap; review	4825
+P0	spatial_lineage_candidate	Unresolved cell identity	4160
+P0	spatial_lineage_candidate	Endothelial	2471
+P0	spatial_lineage_candidate	Smooth muscle	1520
+P0	spatial_lineage_candidate	Low-information/QC flag	1411
+P0	spatial_lineage_candidate	Fibroblast	1088
+P0	spatial_lineage_candidate	Atrial-marker-enriched CM	946
+P0	spatial_lineage_candidate	Epicardial	232
+P0	spatial_lineage_candidate	Immune	170
+P0	spatial_lineage_candidate	Pericyte	133
+P0	spatial_mapped_family	Not assigned ventricular CM	25617
+P0	spatial_mapped_family	Unresolved ventricular state	10498
+P0	spatial_mapped_family	Cycling-associated	7036
+P0	spatial_mapped_family	Other working CM	2706
+P0	spatial_mapped_family	Ankrd1-associated	951
+P0	spatial_mapped_family	Conduction-program candidate	803
+P0	spatial_mapped_fine_group	Not resolved	39753
+P0	spatial_mapped_fine_group	P0_M0	6905
+P0	spatial_mapped_fine_group	P0_M5	761
+P0	spatial_mapped_fine_group	P0_M6	108
+P0	spatial_mapped_fine_group	P0_M1	83
+P0	spatial_mapped_fine_group	P0_M2	1

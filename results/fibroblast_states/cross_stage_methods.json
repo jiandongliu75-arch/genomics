@@ -1,0 +1,7 @@
+{
+  "signature_genes": 12783,
+  "excluded": "Exact annotation panels,matrix panels,maturation/Ankrd1 panels,sex/CM-check/mt/ribosomal/Gm genes",
+  "signature": "Cluster log2CPM minus same-stage pooled FB log2CPM; adjacent-stage Pearson similarity",
+  "gene_effect_adjustment": "Original corrected per-nucleus log1pCP10k; stage plus nested within-age library contrasts,ambient,depth,cycling; effect sensitivity only",
+  "ancestry_claim": false
+}

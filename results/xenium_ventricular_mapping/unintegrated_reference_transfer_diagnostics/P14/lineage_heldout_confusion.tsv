@@ -1,0 +1,325 @@
+stage	level	heldout_library	condition	truth	predicted	nuclei
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Atrial-like CM	Atrial-like CM	150
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Atrial-like CM	Endothelial	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Atrial-like CM	Epicardial	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Atrial-like CM	Fibroblast	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Atrial-like CM	Glial	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Atrial-like CM	Immune	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Atrial-like CM	Pericyte	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Atrial-like CM	Smooth muscle	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Atrial-like CM	Ventricular-enriched CM	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Endothelial	Atrial-like CM	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Endothelial	Endothelial	604
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Endothelial	Epicardial	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Endothelial	Fibroblast	1
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Endothelial	Glial	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Endothelial	Immune	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Endothelial	Pericyte	5
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Endothelial	Smooth muscle	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Endothelial	Ventricular-enriched CM	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Epicardial	Atrial-like CM	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Epicardial	Endothelial	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Epicardial	Epicardial	80
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Epicardial	Fibroblast	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Epicardial	Glial	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Epicardial	Immune	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Epicardial	Pericyte	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Epicardial	Smooth muscle	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Epicardial	Ventricular-enriched CM	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Fibroblast	Atrial-like CM	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Fibroblast	Endothelial	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Fibroblast	Epicardial	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Fibroblast	Fibroblast	2367
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Fibroblast	Glial	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Fibroblast	Immune	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Fibroblast	Pericyte	2
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Fibroblast	Smooth muscle	1
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Fibroblast	Ventricular-enriched CM	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Glial	Atrial-like CM	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Glial	Endothelial	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Glial	Epicardial	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Glial	Fibroblast	1
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Glial	Glial	29
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Glial	Immune	1
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Glial	Pericyte	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Glial	Smooth muscle	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Glial	Ventricular-enriched CM	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Immune	Atrial-like CM	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Immune	Endothelial	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Immune	Epicardial	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Immune	Fibroblast	2
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Immune	Glial	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Immune	Immune	168
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Immune	Pericyte	2
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Immune	Smooth muscle	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Immune	Ventricular-enriched CM	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Pericyte	Atrial-like CM	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Pericyte	Endothelial	1
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Pericyte	Epicardial	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Pericyte	Fibroblast	10
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Pericyte	Glial	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Pericyte	Immune	1
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Pericyte	Pericyte	626
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Pericyte	Smooth muscle	5
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Pericyte	Ventricular-enriched CM	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Smooth muscle	Atrial-like CM	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Smooth muscle	Endothelial	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Smooth muscle	Epicardial	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Smooth muscle	Fibroblast	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Smooth muscle	Glial	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Smooth muscle	Immune	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Smooth muscle	Pericyte	7
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Smooth muscle	Smooth muscle	125
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Smooth muscle	Ventricular-enriched CM	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Ventricular-enriched CM	Atrial-like CM	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Ventricular-enriched CM	Endothelial	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Ventricular-enriched CM	Epicardial	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Ventricular-enriched CM	Fibroblast	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Ventricular-enriched CM	Glial	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Ventricular-enriched CM	Immune	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Ventricular-enriched CM	Pericyte	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Ventricular-enriched CM	Smooth muscle	0
+P14	lineage	GSM8827075_P14_1	full_shared_panel	Ventricular-enriched CM	Ventricular-enriched CM	5153
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Atrial-like CM	Atrial-like CM	150
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Atrial-like CM	Endothelial	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Atrial-like CM	Epicardial	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Atrial-like CM	Fibroblast	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Atrial-like CM	Glial	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Atrial-like CM	Immune	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Atrial-like CM	Pericyte	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Atrial-like CM	Smooth muscle	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Atrial-like CM	Ventricular-enriched CM	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Endothelial	Atrial-like CM	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Endothelial	Endothelial	593
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Endothelial	Epicardial	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Endothelial	Fibroblast	11
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Endothelial	Glial	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Endothelial	Immune	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Endothelial	Pericyte	6
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Endothelial	Smooth muscle	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Endothelial	Ventricular-enriched CM	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Epicardial	Atrial-like CM	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Epicardial	Endothelial	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Epicardial	Epicardial	78
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Epicardial	Fibroblast	2
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Epicardial	Glial	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Epicardial	Immune	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Epicardial	Pericyte	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Epicardial	Smooth muscle	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Epicardial	Ventricular-enriched CM	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Fibroblast	Atrial-like CM	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Fibroblast	Endothelial	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Fibroblast	Epicardial	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Fibroblast	Fibroblast	2370
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Fibroblast	Glial	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Fibroblast	Immune	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Fibroblast	Pericyte	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Fibroblast	Smooth muscle	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Fibroblast	Ventricular-enriched CM	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Glial	Atrial-like CM	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Glial	Endothelial	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Glial	Epicardial	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Glial	Fibroblast	3
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Glial	Glial	28
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Glial	Immune	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Glial	Pericyte	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Glial	Smooth muscle	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Glial	Ventricular-enriched CM	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Immune	Atrial-like CM	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Immune	Endothelial	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Immune	Epicardial	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Immune	Fibroblast	8
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Immune	Glial	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Immune	Immune	161
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Immune	Pericyte	3
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Immune	Smooth muscle	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Immune	Ventricular-enriched CM	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Pericyte	Atrial-like CM	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Pericyte	Endothelial	1
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Pericyte	Epicardial	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Pericyte	Fibroblast	36
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Pericyte	Glial	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Pericyte	Immune	1
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Pericyte	Pericyte	603
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Pericyte	Smooth muscle	2
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Pericyte	Ventricular-enriched CM	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Smooth muscle	Atrial-like CM	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Smooth muscle	Endothelial	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Smooth muscle	Epicardial	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Smooth muscle	Fibroblast	4
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Smooth muscle	Glial	1
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Smooth muscle	Immune	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Smooth muscle	Pericyte	5
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Smooth muscle	Smooth muscle	122
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Smooth muscle	Ventricular-enriched CM	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Ventricular-enriched CM	Atrial-like CM	14
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Ventricular-enriched CM	Endothelial	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Ventricular-enriched CM	Epicardial	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Ventricular-enriched CM	Fibroblast	1
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Ventricular-enriched CM	Glial	1
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Ventricular-enriched CM	Immune	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Ventricular-enriched CM	Pericyte	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Ventricular-enriched CM	Smooth muscle	0
+P14	lineage	GSM8827075_P14_1	multinomial_up_to_100_molecules	Ventricular-enriched CM	Ventricular-enriched CM	5137
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Atrial-like CM	Atrial-like CM	390
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Atrial-like CM	Endothelial	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Atrial-like CM	Epicardial	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Atrial-like CM	Fibroblast	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Atrial-like CM	Glial	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Atrial-like CM	Immune	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Atrial-like CM	Pericyte	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Atrial-like CM	Smooth muscle	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Atrial-like CM	Ventricular-enriched CM	1
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Endothelial	Atrial-like CM	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Endothelial	Endothelial	762
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Endothelial	Epicardial	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Endothelial	Fibroblast	4
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Endothelial	Glial	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Endothelial	Immune	1
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Endothelial	Pericyte	8
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Endothelial	Smooth muscle	1
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Endothelial	Ventricular-enriched CM	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Epicardial	Atrial-like CM	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Epicardial	Endothelial	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Epicardial	Epicardial	107
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Epicardial	Fibroblast	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Epicardial	Glial	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Epicardial	Immune	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Epicardial	Pericyte	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Epicardial	Smooth muscle	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Epicardial	Ventricular-enriched CM	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Fibroblast	Atrial-like CM	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Fibroblast	Endothelial	2
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Fibroblast	Epicardial	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Fibroblast	Fibroblast	3019
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Fibroblast	Glial	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Fibroblast	Immune	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Fibroblast	Pericyte	4
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Fibroblast	Smooth muscle	1
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Fibroblast	Ventricular-enriched CM	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Glial	Atrial-like CM	1
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Glial	Endothelial	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Glial	Epicardial	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Glial	Fibroblast	1
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Glial	Glial	28
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Glial	Immune	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Glial	Pericyte	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Glial	Smooth muscle	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Glial	Ventricular-enriched CM	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Immune	Atrial-like CM	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Immune	Endothelial	3
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Immune	Epicardial	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Immune	Fibroblast	4
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Immune	Glial	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Immune	Immune	223
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Immune	Pericyte	2
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Immune	Smooth muscle	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Immune	Ventricular-enriched CM	1
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Pericyte	Atrial-like CM	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Pericyte	Endothelial	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Pericyte	Epicardial	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Pericyte	Fibroblast	8
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Pericyte	Glial	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Pericyte	Immune	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Pericyte	Pericyte	786
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Pericyte	Smooth muscle	7
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Pericyte	Ventricular-enriched CM	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Smooth muscle	Atrial-like CM	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Smooth muscle	Endothelial	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Smooth muscle	Epicardial	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Smooth muscle	Fibroblast	1
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Smooth muscle	Glial	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Smooth muscle	Immune	1
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Smooth muscle	Pericyte	3
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Smooth muscle	Smooth muscle	110
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Smooth muscle	Ventricular-enriched CM	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Ventricular-enriched CM	Atrial-like CM	14
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Ventricular-enriched CM	Endothelial	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Ventricular-enriched CM	Epicardial	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Ventricular-enriched CM	Fibroblast	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Ventricular-enriched CM	Glial	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Ventricular-enriched CM	Immune	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Ventricular-enriched CM	Pericyte	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Ventricular-enriched CM	Smooth muscle	0
+P14	lineage	GSM8827076_P14_2	full_shared_panel	Ventricular-enriched CM	Ventricular-enriched CM	5875
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Atrial-like CM	Atrial-like CM	389
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Atrial-like CM	Endothelial	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Atrial-like CM	Epicardial	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Atrial-like CM	Fibroblast	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Atrial-like CM	Glial	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Atrial-like CM	Immune	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Atrial-like CM	Pericyte	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Atrial-like CM	Smooth muscle	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Atrial-like CM	Ventricular-enriched CM	2
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Endothelial	Atrial-like CM	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Endothelial	Endothelial	761
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Endothelial	Epicardial	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Endothelial	Fibroblast	7
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Endothelial	Glial	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Endothelial	Immune	1
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Endothelial	Pericyte	7
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Endothelial	Smooth muscle	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Endothelial	Ventricular-enriched CM	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Epicardial	Atrial-like CM	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Epicardial	Endothelial	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Epicardial	Epicardial	104
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Epicardial	Fibroblast	3
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Epicardial	Glial	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Epicardial	Immune	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Epicardial	Pericyte	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Epicardial	Smooth muscle	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Epicardial	Ventricular-enriched CM	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Fibroblast	Atrial-like CM	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Fibroblast	Endothelial	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Fibroblast	Epicardial	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Fibroblast	Fibroblast	3021
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Fibroblast	Glial	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Fibroblast	Immune	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Fibroblast	Pericyte	4
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Fibroblast	Smooth muscle	1
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Fibroblast	Ventricular-enriched CM	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Glial	Atrial-like CM	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Glial	Endothelial	2
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Glial	Epicardial	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Glial	Fibroblast	3
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Glial	Glial	25
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Glial	Immune	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Glial	Pericyte	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Glial	Smooth muscle	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Glial	Ventricular-enriched CM	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Immune	Atrial-like CM	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Immune	Endothelial	5
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Immune	Epicardial	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Immune	Fibroblast	7
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Immune	Glial	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Immune	Immune	215
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Immune	Pericyte	4
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Immune	Smooth muscle	2
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Immune	Ventricular-enriched CM	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Pericyte	Atrial-like CM	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Pericyte	Endothelial	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Pericyte	Epicardial	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Pericyte	Fibroblast	16
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Pericyte	Glial	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Pericyte	Immune	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Pericyte	Pericyte	779
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Pericyte	Smooth muscle	6
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Pericyte	Ventricular-enriched CM	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Smooth muscle	Atrial-like CM	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Smooth muscle	Endothelial	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Smooth muscle	Epicardial	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Smooth muscle	Fibroblast	1
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Smooth muscle	Glial	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Smooth muscle	Immune	1
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Smooth muscle	Pericyte	4
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Smooth muscle	Smooth muscle	109
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Smooth muscle	Ventricular-enriched CM	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Ventricular-enriched CM	Atrial-like CM	22
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Ventricular-enriched CM	Endothelial	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Ventricular-enriched CM	Epicardial	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Ventricular-enriched CM	Fibroblast	4
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Ventricular-enriched CM	Glial	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Ventricular-enriched CM	Immune	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Ventricular-enriched CM	Pericyte	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Ventricular-enriched CM	Smooth muscle	0
+P14	lineage	GSM8827076_P14_2	multinomial_up_to_100_molecules	Ventricular-enriched CM	Ventricular-enriched CM	5863

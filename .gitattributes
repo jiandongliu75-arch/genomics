@@ -1,0 +1,4 @@
+# Preserve upstream logs verbatim, including spaces after empty fields.
+results/cytospace_xenium/**/upstream_log.txt -whitespace
+results/author_atlas_baseline/**/upstream_log.txt -whitespace
+results/ventricular_alignment_improvement/**/upstream_log.txt -whitespace

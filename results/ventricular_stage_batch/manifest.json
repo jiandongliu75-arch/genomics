@@ -1,0 +1,157 @@
+{
+  "status": "validated",
+  "validation": [
+    "43,249 previously ventricular-like nuclei, unique and aligned to original annotations",
+    "All three PCA/UMAP representations and graphs have aligned, finite coordinates",
+    "Stage PCA centroids preserved in primary and sensitivity representations",
+    "Original corrected counts conserved in all-gene pseudobulk export",
+    "All cluster and per-stage metric counts accounted for"
+  ],
+  "script_sha256": "beca5c6934782851b4336bb65c3c7924226eacaca0284b14c4fb53c3f603d0d7",
+  "scripts": [
+    {
+      "file": "analysis/ventricular_stage_batch.py",
+      "sha256": "beca5c6934782851b4336bb65c3c7924226eacaca0284b14c4fb53c3f603d0d7"
+    },
+    {
+      "file": "analysis/ventricular_within_stage_markers.py",
+      "sha256": "1a5f6e9a5b04f7f87a6f9ccad88f70235a320f14ab6ab338ed0ec2bf7b885273"
+    },
+    {
+      "file": "analysis/validate_ventricular_stage_batch.py",
+      "sha256": "0183816eff83a881b4beb94b1c9a5f6f3fc3c8b8df15a549ec88450f2d0ab8d2"
+    }
+  ],
+  "files": [
+    {
+      "name": "README.md",
+      "bytes": 9888,
+      "sha256": "98ce8c039327d3bda7fcde9303e8d3a3c15d3549ae12b2aa5fa105f1fba892b7"
+    },
+    {
+      "name": "embedding_genes.tsv",
+      "bytes": 325893,
+      "sha256": "7144a228c92e0607d28fc5fa6acc03fc363a75c1b872324cc5901ed4d8fb02ba"
+    },
+    {
+      "name": "methods.json",
+      "bytes": 1400,
+      "sha256": "ddf3fe1cd8f055403d692d9cf02f763106b93441cbc3d3e949d9b39b120f7c96"
+    },
+    {
+      "name": "resolution_sensitivity.tsv",
+      "bytes": 246,
+      "sha256": "76c444bfb1daa3048c2142b46d36f17a1b4ffe3c7c97ed397f67af67e498d454"
+    },
+    {
+      "name": "sample_qc_summary.tsv",
+      "bytes": 719,
+      "sha256": "2d3b504d01eae80edc3f58f20de454045f7a65d7306feb2c3af993fc1b87dc94"
+    },
+    {
+      "name": "stage_centroid_validation.tsv",
+      "bytes": 134,
+      "sha256": "b078d0696eb75466f44d63cefa4a88486dc81ca2b09b519a3f06e02d71bc5f42"
+    },
+    {
+      "name": "ventricular_adjusted_stage_clusters.pdf",
+      "bytes": 262057,
+      "sha256": "73a80225d4659fa3484445cf8f6284b1dadfada7913da493e292fd4bdc8b5b4a"
+    },
+    {
+      "name": "ventricular_adjusted_stage_clusters.png",
+      "bytes": 1459971,
+      "sha256": "c1ea45f06198d0e419dea93bf3857800567e0f58a9588baf4c4e948f7de0fb74"
+    },
+    {
+      "name": "ventricular_batch_comparison.pdf",
+      "bytes": 498183,
+      "sha256": "1d84111d3d394e8d727d8238314bb8f23d79fc86a0e4284c7213469ff4f44851"
+    },
+    {
+      "name": "ventricular_batch_comparison.png",
+      "bytes": 1838356,
+      "sha256": "9295f592fe9ee90152b55ae987837c99f7f8439c438c7b4f4eb0bdb35062cf3c"
+    },
+    {
+      "name": "ventricular_cells_embeddings_and_clusters.csv.gz",
+      "bytes": 7171125,
+      "sha256": "ed9bbbf3f8fa542f8ae4ad73f4e676c0327046e776aed48661119cc593c1f023"
+    },
+    {
+      "name": "ventricular_cluster_by_age.tsv",
+      "bytes": 143,
+      "sha256": "c91f61bcc55412b2e6bce756c2bc4d2d6e1483f795db2df5af8e059ceeef5b7d"
+    },
+    {
+      "name": "ventricular_cluster_by_cycling_state.tsv",
+      "bytes": 149,
+      "sha256": "63e0d2886edd42f4650f44f38e6b08b23017ce297fad1e50f4d634cba7f5b0c7"
+    },
+    {
+      "name": "ventricular_cluster_by_sample.tsv",
+      "bytes": 334,
+      "sha256": "e8b47d63e5bc51fa8007b64d9b2546db7f758bd7d2e027ba6e0b913e92dafc81"
+    },
+    {
+      "name": "ventricular_cluster_by_subcluster_id.tsv",
+      "bytes": 219,
+      "sha256": "4fb416bcdff9eb7f87ad1eebf06674cd2c2b3a9d52500d1607bf9274003b261d"
+    },
+    {
+      "name": "ventricular_cluster_corrected_pseudobulk.tsv.gz",
+      "bytes": 891247,
+      "sha256": "e5419955d6fb121ddb82b5da37608b959ff50e512f6ac98d1423e32274eaff2d"
+    },
+    {
+      "name": "ventricular_cluster_descriptive_markers.tsv",
+      "bytes": 19669,
+      "sha256": "820cf87db4f2ada83d010643df64f6d9b62c4e4ed988d7a27c6d18fcddaaea22"
+    },
+    {
+      "name": "ventricular_cluster_summary.tsv",
+      "bytes": 1271,
+      "sha256": "b0a96ed0940fab440a14951953d54d55e0890a20e829d42c63312e6a4ccbfb09"
+    },
+    {
+      "name": "ventricular_clusters_by_stage.pdf",
+      "bytes": 474200,
+      "sha256": "86deb1de9be67d64fb7bdde00d5c030d213f9db1e1dcba3749875b6ce61cfdf6"
+    },
+    {
+      "name": "ventricular_clusters_by_stage.png",
+      "bytes": 1265804,
+      "sha256": "d938bb3f2fe73450c724b907a65564052bb3ab228e8b57264dbe4d5c0b310619"
+    },
+    {
+      "name": "ventricular_embeddings_metadata_only.h5ad",
+      "bytes": 55583205,
+      "sha256": "3415a5d39d0c3874d2168c9a5311463d8c17f3f3d4b6e16a4a591abec8c7fb72"
+    },
+    {
+      "name": "ventricular_stage_batch_report.pdf",
+      "bytes": 1185097,
+      "sha256": "cf1663ab938cbcf44e36e34fc677990519e4ce03689d901c49c630cd9bc468e7"
+    },
+    {
+      "name": "within_stage_cluster_stability.tsv",
+      "bytes": 532,
+      "sha256": "ba34b8ec9393800492d234663a1910bb049ceb6d81ba88f053cbf0734a667346"
+    },
+    {
+      "name": "within_stage_descriptive_markers.tsv",
+      "bytes": 25897,
+      "sha256": "cd4dcf935aec064d8e3f6e4dda5b89cb50cca6fd28bfe6a67aa4b00fee553698"
+    },
+    {
+      "name": "within_stage_marker_library_support.tsv",
+      "bytes": 615,
+      "sha256": "1af397c950316f1c9322378fc6e4a5783bdd164510e359003f7e68864190baba"
+    },
+    {
+      "name": "within_stage_sample_mixing.tsv",
+      "bytes": 1397,
+      "sha256": "64b1c3a06ee32a64f2f86e0f7084f3f9c2fd9dd6f9f511fe365b6d3565d313bc"
+    }
+  ]
+}

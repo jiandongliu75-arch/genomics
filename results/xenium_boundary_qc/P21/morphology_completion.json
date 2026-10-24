@@ -1,0 +1,203 @@
+{
+  "stage": "P21",
+  "ROIs": [
+    {
+      "roi_id": "P21_arterial_1",
+      "context_bounds_um": [
+        1589.5,
+        2073.125,
+        3196.0,
+        3688.125
+      ],
+      "grid_shape_yx": [
+        986,
+        969
+      ],
+      "grid_um": 0.5,
+      "cell_seeds": 1636,
+      "native_raster_overlap_pixels": 109,
+      "membrane_scaling_1_99": [
+        336.0,
+        3582.2399999999907
+      ]
+    },
+    {
+      "roi_id": "P21_arterial_2",
+      "context_bounds_um": [
+        2905.5,
+        3403.1625999969287,
+        3483.5,
+        3998.5876
+      ],
+      "grid_shape_yx": [
+        1032,
+        997
+      ],
+      "grid_um": 0.5,
+      "cell_seeds": 1643,
+      "native_raster_overlap_pixels": 144,
+      "membrane_scaling_1_99": [
+        208.0,
+        4057.0
+      ]
+    },
+    {
+      "roi_id": "P21_Endothelial_ordinary",
+      "context_bounds_um": [
+        2402.5,
+        2682.928955078125,
+        4455.0,
+        4735.38427734375
+      ],
+      "grid_shape_yx": [
+        562,
+        562
+      ],
+      "grid_um": 0.5,
+      "cell_seeds": 524,
+      "native_raster_overlap_pixels": 32,
+      "membrane_scaling_1_99": [
+        323.0,
+        3153.1699999999837
+      ]
+    },
+    {
+      "roi_id": "P21_Endothelial_flagged",
+      "context_bounds_um": [
+        2767.5,
+        3047.599853515625,
+        2902.0,
+        3182.11083984375
+      ],
+      "grid_shape_yx": [
+        562,
+        562
+      ],
+      "grid_um": 0.5,
+      "cell_seeds": 494,
+      "native_raster_overlap_pixels": 31,
+      "membrane_scaling_1_99": [
+        475.0,
+        3342.0
+      ]
+    },
+    {
+      "roi_id": "P21_Fibroblast_ordinary",
+      "context_bounds_um": [
+        4364.5,
+        4644.9189453125,
+        5579.0,
+        5859.46337890625
+      ],
+      "grid_shape_yx": [
+        562,
+        562
+      ],
+      "grid_um": 0.5,
+      "cell_seeds": 658,
+      "native_raster_overlap_pixels": 10,
+      "membrane_scaling_1_99": [
+        192.0,
+        4526.0
+      ]
+    },
+    {
+      "roi_id": "P21_Fibroblast_flagged",
+      "context_bounds_um": [
+        4291.0,
+        4571.201171875,
+        4230.5,
+        4510.56201171875
+      ],
+      "grid_shape_yx": [
+        562,
+        562
+      ],
+      "grid_um": 0.5,
+      "cell_seeds": 522,
+      "native_raster_overlap_pixels": 47,
+      "membrane_scaling_1_99": [
+        467.0,
+        4558.0
+      ]
+    },
+    {
+      "roi_id": "P21_anucleate_CM_1",
+      "context_bounds_um": [
+        4035.5,
+        4315.93017578125,
+        2762.5,
+        3042.56591796875
+      ],
+      "grid_shape_yx": [
+        562,
+        562
+      ],
+      "grid_um": 0.5,
+      "cell_seeds": 469,
+      "native_raster_overlap_pixels": 36,
+      "membrane_scaling_1_99": [
+        439.0,
+        5361.0
+      ]
+    },
+    {
+      "roi_id": "P21_anucleate_CM_2",
+      "context_bounds_um": [
+        4913.5,
+        5193.81689453125,
+        2420.0,
+        2700.352294921875
+      ],
+      "grid_shape_yx": [
+        562,
+        562
+      ],
+      "grid_um": 0.5,
+      "cell_seeds": 616,
+      "native_raster_overlap_pixels": 39,
+      "membrane_scaling_1_99": [
+        445.0,
+        5423.090000000026
+      ]
+    }
+  ],
+  "membrane_source_sha256": "8f44ca8bf7347a51c3a5a24258da42587342b61c087aa78904cacfd600c24973",
+  "DAPI_source_sha256": "ad98d9a3344f54c61bb0d4dad8e0fddb04c6edcd21f0d68ece9f2d59be76cc85",
+  "nuclear_boundaries_sha256": "efb99eb4cff37e75841f5064949449502c14f08e5faec82476320708533d8ffd",
+  "membrane_acquisition": {
+    "stage": "P21",
+    "record": "14961942",
+    "archive": "WT_P21__20240528__152132.zip",
+    "url": "https://zenodo.org/api/records/14961942/files/WT_P21__20240528__152132.zip/content",
+    "member": "output-XETG00054__0028928__WT_P21__20240528__152132/morphology_focus/morphology_focus_0001.ome.tif",
+    "compressed_bytes": 640153692,
+    "bytes": 640027803,
+    "zip_crc32": 1047068368,
+    "bounded_range_bytes": 16777216,
+    "CRC_verified": true
+  },
+  "channels": [
+    "DAPI",
+    "ATP1A1/CD45/E-Cadherin",
+    "18S",
+    "alphaSMA/Vimentin"
+  ],
+  "used_channels": [
+    "DAPI",
+    "ATP1A1/CD45/E-Cadherin"
+  ],
+  "native_pixel_size_um": 0.2125,
+  "same_centroid_seed_count_in_all_variants": true,
+  "nucleus_required": false,
+  "no_RNA_or_lineage_input_to_watershed": true,
+  "scope": "Fixed-seed morphology-informed boundary sensitivity; does not independently infer merges/splits or cell number",
+  "boundary_provenance": {
+    "source_boundary_path": "/workspace/heart-atlas/data/xenium/WT_P21__20240528__152132/cell_boundaries.csv.gz",
+    "source_boundary_sha256": "820bd25a28d73af423d1f25819f9ac1d7dabb13db0d012e3053876ccd84c0350",
+    "vascular_cells_with_native_boundaries": 6633,
+    "median_centroid_outside_own_polygon_um": 0.0,
+    "maximum_centroid_outside_own_polygon_um": 0.4619208528780064
+  },
+  "ROI_selection_sha256": "d3cce40d5d3c0e9d4483051bcdb4c81a3f602380baecfb214bda79319617416f"
+}

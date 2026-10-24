@@ -1,0 +1,41 @@
+age	broad_class	reference_nuclei
+P0	Atrial-like CM	636
+P0	Endothelial	1647
+P0	Epicardial	235
+P0	Fibroblast	2227
+P0	Glial	36
+P0	Immune	92
+P0	Pericyte	233
+P0	Smooth muscle	118
+P0	Unresolved/mixed	87
+P0	Ventricular-enriched CM	11046
+P7	Atrial-like CM	80
+P7	Endothelial	1170
+P7	Epicardial	87
+P7	Fibroblast	2951
+P7	Glial	34
+P7	Immune	207
+P7	Pericyte	487
+P7	Smooth muscle	104
+P7	Unresolved/mixed	3
+P7	Ventricular-enriched CM	13040
+P14	Atrial-like CM	541
+P14	Endothelial	1386
+P14	Epicardial	187
+P14	Fibroblast	5396
+P14	Glial	61
+P14	Immune	406
+P14	Pericyte	1444
+P14	Smooth muscle	248
+P14	Unresolved/mixed	12
+P14	Ventricular-enriched CM	11042
+P21	Atrial-like CM	765
+P21	Endothelial	1370
+P21	Epicardial	188
+P21	Fibroblast	4411
+P21	Glial	26
+P21	Immune	543
+P21	Pericyte	1050
+P21	Smooth muscle	120
+P21	Unresolved/mixed	1
+P21	Ventricular-enriched CM	9335

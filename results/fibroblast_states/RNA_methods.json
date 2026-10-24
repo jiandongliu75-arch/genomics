@@ -1,0 +1,21 @@
+{
+  "nuclei": 14985,
+  "libraries": 8,
+  "stage_counts": {
+    "P14": 5396,
+    "P21": 4411,
+    "P7": 2951,
+    "P0": 2227
+  },
+  "HVG": 2000,
+  "neighbors": 20,
+  "resolution": 0.45,
+  "seed": 42,
+  "stage_independent_clustering": true,
+  "batch": "Harmony between libraries within each age only; no age regression",
+  "annotation": "Post hoc exact paper panels; >=3 detected panel genes, >=1 anchor, score>0.05,margin>=0.1; otherwise unresolved",
+  "state_name_limit": "Kirrel3-associated is not anatomically validated valve identity; labels are provisional RNA programs",
+  "matrix_outcomes": "Mean log1p CP10k; full and all annotation-marker-withheld panels; not protein or mechanics",
+  "support": "n>=80,both libraries>=20,largest library<=90%,>=3 positive markers in both; seed/QC/panel-withheld best Jaccard>=0.5",
+  "unchanged_original_counts": true
+}

@@ -1,0 +1,5 @@
+stage	prior_family_assigned	prior_assigned_vs_native_cytospace_family_agreement	both_methods_filtered_family_assigned	filtered_family_agreement	both_methods_filtered_group_assigned
+P0	11496	0.3346381350034795	4429	0.35990065477534433	0
+P7	18805	0.22073916511566072	155	1.0	151
+P14	8439	0.485484062092665	180	1.0	108
+P21	3784	0.3953488372093023	0		0

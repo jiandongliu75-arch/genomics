@@ -1,0 +1,28 @@
+stage	evidence_tier	profiles
+P0	Cell and nuclear family concordant	1229
+P0	Fine family unresolved	729
+P0	Cell-supported; nuclear fine identity unresolved	293
+P0	Cell-supported; nuclear confirmation unavailable	29
+P0	Nuclear-supported candidate; whole-cell strict criteria unmet	22
+P0	Mixed CM-FB marker review	17
+P7	Cell and nuclear family concordant	4084
+P7	Fine family unresolved	2832
+P7	Cell-supported; nuclear fine identity unresolved	1183
+P7	Nuclear-supported candidate; whole-cell strict criteria unmet	220
+P7	Mixed CM-FB marker review	120
+P7	Cell-supported; nuclear confirmation unavailable	112
+P7	Nuclear-cell family disagreement; review	13
+P14	Fine family unresolved	8156
+P14	Cell and nuclear family concordant	724
+P14	Cell-supported; nuclear fine identity unresolved	439
+P14	Mixed CM-FB marker review	261
+P14	Nuclear-supported candidate; whole-cell strict criteria unmet	223
+P14	Cell-supported; nuclear confirmation unavailable	19
+P14	Nuclear-cell family disagreement; review	2
+P21	Fine family unresolved	11139
+P21	Cell and nuclear family concordant	810
+P21	Cell-supported; nuclear fine identity unresolved	600
+P21	Mixed CM-FB marker review	332
+P21	Nuclear-supported candidate; whole-cell strict criteria unmet	148
+P21	Cell-supported; nuclear confirmation unavailable	52
+P21	Nuclear-cell family disagreement; review	2

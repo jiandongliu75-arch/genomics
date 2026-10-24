@@ -1,0 +1,240 @@
+{
+  "status": "validated independent within-stage analysis",
+  "validation": [
+    "43,249 original ventricular nuclei preserved, unique and aligned",
+    "Independent stage coordinates/graphs, CSV and metadata H5AD align",
+    "Original corrected count totals conserved in each stage pseudobulk",
+    "Support labels meet prespecified marker/library/seed/nuisance heuristics",
+    "Detection fractions, neighbor metrics and artifact sizes checked"
+  ],
+  "scripts": [
+    {
+      "file": "analysis/ventricular_within_stage.py",
+      "sha256": "694b2650e7301e1a10ff2ff09ce70fa5993f71f51e7ed542830a1bdcb8276a9d"
+    },
+    {
+      "file": "analysis/finalize_ventricular_within_stage_labels.py",
+      "sha256": "2f38c49309c7532bcaf661683009e25fe9f35389012f5eba2179c23ca2d46acf"
+    },
+    {
+      "file": "analysis/plot_ventricular_within_stage.py",
+      "sha256": "2106369b13b3688c6d6b6374a9fb9f98a0c39a94952ba1962ddc7abb20ca6453"
+    },
+    {
+      "file": "analysis/validate_ventricular_within_stage.py",
+      "sha256": "f444857635b47fb17b42e4a4cc2dfdbe43baa58996a0ee52b10d73c057c32311"
+    }
+  ],
+  "files": [
+    {
+      "file": "P0/cell_annotations.csv.gz",
+      "bytes": 1617516,
+      "sha256": "a88a55f62edbf284ee408ea28761085bc8558a4863e8138f6b2060090d096868"
+    },
+    {
+      "file": "P0/cluster_by_prior_CAR.tsv",
+      "bytes": 182,
+      "sha256": "661db467912d6ee8aff508922e0d3776c21436cbaa30aaf62f5423efb006858b"
+    },
+    {
+      "file": "P0/cluster_by_sample.tsv",
+      "bytes": 167,
+      "sha256": "b1cf43098d1a780d0c437a8994a9978b506085878b5b6bda97651ebb5cf28ab3"
+    },
+    {
+      "file": "P0/corrected_pseudobulk.tsv.gz",
+      "bytes": 897959,
+      "sha256": "69cab413e5cdf629bc2efc456833e15977ed65de17058cb4a31bb987ea3528c7"
+    },
+    {
+      "file": "P0/embeddings_metadata_only.h5ad",
+      "bytes": 15017369,
+      "sha256": "20f86e588a3afe5308ecf20039f556d4be1b1203e15bb8289a15a2392d6eaae9"
+    },
+    {
+      "file": "P0_ventricular_subclusters.pdf",
+      "bytes": 370058,
+      "sha256": "d5adc31ccf6ffaaec3fb8a42ee2a635a659918b3bfb8e13e37216c08a68bce94"
+    },
+    {
+      "file": "P0_ventricular_subclusters.png",
+      "bytes": 1643288,
+      "sha256": "03097f61516dfd805a7d017e2514a76aa8ded3c5ff8441a9e15a5070e9e6117a"
+    },
+    {
+      "file": "P14/cell_annotations.csv.gz",
+      "bytes": 1656558,
+      "sha256": "275bb5fcb3cdf139b7dfeabc30f5c6fcfa64f626bfc9dd0f2fa420c56f1a5581"
+    },
+    {
+      "file": "P14/cluster_by_prior_CAR.tsv",
+      "bytes": 117,
+      "sha256": "9cda6abbc55ae600ff8cf1353ab4bdf7e3c9afd794ca40c6bd5f3b8d5415a6b2"
+    },
+    {
+      "file": "P14/cluster_by_sample.tsv",
+      "bytes": 120,
+      "sha256": "36551a5a36e4754a6dfb31e6ebefd3dd28d05ea3b17ea1ada7e5e740f8b8d33a"
+    },
+    {
+      "file": "P14/corrected_pseudobulk.tsv.gz",
+      "bytes": 628429,
+      "sha256": "4f7db8e118774310d9760dc0e592d8b47132193a6b5175a413b946393fbbcbec"
+    },
+    {
+      "file": "P14/embeddings_metadata_only.h5ad",
+      "bytes": 15929405,
+      "sha256": "d320435bf0ed1d8c7d911e57cd15d721e1c6112f92e93ad147537b150155cf4e"
+    },
+    {
+      "file": "P14_ventricular_subclusters.pdf",
+      "bytes": 510805,
+      "sha256": "8a341b71096a518f85c803ed50a4fc428039eb0c8dc12f95ff0c68683cc331b8"
+    },
+    {
+      "file": "P14_ventricular_subclusters.png",
+      "bytes": 2202574,
+      "sha256": "6b20952e2406e796b3d498a56533b4f5fe89122c12be015a18ac50d4ae1c607b"
+    },
+    {
+      "file": "P21/cell_annotations.csv.gz",
+      "bytes": 1404797,
+      "sha256": "47dcdd6245fbfb57fd36710b97ee6e039ef74183688a613423ec4bee120cead6"
+    },
+    {
+      "file": "P21/cluster_by_prior_CAR.tsv",
+      "bytes": 77,
+      "sha256": "16583cdaae8ee3daa1e88fb3ffbf4d2c23430d1a576d05b3578d22fe65ca215b"
+    },
+    {
+      "file": "P21/cluster_by_sample.tsv",
+      "bytes": 105,
+      "sha256": "31a235d48a70ba38932aac66809cb4416539f3f1eced174c0786b819bf278861"
+    },
+    {
+      "file": "P21/corrected_pseudobulk.tsv.gz",
+      "bytes": 540575,
+      "sha256": "218d267b644f9a13fc0787bc075c0c182519ae0f58e95946f21070869978ec38"
+    },
+    {
+      "file": "P21/embeddings_metadata_only.h5ad",
+      "bytes": 13474870,
+      "sha256": "1686aafec4d852d903ea7525f135476c55abab33cf544f660d22f0248cc46698"
+    },
+    {
+      "file": "P21_ventricular_subclusters.pdf",
+      "bytes": 441614,
+      "sha256": "2dab7806154ed68b8aaea65282be361b18f6d16799377766db20b6b2841eb118"
+    },
+    {
+      "file": "P21_ventricular_subclusters.png",
+      "bytes": 1938044,
+      "sha256": "0cfd5c7890ba819bab6de4c7c84ff16e7fa867b97dceee3b0564843103f47758"
+    },
+    {
+      "file": "P7/cell_annotations.csv.gz",
+      "bytes": 1965834,
+      "sha256": "27a9f3e0bf33d74e293c80912e46a83668dcc7efb34f4ca71dc0749d117d81f1"
+    },
+    {
+      "file": "P7/cluster_by_prior_CAR.tsv",
+      "bytes": 180,
+      "sha256": "3d0826ada3d33a019e86d330126ac37b856ee280dc884f42600d79c0b2ecbe08"
+    },
+    {
+      "file": "P7/cluster_by_sample.tsv",
+      "bytes": 164,
+      "sha256": "99ca7196d800cec5ec4a5005230e5a9dd2eee87b02c087be3bdd59b06b4051d9"
+    },
+    {
+      "file": "P7/corrected_pseudobulk.tsv.gz",
+      "bytes": 815470,
+      "sha256": "e0bb685ccfbd93451d48fd540fae2cbc36f4240ed334a35ac791cb2e518da55f"
+    },
+    {
+      "file": "P7/embeddings_metadata_only.h5ad",
+      "bytes": 18661844,
+      "sha256": "10c42f60466139e2ec98f98d44abd09e14937bf817601274b92b47b28f51e342"
+    },
+    {
+      "file": "P7_ventricular_subclusters.pdf",
+      "bytes": 476600,
+      "sha256": "41415e9c22f031d4aae68a924c1a45d21a0879e916571a2ee3e00b0bc5f8a8c3"
+    },
+    {
+      "file": "P7_ventricular_subclusters.png",
+      "bytes": 2082005,
+      "sha256": "0bd8b023c7717ab072b74080e3d41d22a556b432e8ab1a12bfcbe2eba869a05f"
+    },
+    {
+      "file": "README.md",
+      "bytes": 11717,
+      "sha256": "7b78fa83d924f064b6eebd548bb1aac8bd6d4018c72af120760ca095a6d72cc0"
+    },
+    {
+      "file": "cell_annotations.csv.gz",
+      "bytes": 6603211,
+      "sha256": "7b668f22b5371aae9016678cfa40c9bde56a57d37cde1f83116c8ea57aa62199"
+    },
+    {
+      "file": "cluster_summary.tsv",
+      "bytes": 11441,
+      "sha256": "f855d7df7ab1bc08c00927e21926c3cfefed19f0d58c239206a0a613a48ca32f"
+    },
+    {
+      "file": "clustering_stability.tsv",
+      "bytes": 1421,
+      "sha256": "6a0a561624b0b20a284ceb845257ddf335632567fe5ee4905efab783385f59b8"
+    },
+    {
+      "file": "embedding_genes.tsv",
+      "bytes": 236456,
+      "sha256": "24ddb30229c18f1905d8ed10f7ae43e873845ed98fc83e4eb3aff625e374759a"
+    },
+    {
+      "file": "methods.json",
+      "bytes": 3338,
+      "sha256": "68379fc83d837e39e5aea1fe73a492fe161e947def8e4109a6cb36390f5d2495"
+    },
+    {
+      "file": "program_marker_profiles.tsv",
+      "bytes": 106874,
+      "sha256": "9ba464bb60a3e40977991a9d9b26e5cd4595f608d916f8757803c8ac7c922990"
+    },
+    {
+      "file": "program_panel_evidence.tsv",
+      "bytes": 14318,
+      "sha256": "dd6839321b514f74298d139a5f22e8e855193e8c1b34eea767a27741c03e3b95"
+    },
+    {
+      "file": "resolution_sensitivity.tsv",
+      "bytes": 1136,
+      "sha256": "0cf321182ccba89dde8c32bdc4f34f3dd00972e82aa39663284e613fe314b889"
+    },
+    {
+      "file": "sample_mixing.tsv",
+      "bytes": 991,
+      "sha256": "e4422a5b6331cc74c97ca70599eb815b6251d8ca6532bd18b91521953a0c54d5"
+    },
+    {
+      "file": "ventricular_within_stage_figures.pdf",
+      "bytes": 2402627,
+      "sha256": "bed37edb05deb274c05a23de2c3ba641fd2272b4ae422df10ce72e18626a0e67"
+    },
+    {
+      "file": "ventricular_within_stage_overview.pdf",
+      "bytes": 706573,
+      "sha256": "414f6c16fdba33327f6ec01c9c1c7ade9bfd0c93e19bc281cc3a547551aa9e8e"
+    },
+    {
+      "file": "ventricular_within_stage_overview.png",
+      "bytes": 3276589,
+      "sha256": "08d54b2afc94e0345219e756a1607dca4e84e01c81583b1ae083c23693b0a241"
+    },
+    {
+      "file": "within_stage_markers.tsv",
+      "bytes": 150154,
+      "sha256": "90fbc9029da31d1a8fdabd5daf2a71103f0456d2c5e1e5b40a5edef0b122c8ea"
+    }
+  ]
+}

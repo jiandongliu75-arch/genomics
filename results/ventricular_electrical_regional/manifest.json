@@ -1,0 +1,155 @@
+{
+  "validation": [
+    "44,463 original nuclei and annotations unchanged",
+    "17-feature count matrices, integer original counts, nonnegative finite corrected counts",
+    "Whole-nucleus normalization reconstructs exported expression",
+    "Stage expression/detection profiles reconstruct from original and corrected counts",
+    "All 476 expanded cluster/gene contrasts reconstruct independently from published matrices and library membership"
+  ],
+  "files": [
+    {
+      "file": "P0_electrical_regional_contrasts.pdf",
+      "bytes": 34960,
+      "sha256": "b72a91bd61c7eab1b053288c85d0ff0e287827cd15977f6f2253e8987f12f6fb"
+    },
+    {
+      "file": "P0_electrical_regional_contrasts.png",
+      "bytes": 275280,
+      "sha256": "7869ff10738ad5fce649ba346168ba9630f26d2a016939170069c0a6b7ee2eb9"
+    },
+    {
+      "file": "P14_electrical_regional_contrasts.pdf",
+      "bytes": 34485,
+      "sha256": "ed50ec330cdb0a3fa6a80f85187538bbf1987544e91b4de94758f958474584eb"
+    },
+    {
+      "file": "P14_electrical_regional_contrasts.png",
+      "bytes": 246138,
+      "sha256": "f5307a115ab39756477142a8903674489c7621bab1b6cce1abfee89053c04131"
+    },
+    {
+      "file": "P21_electrical_regional_contrasts.pdf",
+      "bytes": 34590,
+      "sha256": "c43c05a7278bd054ba9d70afdba1836394c1085c97abb34eca8e02f7f9c244c1"
+    },
+    {
+      "file": "P21_electrical_regional_contrasts.png",
+      "bytes": 255444,
+      "sha256": "87ba97333ad0fa5d326683d5f7d23bb56ce74b81f969018aa42f6bcf9011bed2"
+    },
+    {
+      "file": "P7_electrical_regional_contrasts.pdf",
+      "bytes": 35028,
+      "sha256": "98ffa2903bde83cbd39bfce6171867a11bf7f9fda433e9a436aecb362e7b550c"
+    },
+    {
+      "file": "P7_electrical_regional_contrasts.png",
+      "bytes": 278114,
+      "sha256": "557d4a3078d20c490f73e076b740ed9fe5a63f16d288c78b143ecc2292ca40f4"
+    },
+    {
+      "file": "README.md",
+      "bytes": 12869,
+      "sha256": "7cf4e0eafef2b07bc5075d7f6273f27f39a089be0b62adde19f5d9a7565b5cc9"
+    },
+    {
+      "file": "cell_metadata.tsv.gz",
+      "bytes": 275862,
+      "sha256": "7b4158986b189efe83f7079d2391ae707d73915eb7189c68d54cae8ed83cc4b5"
+    },
+    {
+      "file": "cluster_gene_contrasts.tsv",
+      "bytes": 66211,
+      "sha256": "c03fcf18fca9763bfeceea285465966dbc1df5c05986ade9c348e5d41d8cb8ad"
+    },
+    {
+      "file": "core_only_cluster_gene_contrasts.tsv",
+      "bytes": 69029,
+      "sha256": "8af37149ce222114a3d1a1cb88d3ee3491c9b5326c09179e1ebfbdad0460e020"
+    },
+    {
+      "file": "gene_mapping.tsv",
+      "bytes": 774,
+      "sha256": "65579d16a6cd60fd5fd4c5daba1a6dd59c1e64bed1fc30461fb1369ac4582675"
+    },
+    {
+      "file": "gene_profiles.tsv",
+      "bytes": 217845,
+      "sha256": "ea2f207e26bd7677b1eb55ea4c8aac79655f7ad8c78df3605040d7bc9beefd02"
+    },
+    {
+      "file": "library_cluster_gene_contrasts.tsv",
+      "bytes": 261124,
+      "sha256": "b84cdd11f207e7e3eb2f51653b1b351e18cf9fc165b83d167dbc1582a0d5d753"
+    },
+    {
+      "file": "methods.json",
+      "bytes": 1646,
+      "sha256": "03db4fdd5b469e5c5de709ea4fccb015856706c9fa5aeeff801f1105791cda57"
+    },
+    {
+      "file": "normalization_totals.tsv.gz",
+      "bytes": 612388,
+      "sha256": "5388aa822120dd266292af4f91f20e4843daa385f76cadd5f2a73cf5e015c0c1"
+    },
+    {
+      "file": "sources/access_and_interpretation.json",
+      "bytes": 1194,
+      "sha256": "0a818eee5eda95902c783bb8321278fa14d3d31749f1dfa1328c82ebd81f85b7"
+    },
+    {
+      "file": "sources/human_irx5_primary_paper.json",
+      "bytes": 1274,
+      "sha256": "e715b63354f5ea1ca23bdab8256b02d20517855e5ca37e2e2f3ccf6c342bfe1a"
+    },
+    {
+      "file": "sources/previous_linked_paper_provenance.json",
+      "bytes": 4630,
+      "sha256": "94b2f3b329037e59f9326f3e8a2ba119a2b723651d60ecbe5f523317028a31ae"
+    },
+    {
+      "file": "sources/regional_conduction_primary_papers.json",
+      "bytes": 13677,
+      "sha256": "436c40dcc3e94c5b0bebf861df636de9beafdfe1913e5afeaac61f57bc6a93e8"
+    },
+    {
+      "file": "targeted_corrected_counts.npz",
+      "bytes": 1003736,
+      "sha256": "e2571571f233b151831ccbf1717cdf498ee8c34a6955686812e48cd0af68e2af"
+    },
+    {
+      "file": "targeted_log_expression.csv.gz",
+      "bytes": 1430124,
+      "sha256": "c81beeac612042ff3a808940a0774d564340e4333de8fe609a5584ecc84403f0"
+    },
+    {
+      "file": "targeted_original_counts.npz",
+      "bytes": 339621,
+      "sha256": "4731f7bbe43a464ecc52a35946466664b7683e106f201c2e66b9b9b41d100ca3"
+    },
+    {
+      "file": "ventricular_electrical_regional_contrasts.pdf",
+      "bytes": 41686,
+      "sha256": "b2d6733a545be4f9916117a7abe95ec2b097520bfd7fecb99c98d19122f2d62f"
+    },
+    {
+      "file": "ventricular_electrical_regional_contrasts.png",
+      "bytes": 657588,
+      "sha256": "05328628ed591add0d0a826ac1b3c1113fcda08fa9c7997c28b8d4c032c9160d"
+    }
+  ],
+  "scripts": [
+    {
+      "file": "analysis/ventricular_electrical_regional.py",
+      "sha256": "25e2f9bdea651aeab9cd4a39596f2b097404f3fa5c36ed4d78ede94ed6cbd4af"
+    },
+    {
+      "file": "analysis/plot_ventricular_electrical_regional.py",
+      "sha256": "5126826cb16e47cf780848aad4d73a28114fc0566b37f925bdc73bc4a27a22e9"
+    },
+    {
+      "file": "analysis/validate_ventricular_electrical_regional.py",
+      "sha256": "32b44d8fcad56b5a5d363a67debfb71b6da2c337071faa31e0a07576290bb74a"
+    }
+  ]
+}

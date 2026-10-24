@@ -1,0 +1,50 @@
+[
+  {
+    "stage": "P14",
+    "record": "14961942",
+    "archive": "WT_P14__20240528__152132.zip",
+    "url": "https://zenodo.org/api/records/14961942/files/WT_P14__20240528__152132.zip/content",
+    "member": "output-XETG00054__0028930__WT_P14__20240528__152132/metrics_summary.csv",
+    "compressed_bytes": 741,
+    "bytes": 1918,
+    "zip_crc32": 516450210,
+    "bounded_range_bytes": 16777216,
+    "CRC_verified": true
+  },
+  {
+    "stage": "P14",
+    "record": "14961942",
+    "archive": "WT_P14__20240528__152132.zip",
+    "url": "https://zenodo.org/api/records/14961942/files/WT_P14__20240528__152132.zip/content",
+    "member": "output-XETG00054__0028930__WT_P14__20240528__152132/nucleus_boundaries.parquet",
+    "compressed_bytes": 9432621,
+    "bytes": 9613487,
+    "zip_crc32": 3884247616,
+    "bounded_range_bytes": 16777216,
+    "CRC_verified": true
+  },
+  {
+    "stage": "P14",
+    "record": "14961942",
+    "archive": "WT_P14__20240528__152132.zip",
+    "url": "https://zenodo.org/api/records/14961942/files/WT_P14__20240528__152132.zip/content",
+    "member": "output-XETG00054__0028930__WT_P14__20240528__152132/morphology_focus/morphology_focus_0001.ome.tif",
+    "compressed_bytes": 515583284,
+    "bytes": 515571637,
+    "zip_crc32": 2045124507,
+    "bounded_range_bytes": 16777216,
+    "CRC_verified": true
+  },
+  {
+    "stage": "P14",
+    "record": "14961942",
+    "archive": "WT_P14__20240528__152132.zip",
+    "url": "https://zenodo.org/api/records/14961942/files/WT_P14__20240528__152132.zip/content",
+    "member": "output-XETG00054__0028930__WT_P14__20240528__152132/transcripts.parquet",
+    "compressed_bytes": 1389671777,
+    "bytes": 1414526937,
+    "zip_crc32": 2905379011,
+    "bounded_range_bytes": 16777216,
+    "CRC_verified": true
+  }
+]

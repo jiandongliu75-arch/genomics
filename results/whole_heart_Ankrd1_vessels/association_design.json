@@ -1,0 +1,45 @@
+{
+  "outcomes": [
+    "Measured Ankrd1 log1pCP10k",
+    "Mean Creb5/Tlr4/Atf3 log1pCP10k"
+  ],
+  "normalization": "403-target total excluding all4 outcome genes; unchanged original integer counts",
+  "primary_cohort": "whole_reference_strict ventricular marker-supported CMs",
+  "cohorts": [
+    "whole_reference_strict",
+    "whole_reference_inclusive",
+    "annotation_consensus",
+    "published_ventricular",
+    "strict_Pearson_agreement",
+    "previous_CM_gate"
+  ],
+  "definitions": [
+    "independent_strict",
+    "independent_marker",
+    "published_comparator"
+  ],
+  "primary_definition": "independent_strict",
+  "near_far_thresholds_um": [
+    [
+      20,
+      40,
+      100
+    ],
+    [
+      30,
+      60,
+      150
+    ],
+    [
+      50,
+      100,
+      200
+    ]
+  ],
+  "primary_contrast": "near0<d<=30\u00b5m, controls60<=d<=150\u00b5m",
+  "pair_matching": "Same vascular segment,1:1 without replacement; physical separation<=100\u00b5m, depth/area ratios0.5\u20132,endocardial-distance difference<=50\u00b5m; best covariate-distance score; seed184",
+  "regional_control": "Same-vessel local neighborhood and endocardial distance; no validated LV/RV or wall-depth anatomical masks",
+  "high_expression": "Above the75th percentile in strict ventricular CMs at the same stage, before vessel association tests",
+  "permutation": "Optional4096 segment-level sign flips when>=6 segments; exploratory within-section diagnostic, no animal-level inference; correlated vessel fragments can remain",
+  "primary_summary": "Near/far expression ratio and equal-segment mean paired log-expression difference; every sensitivity reported without selection"
+}

@@ -1,0 +1,5 @@
+stage	original_cells	mapped_ventricular_cells	fine_RNA_groups_tested	validation_selected_stagewide_groups	selected_stagewide_cut_passes_assessment	fine_classes_with_selective_RNA_support	fine_groups_with_local_candidate_cells	local_candidate_cells	prioritized_fine_groups	prioritized_fine_candidate_cells	multi_check_candidate_cells	library_raw_consistent_cells	both_gene_halves_agree_cells
+P0	47611	21994	8	3	True	2	2	1450	3	3283	2369	1955	5609
+P7	99429	38580	9	3	True	2	2	4816	2	4816	4002	9880	17859
+P14	117070	49656	5	2	True	2	2	3369	3	4006	637	5450	21688
+P21	143944	58358	6	1	True	1	1	1652	1	1652	0	2781	22202

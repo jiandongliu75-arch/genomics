@@ -1,0 +1,40 @@
+{
+  "eviction_reason": "Conserve workspace disk after exact source reconstruction and derived whole-section outputs",
+  "source_DAPI_native_polygons_and_original_count_atlas_retained": true,
+  "members": [
+    {
+      "cache_file": "/workspace/heart-atlas/results/xenium_boundary_inputs/P21/morphology_focus_0001.ome.tif",
+      "bytes": 640027803,
+      "sha256": "8f44ca8bf7347a51c3a5a24258da42587342b61c087aa78904cacfd600c24973",
+      "acquisition": {
+        "stage": "P21",
+        "record": "14961942",
+        "archive": "WT_P21__20240528__152132.zip",
+        "url": "https://zenodo.org/api/records/14961942/files/WT_P21__20240528__152132.zip/content",
+        "member": "output-XETG00054__0028928__WT_P21__20240528__152132/morphology_focus/morphology_focus_0001.ome.tif",
+        "compressed_bytes": 640153692,
+        "bytes": 640027803,
+        "zip_crc32": 1047068368,
+        "bounded_range_bytes": 16777216,
+        "CRC_verified": true
+      }
+    },
+    {
+      "cache_file": "/workspace/heart-atlas/results/xenium_boundary_inputs/P21/transcripts.parquet",
+      "bytes": 1918601190,
+      "sha256": "8d2240d3ab1a102160bae8daa6975255e65aa2c10e5397a76026b0a2709f95d5",
+      "acquisition": {
+        "stage": "P21",
+        "record": "14961942",
+        "archive": "WT_P21__20240528__152132.zip",
+        "url": "https://zenodo.org/api/records/14961942/files/WT_P21__20240528__152132.zip/content",
+        "member": "output-XETG00054__0028928__WT_P21__20240528__152132/transcripts.parquet",
+        "compressed_bytes": 1885328334,
+        "bytes": 1918601190,
+        "zip_crc32": 602036041,
+        "bounded_range_bytes": 16777216,
+        "CRC_verified": true
+      }
+    }
+  ]
+}

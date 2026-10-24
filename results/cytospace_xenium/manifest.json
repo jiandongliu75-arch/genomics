@@ -1,0 +1,1510 @@
+{
+  "results": [
+    {
+      "path": "results/cytospace_xenium/P0/P0_cytospace_raw_and_supported_maps.pdf",
+      "bytes": 1270986,
+      "sha256": "123df8232c1efcff4e4eb5efff8df7d49c895b525a9aa30b06627b461e31626a"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/P0_cytospace_raw_and_supported_maps.png",
+      "bytes": 4807201,
+      "sha256": "495d52c27aff1d5732f40500286827ebc796da113a4b60bffc7a55b9925d423c"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/all_cells_eligibility.tsv.gz",
+      "bytes": 9121010,
+      "sha256": "829d3755526b07f5a31f3eaa2accdccc04c357f02e098058e5e971e934a706df"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/corrected_seed42/annotated_assignments.tsv.gz",
+      "bytes": 1590448,
+      "sha256": "bd35b73060bdb8541418344e1545185cc0eab378903ffe81a0857291f4c81371"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/corrected_seed42/assigned_locations.csv.gz",
+      "bytes": 882236,
+      "sha256": "251c7f5e9feb0093345326abd7be90217d71a1622148de5aba1f1f18da3ecedd"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/corrected_seed42/query_input_order.tsv.gz",
+      "bytes": 154746,
+      "sha256": "25d74fdd4ae4e9b126486311e8b237fc7a9bc4f188f176362a15874f589c7f61"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/corrected_seed42/reference_pool.tsv.gz",
+      "bytes": 150137,
+      "sha256": "78633253606193ae60ff34b91b8e4ba72edc3eeac0ea59c0e6a1ab6ab47ce81a"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/corrected_seed42/run_manifest.json",
+      "bytes": 7511,
+      "sha256": "c5d6e5d8c69718912543466637390b8f9885d6c19ed2cf0cab7d0c1de54d1e06"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/corrected_seed42/upstream_log.txt",
+      "bytes": 1350,
+      "sha256": "9e8807473f723fd978068f1b7d31e129aef0aa46060de05bce548d8848c3e47c"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/corrected_seed42/upstream_stdout.txt",
+      "bytes": 3050,
+      "sha256": "44ef8adbf756a7d24a4b30b1cebd4172911257fb378e85df709ed676740fe30d"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/corrected_seed43/annotated_assignments.tsv.gz",
+      "bytes": 1590562,
+      "sha256": "40e32fb93917eb2e00d59f7a2c32825a7e0c73825e349b930e7e791859e59771"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/corrected_seed43/assigned_locations.csv.gz",
+      "bytes": 882431,
+      "sha256": "a019b5b27da3fea0c2febf07ffe2a7ea4ea4fb7098fdc268eede1e47ff04a367"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/corrected_seed43/query_input_order.tsv.gz",
+      "bytes": 154655,
+      "sha256": "ed8c6ba6e7bc2e358b00d1472bcc6cdf10662bd6108cf87222ebbaa7ef0a191a"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/corrected_seed43/reference_pool.tsv.gz",
+      "bytes": 149872,
+      "sha256": "22e9e538de22775e83de419c83212870cc985d59c6dfd1f7b9f42bf950f1a8eb"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/corrected_seed43/run_manifest.json",
+      "bytes": 7510,
+      "sha256": "e969016f54c9c6978f2283728ce2230a0824330da9d3cc40205264d6a1afe7f5"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/corrected_seed43/upstream_log.txt",
+      "bytes": 1349,
+      "sha256": "ded3a7dc02c924efdde0bb597c5fd0a92e60ee133b91459a9fc5d03f07dbda4b"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/corrected_seed43/upstream_stdout.txt",
+      "bytes": 3055,
+      "sha256": "420e4c8a2854ec1a89e3f4f0eed229e6401d9504fea457faee794eea99121a37"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/corrected_seed44/annotated_assignments.tsv.gz",
+      "bytes": 1590174,
+      "sha256": "e6c6c87db42c1a85eeaaa5db6fae1688c88ebc33591d33baf5b198281176b3fa"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/corrected_seed44/assigned_locations.csv.gz",
+      "bytes": 882231,
+      "sha256": "e8e446307fba8303a30bbb4e9e2d911e8b1159eb6e1f2aad0444af2a06d8ffdf"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/corrected_seed44/query_input_order.tsv.gz",
+      "bytes": 154776,
+      "sha256": "da5ba44bd9fdc07ad6274c19aa4226d3d10f4c6a95973ee278de15df4ac607f5"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/corrected_seed44/reference_pool.tsv.gz",
+      "bytes": 150306,
+      "sha256": "d41ebd265d74ac258051d14a338bf9122adf174bb395c714d1f6b904e2c14765"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/corrected_seed44/run_manifest.json",
+      "bytes": 7511,
+      "sha256": "24aaef728de4cb4d5050969778f8b169ebe6aadcb658f629f9d11a993877eabb"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/corrected_seed44/upstream_log.txt",
+      "bytes": 1350,
+      "sha256": "0fcf285605d6f7516b251a086811977adb76cd5f4a054ccadff89e1258247583"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/corrected_seed44/upstream_stdout.txt",
+      "bytes": 3056,
+      "sha256": "e6ef8b7d7473989490bc349c81d77eafee3b9104794828ac184bd29e1d7abe9e"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/cytospace_cell_annotations.tsv.gz",
+      "bytes": 8137550,
+      "sha256": "d92e4bc06ba6db406b65f482a637090393bdb7f0cfc864359ed195266c62a394"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/heldout_seed42/annotated_assignments.tsv.gz",
+      "bytes": 1590534,
+      "sha256": "4e30418ba7b2709df561b9be3ba3887019aec1a1b0dfd7003bb0d9331360f4ed"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/heldout_seed42/assigned_locations.csv.gz",
+      "bytes": 882550,
+      "sha256": "f4780444db1d2f57c957712b393bdeb2c2d9d2060f128d238fd222d6d355f709"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/heldout_seed42/query_input_order.tsv.gz",
+      "bytes": 154746,
+      "sha256": "15ff7594fb8e3a0c1f04ba78dcc417f8a75a1460008ecdb757c638742cfb4af6"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/heldout_seed42/reference_pool.tsv.gz",
+      "bytes": 150137,
+      "sha256": "7d267ee387b22be1d544ace76fe1a98851120e061e477d5f075c4f53440593be"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/heldout_seed42/run_manifest.json",
+      "bytes": 7498,
+      "sha256": "ebd4957b57a68d82f7063dad0e7e31cf5223ed1e6b472a1d9c4fdc91d2a50254"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/heldout_seed42/upstream_log.txt",
+      "bytes": 1338,
+      "sha256": "1ff85e7bda8fddf0ea7de09b91cad1be8f22b885c2ab74690f66e5bca92ce982"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/heldout_seed42/upstream_stdout.txt",
+      "bytes": 3054,
+      "sha256": "21a04ac010f5d537d9bb61ce12815c6a812502344462382d2992b3f224e38f1a"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/library1_seed42/annotated_assignments.tsv.gz",
+      "bytes": 1568123,
+      "sha256": "e57dfc6e7782fb51894bfeaf8c539c40cba9e8c9f0a19bccf8ba7da24104f876"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/library1_seed42/assigned_locations.csv.gz",
+      "bytes": 869125,
+      "sha256": "7bea6f1345c9dfe900a5b574a5a0b753ca4f7ae0a4960a76d3f3f006944fcc6e"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/library1_seed42/query_input_order.tsv.gz",
+      "bytes": 154871,
+      "sha256": "492f61b209dbf550c903afef601e1c9cfe17bf0db69b05f95cc8ed3cae3d0d67"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/library1_seed42/reference_pool.tsv.gz",
+      "bytes": 69109,
+      "sha256": "2f94a257de07618248a0a4ae31403935555f0d9a75b14ee76ec436dfac3156e3"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/library1_seed42/run_manifest.json",
+      "bytes": 7480,
+      "sha256": "c344b53d6f45ccf88f1f7b80f8cee6c303e6e681849d6d162b3d887ba425fe9c"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/library1_seed42/upstream_log.txt",
+      "bytes": 1341,
+      "sha256": "a41c9acca6c200edbc1eb85a5244ce964db16ff0b4e0b876f7eb1081bfcd434d"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/library1_seed42/upstream_stdout.txt",
+      "bytes": 3055,
+      "sha256": "bac175177f3788e86ebedefd0d9f3c48cd82215d86edf72df89d906110481de2"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/library2_seed42/annotated_assignments.tsv.gz",
+      "bytes": 1565189,
+      "sha256": "9326963eb257bf8691a812907455c9665f39305bdaa566485ccaed520feeb662"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/library2_seed42/assigned_locations.csv.gz",
+      "bytes": 867033,
+      "sha256": "8c3d104b96b0e4a05e1809157c22b8cd9634f5fe30571c90c41f1c3c8de3c4d2"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/library2_seed42/query_input_order.tsv.gz",
+      "bytes": 154698,
+      "sha256": "fbca4c6a591d07adfb034bb12925506dc218476afb5e67e3acecd9a2f4b42eb1"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/library2_seed42/reference_pool.tsv.gz",
+      "bytes": 72390,
+      "sha256": "ce6f9a3bf8b4f602684b6af4ff6ca0fe719c473603e2854e53d0952d63e9fe0d"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/library2_seed42/run_manifest.json",
+      "bytes": 7479,
+      "sha256": "740f255fe01bce75ea9f0260038f56e70ffa40ea8b6a869bbb502e77f0755074"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/library2_seed42/upstream_log.txt",
+      "bytes": 1343,
+      "sha256": "aa3920a557a1bed6f71a45d0a3f54250d0bc127563651eed519a841c67050399"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/library2_seed42/upstream_stdout.txt",
+      "bytes": 3055,
+      "sha256": "d8460dbecbd73523ae9af7dd7897ca614d4f51a0aeebc53b9fe061918c8be109"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/original_seed42/annotated_assignments.tsv.gz",
+      "bytes": 1590395,
+      "sha256": "2cd38cfe19689d71ec808fe03e0b6e56bde537e3d2a9723d193f1e8a3f571f57"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/original_seed42/assigned_locations.csv.gz",
+      "bytes": 881991,
+      "sha256": "7cb52f39119574e1bc2d91d6e0d1928b8ca8afff9665c074cf70676930fbc85d"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/original_seed42/query_input_order.tsv.gz",
+      "bytes": 154746,
+      "sha256": "3537778e3d02f1d98e78854125169f482ced516afbddab5da85512ef79156fdb"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/original_seed42/reference_pool.tsv.gz",
+      "bytes": 150137,
+      "sha256": "cc0f7f26d096b84357003f6e53810b1b376f784c8c0801fa36141b28b53a80a8"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/original_seed42/run_manifest.json",
+      "bytes": 7470,
+      "sha256": "76dc2d4ddf7f4fd947a9c120a4e868d5224c83781e3e7a83e013cfa00d536cc8"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/original_seed42/upstream_log.txt",
+      "bytes": 1343,
+      "sha256": "178b073f89a3e11994fe5c62a3f94c37dadead480e7ef25028eef2ac4a9e1d65"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/original_seed42/upstream_stdout.txt",
+      "bytes": 3053,
+      "sha256": "674b26b08b7b8c9d32b9b9da1a897c3e5a2fb33b65dfdb1e0df30f3cd707f135"
+    },
+    {
+      "path": "results/cytospace_xenium/P0/prior_vs_cytospace_native_family.tsv",
+      "bytes": 332,
+      "sha256": "9543058dbdd725aaa96309032dd11548924b8298403869e91db34d76dbda53d0"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/P14_cytospace_raw_and_supported_maps.pdf",
+      "bytes": 1211056,
+      "sha256": "52bcc5d67a098eca2538df7e2e974809e29e9032ed029d5a36b98604d3df2f06"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/P14_cytospace_raw_and_supported_maps.png",
+      "bytes": 4582850,
+      "sha256": "f52446d5df67dcdb70e4bf5eeedd7cdd544295ac7737af6bd7cf011cc77cc398"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/all_cells_eligibility.tsv.gz",
+      "bytes": 22929502,
+      "sha256": "78d702fad33b25f9c6a26852c94f5878fd031e1f16d97d963cc83c1672b3a27d"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/corrected_seed42/annotated_assignments.tsv.gz",
+      "bytes": 3805450,
+      "sha256": "3493f32444d9bf7e500a4ce30c7d6618edddb2563521320b9793af1255de5d30"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/corrected_seed42/assigned_locations.csv.gz",
+      "bytes": 2092159,
+      "sha256": "392b28473934460ead17ad9de4e31090649ee1a531cfc9a4478d2d6458d0ae9e"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/corrected_seed42/query_input_order.tsv.gz",
+      "bytes": 374089,
+      "sha256": "d561ac6687f4b18424b4212e8b4fb7f14e613e231a4b019d3ff5112fce642af2"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/corrected_seed42/reference_pool.tsv.gz",
+      "bytes": 190701,
+      "sha256": "02c885dbdf0564b0e2c5176af49b473b6ec271bc52803d2519b27501d8723187"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/corrected_seed42/run_manifest.json",
+      "bytes": 7519,
+      "sha256": "d98e975a313d27fd3e0f9c579744bd5d40294e29d6e5da8e7c94f39d78384bbc"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/corrected_seed42/upstream_log.txt",
+      "bytes": 1358,
+      "sha256": "ea74fe7c147cfe8f6bd399bd6a1462f79862c389787a13297dd8f262288da7ea"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/corrected_seed42/upstream_stdout.txt",
+      "bytes": 4946,
+      "sha256": "3d07dcd1ab5415cacdf5ed98be53a522e3917b013749f40d682b90ec878cd04d"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/corrected_seed43/annotated_assignments.tsv.gz",
+      "bytes": 3804466,
+      "sha256": "04f5f32dd32e8d77de5932e4dd6c9959e6319839e263851f732a8f76a6a5292e"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/corrected_seed43/assigned_locations.csv.gz",
+      "bytes": 2092392,
+      "sha256": "8f44d6fba80d7bcd481ccdd3ab5996dd85e7277f056431e73b7169219052f6e6"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/corrected_seed43/query_input_order.tsv.gz",
+      "bytes": 373929,
+      "sha256": "9953b4d2bf3e3bf248231f813955716f026a3877808d11ee10e11cba4d1b93b1"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/corrected_seed43/reference_pool.tsv.gz",
+      "bytes": 190508,
+      "sha256": "dfe3cc822c27d36facb27b23d43211189e6d5c9e82e42acaba6209e0d20b0bba"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/corrected_seed43/run_manifest.json",
+      "bytes": 7518,
+      "sha256": "b23cc859b4fda3c0604cda2ded9a4265da8ddf5fdcf1553bb4ec26107b3cea65"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/corrected_seed43/upstream_log.txt",
+      "bytes": 1358,
+      "sha256": "976f3fee6b9b62ec79b024f6697767f813b12ec26885ebb725b124964bf2015c"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/corrected_seed43/upstream_stdout.txt",
+      "bytes": 4942,
+      "sha256": "d2ea1df32c4e5e64716314247cef6d230988fd040150a5274c83de64ee1d86ed"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/corrected_seed44/annotated_assignments.tsv.gz",
+      "bytes": 3805281,
+      "sha256": "bbfd583c2127419ea9fb56a07fc51641926d926b3ff30f6528d926007c3a8f1c"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/corrected_seed44/assigned_locations.csv.gz",
+      "bytes": 2093476,
+      "sha256": "cf62beb6716dbab6f240aa1ebd3f01f60f0156b3efebb2bbeaf406f8b420b549"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/corrected_seed44/query_input_order.tsv.gz",
+      "bytes": 373885,
+      "sha256": "04e071077db2816c6d25ce7b10c56b5d64af26a5cbf61b6e7b208afeb379eed0"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/corrected_seed44/reference_pool.tsv.gz",
+      "bytes": 189996,
+      "sha256": "93f47e372fa03f73693a9635abfa0de889fc432f77f107af45579181aec044ad"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/corrected_seed44/run_manifest.json",
+      "bytes": 7520,
+      "sha256": "a72973ec0bceb020b13af2176533da5605bbe5ad2d05ffabb21e43d1a6633c77"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/corrected_seed44/upstream_log.txt",
+      "bytes": 1358,
+      "sha256": "de8fb6d06ecd09c2995ac6abad35143619d7cc0acbe0ba3e939382759c01b03f"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/corrected_seed44/upstream_stdout.txt",
+      "bytes": 4939,
+      "sha256": "2c5c86c83c4d0749258a8c58acd9ea88cef4da97e35258c7d2c6f61a138f0527"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/cytospace_cell_annotations.tsv.gz",
+      "bytes": 19754985,
+      "sha256": "3515b634349acf2022f1ef9879aa7eacae8151bf901150aa2aacc221558a1bbb"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/heldout_seed42/annotated_assignments.tsv.gz",
+      "bytes": 3804564,
+      "sha256": "3a8e0278e3b400ed720e68d531038d58b025cecaa1936b0c17c65e2004172d23"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/heldout_seed42/assigned_locations.csv.gz",
+      "bytes": 2092074,
+      "sha256": "c93d818ee9fb3ef7d619c6c74aab4007371a8126ba0f5cc3e167ae11c6aa7654"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/heldout_seed42/query_input_order.tsv.gz",
+      "bytes": 374089,
+      "sha256": "d5a43d7ed79615198a1f3597654accf198227597fb09d7ce335d13b7d249af45"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/heldout_seed42/reference_pool.tsv.gz",
+      "bytes": 190701,
+      "sha256": "dfb5d4de8257bc2fb21457fddc97ff1cb127d584754cc12ddca7f46ded8c2282"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/heldout_seed42/run_manifest.json",
+      "bytes": 7507,
+      "sha256": "d6eed58cbdffa92990dd2b2c756846fcf2bcdc37e84fad670647d05b00462484"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/heldout_seed42/upstream_log.txt",
+      "bytes": 1345,
+      "sha256": "1826cfa67b2106389d97da458402c033cd7787e33dfb4c6f0e39b926a691652c"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/heldout_seed42/upstream_stdout.txt",
+      "bytes": 4942,
+      "sha256": "03bcfb703619fa4c7ed680ea16bf8bcb1f6e5da9fb161f4e26b1dfc6634076ff"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/library1_seed42/annotated_assignments.tsv.gz",
+      "bytes": 3736090,
+      "sha256": "1fff3cba944cf433bd03a9cb5fea89ee14b451db2c9840824d1be764cef9d12f"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/library1_seed42/assigned_locations.csv.gz",
+      "bytes": 2050561,
+      "sha256": "69b63d03f728da46c66ec40fe77fc032e68e760af4896a8ad5136c2437675a1e"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/library1_seed42/query_input_order.tsv.gz",
+      "bytes": 374042,
+      "sha256": "57671d22aec149856ab20cbc082cf2aa0fe2a7ddf8d4f4461af59e105d021515"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/library1_seed42/reference_pool.tsv.gz",
+      "bytes": 80426,
+      "sha256": "cedd2ff9c8bf8b30380bfd2fa0c8d37f221172d10748045dc7c3d2aea1b58cf6"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/library1_seed42/run_manifest.json",
+      "bytes": 7487,
+      "sha256": "91310866b7891784aca21e96438dfe9019f56016214aa0e54b40f5e5457e7237"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/library1_seed42/upstream_log.txt",
+      "bytes": 1351,
+      "sha256": "738ac310024a540861e8b9b4c365b010bd11c3d3d059a8beba942ca1a52b89fb"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/library1_seed42/upstream_stdout.txt",
+      "bytes": 4940,
+      "sha256": "6b8aed651a04159f73ab9417b845a89a3251fbb8edc64594fca5e114980ada9f"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/library2_seed42/annotated_assignments.tsv.gz",
+      "bytes": 3744773,
+      "sha256": "07378938b8a8487e0aed432d1ba8b0dbf05fc7ac4a8d6b14d5894f6efb4d51e7"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/library2_seed42/assigned_locations.csv.gz",
+      "bytes": 2059642,
+      "sha256": "5b603fb0e4a7fbec20256ff90765f6d75213c222ce15198f86339cbc2ccc70b7"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/library2_seed42/query_input_order.tsv.gz",
+      "bytes": 373968,
+      "sha256": "e83171462e4c2e42c3235a493399b46546491d11f819980defa82f8437a5a072"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/library2_seed42/reference_pool.tsv.gz",
+      "bytes": 97730,
+      "sha256": "63ed768a5ea420ec4d0eaed62c0f9820a868bd607775df7b56e9b47cb0d17936"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/library2_seed42/run_manifest.json",
+      "bytes": 7489,
+      "sha256": "583191e549cd702748f022fd967cc2fe080f5b5106c32261c4a4d8acfe9e10e3"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/library2_seed42/upstream_log.txt",
+      "bytes": 1352,
+      "sha256": "a0f2b4126018d071e2389173dc6ba0120a0137f29798410fabff9fb0fef55d3f"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/library2_seed42/upstream_stdout.txt",
+      "bytes": 4944,
+      "sha256": "b0403458ca6d7daa3d5e3e84eb716d4de8dba2d75ae4b0dd3eed135e691f81fa"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/original_seed42/annotated_assignments.tsv.gz",
+      "bytes": 3805674,
+      "sha256": "3e0daca93524033cdc05ebd1164977fb3706cc74f1e4f185c9d9046f8b949f9b"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/original_seed42/assigned_locations.csv.gz",
+      "bytes": 2093100,
+      "sha256": "31267eb86e2f6ba1d9674ed2e721e2ba8732f54ee80eca28ff72736b48dea666"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/original_seed42/query_input_order.tsv.gz",
+      "bytes": 374089,
+      "sha256": "4761dbc664e7b936d9f93c36b8628c15bc90b3f8952acf5596533a289e568ce1"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/original_seed42/reference_pool.tsv.gz",
+      "bytes": 190701,
+      "sha256": "565c4505a551bbe0073290ebaff7ec253874168f21b7d830ad80d8df674fbd02"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/original_seed42/run_manifest.json",
+      "bytes": 7478,
+      "sha256": "de5878aac7278fabadd33f5ff7f4a210e02e9f5b5ff2b00dec66bda00c7a5243"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/original_seed42/upstream_log.txt",
+      "bytes": 1351,
+      "sha256": "0507ab274849f400c8fb8fa4e4939eb55653a3182630065461c857928ac77cf2"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/original_seed42/upstream_stdout.txt",
+      "bytes": 4940,
+      "sha256": "348fe66ebb5995d3b0fa89d3dfacb5a4f65896bdfd06d7c1b5b18380e4bc7e26"
+    },
+    {
+      "path": "results/cytospace_xenium/P14/prior_vs_cytospace_native_family.tsv",
+      "bytes": 279,
+      "sha256": "d07cdd3ea91a1130033588599b1335886baaac1332a5eee9bac28319cb066eeb"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/P21_cytospace_raw_and_supported_maps.pdf",
+      "bytes": 1452382,
+      "sha256": "00c1aabae71ccbd94cf805cc083128c15e732888296905a29c8c2a9989207418"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/P21_cytospace_raw_and_supported_maps.png",
+      "bytes": 6220606,
+      "sha256": "3f5836c78c5d83d341e436ef8987a199b09d2b8b5b23fcbd98a1e1a63f22629f"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/all_cells_eligibility.tsv.gz",
+      "bytes": 28338749,
+      "sha256": "186bfa4956650ea7f1ae3b2fa97b54e2a79411d7be2bcb8811e179df38019774"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/corrected_seed42/annotated_assignments.tsv.gz",
+      "bytes": 4659460,
+      "sha256": "0fe259568689dfe355ef19fec26f034ed26122cbe9ef2fa4015215aebb6fe911"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/corrected_seed42/assigned_locations.csv.gz",
+      "bytes": 2562536,
+      "sha256": "e1b51260bb86a107cdb86ab7ef768aec01ec8920fa29554799e342d07eb1c75f"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/corrected_seed42/query_input_order.tsv.gz",
+      "bytes": 457174,
+      "sha256": "74dae801629cb078d26d85d5c5f27cd3838e933e2dc790b8b4e241dc4ccbcbd2"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/corrected_seed42/reference_pool.tsv.gz",
+      "bytes": 165108,
+      "sha256": "a18166d80cde757c44ff9fae016bbc5b7a79a48bd990d43f6905c0b872eeea0b"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/corrected_seed42/run_manifest.json",
+      "bytes": 7520,
+      "sha256": "49a00ef6c1355c0bf76e0d6335d1a733809290cd0a9400da6a32e8db3eb795c2"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/corrected_seed42/upstream_log.txt",
+      "bytes": 1358,
+      "sha256": "c05351e3898230d21fe8076d038801bcf9b993fdbc6adda42450a9b2e4193ae2"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/corrected_seed42/upstream_stdout.txt",
+      "bytes": 6169,
+      "sha256": "b592d6db89c0de7eb980bd21161e1b8df217683ad2fbef08856ef93ea23282db"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/corrected_seed43/annotated_assignments.tsv.gz",
+      "bytes": 4659065,
+      "sha256": "c22d181ceea7c181dc07ec1d09e4e8411029d5350b6aee200a55b3208cea1080"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/corrected_seed43/assigned_locations.csv.gz",
+      "bytes": 2563295,
+      "sha256": "80c8c27445e14bc10b4a0171d29b888b366f18251232fe3ba0c70eaae128851d"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/corrected_seed43/query_input_order.tsv.gz",
+      "bytes": 456946,
+      "sha256": "0c1738affdcdf8b34ada143b1cdd95994a408df3a0f36b8b69c65a676f9f8fca"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/corrected_seed43/reference_pool.tsv.gz",
+      "bytes": 165620,
+      "sha256": "fcc676592672b3deb8cd429314e4c3a03a13766bff6da296718dff1a4fa2dd52"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/corrected_seed43/run_manifest.json",
+      "bytes": 7519,
+      "sha256": "73882c9ef44d347790fb6a1a4d02f8f5fc9679b09dadb43ef7a1b1854f9c08fc"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/corrected_seed43/upstream_log.txt",
+      "bytes": 1358,
+      "sha256": "7f0de0e5d59434180d5593e52e99350a041732f053e75560c14a68a5eafcef95"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/corrected_seed43/upstream_stdout.txt",
+      "bytes": 5880,
+      "sha256": "21945ef3712735ddc9ec1216287bbb8be2d6609a4aa151101b898e4e7faf61b1"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/corrected_seed44/annotated_assignments.tsv.gz",
+      "bytes": 4660948,
+      "sha256": "dd42653b54ad5e3ef7b66b166dd1b3ff431c99ea326e58808d2e463c216baacb"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/corrected_seed44/assigned_locations.csv.gz",
+      "bytes": 2563079,
+      "sha256": "2d1a4e5d659413bdbf60dbfe21572f2a3936cbb49bf86142246549592d4c1e22"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/corrected_seed44/query_input_order.tsv.gz",
+      "bytes": 457291,
+      "sha256": "446e04777bd366a636fc0d0f89870f7e71d234fb89c64505cb79e205b839762a"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/corrected_seed44/reference_pool.tsv.gz",
+      "bytes": 165044,
+      "sha256": "91cf0290016350f051629af681e2c7f2b058e404178e91d4f008641e055b71dd"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/corrected_seed44/run_manifest.json",
+      "bytes": 7519,
+      "sha256": "4dbd03701b14c33f3c4714ff6f1bf98992e59983fb3dc810e96a213f67fc20f9"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/corrected_seed44/upstream_log.txt",
+      "bytes": 1357,
+      "sha256": "7bce5abcac2cb410a063d2a47563b0aa9169c2f7d02cefe781073e3ba15ad484"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/corrected_seed44/upstream_stdout.txt",
+      "bytes": 5884,
+      "sha256": "3c54ef791b5a9ae00b9d548966651e2eba04bc1f6213d6f6c7c10413a96842f0"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/cytospace_cell_annotations.tsv.gz",
+      "bytes": 23903603,
+      "sha256": "6c21ba0a3972593f1f0e37cc2339253e6184b42c03bc2eca131ce2f6378ceb3d"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/heldout_seed42/annotated_assignments.tsv.gz",
+      "bytes": 4659083,
+      "sha256": "e3569834eddf21969a7d7580dcd8e227cc36b829dacdefc6254070c2eb171da5"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/heldout_seed42/assigned_locations.csv.gz",
+      "bytes": 2562584,
+      "sha256": "124cccf6dba8cbfa25674041d7f4dcc31897deae265d8673291fab133f137c5d"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/heldout_seed42/query_input_order.tsv.gz",
+      "bytes": 457174,
+      "sha256": "c66151e0736a9382726eccae04460bfc96a6aede5afdcecbe759244747850a36"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/heldout_seed42/reference_pool.tsv.gz",
+      "bytes": 165108,
+      "sha256": "e8777ce45fc14f441e2828cecd79f2a8e9f46d5592c0bc7cab0d4a9521701073"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/heldout_seed42/run_manifest.json",
+      "bytes": 7507,
+      "sha256": "ad93fdda2a16ad765f3f563ac8f034abf553ae7a7b8641d6db87faf55a06e518"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/heldout_seed42/upstream_log.txt",
+      "bytes": 1346,
+      "sha256": "db02f72ccf9c5e799418cc6d8db0c7c11b529a61d4642ddeb568a5fb12785c46"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/heldout_seed42/upstream_stdout.txt",
+      "bytes": 5883,
+      "sha256": "90a713dabc7dfcb592d68477de60f8afb1032691f92a47f930ba7675ee06f3cc"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/library1_seed42/annotated_assignments.tsv.gz",
+      "bytes": 4585544,
+      "sha256": "f73c122f1769523e368141a1bf8760779699252069b93168b65ed947f5f3b41b"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/library1_seed42/assigned_locations.csv.gz",
+      "bytes": 2515399,
+      "sha256": "c15b899b727113cf53747b705445e757f0b5bfaa35b2cab7d10a3e4c301f8fed"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/library1_seed42/query_input_order.tsv.gz",
+      "bytes": 457393,
+      "sha256": "f10c19c77cbfc9995dbcd11f338f95b78133fb465b41f7bb237139320cb3a7f8"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/library1_seed42/reference_pool.tsv.gz",
+      "bytes": 73789,
+      "sha256": "bc02dc961cc7cdcb1df23557aa5729add06c56b35acc5367e87900bbe4b30f0e"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/library1_seed42/run_manifest.json",
+      "bytes": 7488,
+      "sha256": "9ff4e433c192b0a630748c163fc625977e6c92178a6531d7170de7a4a674eacf"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/library1_seed42/upstream_log.txt",
+      "bytes": 1351,
+      "sha256": "897220bf01a9905aff386bf16ca7aadcb1bb76fecf8c1b74d883a1d9050fc71e"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/library1_seed42/upstream_stdout.txt",
+      "bytes": 5880,
+      "sha256": "c977d5202b97700696d1f6e9bdb5181021ee2df3fa21d7b585eec3b0e03ba292"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/library2_seed42/annotated_assignments.tsv.gz",
+      "bytes": 4575241,
+      "sha256": "1f228716efdaf98216b7f4b39f2be9f9954d9a1f9439b437aea8d3b9ebffda6a"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/library2_seed42/assigned_locations.csv.gz",
+      "bytes": 2508771,
+      "sha256": "fca13fdca7c4807dfce152ee6b1245ba871dc40cfa5b43197202de3eae5e130b"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/library2_seed42/query_input_order.tsv.gz",
+      "bytes": 457283,
+      "sha256": "236693e36688514a5abae8115492c26ec5715883d92d447b6075279e086c6b3a"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/library2_seed42/reference_pool.tsv.gz",
+      "bytes": 81326,
+      "sha256": "c874c1573900b9579a3cd11b469a111e8e4957b0fc9900ed63972eed8fab2be7"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/library2_seed42/run_manifest.json",
+      "bytes": 7488,
+      "sha256": "f341bbfa1405690bcdc43589391c538d193724d6c309f3ebdead9a33fb64fd0c"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/library2_seed42/upstream_log.txt",
+      "bytes": 1351,
+      "sha256": "bc8fa84e23a39a2112f339d62cae3a2adc555a3f1662ba56f8f5eec07ba6bfa3"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/library2_seed42/upstream_stdout.txt",
+      "bytes": 5881,
+      "sha256": "3769d4a14f6b15e6f17339f5c90675ae7e4a8615fe1752d2b21db7f5429ff57e"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/original_seed42/annotated_assignments.tsv.gz",
+      "bytes": 4659523,
+      "sha256": "65d12fb96ad4003a924ad4c15588eb5406af515da04dc965da678522debae5f3"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/original_seed42/assigned_locations.csv.gz",
+      "bytes": 2561754,
+      "sha256": "6d21dfd36807fbe893474152e21a703e359af56252ea04076693eb7196d86a4e"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/original_seed42/query_input_order.tsv.gz",
+      "bytes": 457174,
+      "sha256": "f27c839638596d246dade9cfdc3394ff3c1dac0598cf8c83cda069e1b56d393b"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/original_seed42/reference_pool.tsv.gz",
+      "bytes": 165108,
+      "sha256": "17dba7dd3104f8fd41e0f0b7427b07637e73a9297b225416a351110bdb03a028"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/original_seed42/run_manifest.json",
+      "bytes": 7479,
+      "sha256": "66a59acf773024455391fda8a3212c138b3e7c4fa0b65d47798b602fa0571b9f"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/original_seed42/upstream_log.txt",
+      "bytes": 1352,
+      "sha256": "1f6ad461492afbabc87c6afcb9c54b6ace63079488708662bab52685f19938fd"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/original_seed42/upstream_stdout.txt",
+      "bytes": 5883,
+      "sha256": "cd59a6f7a1f7c1c84889015f4b96c0479b99a97d1b757b91f8848ed018f8c4a1"
+    },
+    {
+      "path": "results/cytospace_xenium/P21/prior_vs_cytospace_native_family.tsv",
+      "bytes": 287,
+      "sha256": "2dde365f7d99abd39530827e6eeafa3ecd2d16062cc75081d945f7748d5b179a"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/P7_cytospace_raw_and_supported_maps.pdf",
+      "bytes": 1244719,
+      "sha256": "bcb731ea79003beacb68a2d1c280ec046e446ee39e5a821c250b1289bd76f08b"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/P7_cytospace_raw_and_supported_maps.png",
+      "bytes": 4703004,
+      "sha256": "6cd4937df6f333d0a7576fbea518aa737ff35539b3080a6ceadd27f426127eea"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/all_cells_eligibility.tsv.gz",
+      "bytes": 19686534,
+      "sha256": "f556af889879ce763b543302fc73923aa61afe772d6963f2e22da8aa971197b8"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/corrected_seed42/annotated_assignments.tsv.gz",
+      "bytes": 3252179,
+      "sha256": "ef95a56e24687c86b2803ebed866ea78210841a709ef3d0b6e18eef9f6b5e6da"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/corrected_seed42/assigned_locations.csv.gz",
+      "bytes": 1784330,
+      "sha256": "59f53bd6d6341fc1dfc3f3026d38427674f042fadecc6b9a99e9247c3f8e7246"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/corrected_seed42/query_input_order.tsv.gz",
+      "bytes": 321838,
+      "sha256": "f1e035f82d792f3718df757821362bb28845612e62c6ef100f816971dbb4df6c"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/corrected_seed42/reference_pool.tsv.gz",
+      "bytes": 167552,
+      "sha256": "5c6b6518782dd540e1434f6275c78167407d5c72fd7389e8cc343db46589f34f"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/corrected_seed42/run_manifest.json",
+      "bytes": 7510,
+      "sha256": "7f3a8145e92fc7e314896d9d43db17bccfe463f81107ee8a68468d7bce95f033"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/corrected_seed42/upstream_log.txt",
+      "bytes": 1352,
+      "sha256": "4947fd6a2d1a395e00be02df023afbe5a2405c1161f693659255cc214a14c409"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/corrected_seed42/upstream_stdout.txt",
+      "bytes": 4628,
+      "sha256": "d5cdc25800bba7da2d962e90112076aaed1ae16174f9da1003d1f3a8a6c40735"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/corrected_seed43/annotated_assignments.tsv.gz",
+      "bytes": 3251657,
+      "sha256": "f87b9d720f807cc809f59e04842d863fab014dc0a7da5175ab9a2f93d97a8221"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/corrected_seed43/assigned_locations.csv.gz",
+      "bytes": 1783050,
+      "sha256": "f08fa7786bdc0a9677c1a416e40e69e741a7c200010753c23aad082c7e1b6db7"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/corrected_seed43/query_input_order.tsv.gz",
+      "bytes": 321815,
+      "sha256": "1fa8fc49b040db3ecf221da16d03b85c721de8c63c059959127e3270994c77d9"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/corrected_seed43/reference_pool.tsv.gz",
+      "bytes": 167762,
+      "sha256": "ae7b733214dfd894091df8826dce2246d8e116c5dfb1dd2dee19c732e5e6dddf"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/corrected_seed43/run_manifest.json",
+      "bytes": 7511,
+      "sha256": "07811976ed93fc465b5f1ca945180ab187c998c6b73b413e0c16178ee66ec780"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/corrected_seed43/upstream_log.txt",
+      "bytes": 1351,
+      "sha256": "46bffc0790874aabd9a4af4f0c36abc0788caff9c2232699f733ce5e3e71d253"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/corrected_seed43/upstream_stdout.txt",
+      "bytes": 4628,
+      "sha256": "45a394d18d2da944e88ba661b68d2d2ef58e50b40c272cb0219d35dce184b8b5"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/corrected_seed44/annotated_assignments.tsv.gz",
+      "bytes": 3249784,
+      "sha256": "84e7a4fe39339fcb3400c3a83fcad6320a35e6a65335085725335039e12593e8"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/corrected_seed44/assigned_locations.csv.gz",
+      "bytes": 1781687,
+      "sha256": "535477a771c05a7f9796290471b9105191e7c24bdcf837ecfe5580f52b3f4af4"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/corrected_seed44/query_input_order.tsv.gz",
+      "bytes": 321806,
+      "sha256": "df2dbdc204e0d8c36728b46f2539c3aaed098eec08b06559a90c2635c3a50f77"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/corrected_seed44/reference_pool.tsv.gz",
+      "bytes": 167887,
+      "sha256": "bd300b472b4caee61311f2b620f144c7ccbb338a1d91a077472d89f95597b980"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/corrected_seed44/run_manifest.json",
+      "bytes": 7511,
+      "sha256": "380e041311b2e083e4c04780e86735a33eca39e7f5909a5525f6756a1750db6f"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/corrected_seed44/upstream_log.txt",
+      "bytes": 1352,
+      "sha256": "24debb5baec771a36983bd1723c2abee0d38948018c5bf57abacbb6a57ba0b61"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/corrected_seed44/upstream_stdout.txt",
+      "bytes": 4629,
+      "sha256": "97b3829fa04d6fbc627db06f4ec44e2fcb8aef504dff3021e6c4485e2532eaf2"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/cytospace_cell_annotations.tsv.gz",
+      "bytes": 16098298,
+      "sha256": "ace2d7a495cc3b7f95b8b578fc583cda3f3bf9dcf5bc08cb5d7c9d2333b8a13b"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/heldout_seed42/annotated_assignments.tsv.gz",
+      "bytes": 3251461,
+      "sha256": "73a99c9a4033a573139d925e8ba1d92fbe0e5ff5a8446424358ece2b901596ea"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/heldout_seed42/assigned_locations.csv.gz",
+      "bytes": 1784021,
+      "sha256": "8b8e621ac2840c3ffc0aa306869f84023e54410d331d963283b21f1bc5d15ad7"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/heldout_seed42/query_input_order.tsv.gz",
+      "bytes": 321838,
+      "sha256": "eca7a2a05ec4ccadaac15bc1691d91c0d842464f6fef9d3ef6bbda36286ad4a6"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/heldout_seed42/reference_pool.tsv.gz",
+      "bytes": 167552,
+      "sha256": "fa6205d51135401104e00e838753a6b1f55ced3fea2c3502695db1907e39ea6f"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/heldout_seed42/run_manifest.json",
+      "bytes": 7498,
+      "sha256": "1be5ddfd9a0e59f3553103b1fe2b9f7b5f9e86b08a3f42b70b7fd7461c4f0f56"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/heldout_seed42/upstream_log.txt",
+      "bytes": 1339,
+      "sha256": "8a90f448d8dca8c9c8763276e0a1d18786a31dfdae75d9e086208fe92ecbf013"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/heldout_seed42/upstream_stdout.txt",
+      "bytes": 4624,
+      "sha256": "208e91550b2cbb17d2160ccf04682cccdb92f988cd18555d6ed8956024af3445"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/library1_seed42/annotated_assignments.tsv.gz",
+      "bytes": 3196537,
+      "sha256": "e48a1aa3c8305ea588e6ddc6da40547d1d58d6b84cbb3831591e7a5340156f0f"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/library1_seed42/assigned_locations.csv.gz",
+      "bytes": 1756765,
+      "sha256": "1535c079ad77f84022a5dba7e89ddbeef7e57fa5331ee1c1e99b531aad6f2e1c"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/library1_seed42/query_input_order.tsv.gz",
+      "bytes": 321887,
+      "sha256": "13328d927d52d78449b084af024c11476eac78fdf8cdf8b612324c39a0ef13aa"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/library1_seed42/reference_pool.tsv.gz",
+      "bytes": 95548,
+      "sha256": "849bff9096b20065af54c3c0606d825c6413a5cc07e7bc10db26ef435e12d0c2"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/library1_seed42/run_manifest.json",
+      "bytes": 7480,
+      "sha256": "eb56102ecb40703e2f997a98ea5248a508e5946e735827513000cf6e7a14beaa"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/library1_seed42/upstream_log.txt",
+      "bytes": 1346,
+      "sha256": "2261577c78799170ada394500c89383d744f58c155b1915a7d314753eb0f8216"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/library1_seed42/upstream_stdout.txt",
+      "bytes": 4627,
+      "sha256": "d04bded3e7fd76f97b1f8fe0b978f21a75d9a91ec3eb0df52f262e4aabbd87b6"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/library2_seed42/annotated_assignments.tsv.gz",
+      "bytes": 3194126,
+      "sha256": "dd6ff530a8046085067ef765491aefb8288b362ed4a78ff2b630ff2550bc961e"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/library2_seed42/assigned_locations.csv.gz",
+      "bytes": 1748599,
+      "sha256": "43a4d3fdb24cbba8f823a5cfc3b25715f665778a1adf8bf28c04a0a85a5a671e"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/library2_seed42/query_input_order.tsv.gz",
+      "bytes": 321786,
+      "sha256": "ddf2c6157bb6ec2fa9e255a31316ba1d17421023e919156ef91c522c5dc996c7"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/library2_seed42/reference_pool.tsv.gz",
+      "bytes": 61760,
+      "sha256": "a83cda50f40d97d37123b1163da2df915afb8e8324489344f74425808aa65fdc"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/library2_seed42/run_manifest.json",
+      "bytes": 7479,
+      "sha256": "bea0cefab998ed9c93c9cfd9c91bcd46ab11efb5f9d3e58a617ea8a210b55b6d"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/library2_seed42/upstream_log.txt",
+      "bytes": 1345,
+      "sha256": "6c62ebd4cdf70c64c5b01f5388913a5d86dedcdaaeb4d16f4568f444a6d67cf2"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/library2_seed42/upstream_stdout.txt",
+      "bytes": 4630,
+      "sha256": "cef4438a61ba7fd8bd1d31ffbe412a038a94ab051a67ee471cef8f9fca1a3ead"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/original_seed42/annotated_assignments.tsv.gz",
+      "bytes": 3252084,
+      "sha256": "0e38e43ac00cec103172a6117d52059c24b4b52cf7afd9e8c28bc9a80d4efb83"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/original_seed42/assigned_locations.csv.gz",
+      "bytes": 1783501,
+      "sha256": "01d2fb5c30ae1dc4171b3153e85d3692fe13347032998d857d86901592121906"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/original_seed42/query_input_order.tsv.gz",
+      "bytes": 321838,
+      "sha256": "939c56716663f5dcd3e57958183343a0443326d6dc3e7020f5bdbbf7a6942c80"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/original_seed42/reference_pool.tsv.gz",
+      "bytes": 167552,
+      "sha256": "519581d5a31a9b9abc314baef9198330ce3cdb622eb626acc9dfe5942d593550"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/original_seed42/run_manifest.json",
+      "bytes": 7470,
+      "sha256": "34ca1d1d510e3be1d9c722db4fde4e75112bfad4c4be0bf63ce3e9cb93c30677"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/original_seed42/upstream_log.txt",
+      "bytes": 1345,
+      "sha256": "f717bbad7a101d0bdd2306df0f23a11f13c11355f8a852aeb56657acabad3681"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/original_seed42/upstream_stdout.txt",
+      "bytes": 4630,
+      "sha256": "3eafe779bb3fe58d32569acb104df28be30286f5e7fd693ec4fd9621b7abf52a"
+    },
+    {
+      "path": "results/cytospace_xenium/P7/prior_vs_cytospace_native_family.tsv",
+      "bytes": 441,
+      "sha256": "d52454aacdc3fd01db15f1264af2768724ff379c237a4d3d6d618dd42ce0608d"
+    },
+    {
+      "path": "results/cytospace_xenium/README.md",
+      "bytes": 16384,
+      "sha256": "24274e8889dd9c70e91e59374aedf881c701dce406757321e4ff81eb3a1333ad"
+    },
+    {
+      "path": "results/cytospace_xenium/author_comparison_provenance.json",
+      "bytes": 1638,
+      "sha256": "de67bd065234ec33889a54c3d6e55705152ae4bd0a6e2e65b79cf573186e69e5"
+    },
+    {
+      "path": "results/cytospace_xenium/author_pipeline_comparison.md",
+      "bytes": 8702,
+      "sha256": "e5b1a0860cc399cd26c620bdbadd8374cfba5afdf7e67c0d355a7852e843c350"
+    },
+    {
+      "path": "results/cytospace_xenium/comparison_with_previous_mapping.tsv",
+      "bytes": 349,
+      "sha256": "6852dccf480953e177021780ea80f9b11cc42a17b3919988528dcead2fbf37b9"
+    },
+    {
+      "path": "results/cytospace_xenium/cytospace_spatial_maps_and_checks.pdf",
+      "bytes": 5111942,
+      "sha256": "c26b4a0b4ec9cc1e9e193627d1c6365236ba551fe02e42831d6b4abd796ebbb8"
+    },
+    {
+      "path": "results/cytospace_xenium/expression_fit_diagnostics.tsv",
+      "bytes": 16830,
+      "sha256": "5c3bc2ef4d8302194b3823e802f461ac434dc4146b83a85e53fb9d6937ce59b1"
+    },
+    {
+      "path": "results/cytospace_xenium/fine_group_measured_marker_coverage.tsv",
+      "bytes": 931,
+      "sha256": "602393c0c9b5a3b3a8a038334294a9b6a72d22d807af60dca4487a59cbe6cb84"
+    },
+    {
+      "path": "results/cytospace_xenium/heldout_gene_grid250um_evaluation.tsv.gz",
+      "bytes": 350028,
+      "sha256": "30c69db9acecd3212bfd0d00f1516b2621df6cbef848fe29fdcb02def3b9c99c"
+    },
+    {
+      "path": "results/cytospace_xenium/heldout_gene_recovery.pdf",
+      "bytes": 45036,
+      "sha256": "e1cc40bfd499bafab9312e9a1b04e2b42c1070ac9f1447637d4dbca05047f265"
+    },
+    {
+      "path": "results/cytospace_xenium/heldout_gene_recovery.png",
+      "bytes": 455422,
+      "sha256": "64de2af4a3645e771e71d3feeb611a4cc863c3fea0171004321d244533dd8a3f"
+    },
+    {
+      "path": "results/cytospace_xenium/heldout_gene_recovery.tsv",
+      "bytes": 17221,
+      "sha256": "c97afd71e2dc370ae8bc0d35d5830123cd395fdc914013c4e87f4c24081699c4"
+    },
+    {
+      "path": "results/cytospace_xenium/methods.json",
+      "bytes": 2463,
+      "sha256": "89a7fe46f415f0becbfb64a37fc6bae9a803c4d88046e3004f31949d28c7f8d6"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_marker_feature_mapping.tsv",
+      "bytes": 1649,
+      "sha256": "b84298f3f9d4a4011f23d83eac53b1e926687d31c92e2194a2b49e9394d379a5"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_marker_provenance.json",
+      "bytes": 607,
+      "sha256": "43f7386dcc91a6ea7e700bef1546208f1071453db3c031f577e7d0b1ce902736"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P0/query_library1/assigned_locations.csv.gz",
+      "bytes": 150607,
+      "sha256": "de78134b5b8537787935162cd4bfea30c70d60614094583083f8e245b7eb837a"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P0/query_library1/benchmark_manifest.json",
+      "bytes": 1427,
+      "sha256": "16481ba47df4a5faad4b45c6bbed2c2f7911dd3d9ce856ddf1d281b68a894023"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P0/query_library1/mapping_family_confusion.tsv",
+      "bytes": 317,
+      "sha256": "01baf493c2c18ee5cb223c9007464aab5351943944b09dced5c96a9d8a5afe70"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P0/query_library1/upstream_log.txt",
+      "bytes": 1359,
+      "sha256": "7dbbcdcd14ce762f3c861749018a9534cbebabfb44a695125fd61b928fa41c8c"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P0/query_library1/upstream_stdout.txt",
+      "bytes": 2111,
+      "sha256": "9719726ba0be46cbbdf200cdbfeb5c14e518c5b401abb359e65a4e46ce8b5a75"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P0/query_library1/ventricular_group_confusion.tsv",
+      "bytes": 304,
+      "sha256": "c34da1d9611b0a471e7c2d6d19866e1f1cd68fbf88546a15bb8158bb5fada2e0"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P0/query_library2/assigned_locations.csv.gz",
+      "bytes": 159653,
+      "sha256": "7b74a71ee5e09ca35ac9ff18a351a70c2b405b72640008790f03a98d6cb51acc"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P0/query_library2/benchmark_manifest.json",
+      "bytes": 1427,
+      "sha256": "f118860f25f113fd09f80d508e2fc9049254db3290f0dad23fff78cd45d965e8"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P0/query_library2/mapping_family_confusion.tsv",
+      "bytes": 317,
+      "sha256": "aee3c039820bd7f539d602693eeca48a54b3a2888cda437797f315c6ff173c8f"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P0/query_library2/upstream_log.txt",
+      "bytes": 1359,
+      "sha256": "8996770b9dcae82b092cce77121a5c6454b75f736d3c0e9e116585bca7f7f867"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P0/query_library2/upstream_stdout.txt",
+      "bytes": 2110,
+      "sha256": "20c0c5cbf8573f90a0646ff87640f818e2829ee99158521cb59c51f14a43fdd5"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P0/query_library2/ventricular_group_confusion.tsv",
+      "bytes": 305,
+      "sha256": "fb2ccf798f3df119b3798bd183e2ded4635efdff3ec6a4de3442f6c7350a94f2"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P14/query_library1/assigned_locations.csv.gz",
+      "bytes": 179562,
+      "sha256": "f31f1c8c145dba8a731d56da1f6d4cc0df27494aa73dab32a617a7ba8bccaddf"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P14/query_library1/benchmark_manifest.json",
+      "bytes": 1436,
+      "sha256": "1279e0a51cd792bb5c40380d9654c04afdbb0a712a692a9bc6066b69db434a9f"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P14/query_library1/mapping_family_confusion.tsv",
+      "bytes": 265,
+      "sha256": "4dcfb5d967ab85d1ba2a8f052c779ebb36965eaeed1f1177701628a789c763a2"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P14/query_library1/upstream_log.txt",
+      "bytes": 1366,
+      "sha256": "0dea7d6ae08a3791ce1295c7f097e381bb04f810c9e5a532da6d7061248be38b"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P14/query_library1/upstream_stdout.txt",
+      "bytes": 2112,
+      "sha256": "4f690212a992f8f5eff738214058580deeebd73319f619f2e2ddf7872f0a04c1"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P14/query_library1/ventricular_group_confusion.tsv",
+      "bytes": 177,
+      "sha256": "e9a45402121e44c2c013130a5760ea86f9380caef25f51f6d7a869b3259a3cbc"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P14/query_library2/assigned_locations.csv.gz",
+      "bytes": 217265,
+      "sha256": "6d58ef41406da874b9a0436f1f0e031b739dae5f51dee3134c67ba190143c4d3"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P14/query_library2/benchmark_manifest.json",
+      "bytes": 1436,
+      "sha256": "58c7694c6e3e5807a9e6f8051cbe7bc98a91f1dfcabaccb1af6b2374652906ae"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P14/query_library2/mapping_family_confusion.tsv",
+      "bytes": 266,
+      "sha256": "69bf9fc0412f1af32082b322ba7d088db5a7a580ba8dfbd35f09f3a425c64620"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P14/query_library2/upstream_log.txt",
+      "bytes": 1366,
+      "sha256": "2234253538f11f921ccbae7c418a7c004a736163f50962149cf96033e76990bb"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P14/query_library2/upstream_stdout.txt",
+      "bytes": 2268,
+      "sha256": "8482dede3a974d0344806fc5813f6d341b4d40a4e8f4f27f709f3174dba3e100"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P14/query_library2/ventricular_group_confusion.tsv",
+      "bytes": 177,
+      "sha256": "e81acedf9811e472e62ee6224a26f8a159812f34593bb0ba03262c115fb8875d"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P21/query_library1/assigned_locations.csv.gz",
+      "bytes": 159704,
+      "sha256": "49328d86dae795d98f140cce910f10053ceaf6e681deaaf38a1b2d149295a95a"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P21/query_library1/benchmark_manifest.json",
+      "bytes": 1436,
+      "sha256": "77280a955feb91811cc693fbcbcfacd498a13e2c189d1561bab8a19853784823"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P21/query_library1/mapping_family_confusion.tsv",
+      "bytes": 262,
+      "sha256": "f1ea6717f877af078c207ce450b20eb62e81958101549df65830404b6a16b7ae"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P21/query_library1/upstream_log.txt",
+      "bytes": 1365,
+      "sha256": "33102be1d2001ba11178586b887c88c8b106510df8ea5a69f3507486454f4798"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P21/query_library1/upstream_stdout.txt",
+      "bytes": 2113,
+      "sha256": "3a28dfb4b0fb36fa1db6e3b095f9f5f23d818f44c514d1cc6a85061edb7bcd13"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P21/query_library1/ventricular_group_confusion.tsv",
+      "bytes": 225,
+      "sha256": "fbcfea76c7d6b93083afed7b74a53f893724dd0d8e0b00bf5189747772d13e3a"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P21/query_library2/assigned_locations.csv.gz",
+      "bytes": 178080,
+      "sha256": "ac475f8e3b18d1092ad831b7edbcee96a96a0777a0ccd88f43c7032c974d930e"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P21/query_library2/benchmark_manifest.json",
+      "bytes": 1436,
+      "sha256": "824a931bc69964e837f0caa1f0841f21b736c4889832b461c92fdaa289a1d622"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P21/query_library2/mapping_family_confusion.tsv",
+      "bytes": 263,
+      "sha256": "9a273b7f9f09fc2b42d39204087708cf7238bce334dbfdddf397250cd37dbbb0"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P21/query_library2/upstream_log.txt",
+      "bytes": 1365,
+      "sha256": "d8ceed3046291af5d537412c2217a8e193250c9fc8d5cce56bfb10220f4edf90"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P21/query_library2/upstream_stdout.txt",
+      "bytes": 2263,
+      "sha256": "4adcdfbf467ac4b5fd6dfdd15da9c53e8c7a2d42dc9e4227419ba39405ea6c04"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P21/query_library2/ventricular_group_confusion.tsv",
+      "bytes": 230,
+      "sha256": "f421b9cdd5440aa6f208f74e5ebf7ff497834d9a1da3e93d2e2560058868607d"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P7/query_library1/assigned_locations.csv.gz",
+      "bytes": 209198,
+      "sha256": "1adf450564cf52c28077d0e1414f0a6fb4ed9fffcb0d21133f58f94a5f4ba6eb"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P7/query_library1/benchmark_manifest.json",
+      "bytes": 1427,
+      "sha256": "7de1cd69b050602d220c0de5321e8dbe5b498317bad7e25fcbe4ae501767f315"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P7/query_library1/mapping_family_confusion.tsv",
+      "bytes": 524,
+      "sha256": "a4d3f4233a24ccf428be3b72a417f62dd0c303c17b8acb45ca529614667fd167"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P7/query_library1/upstream_log.txt",
+      "bytes": 1360,
+      "sha256": "a1720ff3ce5ac8ffb8a536afb56ee5df9074ed649f4cc72e09e899c0177ec171"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P7/query_library1/upstream_stdout.txt",
+      "bytes": 2266,
+      "sha256": "6b0709366b3765ad05a0c721625641e9269d0583e710e4c2f1a7dcb3ddb8ee85"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P7/query_library1/ventricular_group_confusion.tsv",
+      "bytes": 356,
+      "sha256": "a717e9afad0ca77b3aa876585e883220ead6594280411ed11af8a951a650cb2f"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P7/query_library2/assigned_locations.csv.gz",
+      "bytes": 136206,
+      "sha256": "805b0b8647f4b3c638a32fdb92133580bab46d4f5c51c22066c59295c6a716e8"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P7/query_library2/benchmark_manifest.json",
+      "bytes": 1427,
+      "sha256": "73077fe9a9a71ed7d2f6fc267490d9c6cf5a5e91044f70324463f6589218700b"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P7/query_library2/mapping_family_confusion.tsv",
+      "bytes": 513,
+      "sha256": "e98398e1bca01055c1fb63e3dc4f8659c493e4c95e1591245f063c5b96fe460a"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P7/query_library2/upstream_log.txt",
+      "bytes": 1359,
+      "sha256": "0d62764438392c9d3d22e0f4e28a191153be2875b7429bf40818981c59107a5f"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P7/query_library2/upstream_stdout.txt",
+      "bytes": 2108,
+      "sha256": "5dced92de7da48d121d074bc0aa82465c05786e38e2c74af5be73d75d28880f2"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/P7/query_library2/ventricular_group_confusion.tsv",
+      "bytes": 342,
+      "sha256": "f3614610ae6c6db7f5447229e6fdae03a92955e2832b3b738ebe1b6df7f6156d"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/heldout_library_metrics.tsv",
+      "bytes": 11120,
+      "sha256": "a57514113d44a37254221387a304c1a3fcc087ea0104a9a2ee81dbe8a62fde35"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/panel_recoverability.tsv",
+      "bytes": 5224,
+      "sha256": "6b5f0014eb85ca58e31b61cb13195da00cfb48ae4df3b7e04b4a10fd7b86d14f"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_panel_benchmark/precision_threshold_sensitivity.tsv",
+      "bytes": 28146,
+      "sha256": "8418b8220ce5b6ce0a40aef76d6b0dfb575db7c4a74eb4a276c1ab73de9987e5"
+    },
+    {
+      "path": "results/cytospace_xenium/reference_sampling_and_assigned_fractions.tsv",
+      "bytes": 14878,
+      "sha256": "983c55b935b1a07c09bd173cd715da916cd66c399e45ed8805541cbcb7cb20be"
+    },
+    {
+      "path": "results/cytospace_xenium/snRNA_reference_marker_values_NOT_Xenium_measurements.tsv.gz",
+      "bytes": 9030549,
+      "sha256": "ca502cce71881815fba2876ac2c4700834b472b8e256f054303010d5e7463f6f"
+    },
+    {
+      "path": "results/cytospace_xenium/stage_summary.tsv",
+      "bytes": 943,
+      "sha256": "8d2db9a0a8a8d8433bce02ae792c0e512e0e56b3d9d993ab7f3838d45a0dcb37"
+    },
+    {
+      "path": "results/cytospace_xenium/supported_candidate_spatial_summary.tsv",
+      "bytes": 877,
+      "sha256": "e9c8cb4247bf37f6515dfa72873d1115e6a285399bcb25e441eb58aabf54a581"
+    },
+    {
+      "path": "results/cytospace_xenium/validation.json",
+      "bytes": 975,
+      "sha256": "95422e46285271e818fbc239d606b924f247c85adff294b1bd3329964f9bf3e3"
+    },
+    {
+      "path": "results/cytospace_xenium/ventricular_assignment_counts.tsv",
+      "bytes": 4398,
+      "sha256": "c96d4c953ec0b5e7a199fda7670b7f62dee9bdc395e34b91968e02c0da53236a"
+    }
+  ],
+  "analysis": [
+    {
+      "path": "analysis/run_cytospace_xenium.py",
+      "sha256": "22e364e1e15c2f16799590c59d4ead99f971c8094d9d517a0f60c06c04dcc0c1"
+    },
+    {
+      "path": "analysis/benchmark_cytospace_reference.py",
+      "sha256": "c26a42f319abd19ed0a80604019b1320317ed76e4accba0417a1575ef450a722"
+    },
+    {
+      "path": "analysis/prepare_cytospace_reference_markers.py",
+      "sha256": "24d6b69629c8e210d2f37949d5ee74e3b74e7d9a1d13cfe06a736651c5581cd3"
+    },
+    {
+      "path": "analysis/summarize_cytospace_xenium.py",
+      "sha256": "9598ecd7b0dba1caabcf53da5923cf75da7d3581b00a16a5c0dad8abe206cd4b"
+    },
+    {
+      "path": "analysis/plot_cytospace_xenium.py",
+      "sha256": "236a699bfdb9d59de5d45fb1e3eab9391850da048bda56f1341b91a69ee2c001"
+    },
+    {
+      "path": "analysis/validate_cytospace_xenium.py",
+      "sha256": "0ccb31c24b611adf70e87942d1b28ae644c037df43c4e920ad671bb9053aeb9a"
+    },
+    {
+      "path": "analysis/write_cytospace_report.py",
+      "sha256": "4923bbf13c11a1b35157399c3cc07b4888f752f595ccc9ec8beb949b50f101f2"
+    },
+    {
+      "path": "analysis/requirements-cytospace.txt",
+      "sha256": "5c7a635a8333eae75bfb4165721fffcb6be299738a0f22170593d1b92364ebd8"
+    }
+  ],
+  "validation": {
+    "stage_checks": [
+      {
+        "stage": "P0",
+        "source_cells_preserved": 47611,
+        "all_7_runs_complete": true,
+        "coordinates_exactly_conserved": true,
+        "Kcnd2_Irx5_unassayed": true
+      },
+      {
+        "stage": "P7",
+        "source_cells_preserved": 99429,
+        "all_7_runs_complete": true,
+        "coordinates_exactly_conserved": true,
+        "Kcnd2_Irx5_unassayed": true
+      },
+      {
+        "stage": "P14",
+        "source_cells_preserved": 117070,
+        "all_7_runs_complete": true,
+        "coordinates_exactly_conserved": true,
+        "Kcnd2_Irx5_unassayed": true
+      },
+      {
+        "stage": "P21",
+        "source_cells_preserved": 143944,
+        "all_7_runs_complete": true,
+        "coordinates_exactly_conserved": true,
+        "Kcnd2_Irx5_unassayed": true
+      }
+    ],
+    "sampled_pair_correlations": 700,
+    "sampled_label_consensus_checks": 800,
+    "total_assignment_rows_checked": 1690143,
+    "reference_prediction_values_checked": 3034584,
+    "status": "passed"
+  }
+}

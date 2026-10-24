@@ -1,0 +1,11 @@
+{
+  "scope": "Existing transcript-level boundary-audited profiles; no new molecule acquisition",
+  "comparisons": [
+    "Native vs1um core vs count-matched random thinning",
+    "Same image-covered native vs membrane-guided alternative"
+  ],
+  "fine_reference": "Frozen reviewed stage reference and native-query calibration; broad parent labels retained",
+  "same_CM_spatial_subset": ">=90% of 50um FB neighbors audited,>=3FB,>=5resolved neighbors;CM information-QC in every variant",
+  "covariates": "Original frozen covariates; changed measured outcomes and FB exposures evaluated on identical subsets",
+  "limitations": "Alternative boundaries are sensitivity models,not anatomical truth; sampled ROIs not representative independent sections; partial correlations not directly comparable to full-stage joint coefficients"
+}

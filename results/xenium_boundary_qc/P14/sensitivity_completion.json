@@ -1,0 +1,22 @@
+{
+  "stage": "P14",
+  "geometry_targets": 8739,
+  "image_comparison_cells": 4574,
+  "assignment_tables": [
+    "native_Q20_projection_assignments.tsv.gz",
+    "core_1um_projection_assignments.tsv.gz",
+    "core_2um_projection_assignments.tsv.gz",
+    "dilation_2um_projection_assignments.tsv.gz",
+    "native_Q30_projection_assignments.tsv.gz",
+    "native_raster_Q20_projection_assignments.tsv.gz",
+    "centroid_Voronoi_projection_assignments.tsv.gz",
+    "membrane_watershed_projection_assignments.tsv.gz"
+  ],
+  "frozen_reference_and_query_calibration": true,
+  "nucleus_required": false,
+  "ROIs_deduplicated_for_cell_summary": true,
+  "all_source_baseline_labels_reproduced": true,
+  "molecule_completion_sha256": "5abf28531758be9162d997ae1d3157b6980df55a5770131653a2f36eb00d365d",
+  "morphology_completion_sha256": "2f58cd74870f084a1697a7619a9943f166d08d02060adee385c9372a8ff07355",
+  "ROI_reassignment_completion_sha256": "bb479ab7c2f7f088211fcbc2200cf608db2f58cef61272c3f37ebc48a206a5cb"
+}

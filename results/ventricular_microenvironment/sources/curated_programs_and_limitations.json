@@ -1,0 +1,193 @@
+{
+  "paper_Slit2_trabecular_associated": {
+    "genes": [
+      "Sema3a",
+      "Ephb1",
+      "Slc16a12",
+      "Gja5",
+      "Dgki",
+      "Slit2",
+      "Gm35041",
+      "Etv1",
+      "Mpped2",
+      "Cacna1h"
+    ],
+    "source": "Exact Table3 markers; paper spatially associates this state with trabeculae. Remove Gm35041 for interpretable functional score sensitivity; anchor Slit2.",
+    "limitations": "No independent anatomical assignment of our nuclei; conduction/trabecular overlap is expected."
+  },
+  "paper_Ankrd1_mechanosensitive_associated": {
+    "genes": [
+      "Ankrd1",
+      "Xirp2",
+      "Ankrd23",
+      "Nrap",
+      "Tlr4",
+      "Scube2",
+      "Fstl4",
+      "Tox3",
+      "Sorbs2",
+      "Flnc"
+    ],
+    "source": "Exact Table3 markers; anchor Ankrd1. Atf3 is named separately in main text but overlaps immediate-early response.",
+    "limitations": "Expression does not quantify force/strain or establish pathological stress. Developmental and preparation responses remain alternatives."
+  },
+  "paper_Ddc_reference": {
+    "genes": [
+      "1700042O10Rik",
+      "Ddc",
+      "Plppr1",
+      "Unc13c",
+      "Hey2",
+      "Tnni1",
+      "Lpar3",
+      "Hmgcs2",
+      "Acss3",
+      "Irx4"
+    ],
+    "source": "Exact Table3 markers; anchor Ddc.",
+    "limitations": "Not an established transmural location; cross-check against maturation and metabolic programs."
+  },
+  "HIF_response_curated_subset": {
+    "genes": [
+      "Slc2a1",
+      "Pdk1",
+      "Ldha",
+      "Pgk1",
+      "Pfkl",
+      "Pfkfb3",
+      "Aldoa",
+      "Eno1",
+      "Ndrg1",
+      "Ddit4",
+      "Adm",
+      "Angptl4",
+      "P4ha1",
+      "P4ha2",
+      "Bnip3l",
+      "Vegfa"
+    ],
+    "source": "Selected members of HALLMARK_HYPOXIA v7.0 (human symbols mapped by conventional one-to-one mouse symbol spelling; verify in dataset). Mirror raw URL below.",
+    "limitations": "Subset selection is analyst-curated, not a validated oxygen assay. HIF1A activation is largely posttranslational; Hif1a RNA alone is not an oxygen measurement."
+  },
+  "glycolytic_enzyme_program": {
+    "genes": [
+      "Hk1",
+      "Hk2",
+      "Pfkl",
+      "Pfkp",
+      "Aldoa",
+      "Tpi1",
+      "Gapdh",
+      "Pgk1",
+      "Pgam1",
+      "Eno1",
+      "Pkm",
+      "Ldha",
+      "Slc16a3"
+    ],
+    "source": "Canonical enzyme/transporter subset, HALLMARK_GLYCOLYSIS cross-reference.",
+    "limitations": "Metabolic transcription is not metabolic flux or hypoxia; substantial HIF overlap requires leave-overlap sensitivity."
+  },
+  "nuclear_OXPHOS_program": {
+    "genes": [
+      "Ndufs1",
+      "Ndufs2",
+      "Ndufs3",
+      "Ndufs4",
+      "Ndufv1",
+      "Ndufb8",
+      "Sdha",
+      "Sdhb",
+      "Uqcrc1",
+      "Uqcrc2",
+      "Cyc1",
+      "Cox4i1",
+      "Cox5a",
+      "Cox5b",
+      "Cox6b1",
+      "Atp5f1a",
+      "Atp5f1b",
+      "Atp5mc1"
+    ],
+    "source": "Nuclear-encoded members of HALLMARK_OXIDATIVE_PHOSPHORYLATION v7.0.",
+    "limitations": "Exclude mitochondrial-transcript genes from this score to avoid treating capture/QC fraction as oxygen exposure. Nuclear transcript abundance is not respiration."
+  },
+  "fatty_acid_oxidation_program": {
+    "genes": [
+      "Cpt1b",
+      "Acadm",
+      "Acadl",
+      "Acadvl",
+      "Hadha",
+      "Hadhb",
+      "Acaa2",
+      "Echs1",
+      "Etfa",
+      "Etfb",
+      "Etfdh",
+      "Decr1"
+    ],
+    "source": "Analyst-curated canonical FAO/ETF machinery; OXPHOS/FAO context rather than a validated spatial signature.",
+    "limitations": "FAO and OXPHOS have shared components; test overlap sensitivity and maturation confounding."
+  },
+  "structural_mechanocoupling_apparatus": {
+    "genes": [
+      "Vcl",
+      "Tln1",
+      "Tln2",
+      "Itgb1",
+      "Ilk",
+      "Ptk2",
+      "Actn2",
+      "Ldb3",
+      "Csrp3",
+      "Sorbs2",
+      "Xirp2",
+      "Flnc",
+      "Des",
+      "Bag3"
+    ],
+    "source": "Analyst-curated costamere/cytoskeletal coupling machinery; reviews DOI10.1152/ajpheart.00749.2005 and10.1007/s10237-012-0419-2.",
+    "limitations": "Constitutive apparatus expression is not proof that mechanotransduction is activated or force is higher."
+  },
+  "immediate_early_preparation_response_control": {
+    "genes": [
+      "Fos",
+      "Fosb",
+      "Jun",
+      "Junb",
+      "Jund",
+      "Egr1",
+      "Atf3",
+      "Dusp1",
+      "Ier2",
+      "Ier3",
+      "Zfp36",
+      "Hspa1a",
+      "Hspa1b",
+      "Dnajb1"
+    ],
+    "source": "Analyst-curated IEG/heat-shock control, dissociation-effect context DOI10.1038/nmeth.4437.",
+    "limitations": "Also real physiological responses. snRNA reduces some dissociation artifacts but does not eliminate preparation confounding; shared Atf3/Fos/Jun must not define oxygen/mechanics by themselves."
+  },
+  "embryonic_compact_context_only": {
+    "genes": [
+      "Tbx20",
+      "Hey2",
+      "Mycn"
+    ],
+    "source": "Miao etal2018 DOI10.1038/s41598-018-20917-w explicit compact-zone list.",
+    "limitations": "Morphogenesis context; Hey2 is also present at trabecular bases/other cardiac sites. Do not require this embryonic panel to diagnose P14/P21 wall identity."
+  },
+  "embryonic_trabecular_context_only": {
+    "genes": [
+      "Cdkn1c",
+      "Irx3",
+      "Bmp10",
+      "S1pr1",
+      "Gja5"
+    ],
+    "source": "Miao etal2018 explicit trabecular list (p57=Cdkn1c,Cx40=Gja5).",
+    "limitations": "Developmental rather than adult transmural signature; overlap with conduction, proliferation and maturation."
+  }
+}

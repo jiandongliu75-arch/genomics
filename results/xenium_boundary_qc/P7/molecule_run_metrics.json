@@ -1,0 +1,14 @@
+{
+  "rows": 50861406,
+  "Q20_all_features": 33017306,
+  "Q20_gene_transcripts": 33003346,
+  "Q20_assigned_genes": 28479592,
+  "Q20_unassigned_genes": 4523754,
+  "Q30_gene_transcripts": 22492419,
+  "unassigned_dilation_ties_rejected": 6,
+  "unknown_assigned_cell_ids": 0,
+  "observed_Q20_fraction": 0.6491622744365344,
+  "observed_Q20_gene_assigned_fraction": 0.8629304434768523,
+  "vendor_Q20_fraction": 0.6522675610917575,
+  "vendor_gene_assigned_fraction": 0.8629304434768523
+}

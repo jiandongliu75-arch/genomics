@@ -1,0 +1,21 @@
+{
+  "reason": "P0 erosion removes substantial RNA; control identity changes caused by count depth alone before interpreting boundary-specific effects",
+  "scope": "Added technical controls, not outcome-optimized segmentation settings or biological replication",
+  "sampling": "Within each original cell, multivariate hypergeometric sampling without replacement to exactly the perturbed gene-transcript total",
+  "controls": {
+    "thin_to_core1": {
+      "matches": "core_1um",
+      "seed": 501
+    },
+    "thin_to_core2": {
+      "matches": "core_2um",
+      "seed": 502
+    },
+    "thin_to_Q30": {
+      "matches": "native_Q30",
+      "seed": 530
+    }
+  },
+  "nucleus_required": false,
+  "one_fixed_technical_draw_per_condition": true
+}

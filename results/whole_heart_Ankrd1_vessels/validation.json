@@ -1,0 +1,50 @@
+{
+  "status": "PASS",
+  "stages": [
+    {
+      "stage": "P0",
+      "original_cells_checked": 47611,
+      "weighted_reference_pairs_checked": 1386000,
+      "sampled_primary_projections_independently_recomputed": 30,
+      "arterial_segments_checked": 72,
+      "source_vascular_envelopes_rebuilt": 3,
+      "default_matched_pairs_checked": 10606,
+      "outcome_genes_excluded_from_identity_fits": true,
+      "source_counts_and_centroids_unchanged": true
+    },
+    {
+      "stage": "P7",
+      "original_cells_checked": 99429,
+      "weighted_reference_pairs_checked": 2935500,
+      "sampled_primary_projections_independently_recomputed": 30,
+      "arterial_segments_checked": 155,
+      "source_vascular_envelopes_rebuilt": 3,
+      "default_matched_pairs_checked": 24169,
+      "outcome_genes_excluded_from_identity_fits": true,
+      "source_counts_and_centroids_unchanged": true
+    },
+    {
+      "stage": "P14",
+      "original_cells_checked": 117070,
+      "weighted_reference_pairs_checked": 3474210,
+      "sampled_primary_projections_independently_recomputed": 30,
+      "arterial_segments_checked": 278,
+      "source_vascular_envelopes_rebuilt": 3,
+      "default_matched_pairs_checked": 25749,
+      "outcome_genes_excluded_from_identity_fits": true,
+      "source_counts_and_centroids_unchanged": true
+    },
+    {
+      "stage": "P21",
+      "original_cells_checked": 143944,
+      "weighted_reference_pairs_checked": 4271100,
+      "sampled_primary_projections_independently_recomputed": 30,
+      "arterial_segments_checked": 182,
+      "source_vascular_envelopes_rebuilt": 3,
+      "default_matched_pairs_checked": 19969,
+      "outcome_genes_excluded_from_identity_fits": true,
+      "source_counts_and_centroids_unchanged": true
+    }
+  ],
+  "scope": "Numerical/geometry conservation, lineage constraints and local paired-expression calculations; not independent anatomical or animal-level validation."
+}

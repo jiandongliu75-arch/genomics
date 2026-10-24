@@ -1,0 +1,10 @@
+stage	previous_fine_group	previous_prioritized_cells	new_strict_CM_cells	new_inclusive_CM_cells	published_CM_cells	new_strict_and_published_CM	new_nonCM_resolved_cells	new_ambiguous_or_mixed_cells
+P0	P0_M0	1833	1620	1642	1646	1605	105	108
+P0	P0_M2	558	535	539	538	530	4	19
+P0	P0_M5	892	721	740	761	705	99	72
+P7	P7_M3	3937	2780	2927	2612	2534	569	588
+P7	P7_M6	879	707	738	727	691	87	85
+P14	P14_M0	1919	1748	1767	1715	1686	95	76
+P14	P14_M2	1450	801	855	949	791	394	255
+P14	P14_M4	637	495	512	534	489	87	55
+P21	P21_M3	1652	1386	1416	1360	1323	148	118

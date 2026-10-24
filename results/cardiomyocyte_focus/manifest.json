@@ -1,0 +1,65 @@
+{
+  "source": "results/cell_identities_subtypes/Cardiomyocyte/cell_subcluster_annotations.csv.gz",
+  "source_sha256": "e47fc3bcabff0061f4ca78750fc18310b991c225ed48a43d23abb729fc5bf9c0",
+  "displayed_nuclei": 46485,
+  "hidden_unresolved_nuclei": 0,
+  "coordinates": [
+    "subcluster_UMAP1",
+    "subcluster_UMAP2"
+  ],
+  "coordinate_sha256": "d4bd9aee06c6177927d7d8d6bee1af7d23a2d5a161de17937ecf0cf4bff65cda",
+  "method": "Existing coordinates, labels and memberships preserved; same axis limits and aspect ratio in all panels. Stage is color in overview A, proposed subtype in overview B and stage facets. No expression reanalysis or UMAP refitting.",
+  "stage_colors": {
+    "P0": "#0072B2",
+    "P7": "#E69F00",
+    "P14": "#009E73",
+    "P21": "#CC3311"
+  },
+  "subtype_colors": {
+    "Ventricular-like": "#0072B2",
+    "Atrial-like": "#8E44AD",
+    "Conduction-associated CM candidate": "#D55E00"
+  },
+  "files": [
+    {
+      "name": "README.md",
+      "bytes": 2014,
+      "sha256": "2363de90616f03b23ae8487db9656c20757787a48bd13cfde0b47f1f75d4e6d6"
+    },
+    {
+      "name": "cardiomyocyte_stage_and_subtypes.pdf",
+      "bytes": 479240,
+      "sha256": "8ebf77c34fb2d352a8a40c49bf2f1560d2625ee60af0a0c998d05eb45df9729c"
+    },
+    {
+      "name": "cardiomyocyte_stage_vs_subtype.pdf",
+      "bytes": 190793,
+      "sha256": "0ef118e61005cb7644711a87c165573e9a7c427d50f77f4c35f596588823c63f"
+    },
+    {
+      "name": "cardiomyocyte_stage_vs_subtype.png",
+      "bytes": 1240227,
+      "sha256": "e33a15c4f2494f1e506b8d231ecbcfb4bef9a8f804101ef383c012d9d85b8ca1"
+    },
+    {
+      "name": "cardiomyocyte_subtypes_by_stage.pdf",
+      "bytes": 313198,
+      "sha256": "19a6f75a9214d1c242050f110b78afe18a8f40e2778843a01ca7bd84b46c9e14"
+    },
+    {
+      "name": "cardiomyocyte_subtypes_by_stage.png",
+      "bytes": 1154795,
+      "sha256": "64784eb1b530fbaad1ac8e1c2f53c61971bccb1fbfef2001a2f576117d8b8a96"
+    },
+    {
+      "name": "subcluster_subtype_by_stage_counts.tsv",
+      "bytes": 456,
+      "sha256": "a72d20b941a6c7a7ca7f22ad181ed99261d523fd887a46961c97640dc9b99a76"
+    },
+    {
+      "name": "subtype_by_stage_counts.tsv",
+      "bytes": 149,
+      "sha256": "0d309cb2e385f4c2b82311dffba6a723d7b1c308c5ff458d6ffbe6bad1382d02"
+    }
+  ]
+}

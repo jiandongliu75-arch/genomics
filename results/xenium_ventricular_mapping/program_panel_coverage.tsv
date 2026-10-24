@@ -1,0 +1,16 @@
+program	signature_genes	measured_genes	measured_symbols	unmeasured_symbols
+Slit2_trabecular	10	4	Sema3a;Ephb1;Gja5;Slit2	Slc16a12;Dgki;Gm35041;Etv1;Mpped2;Cacna1h
+Ankrd1_response	10	2	Ankrd1;Tlr4	Xirp2;Ankrd23;Nrap;Scube2;Fstl4;Tox3;Sorbs2;Flnc
+HIF_response	16	1	Vegfa	Slc2a1;Pdk1;Ldha;Pgk1;Pfkl;Pfkfb3;Aldoa;Eno1;Ndrg1;Ddit4;Adm;Angptl4;P4ha1;P4ha2;Bnip3l
+HIF_non_glycolytic	8	1	Vegfa	Ndrg1;Ddit4;Adm;Angptl4;P4ha1;P4ha2;Bnip3l
+Glycolysis	13	0	NA	Hk1;Hk2;Pfkl;Pfkp;Aldoa;Tpi1;Gapdh;Pgk1;Pgam1;Eno1;Pkm;Ldha;Slc16a3
+Oxidative_metabolism	18	1	Cox5a	Ndufs1;Ndufs2;Ndufs3;Ndufs4;Ndufv1;Ndufb8;Sdha;Sdhb;Uqcrc1;Uqcrc2;Cyc1;Cox4i1;Cox5b;Cox6b1;Atp5f1a;Atp5f1b;Atp5mc1
+Fatty_acid_oxidation	12	1	Cpt1b	Acadm;Acadl;Acadvl;Hadha;Hadhb;Acaa2;Echs1;Etfa;Etfb;Etfdh;Decr1
+Sarcomere_mechanics	14	1	Itgb1	Vcl;Tln1;Tln2;Ilk;Ptk2;Actn2;Ldb3;Csrp3;Sorbs2;Xirp2;Flnc;Des;Bag3
+IEG_preparation	14	2	Jun;Atf3	Fos;Fosb;Junb;Jund;Egr1;Dusp1;Ier2;Ier3;Zfp36;Hspa1a;Hspa1b;Dnajb1
+Compact_developmental	3	1	Hey2	Mycn;Tbx20
+Trabecular_developmental	6	2	Gja5;Nppa	Cdkn1c;Irx3;Bmp10;S1pr1
+Conduction_overlap	5	2	Cntn2;Gja5	Etv1;Scn5a;Irx3
+Cycling	9	3	Mki67;Top2a;Cenpf	Cdk1;Ccnb1;Ube2c;Mcm2;Mcm5;Pcna
+Maturation_reference	6	4	Tnni3;Myh6;Cpt1b;Ppargc1a	Atp2a2;Casq2
+Ddc_reference	10	2	Ddc;Hey2	1700042O10Rik;Plppr1;Unc13c;Tnni1;Lpar3;Hmgcs2;Acss3;Irx4

@@ -1,0 +1,25 @@
+stage	lineage	previous_resolved_cells	no_anchor_cells	mixed_CM_nonCM_cells	retained_after_both_checks	anchor_genes_assayed
+P0	Endothelial	6798	39	365	6394	Pecam1,Cdh5,Esam,Tek,Vwf
+P0	Fibroblast	2811	414	88	2319	Dcn,Lum,Pdgfra,Tcf21
+P0	Pericyte	487	0	27	460	Rgs5,Cspg4,Pdgfrb
+P0	Smooth muscle	633	2	33	598	Myh11,Cnn1
+P0	Immune	344	5	42	297	Ptprc,Csf1r,Mertk,Cd22,Cd28,Cd8b1
+P0	Epicardial	239	0	1	238	Upk3b,Wt1
+P7	Endothelial	16996	24	962	16010	Pecam1,Cdh5,Esam,Tek,Vwf
+P7	Fibroblast	10053	1200	307	8564	Dcn,Lum,Pdgfra,Tcf21
+P7	Pericyte	2089	0	145	1944	Rgs5,Cspg4,Pdgfrb
+P7	Smooth muscle	922	0	13	909	Myh11,Cnn1
+P7	Immune	1478	0	203	1275	Ptprc,Csf1r,Mertk,Cd22,Cd28,Cd8b1
+P7	Epicardial	376	0	9	367	Upk3b,Wt1
+P14	Endothelial	25088	12	2016	23060	Pecam1,Cdh5,Esam,Tek,Vwf
+P14	Fibroblast	11523	782	940	9824	Dcn,Lum,Pdgfra,Tcf21
+P14	Pericyte	5070	0	469	4601	Rgs5,Cspg4,Pdgfrb
+P14	Smooth muscle	3806	0	75	3731	Myh11,Cnn1
+P14	Immune	2783	6	696	2081	Ptprc,Csf1r,Mertk,Cd22,Cd28,Cd8b1
+P14	Epicardial	435	0	26	409	Upk3b,Wt1
+P21	Endothelial	26828	40	2636	24153	Pecam1,Cdh5,Esam,Tek,Vwf
+P21	Fibroblast	15056	951	1072	13083	Dcn,Lum,Pdgfra,Tcf21
+P21	Pericyte	5094	0	546	4548	Rgs5,Cspg4,Pdgfrb
+P21	Smooth muscle	1940	1	88	1851	Myh11,Cnn1
+P21	Immune	4298	17	907	3375	Ptprc,Csf1r,Mertk,Cd22,Cd28,Cd8b1
+P21	Epicardial	310	0	16	294	Upk3b,Wt1

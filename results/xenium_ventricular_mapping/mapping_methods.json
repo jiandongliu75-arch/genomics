@@ -1,0 +1,14 @@
+{
+  "classifier": "Same-stage multinomial logistic regression; exact shared targets only; reference-fitted gene standardization, class_weight=balanced, C=0.2, lbfgs, max_iter=1500 (retry4000); convergence required. Coefficient exports absorb reference means/scales and act directly on log-normalized shared-panel inputs.",
+  "benchmark": "Hold out each of the two original same-age libraries in turn. Test full corrected shared-panel profiles and a multinomial technical simulation with up to 100 molecules per reference nucleus; no upsampling of low-count nuclei. Libraries not assumed independent animals. This is reference-panel recoverability, not cross-platform spatial accuracy.",
+  "recoverability": "Minimum precision>=0.60, recall>=0.30, F1>=0.40 across both libraries and both coverage conditions; >=30 train/test nuclei per class. Fine groups additionally require >=3 upstream both-library raw/corrected markers.",
+  "query_QC": "Measured transcripts>=30, measured genes>=10, positive cell area, finite centroids, negative-probe fraction<=0.10. Transfer additionally shared transcripts>=20 and shared genes>=8. Missing nuclear area is flagged, not automatically excluded in a thin section.",
+  "lineage_acceptance": "Panel recoverability, score>=0.70, margin>=0.20, agreement between corrected-reference and original-reference fits. CM assignments also require >=2 distinct measured CM markers.",
+  "family_acceptance": "Only accepted ventricular CMs; recoverability, score>=0.60, margin>=0.15, original-reference agreement; cycling/conduction candidates also >=2 corresponding measured genes.",
+  "fine_acceptance": "Recoverability plus upstream marker count, score>=0.65, margin>=0.15, original-reference agreement and consistency with accepted family.",
+  "interpretation": "Scores are uncalibrated normalized classifier outputs, not Xenium posterior probabilities. Labels are candidates. Family merging reduces unsupported fine distinctions.",
+  "spatial": "No spatial smoothing or neighbor-voting labels. Native centroid coordinates; acquired morphology provides image context only.",
+  "assay_limits": "Kcnd2, Irx5 and other absent genes are not measured, imputed, or used to orient anatomy. Original integer Xenium counts unchanged. Controls/QC handled as imaging assay; droplet doublet/ambient methods not applied blindly.",
+  "segmentation_limits": "Simple CM/non-CM co-detection is descriptive. Strong overlap flag additionally requires >=15% of measured transcripts in CM markers and >=15% in a fibroblast/endothelial marker set with >=3 corresponding genes. Neither establishes doublets; real shared programs and boundary leakage are alternatives. No transcript-level reassignment or new segmentation performed.",
+  "stage_limits": "One deposited acquisition region per stage here; section/animal replication not established. Spatial counts are not an unbiased abundance census or independent animals."
+}

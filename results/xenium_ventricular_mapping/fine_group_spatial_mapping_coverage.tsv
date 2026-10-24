@@ -1,0 +1,29 @@
+stage	reference_group	reference_identity	reference_support_status	reference_nuclei	aligned_reference_panel_supported	reference_min_heldout_precision	reference_min_heldout_recall	mapped_spatial_candidate_segments	interpretation
+P0	P0_M0	Cycling-associated CM state	supported RNA state	325	True	0.8733333333333333	0.9844559585492229	6905	Reference-like candidate only; zero means not resolved, not biological absence
+P0	P0_M1	Ddc-associated metabolic-transition candidate	supported RNA state	2393	True	0.7049441786283892	0.6974231088944306	83	Reference-like candidate only; zero means not resolved, not biological absence
+P0	P0_M2	Zbtb16/Ncam1-enriched neonatal working-CM candidate	supported RNA state	2985	True	0.6701846965699209	0.7432835820895523	1	Reference-like candidate only; zero means not resolved, not biological absence
+P0	P0_M3	Ankrd1-associated remodeling candidate A	candidate/review	796	False	0.6153846153846154	0.2494432071269487	0	Reference-like candidate only; zero means not resolved, not biological absence
+P0	P0_M4	Fatty-acid-use-associated candidate	candidate/review	2588	False	0.568502824858757	0.6744186046511628	0	Reference-like candidate only; zero means not resolved, not biological absence
+P0	P0_M5	Slit2-associated, conduction-program-enriched candidate	supported RNA state	856	True	0.8547215496368039	0.754424778761062	761	Reference-like candidate only; zero means not resolved, not biological absence
+P0	P0_M6	Ankrd1-associated remodeling candidate B	candidate/review	983	True	0.6546546546546547	0.5140961857379768	108	Reference-like candidate only; zero means not resolved, not biological absence
+P0	P0_M7	Pola1/Rad51b-associated DNA-maintenance candidate	candidate/review	120	False	0.5882352941176471	0.3076923076923077	0	Reference-like candidate only; zero means not resolved, not biological absence
+P7	P7_M0	Ppara/Rreb1-enriched working-CM candidate	replicate-supported; sensitivity-dependent	3357	False	0.4941583729987018	0.6871239470517448	0	Reference-like candidate only; zero means not resolved, not biological absence
+P7	P7_M1	Ankrd1-associated remodeling state	supported RNA state	3676	False	0.5764331210191083	0.5110441767068273	0	Reference-like candidate only; zero means not resolved, not biological absence
+P7	P7_M2	Fgf14/Pdzrn4 regional electrical candidate	candidate/review	1744	False	0.4442877291960507	0.2902757619738751	0	Reference-like candidate only; zero means not resolved, not biological absence
+P7	P7_M3	Cycling-associated CM state	supported RNA state	776	True	0.9838187702265372	0.8741865509761388	14100	Reference-like candidate only; zero means not resolved, not biological absence
+P7	P7_M4	Ivns1abp/Myom2-enriched working-CM candidate	candidate/review	2293	False	0.3146067415730337	0.31715388858246	0	Reference-like candidate only; zero means not resolved, not biological absence
+P7	P7_M5	Rad51b/Pola1-associated DNA-maintenance candidate	replicate-supported; sensitivity-dependent	888	True	0.6132315521628499	0.4496919917864476	0	Reference-like candidate only; zero means not resolved, not biological absence
+P7	P7_M6	Slit2-associated, conduction-program-enriched candidate	supported RNA state	185	True	0.8947368421052632	0.99	1076	Reference-like candidate only; zero means not resolved, not biological absence
+P7	P7_M7	Small uncharacterized ventricular-CM candidate A	candidate/review	63	False	0.0	0.0	0	Reference-like candidate only; zero means not resolved, not biological absence
+P7	P7_M8	Small uncharacterized ventricular-CM candidate B	candidate/review	58	False	0.0	0.0	0	Reference-like candidate only; zero means not resolved, not biological absence
+P14	P14_M0	Slit2/Mpped2 regional electrical candidate	candidate/review	2638	False	0.573394495412844	0.4823369565217391	0	Reference-like candidate only; zero means not resolved, not biological absence
+P14	P14_M1	Lrtm1-enriched working-CM candidate	candidate/review	3440	False	0.5357292101964062	0.6825	0	Reference-like candidate only; zero means not resolved, not biological absence
+P14	P14_M2	Ankrd1-associated remodeling state	supported RNA state	3244	True	0.6776814734561214	0.7527075812274369	514	Reference-like candidate only; zero means not resolved, not biological absence
+P14	P14_M3	Kcnd2/Pdzrn4-enriched repolarization candidate	candidate/review	1501	False	0.4487179487179487	0.1994261119081779	0	Reference-like candidate only; zero means not resolved, not biological absence
+P14	P14_M4	Slit2-associated, conduction-program-enriched candidate	replicate-supported; sensitivity-dependent	219	True	0.8455284552845529	0.5833333333333334	1401	Reference-like candidate only; zero means not resolved, not biological absence
+P21	P21_M0	Lrtm1/Stk39-enriched working/electrical candidate	candidate/review	1778	False	0.3575851393188854	0.3535773710482529	0	Reference-like candidate only; zero means not resolved, not biological absence
+P21	P21_M1	Marker-poor working-CM candidate	candidate/review	2024	False	0.4244354371742906	0.4979423868312757	0	Reference-like candidate only; zero means not resolved, not biological absence
+P21	P21_M2	Ankrd1-associated remodeling candidate A	candidate/review	1372	False	0.6198198198198198	0.3583333333333333	0	Reference-like candidate only; zero means not resolved, not biological absence
+P21	P21_M3	Slit2/Mpped2 regional electrical candidate	supported RNA state	2380	True	0.6189516129032258	0.6148693904889484	127	Reference-like candidate only; zero means not resolved, not biological absence
+P21	P21_M4	Ankrd1-associated remodeling candidate B	candidate/review	1709	False	0.4156521739130435	0.4369287020109689	0	Reference-like candidate only; zero means not resolved, not biological absence
+P21	P21_M5	Small Slit2-associated conduction-program candidate	candidate/review	72	True	0.8235294117647058	0.8	1585	Reference-like candidate only; zero means not resolved, not biological absence
