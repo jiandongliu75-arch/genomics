@@ -1,0 +1,9 @@
+stage	covariate	target_family	reference_family	before_standardized_mean_difference	after_standardized_mean_difference
+P7	log_gene_molecules	Gfpt2-associated	Postn-associated	0.18091766989705674	0.0032724508726739154
+P7	log_cell_area	Gfpt2-associated	Postn-associated	-0.25747743991992433	-0.0011580272409398573
+P7	log_resolved_neighbors_50um	Gfpt2-associated	Postn-associated	0.41026898485593505	-0.005646833478389901
+P7	nuclear_fraction	Gfpt2-associated	Postn-associated	-0.37619593132024814	-0.0030157270660707836
+P14	log_gene_molecules	Col8a1-associated	Gfpt2-associated	0.15536714432341553	0.012302831177769702
+P14	log_cell_area	Col8a1-associated	Gfpt2-associated	0.26122107904858965	0.04718749739565903
+P14	log_resolved_neighbors_50um	Col8a1-associated	Gfpt2-associated	-0.13927550937787367	-0.029609840136082047
+P14	nuclear_fraction	Col8a1-associated	Gfpt2-associated	0.01524836249243038	0.00186465863878333

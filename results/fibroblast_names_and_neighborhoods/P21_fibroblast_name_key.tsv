@@ -1,0 +1,8 @@
+original_cluster_id	display_name	short_name	broad_family	distinguishing_RNA_markers	functional_hypothesis	nuclei	spatial_resolution
+P21_F0	Col8a1/Svep1 fibroblasts	Col8a1/Svep1	Col8a1-associated	Adgrl3;Svep1;Fap;Abca8a	Matrix organization/adhesion-associated RNA	1330	Broad family only; separate substate location unestablished
+P21_F2	Col8a1/Hmcn2 fibroblasts	Col8a1/Hmcn2	Col8a1-associated	Hmcn2;Pcsk6;Adamtsl3;Fbln2;Lamc1	Matrix organization/processing-associated RNA	1381	Broad family only; separate substate location unestablished
+P21_F1	Lsamp/Slit3 fibroblasts	Lsamp/Slit3	Lsamp-associated	Slit3;Rgs6;Chrm3;Cfh;Eln;Angpt1	Elastic-matrix and adhesion/signaling-associated RNA	695	Broad family only; separate substate location unestablished
+P21_F5	Lsamp/Col4a5 fibroblasts	Lsamp/Col4a5	Lsamp-associated	Lsamp;Col4a5;Col4a6;Itgbl1;Eln;Cfh	Elastic-matrix and collagen-IV-associated RNA	538	Broad family only; separate substate location unestablished
+P21_F3	Gfpt2-associated fibroblasts	Gfpt2	Gfpt2-associated	Gfpt2;Adgrd1;Cmah;Sema3c	Matrix/metabolic-associated RNA	279	Broad family only; separate substate location unestablished
+P21_F4	Kirrel3-associated fibroblasts	Kirrel3	Kirrel3-associated	Kirrel3;Erbb4;Pdzrn4;Dkk3	Adhesion/signaling-associated RNA; valve anatomy unverified	114	Broad family only; separate substate location unestablished
+P21_F6	Residual CM-program review	CM-program review	Unresolved fibroblast program	Fhl2;Rbm20;Fgf13;Cacna1c	Excluded from clean fibroblast reference; source retained	74	Withheld from fine reference
