@@ -1,6 +1,8 @@
 # Fibroblast subtype catalog: P0–P21
 
-This synthesis retains five broad RNA families, within-age substates and a cycling overlay. It incorporates the focused P21_F0 identity review. Functional descriptions are marker-based hypotheses, and fine anatomical placement remains incomplete. It does not recompute a UMAP, change source counts or refit the preceding Xenium maps.
+This synthesis retains five broad RNA families, within-age substates and a cycling overlay. It incorporates the focused P21_F0 identity review. Functional descriptions are marker-based hypotheses, and fine anatomical placement remains incomplete. It does not recompute a UMAP, change source counts. The subsequent reviewed-reference Xenium refit is linked below.
+
+[Completed reviewed-reference Xenium refit](../fibroblast_Xenium_reviewed_refit/README.md)
 
 [Family functions and spatial interpretation](INTERPRETATION.md) · [All 31 groups: markers, support, functional interpretation and spatial limits](all_stage_subtypes.tsv) · [Reviewed family counts](reviewed_family_nucleus_counts.tsv) · [Paper marker lists and assay coverage](paper_family_markers_and_assay_coverage.tsv) · [Validation](validation.json)
 

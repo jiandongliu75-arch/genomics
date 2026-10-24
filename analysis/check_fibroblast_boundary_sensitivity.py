@@ -17,9 +17,9 @@ def partial_r(y,x,base):
     return np.corrcoef(yr,xr)[0,1] if min(yr.std(),xr.std())>1e-10 else np.nan
 
 
-def main():
+def main(save_profile_assignments=False):
     ann=pd.read_csv(OUT/'RNA_cell_annotations.tsv.gz',sep='\t',index_col=0)
-    retention=[];outcomes=[];associations=[]
+    retention=[];outcomes=[];associations=[];profile_assignments=[]
     for stage in STAGES:
         folder=OUT/stage;qc=ROOT/'results/xenium_boundary_qc'/stage
         print('BOUNDARY_STAGE',stage,flush=True)
@@ -59,6 +59,13 @@ def main():
                 pred=model.predict(counts)
                 classified=annotate(counts,genes,model,pred);classified.index=fb.index[cf]
                 original=fb.loc[classified.index]
+                if save_profile_assignments:
+                    audit=classified.copy()
+                    audit.index.name='cell_id';audit=audit.reset_index()
+                    audit['stage']=stage;audit['scope']=scope;audit['variant']=variant
+                    audit['native_mapped_family']=original.mapped_family.to_numpy()
+                    audit['native_supported_family_assignment']=original.supported_family_assignment.to_numpy()
+                    profile_assignments.append(audit)
                 for family in FAMILIES+[UNRESOLVED]:
                     mask=original.mapped_family.eq(family)
                     if not mask.any():continue
@@ -95,6 +102,8 @@ def main():
     save_tsv(pd.DataFrame(retention),OUT/'boundary_fibroblast_state_retention.tsv')
     save_tsv(pd.DataFrame(outcomes),OUT/'boundary_CM_outcome_sensitivity.tsv')
     save_tsv(pd.DataFrame(associations),OUT/'boundary_spatial_association_sensitivity.tsv')
+    if save_profile_assignments:
+        pd.concat(profile_assignments,ignore_index=True).to_csv(OUT/'boundary_profile_assignments.tsv.gz',sep='\t',index=False,na_rep='NA')
     write_json(OUT/'boundary_methods.json',{'scope':'Existing transcript-level boundary-audited profiles; no new molecule acquisition',
         'comparisons':['Native vs1um core vs count-matched random thinning','Same image-covered native vs membrane-guided alternative'],
         'fine_reference':'Frozen original stage reference and query calibration; broad parent labels retained',

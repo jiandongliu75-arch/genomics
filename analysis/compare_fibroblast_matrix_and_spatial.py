@@ -234,8 +234,7 @@ def spatial_comparisons():
             families=d[[c for c in d if c.startswith('family__')]]
             # Early reference families exhaust the simplex. Omit Postn as the
             # reference component instead of fitting numerically collinear fractions.
-            if families['family__Postn-associated'].std()>1e-8:
-                families=families.drop(columns='family__Postn-associated')
+            families=identifiable_family_exposures(families)
             matrix=d[[c for c in d if c.startswith('matrix__')]]
             sets={'families':families,'matrix':matrix,'both':pd.concat([families,matrix],axis=1)}
             xy=d[['x_centroid','y_centroid']].to_numpy()

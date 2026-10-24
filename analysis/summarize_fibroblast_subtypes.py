@@ -54,7 +54,7 @@ def main():
     df.loc[df.lineage_mixing_review_flag, 'spatial_resolution'] = 'Withheld from fine reference; not assigned a fibroblast niche.'
     df.loc[df.cluster_id.eq('P14_F7'), 'spatial_resolution'] = 'Broad family unresolved; no supported fine spatial assignment.'
     df['identity_review'] = 'Original analysis retained.'
-    df.loc[df.cluster_id.eq('P21_F0'), 'identity_review'] = 'Focused P21 review supports Col8a1-related broad family; existing Xenium transfer/models not refitted.'
+    df.loc[df.cluster_id.eq('P21_F0'), 'identity_review'] = 'Focused P21 review supports Col8a1-related broad family; reviewed Xenium refit and spatial models are complete in results/fibroblast_Xenium_reviewed_refit.'
     cols = ['stage', 'cluster_id', 'nuclei', 'original_family', 'reviewed_broad_family',
             'descriptive_substate', 'top_markers', 'functional_interpretation_hypothesis',
             'support', 'cycling_fraction', 'lineage_mixing_review_flag', 'spatial_resolution', 'identity_review']
@@ -81,7 +81,8 @@ def main():
             'This synthesis retains five broad RNA families, within-age substates and a cycling overlay. '
             'It incorporates the focused P21_F0 identity review. Functional descriptions are marker-based '
             'hypotheses, and fine anatomical placement remains incomplete. It does not recompute a UMAP, '
-            'change source counts or refit the preceding Xenium maps.', '',
+            'change source counts. The subsequent reviewed-reference Xenium refit is linked below.', '',
+            '[Completed reviewed-reference Xenium refit](../fibroblast_Xenium_reviewed_refit/README.md)', '',
             '[Family functions and spatial interpretation](INTERPRETATION.md) · '
             '[All 31 groups: markers, support, functional interpretation and spatial limits](all_stage_subtypes.tsv) · '
             '[Reviewed family counts](reviewed_family_nucleus_counts.tsv) · '

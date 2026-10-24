@@ -1,5 +1,7 @@
 # Fibroblast states, matrix programs and their spatial relationships to ventricular CMs
 
+**Current reviewed-reference spatial results:** [completed all-stage Xenium refit](../fibroblast_Xenium_reviewed_refit/README.md), including P21_F0 in the Col8a1-related family, clean RNA figures without the five residual-lineage groups, updated model fits and per-profile boundary confidence. The results below preserve the preceding reference definitions for comparison.
+
 **Subsequent focused identity review:** [P21_F0 supports a Col8a1-related broad family](../fibroblast_P21_identity_review/README.md), with a distinct Adgrl3/Svep1-associated substate. Its original unresolved label below came from overlapping Col8a1/Lsamp panel scores, not absent Col8a1 markers. The reviewed hierarchy/UMAP are supplied separately; the original reference definitions and fitted spatial results below remain identifiable.
 
 **This is the completed analysis following the [initial feasibility audit](../fibroblast_reassessment/README.md).** It includes new within-stage RNA clustering, fibroblast identity review, original/corrected matrix comparisons, same-stage Xenium transfer, the intended 21-gene CM maturation readout, spatial association models, and transcript-boundary sensitivities. It does not establish fibroblast ancestry, matrix mechanics or causal CM–fibroblast signaling.

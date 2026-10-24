@@ -22,8 +22,7 @@ def main():
             nuisance[col]=np.log1p(n[col])-np.log1p(f[col])
         for col in ['fibroblast_fraction','endothelial_fraction','mural_fraction','immune_fraction','Slit2_log','cycling_log','maturation_21gene_mean']:
             nuisance[col]=n[col]-f[col]
-        family_cols=[c for c in d if c.startswith('family__')]
-        if 'family__Postn-associated' in family_cols:family_cols.remove('family__Postn-associated')
+        family_cols=list(identifiable_family_exposures(d[[c for c in d if c.startswith('family__')]]))
         matrix_cols=[c for c in d if c.startswith('matrix__')]
         sets={'frozen_pairs_unadjusted':pd.DataFrame(index=range(len(pairs))),
               'matched_covariates_plus_CM_maturation':nuisance,

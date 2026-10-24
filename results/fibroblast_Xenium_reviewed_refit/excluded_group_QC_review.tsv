@@ -1,0 +1,6 @@
+stage	cluster_id	nuclei	top_markers	median_ambient_fraction	support	CM_mean_score	stage_CM_median	mural_mean_score	stage_mural_median	fibroblast_mean_score	lineage_mixing_review_flag	reason
+P0	P0_F0	85	NA	0.3676973	lineage-mixing review; withheld from fine reference	2.204876	0.2707503	0.2615707	0	0.9420907	True	CM-enriched residual program
+P7	P7_F0	192	Rbm20;Cacna1c;Fhl2;Fhod3;Ldb3;Nav2;Pdzd2;Ctnna3;Fgf13;Tnni3k;Myocd;Palld	0.3390904	lineage-mixing review; withheld from fine reference	1.980837	0.5403579	0.1263843	0	1.009003	True	CM-enriched residual program
+P7	P7_F5	151	Abcc9;Zfp804b;Trpc3;Prkg1;Plcl1;Gucy1a2;Myo1b;Pdgfrb;Gnas;Itga1;Rgs5;Notch3	0.1117041	lineage-mixing review; withheld from fine reference	0.5304746	0.5403579	0.6876407	0	1.029179	True	mural-enriched residual program
+P14	P14_F6	155	Trdn;Fhl2;Fgf13;Palld;Ctnna3;Cacna1c;Kcnd2;Erbb4;Sorbs2;Akap6;Myom1	0.1777769	lineage-mixing review; withheld from fine reference	1.007023	0.2535346	0.1069362	0	1.038369	True	CM-enriched residual program
+P21	P21_F6	74	Fhl2;Rbm20;Palld;Dmd;Fgf13;Ctnna3;Fhod3;Pde4d;Cacna1c;Kcnd2;Actn2;Trdn	0.09125664	lineage-mixing review; withheld from fine reference	1.37214	0.205699	0.1544169	0	0.6814528	True	CM-enriched residual program

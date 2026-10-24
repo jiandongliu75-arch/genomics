@@ -1,0 +1,21 @@
+stage	model	same_matched_pairs	vascular_segments	native_near_far_CP10k_ratio_same_subset	conditional_near_minus_far_log_expression	segment_bootstrap_low	segment_bootstrap_high	interpretation
+P0	frozen_pairs_unadjusted	256	9	1.086682	0.189225	-0.009628317	0.4127579	conditional observational contrast in the same pairs; not causal or independent-animal evidence
+P0	matched_covariates_plus_CM_maturation	256	9	1.086682	0.2428165	0.05797719	0.5312522	conditional observational contrast in the same pairs; not causal or independent-animal evidence
+P0	plus_FB_families	256	9	1.086682	0.2717924	0.03462322	0.4350196	conditional observational contrast in the same pairs; not causal or independent-animal evidence
+P0	plus_FB_matrix	256	9	1.086682	0.2779239	0.05727413	0.5761578	conditional observational contrast in the same pairs; not causal or independent-animal evidence
+P0	plus_FB_families_and_matrix	256	9	1.086682	0.2822425	0.02147331	0.5155033	conditional observational contrast in the same pairs; not causal or independent-animal evidence
+P7	frozen_pairs_unadjusted	614	29	1.335423	0.4674881	0.1756415	0.6538804	conditional observational contrast in the same pairs; not causal or independent-animal evidence
+P7	matched_covariates_plus_CM_maturation	614	29	1.335423	0.1698615	-0.225127	0.5408149	conditional observational contrast in the same pairs; not causal or independent-animal evidence
+P7	plus_FB_families	614	29	1.335423	0.1800536	-0.2147502	0.5962768	conditional observational contrast in the same pairs; not causal or independent-animal evidence
+P7	plus_FB_matrix	614	29	1.335423	0.2057996	-0.1708181	0.5929623	conditional observational contrast in the same pairs; not causal or independent-animal evidence
+P7	plus_FB_families_and_matrix	614	29	1.335423	0.2064679	-0.1842115	0.6022616	conditional observational contrast in the same pairs; not causal or independent-animal evidence
+P14	frozen_pairs_unadjusted	520	59	1.472073	0.7083129	0.4353793	1.001054	conditional observational contrast in the same pairs; not causal or independent-animal evidence
+P14	matched_covariates_plus_CM_maturation	520	59	1.472073	0.5572229	0.139935	0.9036935	conditional observational contrast in the same pairs; not causal or independent-animal evidence
+P14	plus_FB_families	520	59	1.472073	0.4304341	-0.0586787	0.8142668	conditional observational contrast in the same pairs; not causal or independent-animal evidence
+P14	plus_FB_matrix	520	59	1.472073	0.5220357	0.1038526	0.8792039	conditional observational contrast in the same pairs; not causal or independent-animal evidence
+P14	plus_FB_families_and_matrix	520	59	1.472073	0.4233401	-0.07881775	0.7760818	conditional observational contrast in the same pairs; not causal or independent-animal evidence
+P21	frozen_pairs_unadjusted	103	17	1.258685	0.2973157	-0.5048229	0.9915282	conditional observational contrast in the same pairs; not causal or independent-animal evidence
+P21	matched_covariates_plus_CM_maturation	103	17	1.258685	1.213845	0.1835192	1.650164	conditional observational contrast in the same pairs; not causal or independent-animal evidence
+P21	plus_FB_families	103	17	1.258685	1.28297	0.2042793	1.687937	conditional observational contrast in the same pairs; not causal or independent-animal evidence
+P21	plus_FB_matrix	103	17	1.258685	1.113007	0.07796622	1.533332	conditional observational contrast in the same pairs; not causal or independent-animal evidence
+P21	plus_FB_families_and_matrix	103	17	1.258685	1.055671	0.03887568	1.511608	conditional observational contrast in the same pairs; not causal or independent-animal evidence

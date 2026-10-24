@@ -1,5 +1,7 @@
 # Focused review: P21_F0 belongs to a Col8a1-related broad fibroblast program
 
+**Spatial follow-through is complete:** [reviewed-reference Xenium refit](../fibroblast_Xenium_reviewed_refit/README.md), with updated maps, spatial models and boundary tests. The scope statements below describe this focused RNA review and the original spatial results at the time of that review.
+
 **The evidence favors a Col8a1-associated broad family assignment for P21_F0, retaining it as a distinct Adgrl3/Svep1-associated late interstitial substate.** Its previous gray/unresolved label arose from overlapping Col8a1 and Lsamp marker panels, not a failure to detect Col8a1-associated genes. The earlier explanation that its Col8a1 marker support weakened was inaccurate for this RNA group.
 
 [Three-page review PDF](P21_Col8a1_identity_review.pdf) · [Reviewed P21 annotations](P21_reviewed_hierarchical_annotations.tsv.gz) · [Validation](validation.json)

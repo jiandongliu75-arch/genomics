@@ -36,6 +36,24 @@ def save_tsv(data, path):
     data.to_csv(path, sep='\t', index=False, na_rep='NA', float_format='%.7g')
 
 
+def identifiable_family_exposures(frame):
+    """Choose an explicit reference when family fractions exhaust a simplex.
+
+    Prefer Postn when it varies. Otherwise drop the first varying family only
+    when the family sum is constant; unresolved reference weight can otherwise
+    serve as the implicit reference. Matrix columns are preserved.
+    """
+    frame = frame.copy()
+    family = [c for c in frame if c.startswith('family__')]
+    varying = [c for c in family if frame[c].std() > 1e-8]
+    preferred = 'family__Postn-associated'
+    if preferred in varying:
+        return frame.drop(columns=preferred)
+    if varying and frame[family].sum(axis=1).std() < 1e-6:
+        return frame.drop(columns=varying[0])
+    return frame
+
+
 def lognorm(counts, exclude=None):
     x = np.asarray(counts, dtype=np.float64)
     denominator = x.sum(axis=1) if exclude is None else x[:, ~exclude].sum(axis=1)

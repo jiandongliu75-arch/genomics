@@ -28,8 +28,7 @@ def main():
         withheld=other.loc[d.index].copy()
         hard=d[[c for c in d if c.startswith('hardfamily__')]].copy()
         hard.columns=[c.replace('hardfamily__','family__') for c in hard]
-        for frame in [families,withheld,hard]:
-            if frame['family__Postn-associated'].std()>1e-8:frame.drop(columns='family__Postn-associated',inplace=True)
+        families,withheld,hard=[identifiable_family_exposures(frame) for frame in [families,withheld,hard]]
         matrix=d[[c for c in d if c.startswith('matrix__')]]
         bx=np.floor(d.x_centroid.to_numpy()/400).astype(int);by=np.floor(d.y_centroid.to_numpy()/400).astype(int)
         blocks=bx*100000+by
