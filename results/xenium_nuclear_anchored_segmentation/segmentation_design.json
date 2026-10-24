@@ -1,0 +1,24 @@
+{
+  "scope": "Whole-section nuclear-anchored boundary refinement retaining original profile IDs",
+  "nuclear_input": "Deposited DAPI-derived nuclear boundaries; individual label_id components retain their parent cell_id",
+  "boundary_input": "Acquired composite ATP1A1/CD45/E-Cadherin channel",
+  "analysis_grid": "First acquired image pyramid level, 0.425um, twice native pixel size",
+  "territory_mask": "Native cell-polygon union dilated by 2um, including all seed pixels",
+  "cost": "Boundary-channel intensity scaled to tissue 1st/99th percentiles, Gaussian sigma0.4um",
+  "watershed_compactness": 0,
+  "fallback": "Nearest free original-interior pixel, search radii24/64/256 analysis pixels from centroid",
+  "transcript_QV": 20,
+  "gene_targets": 403,
+  "boundary_band": "Two grid pixels (0.85um)",
+  "nuclear_assignment": "Preserve deposited overlaps_nucleus assignments; audit disagreements with 2D projected nuclear ownership; do not force originally unassigned RNA into primary counts",
+  "alternatives": [
+    "Native",
+    "Deposited nuclear-only",
+    "Projected nuclear-only",
+    "Nuclear-anchored whole cell",
+    "Nuclear plus cytoplasmic interior outside0.85um boundary band",
+    "Count-matched thinning"
+  ],
+  "prohibited_tuning": "No RNA subtype, lineage, Ankrd1, maturation score or desired label count sets boundaries",
+  "limits": "Not independent de novo nuclear detection or cell-number/merge/split discovery; no assumption that 2D projection resolves every z overlap"
+}

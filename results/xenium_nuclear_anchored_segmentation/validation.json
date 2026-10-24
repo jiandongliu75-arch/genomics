@@ -1,0 +1,53 @@
+{
+  "status": "PASS",
+  "stages": [
+    {
+      "stage": "P0",
+      "profiles": 47611,
+      "nuclear_pixels_checked": 23149,
+      "native_reconstruction_exact": true,
+      "source_coordinates_unchanged": true,
+      "source_nuclear_RNA_owners_preserved": true,
+      "matched_depths_exact": true,
+      "all_original_profiles_retained_in_count_object": true,
+      "unresolved_geometry_profiles_with_native_counts": 1
+    },
+    {
+      "stage": "P7",
+      "profiles": 99429,
+      "nuclear_pixels_checked": 22412,
+      "native_reconstruction_exact": true,
+      "source_coordinates_unchanged": true,
+      "source_nuclear_RNA_owners_preserved": true,
+      "matched_depths_exact": true,
+      "all_original_profiles_retained_in_count_object": true,
+      "unresolved_geometry_profiles_with_native_counts": 0
+    },
+    {
+      "stage": "P14",
+      "profiles": 117070,
+      "nuclear_pixels_checked": 17066,
+      "native_reconstruction_exact": true,
+      "source_coordinates_unchanged": true,
+      "source_nuclear_RNA_owners_preserved": true,
+      "matched_depths_exact": true,
+      "all_original_profiles_retained_in_count_object": true,
+      "unresolved_geometry_profiles_with_native_counts": 0
+    },
+    {
+      "stage": "P21",
+      "profiles": 143944,
+      "nuclear_pixels_checked": 18377,
+      "native_reconstruction_exact": true,
+      "source_coordinates_unchanged": true,
+      "source_nuclear_RNA_owners_preserved": true,
+      "matched_depths_exact": true,
+      "all_original_profiles_retained_in_count_object": true,
+      "unresolved_geometry_profiles_with_native_counts": 0
+    }
+  ],
+  "total_original_profiles": 408054,
+  "original_records_streamed": 244567956,
+  "counts_rebuilt_from_original_transcript_coordinates": true,
+  "limitations": "Numerical and source-conservation validation, not independent anatomical segmentation accuracy"
+}

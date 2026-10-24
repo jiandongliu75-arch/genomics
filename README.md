@@ -4,6 +4,7 @@ Independent QC and exploratory clustering of the mouse-heart dataset [GSE290989]
 
 Spatial analyses map candidate ventricular programs onto the four deposited Xenium sections, with measured-marker evidence and comparisons between assay-aligned transfer and CytoSPACE.
 
+- [Whole-section nuclear-anchored Xenium segmentation: antibody images, nuclear/cell transcript assignments, counts and fibroblast confidence](results/xenium_nuclear_anchored_segmentation/README.md)
 - [Completed Xenium fibroblast refit: reviewed P21_F0 family, clean RNA figures, boundary confidence and updated spatial models](results/fibroblast_Xenium_reviewed_refit/README.md)
 - [Fibroblast subtype catalog: all stages, markers, candidate functions and spatial evidence](results/fibroblast_subtype_catalog/INTERPRETATION.md)
 - [P21 fibroblast identity review: F0 supports a Col8a1-related broad family while retaining a distinct late interstitial substate](results/fibroblast_P21_identity_review/README.md)

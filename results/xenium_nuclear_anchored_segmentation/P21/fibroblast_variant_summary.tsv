@@ -1,0 +1,43 @@
+stage	variant	family	broad_FB_profiles	informative_profiles	supported_family_profiles	proposals	median_gene_molecules	mixed_marker_review_profiles
+P21	native	Postn-associated	13083	13083	0	0	177.0	0
+P21	native	Col8a1-associated	13083	13083	1390	9896	177.0	0
+P21	native	Gfpt2-associated	13083	13083	39	171	177.0	0
+P21	native	Lsamp-associated	13083	13083	68	2459	177.0	0
+P21	native	Kirrel3-associated	13083	13083	0	557	177.0	0
+P21	native	Unresolved fibroblast program	13083	13083	11586	0	177.0	0
+P21	nuclear_anchored	Postn-associated	13083	12866	0	0	203.0	332
+P21	nuclear_anchored	Col8a1-associated	13083	12866	1395	9950	203.0	332
+P21	nuclear_anchored	Gfpt2-associated	13083	12866	38	145	203.0	332
+P21	nuclear_anchored	Lsamp-associated	13083	12866	66	2459	203.0	332
+P21	nuclear_anchored	Kirrel3-associated	13083	12866	0	529	203.0	332
+P21	nuclear_anchored	Unresolved fibroblast program	13083	12866	11584	0	203.0	332
+P21	nuclear_only	Postn-associated	13083	12172	0	0	80.0	633
+P21	nuclear_only	Col8a1-associated	13083	12172	1040	10908	80.0	633
+P21	nuclear_only	Gfpt2-associated	13083	12172	37	154	80.0	633
+P21	nuclear_only	Lsamp-associated	13083	12172	26	1683	80.0	633
+P21	nuclear_only	Kirrel3-associated	13083	12172	0	338	80.0	633
+P21	nuclear_only	Unresolved fibroblast program	13083	12172	11980	0	80.0	633
+P21	high_confidence	Postn-associated	13083	12676	0	0	137.0	479
+P21	high_confidence	Col8a1-associated	13083	12676	1255	10403	137.0	479
+P21	high_confidence	Gfpt2-associated	13083	12676	28	152	137.0	479
+P21	high_confidence	Lsamp-associated	13083	12676	57	2104	137.0	479
+P21	high_confidence	Kirrel3-associated	13083	12676	0	424	137.0	479
+P21	high_confidence	Unresolved fibroblast program	13083	12676	11743	0	137.0	479
+P21	depth_matched	Postn-associated	13083	12659	0	0	137.0	364
+P21	depth_matched	Col8a1-associated	13083	12659	1120	10493	137.0	364
+P21	depth_matched	Gfpt2-associated	13083	12659	24	104	137.0	364
+P21	depth_matched	Lsamp-associated	13083	12659	45	2084	137.0	364
+P21	depth_matched	Kirrel3-associated	13083	12659	0	402	137.0	364
+P21	depth_matched	Unresolved fibroblast program	13083	12659	11894	0	137.0	364
+P21	nuclear_depth_matched	Postn-associated	13083	12034	0	0	80.0	324
+P21	nuclear_depth_matched	Col8a1-associated	13083	12034	778	11050	80.0	324
+P21	nuclear_depth_matched	Gfpt2-associated	13083	12034	22	97	80.0	324
+P21	nuclear_depth_matched	Lsamp-associated	13083	12034	26	1637	80.0	324
+P21	nuclear_depth_matched	Kirrel3-associated	13083	12034	0	299	80.0	324
+P21	nuclear_depth_matched	Unresolved fibroblast program	13083	12034	12257	0	80.0	324
+P21	cytoplasmic_only	Postn-associated	13083	11688	0	0	106.0	241
+P21	cytoplasmic_only	Col8a1-associated	13083	11688	674	11116	106.0	241
+P21	cytoplasmic_only	Gfpt2-associated	13083	11688	4	38	106.0	241
+P21	cytoplasmic_only	Lsamp-associated	13083	11688	16	1727	106.0	241
+P21	cytoplasmic_only	Kirrel3-associated	13083	11688	0	202	106.0	241
+P21	cytoplasmic_only	Unresolved fibroblast program	13083	11688	12389	0	106.0	241

@@ -1,5 +1,7 @@
 # Xenium fibroblast refit with the reviewed P21_F0 assignment
 
+**Subsequent whole-section segmentation analysis:** [nuclear-anchored antibody-guided boundaries and nuclear-only RNA evidence](../xenium_nuclear_anchored_segmentation/README.md), including new count matrices and fibroblast confidence tiers. It is supplied as a separate alternative analysis; the reference-refit maps and fitted associations below remain identifiable.
+
 **Completed:** all four spatial sections have been rerun using the reviewed RNA hierarchy, with P21_F0 included in the Col8a1-related broad family. All five residual CM/mural-program groups remain excluded from the fine reference and are now also omitted from the clean RNA fibroblast figures and annotation export. Their source counts and QC records remain available.
 
 [Six-page map PDF](reviewed_fibroblast_Xenium_maps.pdf) · [Assignment comparison](family_assignment_comparison.tsv) · [Clean RNA annotations](RNA_clean_fibroblast_annotations.tsv.gz) · [Excluded-nucleus audit](RNA_excluded_lineage_review_nuclei.tsv.gz) · [Validation](validation.json)

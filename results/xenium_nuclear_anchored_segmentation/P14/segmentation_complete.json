@@ -1,0 +1,22 @@
+{
+  "stage": "P14",
+  "profiles": 117070,
+  "grid_um": 0.425,
+  "shape_yx": [
+    17027,
+    14230
+  ],
+  "nuclear_seeded_profiles": 103729,
+  "fallback_seeded_profiles": 13341,
+  "unseeded_profiles": 0,
+  "conflicting_projected_nuclear_pixels": 62,
+  "boundary_band_um": 0.85,
+  "membrane_scaling_1_99": [
+    78.0,
+    3755.0
+  ],
+  "nucleus_policy": "Deposited DAPI-derived nuclei anchor boundaries; multiple nuclei per profile retain same ID; nucleus-free profiles retain native-interior fallback seed",
+  "RNA_used_to_optimize_segmentation": false,
+  "scope": "Whole-section profile-retaining boundary refinement; does not discover missed cells or independently resolve vendor merge/split errors",
+  "seconds": 327.73436856269836
+}

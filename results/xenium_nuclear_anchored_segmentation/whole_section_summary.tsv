@@ -1,0 +1,5 @@
+stage	profiles	nuclear_seeded_profiles	fallback_seeded_profiles	unseeded_profiles	all_records	Q20_gene_molecules	native_assigned	nuclear_anchored_assigned	native_nuclear_molecules	nonnuclear_changed_owner	nuclear_vs_projected_owner_disagreement	broad_fibroblasts	native_supported	nuclear_anchored_supported	nuclear_only_informative	nuclear_modality_calibrated_supported	cell_nuclear_concordant	nuclear_cell_disagreement	conservative_recommended_supported	previously_unresolved_now_concordant	native_cell_nuclear_all_concordant	native_fine_family_change_review
+P0	47611	42605	5005	1	22145474	13423165	11227803	11227760	4905651	1834143	3644	2319	1591	1562	2217	1280	1229	0	1551	15	1214	0
+P7	99429	84597	14832	0	50861406	33003346	28479592	28479482	10830572	4997702	8120	8564	5504	5479	8190	4480	4084	13	5379	114	3969	1
+P14	117070	103729	13341	0	72744987	51769838	41791618	41791357	13653531	9952455	9982	9824	1343	1221	9242	1093	724	2	1182	60	664	0
+P21	143944	121416	22528	0	98816089	73063537	56096396	56095763	14216274	14053260	12838	13083	1497	1499	12172	1029	810	2	1462	63	747	0

@@ -1,0 +1,22 @@
+{
+  "stage": "P7",
+  "broad_fibroblasts": 8564,
+  "native_supported": 5504,
+  "nuclear_anchored_supported": 5479,
+  "nuclear_only_informative": 8190,
+  "nuclear_modality_calibrated_supported": 4480,
+  "cell_nuclear_concordant": 4084,
+  "nuclear_cell_disagreement": 13,
+  "variants_use_frozen_native_query_calibration": [
+    "native",
+    "nuclear_anchored",
+    "nuclear_only",
+    "high_confidence",
+    "depth_matched",
+    "nuclear_depth_matched",
+    "cytoplasmic_only"
+  ],
+  "separate_nuclear_calibration": "Sensitivity uses only nuclear-information-eligible FB profiles to estimate query gene scaling; same RNA reference, same marker gates and library requirements",
+  "nuclear_evidence_is_not_independent_ground_truth": true,
+  "native_refit_assignments_reproduced_exactly": true
+}
