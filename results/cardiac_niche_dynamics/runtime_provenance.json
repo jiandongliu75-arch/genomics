@@ -1,0 +1,39 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "primary_executable": "/workspace/heart-atlas/venv/bin/python",
+  "primary_versions": {
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "pandas": "3.0.6",
+    "scikit-learn": "1.9.1",
+    "anndata": "0.13.4",
+    "matplotlib": "3.11.2",
+    "shapely": "2.1.2"
+  },
+  "Wormhole_executable": "/workspace/heart-atlas/wormhole-venv/bin/python",
+  "Wormhole_versions": {
+    "wassersteinwormhole": "0.3.7",
+    "jax": "0.6.2",
+    "jaxlib": "0.6.2",
+    "flax": "0.10.6",
+    "ott-jax": "0.4.9",
+    "optax": "0.2.5",
+    "chex": "0.1.89",
+    "orbax-checkpoint": "0.11.13",
+    "equinox": "0.12.2",
+    "lineax": "0.0.8",
+    "clu": "0.0.12"
+  },
+  "configuration_sha256": "4f5fc0236aac8e62438cbab6024d7e5b0a4f5a38be830c5692a2fd80149c3b6c",
+  "source_repository_commit": "ede9f0e9398dcdf85b157af9126571a6881564b1",
+  "steps_this_invocation": [
+    "validate"
+  ],
+  "inherited_bootstrap": {
+    "module": "cardiac_spatial_models.joint_fit",
+    "seed": 731,
+    "spatial_block_um": 400,
+    "draws": 256
+  },
+  "previous_v1_release_unchanged": true
+}

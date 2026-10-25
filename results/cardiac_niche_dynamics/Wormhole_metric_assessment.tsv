@@ -1,0 +1,5 @@
+stage	heldout_pairs	Wormhole_vs_Sinkhorn_Spearman	mean_vs_Sinkhorn_Spearman	Wormhole_vs_exact_W2_Spearman	Wormhole_distance_MAE	metric_gate
+P0	64	0.819093407	0.901556777	0.818772894	0.259383416	False
+P14	64	0.758379121	0.928525641	0.765842491	0.219022873	False
+P21	64	0.801318742	0.921150236	0.812582994	0.194764372	False
+P7	64	0.924084249	0.910943223	0.927838828	0.192599689	True

@@ -1,0 +1,20 @@
+{
+  "Lu2021": {
+    "title": "Perinatal angiogenesis from pre-existing coronary vessels via DLL4\u2013NOTCH1 signalling",
+    "DOI": "10.1038/s41556-021-00747-1",
+    "PMID": "34497373",
+    "source": "User uploaded replacement PDF; full article text and methods read, figures3/6 also visually inspected",
+    "PDF_pages": 13,
+    "PDF_bytes": 22978070,
+    "PDF_SHA256": "a7c225a2947ad9a71d450d94c647f6e90a4e69b6e405d96aee5434f8866c7c78",
+    "uploaded_document_redistributed": false
+  },
+  "Wang2026": {
+    "title": "Spatially guided in vivo single-cell functional genomics of postnatal heart",
+    "DOI": "10.1038/s44161-026-00861-z",
+    "PMC": "PMC13561863",
+    "source": "Full cached PMC XML/text; methods and relevant figure legends reviewed",
+    "XML_SHA256": "13a7b394c77c77a1d984fe036a3820464cfadccac6b74479ee49727dfa2b418d",
+    "publisher_web_access": "Restricted; PMC full text used"
+  }
+}

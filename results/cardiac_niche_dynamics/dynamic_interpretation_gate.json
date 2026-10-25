@@ -1,0 +1,10 @@
+{
+  "Wormhole_metric_accepted_all_ages": false,
+  "spatial_prediction_compared_to_mean_features": true,
+  "archetypes_fixed_K_exploratory": true,
+  "correspondences_use_exact_OT_on_observed_state_medoid_clouds": true,
+  "tracked_cells": false,
+  "endocardial_to_coronary_lineage_inference": false,
+  "causal_influence": false,
+  "limitations": "Missing fetal/P1-P6 intervals, one section per age, approximate state cost and source selection prevent reconstructing genuine cell trajectories or ancestry"
+}

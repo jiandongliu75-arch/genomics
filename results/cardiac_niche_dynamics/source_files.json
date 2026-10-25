@@ -1,0 +1,22 @@
+[
+  "/workspace/heart-atlas/data/xenium/WT_P07__20240528__152133/cell_boundaries.csv.gz",
+  "/workspace/heart-atlas/data/xenium/WT_P0__20240528__152132/cell_boundaries.csv.gz",
+  "/workspace/heart-atlas/data/xenium/WT_P14__20240528__152132/cell_boundaries.csv.gz",
+  "/workspace/heart-atlas/data/xenium/WT_P21__20240528__152132/cell_boundaries.csv.gz",
+  "results/cardiac_spatial_pipeline/P0/atlas_annotations.tsv.gz",
+  "results/cardiac_spatial_pipeline/P14/atlas_annotations.tsv.gz",
+  "results/cardiac_spatial_pipeline/P21/atlas_annotations.tsv.gz",
+  "results/cardiac_spatial_pipeline/P7/atlas_annotations.tsv.gz",
+  "results/endothelial_QC_subtypes/Xenium/P0/EC_consensus_annotations.tsv.gz",
+  "results/endothelial_QC_subtypes/Xenium/P14/EC_consensus_annotations.tsv.gz",
+  "results/endothelial_QC_subtypes/Xenium/P21/EC_consensus_annotations.tsv.gz",
+  "results/endothelial_QC_subtypes/Xenium/P7/EC_consensus_annotations.tsv.gz",
+  "results/xenium_nuclear_anchored_segmentation/P0/nuclear_anchored_counts.h5ad",
+  "results/xenium_nuclear_anchored_segmentation/P14/nuclear_anchored_counts.h5ad",
+  "results/xenium_nuclear_anchored_segmentation/P21/nuclear_anchored_counts.h5ad",
+  "results/xenium_nuclear_anchored_segmentation/P7/nuclear_anchored_counts.h5ad",
+  "results/xenium_ventricular_mapping/P0/P0_xenium_counts_and_candidate_mapping.h5ad",
+  "results/xenium_ventricular_mapping/P14/P14_xenium_counts_and_candidate_mapping.h5ad",
+  "results/xenium_ventricular_mapping/P21/P21_xenium_counts_and_candidate_mapping.h5ad",
+  "results/xenium_ventricular_mapping/P7/P7_xenium_counts_and_candidate_mapping.h5ad"
+]

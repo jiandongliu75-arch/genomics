@@ -1,0 +1,85 @@
+stage	computational_context	focal_profiles	neighbor_type	mean_resolved_neighbor_fraction	meaning
+P0	N2: Cardiomyocyte / Endothelial enriched context	34625	Cardiomyocyte	0.753326772	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P0	N2: Cardiomyocyte / Endothelial enriched context	34625	Endothelial	0.181546261	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P0	N2: Cardiomyocyte / Endothelial enriched context	34625	Fibroblast	0.0446146733	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P0	N2: Cardiomyocyte / Endothelial enriched context	34625	Pericyte	0.0139743347	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P0	N2: Cardiomyocyte / Endothelial enriched context	34625	Smooth muscle	0	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P0	N2: Cardiomyocyte / Endothelial enriched context	34625	Immune	0.00653795916	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P0	N2: Cardiomyocyte / Endothelial enriched context	34625	Epicardial	0	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P0	Niche unresolved	9919	Cardiomyocyte	0.416088859	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P0	Niche unresolved	9919	Endothelial	0.179933697	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P0	Niche unresolved	9919	Fibroblast	0.14574779	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P0	Niche unresolved	9919	Pericyte	0.00670506863	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P0	Niche unresolved	9919	Smooth muscle	0.0914453902	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P0	Niche unresolved	9919	Immune	0.0201584021	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P0	Niche unresolved	9919	Epicardial	0.0362813137	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P0	N1: Fibroblast / Smooth muscle enriched context	3067	Cardiomyocyte	0.294260272	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P0	N1: Fibroblast / Smooth muscle enriched context	3067	Endothelial	0.253697413	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P0	N1: Fibroblast / Smooth muscle enriched context	3067	Fibroblast	0.247539358	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P0	N1: Fibroblast / Smooth muscle enriched context	3067	Pericyte	0.00562011893	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P0	N1: Fibroblast / Smooth muscle enriched context	3067	Smooth muscle	0.128793019	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P0	N1: Fibroblast / Smooth muscle enriched context	3067	Immune	0.0186121074	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P0	N1: Fibroblast / Smooth muscle enriched context	3067	Epicardial	0.051477712	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P7	N2: Cardiomyocyte / Endothelial enriched context	70641	Cardiomyocyte	0.658729549	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P7	N2: Cardiomyocyte / Endothelial enriched context	70641	Endothelial	0.222371388	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P7	N2: Cardiomyocyte / Endothelial enriched context	70641	Fibroblast	0.0780828634	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P7	N2: Cardiomyocyte / Endothelial enriched context	70641	Pericyte	0.0270360797	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P7	N2: Cardiomyocyte / Endothelial enriched context	70641	Smooth muscle	0	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P7	N2: Cardiomyocyte / Endothelial enriched context	70641	Immune	0.0137801206	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P7	N2: Cardiomyocyte / Endothelial enriched context	70641	Epicardial	0	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P7	Niche unresolved	19512	Cardiomyocyte	0.371801541	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P7	Niche unresolved	19512	Endothelial	0.188061295	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P7	Niche unresolved	19512	Fibroblast	0.172130073	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P7	Niche unresolved	19512	Pericyte	0.019403078	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P7	Niche unresolved	19512	Smooth muscle	0.0878442326	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P7	Niche unresolved	19512	Immune	0.0256475258	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P7	Niche unresolved	19512	Epicardial	0.0154935587	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P7	N1: Fibroblast / Smooth muscle enriched context	9276	Cardiomyocyte	0.254494502	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P7	N1: Fibroblast / Smooth muscle enriched context	9276	Endothelial	0.204946752	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P7	N1: Fibroblast / Smooth muscle enriched context	9276	Fibroblast	0.401192782	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P7	N1: Fibroblast / Smooth muscle enriched context	9276	Pericyte	0.0156408927	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P7	N1: Fibroblast / Smooth muscle enriched context	9276	Smooth muscle	0.0508991443	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P7	N1: Fibroblast / Smooth muscle enriched context	9276	Immune	0.0370158299	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P7	N1: Fibroblast / Smooth muscle enriched context	9276	Epicardial	0.0358100969	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P14	N2: Cardiomyocyte / Endothelial enriched context	76462	Cardiomyocyte	0.578807407	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P14	N2: Cardiomyocyte / Endothelial enriched context	76462	Endothelial	0.260098376	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P14	N2: Cardiomyocyte / Endothelial enriched context	76462	Fibroblast	0.0854203247	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P14	N2: Cardiomyocyte / Endothelial enriched context	76462	Pericyte	0.0546213511	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P14	N2: Cardiomyocyte / Endothelial enriched context	76462	Smooth muscle	0	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P14	N2: Cardiomyocyte / Endothelial enriched context	76462	Immune	0.021052541	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P14	N2: Cardiomyocyte / Endothelial enriched context	76462	Epicardial	0	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P14	N1: Fibroblast / Smooth muscle enriched context	16759	Cardiomyocyte	0.249515928	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P14	N1: Fibroblast / Smooth muscle enriched context	16759	Endothelial	0.221213031	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P14	N1: Fibroblast / Smooth muscle enriched context	16759	Fibroblast	0.22629734	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P14	N1: Fibroblast / Smooth muscle enriched context	16759	Pericyte	0.0383718884	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P14	N1: Fibroblast / Smooth muscle enriched context	16759	Smooth muscle	0.207657439	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P14	N1: Fibroblast / Smooth muscle enriched context	16759	Immune	0.0371356788	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P14	N1: Fibroblast / Smooth muscle enriched context	16759	Epicardial	0.0198086949	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P14	Niche unresolved	23849	Cardiomyocyte	0.3821472	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P14	Niche unresolved	23849	Endothelial	0.202580322	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P14	Niche unresolved	23849	Fibroblast	0.141718181	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P14	Niche unresolved	23849	Pericyte	0.0445889715	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P14	Niche unresolved	23849	Smooth muscle	0.09974063	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P14	Niche unresolved	23849	Immune	0.0269436774	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P14	Niche unresolved	23849	Epicardial	0.0122562791	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P21	N2: Cardiomyocyte / Endothelial enriched context	89412	Cardiomyocyte	0.627702907	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P21	N2: Cardiomyocyte / Endothelial enriched context	89412	Endothelial	0.218621725	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P21	N2: Cardiomyocyte / Endothelial enriched context	89412	Fibroblast	0.0861672242	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P21	N2: Cardiomyocyte / Endothelial enriched context	89412	Pericyte	0.0414117059	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P21	N2: Cardiomyocyte / Endothelial enriched context	89412	Smooth muscle	0	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P21	N2: Cardiomyocyte / Endothelial enriched context	89412	Immune	0.026096438	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P21	N2: Cardiomyocyte / Endothelial enriched context	89412	Epicardial	0	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P21	Niche unresolved	37429	Cardiomyocyte	0.488435152	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P21	Niche unresolved	37429	Endothelial	0.197178955	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P21	Niche unresolved	37429	Fibroblast	0.131143494	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P21	Niche unresolved	37429	Pericyte	0.0383553178	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P21	Niche unresolved	37429	Smooth muscle	0.0207411747	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P21	Niche unresolved	37429	Immune	0.03303938	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P21	Niche unresolved	37429	Epicardial	0.00670672982	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P21	N1: Fibroblast / Smooth muscle enriched context	17103	Cardiomyocyte	0.278540587	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P21	N1: Fibroblast / Smooth muscle enriched context	17103	Endothelial	0.214475171	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P21	N1: Fibroblast / Smooth muscle enriched context	17103	Fibroblast	0.299099669	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P21	N1: Fibroblast / Smooth muscle enriched context	17103	Pericyte	0.0334196949	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P21	N1: Fibroblast / Smooth muscle enriched context	17103	Smooth muscle	0.106401433	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P21	N1: Fibroblast / Smooth muscle enriched context	17103	Immune	0.0531643689	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling
+P21	N1: Fibroblast / Smooth muscle enriched context	17103	Epicardial	0.0148990764	Repeated neighborhood composition, not a new cell type, two exhaustive biological niches, or proven signaling

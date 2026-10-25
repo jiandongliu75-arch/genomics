@@ -1,0 +1,5 @@
+stage	profiles	native_polygon_pairs_recomputed	program_and_score_rows_recomputed	graph_ring_BFS_checks	source_overlap_train_test	CMs_paired_geometry	status
+P0	47611	16	32	12	0	4496	PASS
+P7	99429	16	32	12	0	11619	PASS
+P14	117070	16	32	12	0	7528	PASS
+P21	143944	16	32	12	0	6123	PASS

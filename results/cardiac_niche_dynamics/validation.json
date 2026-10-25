@@ -1,0 +1,60 @@
+{
+  "status": "PASS",
+  "stages": [
+    {
+      "stage": "P0",
+      "profiles": 47611,
+      "native_polygon_pairs_recomputed": 16,
+      "program_and_score_rows_recomputed": 32,
+      "graph_ring_BFS_checks": 12,
+      "source_overlap_train_test": 0,
+      "CMs_paired_geometry": 4496,
+      "status": "PASS"
+    },
+    {
+      "stage": "P7",
+      "profiles": 99429,
+      "native_polygon_pairs_recomputed": 16,
+      "program_and_score_rows_recomputed": 32,
+      "graph_ring_BFS_checks": 12,
+      "source_overlap_train_test": 0,
+      "CMs_paired_geometry": 11619,
+      "status": "PASS"
+    },
+    {
+      "stage": "P14",
+      "profiles": 117070,
+      "native_polygon_pairs_recomputed": 16,
+      "program_and_score_rows_recomputed": 32,
+      "graph_ring_BFS_checks": 12,
+      "source_overlap_train_test": 0,
+      "CMs_paired_geometry": 7528,
+      "status": "PASS"
+    },
+    {
+      "stage": "P21",
+      "profiles": 143944,
+      "native_polygon_pairs_recomputed": 16,
+      "program_and_score_rows_recomputed": 32,
+      "graph_ring_BFS_checks": 12,
+      "source_overlap_train_test": 0,
+      "CMs_paired_geometry": 6123,
+      "status": "PASS"
+    }
+  ],
+  "configuration_sha256": "4f5fc0236aac8e62438cbab6024d7e5b0a4f5a38be830c5692a2fd80149c3b6c",
+  "matched_controls_exclude_all21_targets": true,
+  "native_polygon_distances_independently_recomputed": true,
+  "ring_BFS_independent_check": true,
+  "paired_P7_coefficient_independently_residualized": true,
+  "Wormhole_parameters_saved_and_actual_training_loss_verified": true,
+  "Wormhole_heldout_metric_gate_recomputed": true,
+  "exact_empirical_OT_independent_dense_LP_check": true,
+  "source_capture_and_selection_covariates_checked": true,
+  "PCA_fit_and_spatial_sources_do_not_overlap_holdout": true,
+  "focal_maturation_genes_excluded_from_state_and_normalization": true,
+  "figures": 13,
+  "PDF_pages": 13,
+  "documentation_links_checked": 41,
+  "scope": "Numerical/geometry/provenance checks; no claim of validated cell boundaries, independent replication, or biological causality"
+}
