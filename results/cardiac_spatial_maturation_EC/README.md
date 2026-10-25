@@ -4,6 +4,8 @@
 
 [Ten-page report](cardiac_spatial_maturation_EC_report.pdf) · [Association figure](EC_activity_CM_maturation_associations.png) · [Near-cycling-EC contrasts](near_cycling_EC_maturation_contrasts.tsv) · [All models](association_coefficients.tsv) · [Supported-subtype neighborhoods](subtype_lineage_neighborhoods_30um.tsv) · [Validation](validation.json)
 
+**Methods review:** [what the models estimate, how the FB/EC pipelines differ, and a small model-dependent P0 signal](METHODS_REVIEW.md). The primary results are unchanged; this review makes adjustment and cohort limitations explicit.
+
 ## Spatial organization
 
 The maps preserve all native positions and the preceding broad identities. They display the three requested lineages—cardiomyocytes, fibroblasts and endothelial cells—over the remaining cardiac profiles. Gray fine identities are retained. Strict ventricular CM selection covers 149,623 profiles; broad CM labels cover 183,222. Fibroblast family maps use the preceding strict A+B cell/nuclear agreement. EC maps explicitly use nuclear-supported labels in the eligible 29,363-EC cohort; those labels are distinct from the stricter cell+nuclear subtype view, which is also summarized in the tables.
@@ -49,7 +51,7 @@ Primary analyses require at least3 eligible ECs within 50µm and at least5 resol
 | P14 | 730 | 27,214 | +0.0035 | −0.0213 to +0.0293 |
 | P21 | 445 | 25,677 | −0.0375 | −0.0659 to −0.0029 |
 
-Differences are in the original mean log-expression score units. P0/P7 near/far differences are tiny, with intervals including zero. The local continuous nuclear cycling module, local cycling-positive EC fraction, inferred proliferation module and relative proximity to cycling versus marker-negative ECs give the same broad early-stage conclusion. Excluding CM cycling/Slit2 from adjustment does not reveal a convincing negative full-panel association.
+Differences are in the original mean log-expression score units. P0/P7 near/far differences are tiny, with intervals including zero. The primary local continuous nuclear cycling module, local cycling-positive EC fraction, inferred proliferation module and relative proximity to cycling versus marker-negative ECs give the same broad early-stage conclusion. Removing CM cycling/Slit2 from adjustment reveals a small negative P0 coefficient for continuous nuclear EC cycling (−0.01686SD; block interval−0.03294 to−0.00104), while P7 and the binary proximity comparison remain uncertain. This model dependence prevents claiming that every sensitivity is null; it does not establish a robust P0/P7 immature-CM niche. See the [methods review](METHODS_REVIEW.md).
 
 **Across-age co-trending is different from within-age spatial association.** Younger sections show lower CM panel scores and more EC cycling-marker support, but that does not establish that individual CMs closer to active ECs are less mature withinP0/P7.
 
