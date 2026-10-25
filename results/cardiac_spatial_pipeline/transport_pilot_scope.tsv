@@ -1,0 +1,5 @@
+stage	point_features	source_nonCM_profiles	pilot_pairs	exact_pairs	Wormhole_trained	meaning
+P0	26	10306	1500	64	False	Within-stage observed non-CM type/program distributions, uniform mass; no CM outcomes or inferred sprouting
+P7	26	29069	1500	64	False	Within-stage observed non-CM type/program distributions, uniform mass; no CM outcomes or inferred sprouting
+P14	26	43706	1500	64	False	Within-stage observed non-CM type/program distributions, uniform mass; no CM outcomes or inferred sprouting
+P21	26	47304	1500	64	False	Within-stage observed non-CM type/program distributions, uniform mass; no CM outcomes or inferred sprouting

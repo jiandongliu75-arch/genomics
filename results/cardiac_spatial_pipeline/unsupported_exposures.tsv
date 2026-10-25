@@ -1,0 +1,40 @@
+stage	geometry	exposure	reason
+P0	contact	fraction__Smooth muscle	constant or fewer than50 nonzero CM neighborhoods
+P0	contact	fraction__Immune	constant or fewer than50 nonzero CM neighborhoods
+P0	contact	fraction__Epicardial	constant or fewer than50 nonzero CM neighborhoods
+P0	contact	program__Immune_trophic_proxy	constant or fewer than50 nonzero CM neighborhoods
+P0	contact	program__Mural_contractility	constant or fewer than50 nonzero CM neighborhoods
+P0	contact	program__Epicardial_matrix_proxy	constant or fewer than50 nonzero CM neighborhoods
+P0	proximity30	program__Epicardial_matrix_proxy	constant or fewer than50 nonzero CM neighborhoods
+P0	paired_proximity50	fraction__Epicardial	constant or fewer than50 nonzero CM neighborhoods
+P0	paired_proximity50	program__Epicardial_matrix_proxy	constant or fewer than50 nonzero CM neighborhoods
+P0	paired_contact	fraction__Smooth muscle	constant or fewer than50 nonzero CM neighborhoods
+P0	paired_contact	fraction__Immune	constant or fewer than50 nonzero CM neighborhoods
+P0	paired_contact	fraction__Epicardial	constant or fewer than50 nonzero CM neighborhoods
+P0	paired_contact	program__Immune_trophic_proxy	constant or fewer than50 nonzero CM neighborhoods
+P0	paired_contact	program__Mural_contractility	constant or fewer than50 nonzero CM neighborhoods
+P0	paired_contact	program__Epicardial_matrix_proxy	constant or fewer than50 nonzero CM neighborhoods
+P7	contact	fraction__Smooth muscle	constant or fewer than50 nonzero CM neighborhoods
+P7	contact	fraction__Epicardial	constant or fewer than50 nonzero CM neighborhoods
+P7	contact	program__Mural_contractility	constant or fewer than50 nonzero CM neighborhoods
+P7	contact	program__Epicardial_matrix_proxy	constant or fewer than50 nonzero CM neighborhoods
+P7	paired_proximity50	fraction__Epicardial	constant or fewer than50 nonzero CM neighborhoods
+P7	paired_proximity50	program__Epicardial_matrix_proxy	constant or fewer than50 nonzero CM neighborhoods
+P7	paired_contact	fraction__Smooth muscle	constant or fewer than50 nonzero CM neighborhoods
+P7	paired_contact	fraction__Epicardial	constant or fewer than50 nonzero CM neighborhoods
+P7	paired_contact	program__Mural_contractility	constant or fewer than50 nonzero CM neighborhoods
+P7	paired_contact	program__Epicardial_matrix_proxy	constant or fewer than50 nonzero CM neighborhoods
+P14	contact	fraction__Epicardial	constant or fewer than50 nonzero CM neighborhoods
+P14	contact	program__Epicardial_matrix_proxy	constant or fewer than50 nonzero CM neighborhoods
+P14	paired_proximity50	fraction__Epicardial	constant or fewer than50 nonzero CM neighborhoods
+P14	paired_proximity50	program__Epicardial_matrix_proxy	constant or fewer than50 nonzero CM neighborhoods
+P14	paired_contact	fraction__Epicardial	constant or fewer than50 nonzero CM neighborhoods
+P14	paired_contact	program__Epicardial_matrix_proxy	constant or fewer than50 nonzero CM neighborhoods
+P21	contact	fraction__Epicardial	constant or fewer than50 nonzero CM neighborhoods
+P21	contact	program__Epicardial_matrix_proxy	constant or fewer than50 nonzero CM neighborhoods
+P21	proximity30	fraction__Epicardial	constant or fewer than50 nonzero CM neighborhoods
+P21	proximity30	program__Epicardial_matrix_proxy	constant or fewer than50 nonzero CM neighborhoods
+P21	paired_proximity50	fraction__Epicardial	constant or fewer than50 nonzero CM neighborhoods
+P21	paired_proximity50	program__Epicardial_matrix_proxy	constant or fewer than50 nonzero CM neighborhoods
+P21	paired_contact	fraction__Epicardial	constant or fewer than50 nonzero CM neighborhoods
+P21	paired_contact	program__Epicardial_matrix_proxy	constant or fewer than50 nonzero CM neighborhoods

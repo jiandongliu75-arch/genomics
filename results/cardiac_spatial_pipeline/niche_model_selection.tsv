@@ -1,0 +1,8 @@
+k	median_seed_ARI	minimum_seed_ARI	train_BIC	heldout_mean_log_likelihood	all_fits_converged	training_profiles	assessment_profiles	feature_set
+2	1	1	431251.176	-6.53626156	True	32000	12000	two-step contact-neighbor composition; focal return removed; no CM RNA
+3	0.43542845	0.43542845	297845.971	-4.53339148	True	32000	12000	two-step contact-neighbor composition; focal return removed; no CM RNA
+4	0.326796766	0.322603483	166682.068	-2.44333124	True	32000	12000	two-step contact-neighbor composition; focal return removed; no CM RNA
+6	0.438702363	0.420365546	74998.1901	-0.983682632	True	32000	12000	two-step contact-neighbor composition; focal return removed; no CM RNA
+8	0.655857653	0.655857653	1843.27196	0.168055668	True	32000	12000	two-step contact-neighbor composition; focal return removed; no CM RNA
+10	0.804477385	0.690243121	-48711.7469	1.02597058	True	32000	12000	two-step contact-neighbor composition; focal return removed; no CM RNA
+12	0.59996212	0.560532961	-90734.7929	1.64200377	True	32000	12000	two-step contact-neighbor composition; focal return removed; no CM RNA

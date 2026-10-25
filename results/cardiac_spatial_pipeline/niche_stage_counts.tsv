@@ -1,0 +1,13 @@
+stage	niche	profiles	Cardiomyocyte	Endothelial	Fibroblast	Pericyte	Smooth muscle	Immune	Epicardial
+P0	N1: Fibroblast / Smooth muscle enriched context	3067	771	460	449	8	213	32	71
+P0	N2: Cardiomyocyte / Endothelial enriched context	34625	22732	5060	1197	414	12	169	2
+P0	Niche unresolved	9919	3257	874	673	38	373	96	165
+P7	N1: Fibroblast / Smooth muscle enriched context	9276	2334	1068	2586	78	246	216	183
+P7	N2: Cardiomyocyte / Endothelial enriched context	70641	37505	13419	4420	1664	42	782	10
+P7	Niche unresolved	19512	7910	1523	1558	202	621	277	174
+P14	N1: Fibroblast / Smooth muscle enriched context	16759	4504	2133	2589	403	2397	391	194
+P14	N2: Cardiomyocyte / Endothelial enriched context	76462	33810	18065	5220	3630	113	1311	16
+P14	Niche unresolved	23849	9192	2862	2015	568	1221	379	199
+P21	N1: Fibroblast / Smooth muscle enriched context	17103	4485	2244	3588	318	1226	617	140
+P21	N2: Cardiomyocyte / Endothelial enriched context	89412	41379	16888	6250	3207	130	1796	8
+P21	Niche unresolved	37429	15343	5021	3245	1023	495	962	146

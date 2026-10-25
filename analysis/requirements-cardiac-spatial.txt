@@ -1,0 +1,10 @@
+# Primary pipeline; optional CellCharter/Wormhole use separate environments.
+numpy==2.5.4
+pandas==3.0.6
+scipy==1.18.1
+scikit-learn==1.9.1
+anndata==0.13.4
+statsmodels==0.15.0
+matplotlib==3.11.2
+pillow==13.0.0
+h5py==3.16.0

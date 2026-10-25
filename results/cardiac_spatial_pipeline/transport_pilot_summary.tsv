@@ -1,0 +1,5 @@
+stage	pairs	exact_pairs	SW_vs_exact_Spearman	mean_vs_exact_Spearman	SW_vs_mean_Spearman	scope
+P0	1500	64	0.92724359	0.949358974	0.932476478	Distance pilot only; no evidence of improved CM prediction or causal mechanism
+P14	1500	64	0.953250916	0.967078755	0.936199879	Distance pilot only; no evidence of improved CM prediction or causal mechanism
+P21	1500	64	0.862728938	0.927930403	0.942635342	Distance pilot only; no evidence of improved CM prediction or causal mechanism
+P7	1500	64	0.95242674	0.961767399	0.945639428	Distance pilot only; no evidence of improved CM prediction or causal mechanism

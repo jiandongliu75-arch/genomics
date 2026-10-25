@@ -1,0 +1,9 @@
+stage	adjustment	predictors	OOF_CMs	OOF_R2	OOF_MAE	algorithm	scope
+P0	anatomy	baseline	13588	0.50640648	0.292180513	HistGradientBoosting; fixed150 iterations,depth3,leaf100,L2=10; no target-based tuning	Nonlinear predictive sensitivity, not effect estimates or causal feature importance
+P0	anatomy	joint	13588	0.506849926	0.292150506	HistGradientBoosting; fixed150 iterations,depth3,leaf100,L2=10; no target-based tuning	Nonlinear predictive sensitivity, not effect estimates or causal feature importance
+P7	anatomy	baseline	31830	0.584169805	0.304727704	HistGradientBoosting; fixed150 iterations,depth3,leaf100,L2=10; no target-based tuning	Nonlinear predictive sensitivity, not effect estimates or causal feature importance
+P7	anatomy	joint	31830	0.584722768	0.304533135	HistGradientBoosting; fixed150 iterations,depth3,leaf100,L2=10; no target-based tuning	Nonlinear predictive sensitivity, not effect estimates or causal feature importance
+P14	anatomy	baseline	30300	0.625290113	0.295697449	HistGradientBoosting; fixed150 iterations,depth3,leaf100,L2=10; no target-based tuning	Nonlinear predictive sensitivity, not effect estimates or causal feature importance
+P14	anatomy	joint	30300	0.62522238	0.29568029	HistGradientBoosting; fixed150 iterations,depth3,leaf100,L2=10; no target-based tuning	Nonlinear predictive sensitivity, not effect estimates or causal feature importance
+P21	anatomy	baseline	29031	0.645851942	0.288672129	HistGradientBoosting; fixed150 iterations,depth3,leaf100,L2=10; no target-based tuning	Nonlinear predictive sensitivity, not effect estimates or causal feature importance
+P21	anatomy	joint	29031	0.647118209	0.288190989	HistGradientBoosting; fixed150 iterations,depth3,leaf100,L2=10; no target-based tuning	Nonlinear predictive sensitivity, not effect estimates or causal feature importance
