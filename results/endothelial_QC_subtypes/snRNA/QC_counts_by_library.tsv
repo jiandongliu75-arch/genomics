@@ -1,0 +1,24 @@
+age	sample	QC_disposition	nuclei
+P0	GSM8827071_P0_1	Coherent EC/mural program; excluded primary, retained review	74
+P0	GSM8827071_P0_1	Insufficient canonical EC support; review	104
+P0	GSM8827071_P0_1	Mixed-lineage program; excluded primary, retained review	165
+P0	GSM8827071_P0_1	Primary endothelial reference	608
+P0	GSM8827072_P0_2	Coherent EC/mural program; excluded primary, retained review	38
+P0	GSM8827072_P0_2	Insufficient canonical EC support; review	17
+P0	GSM8827072_P0_2	Primary endothelial reference	641
+P7	GSM8827073_P7_1	Insufficient canonical EC support; review	204
+P7	GSM8827073_P7_1	Primary endothelial reference	477
+P7	GSM8827074_P7_2	Insufficient canonical EC support; review	133
+P7	GSM8827074_P7_2	Primary endothelial reference	356
+P14	GSM8827075_P14_1	Coherent EC/mural program; excluded primary, retained review	22
+P14	GSM8827075_P14_1	Insufficient canonical EC support; review	52
+P14	GSM8827075_P14_1	Primary endothelial reference	536
+P14	GSM8827076_P14_2	Coherent EC/mural program; excluded primary, retained review	22
+P14	GSM8827076_P14_2	Insufficient canonical EC support; review	48
+P14	GSM8827076_P14_2	Primary endothelial reference	706
+P21	GSM8827077_P21_1	Coherent EC/mural program; excluded primary, retained review	31
+P21	GSM8827077_P21_1	Insufficient canonical EC support; review	36
+P21	GSM8827077_P21_1	Primary endothelial reference	933
+P21	GSM8827078_P21_2	Coherent EC/mural program; excluded primary, retained review	15
+P21	GSM8827078_P21_2	Insufficient canonical EC support; review	15
+P21	GSM8827078_P21_2	Primary endothelial reference	340

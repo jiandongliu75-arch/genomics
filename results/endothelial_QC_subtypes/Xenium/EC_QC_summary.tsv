@@ -1,0 +1,9 @@
+stage	cohort	profiles	new_cell_broad_clean	nuclear_broad_clean	high_confidence_A_B	assigned_A_B_C	nuclear_supported_subtypes_all	additional_nuclear_only_candidates	additional_nuclear_candidates_with_mixed_cell_RNA	multiple_projected_nuclear_components_review	no_projected_nuclear_component_record	strong_CM_program_native	strong_CM_program_nuclear	mixed_new_cell_review
+P0	all_EC_candidates	8681	1738	4243	684	735	1692	1008	857	643	265	5460	2585	4099
+P0	native_broad_EC	6394	1617	3732	660	711	1524	864	747	439	152	3704	1651	3513
+P7	all_EC_candidates	21067	3162	10713	452	566	1988	1536	1375	1792	416	14523	7341	14240
+P7	native_broad_EC	16010	2856	8944	427	541	1722	1295	1165	1212	221	10641	5415	11385
+P14	all_EC_candidates	30240	1664	10121	741	796	5090	4349	3960	720	654	26397	17199	23973
+P14	native_broad_EC	23060	1491	8086	691	745	4274	3583	3284	477	335	20008	13589	19205
+P21	all_EC_candidates	35328	1464	11364	535	587	3710	3175	2658	932	1085	30973	19133	25347
+P21	native_broad_EC	24153	1323	8601	497	549	3021	2524	2147	483	407	20870	13505	18956

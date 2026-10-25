@@ -1,0 +1,173 @@
+{
+  "snRNA_source": "/workspace/heart-atlas/results/cell_identities_subtypes/snrna_qc_annotated_subclustered.h5ad",
+  "snRNA_existing_filter": "scDblFinder singlets; >=1000 corrected UMIs;750-7500 genes;<=5% mitochondrial;DecontX contamination<=50%;eight converged per-library fits",
+  "snRNA_EC_screen": "Whole-genome denominator: >=2 EC diagnostic genes with corrected count>=1 and EC fraction>=0.1%; review competing program if>=3 genes,>=10 molecules,>=2% full-transcriptome UMIs. All reviewed nuclei/counts retained.",
+  "snRNA_two_pass_mural_review": "Provisional within-age RNA clusters with >=3 mural markers detected in>=15% of nuclei in both raw/corrected counts and both libraries (>=10 nuclei/library) are retained as coherent mixed-group review; final primary graphs/refits exclude these groups. This is not proof every nucleus is a doublet.",
+  "spatial_EC_screen": "403-target denominator: >=3 EC genes and >=3% EC molecules; >=2 EC genes for nuclear views. Foreign-program review:>=3 genes,>=10 molecules,>=10% target molecules.",
+  "thresholds_not_comparable_across_assays": true,
+  "RNA_new_clustering": "Separate ages;within-age two-library Harmony;2000HVG minus mt/ribo/sex and foreign-lineage diagnostics;30PC,20NN,Leiden.45,seed42; alternative seeds,resolutions,raw counts,QC covariates,explicit annotation markers withheld,ambient<=30% reclustering.",
+  "RNA_family_assignment": "Post-hoc curated and paper panels;>=3 expressed markers,>=2 anchors (capillary>=1);score>0.05,top-v-other margin>=.10;lymphatic requires Prox1 and Flt4. Unqualified top competing panels can block a label.",
+  "RNA_gene_names": "Top two within-stage enriched genes, preferentially consistent direction in both libraries; aliases describe enrichment, not mandatory per-cell coexpression or verified function.",
+  "Xenium_segmentation": "Reuse completed image-only whole-section DAPI-derived nuclear anchors + acquired ATP1A1/CD45/E-Cadherin boundary channel at0.425um. Native-profile territories retained,2um mask expansion,0.85um uncertain boundary band excluded in core view. Source nuclear molecule ownership conserved. No new nuclear detection or cell-count/merge-split validation.",
+  "Xenium_scope": "All native EC profiles plus original whole-reference EC proposals among uncertain profiles; other cardiac profiles compete as RNA reference alternatives. New broad candidates remain labeled candidates; parent atlas not overwritten.",
+  "Xenium_background": "QV>=20 gene molecules; unassigned RNA not forced into primary cells; 403 genes exclude negative-control features. No claim of global ambient removal; compare native/new/core/nuclear/cytoplasm and depth-matched controls.",
+  "Xenium_QC_tiers": "A/B: new whole-cell and both nuclear scalings same supported subtype;A also native. C: native+new+boundary-core same supported subtype. Mixed whole/nuclear programs and supported subtype conflicts excluded from A/B/C. Extra nuclear-only candidates separately named and never promoted to clean whole-cell evidence.",
+  "Xenium_nuclear_geometry_QC": "Count deposited (cell_id,label_id) nuclear components. Parents with>1 projected component are retained as possible merge/multinucleation review and excluded from A/B/C and nuclear-only candidate release. Missing nuclear area/outline alone never deletes a profile. Refined/native area changes and fallback seeds are exported as diagnostics, not automatically called errors.",
+  "confidence_limit": "Operational robustness criteria, not calibrated probabilities or biological/anatomical accuracy; count views share molecules/references.",
+  "biological_limits": [
+    "One Xenium section per age; two RNA libraries per age are not assumed independent animals.",
+    "No absence claim from zero fine calls.",
+    "CM-associated endothelial RNA can reflect genuine biology, ambient RNA, unresolved merges or ownership error; present evidence does not prove its origin.",
+    "Nuclear RNA reduces exposure to boundary-associated mixing but may contain ambient/cross-projection errors and omit real cytoplasmic state genes.",
+    "No coordinate smoothing, subtype quotas or age regression; no new causal signaling or lineage-conversion inference."
+  ],
+  "panels": {
+    "Capillary-like": [
+      "Rgcc",
+      "Emcn",
+      "Car4",
+      "Cd36",
+      "Gpihbp1",
+      "Fabp4",
+      "Dach1",
+      "Adgrl4",
+      "Cd300lg",
+      "Btnl9",
+      "Slc28a2",
+      "Dipk2b"
+    ],
+    "Endocardial-like": [
+      "Npr3",
+      "Nfatc1",
+      "Nrxn3",
+      "Nrg1",
+      "Smoc1",
+      "Col23a1",
+      "Hs3st4",
+      "Enpp6",
+      "Kcnc2"
+    ],
+    "Arterial-like": [
+      "Gja5",
+      "Gja4",
+      "Efnb2",
+      "Sox17",
+      "Dll4",
+      "Hey1",
+      "Sema3g",
+      "Mannr",
+      "Ptchd1"
+    ],
+    "Venous-like candidate": [
+      "Nr2f2",
+      "Ephb4",
+      "Slc38a5",
+      "Ackr1",
+      "Vwf",
+      "Selp"
+    ],
+    "Lymphatic-like candidate": [
+      "Prox1",
+      "Flt4",
+      "Lyve1",
+      "Pdpn",
+      "Ccl21a",
+      "Nrp2",
+      "Mmrn1",
+      "Tbx1",
+      "Reln"
+    ]
+  },
+  "anchors": {
+    "Capillary-like": [
+      "Rgcc",
+      "Emcn",
+      "Car4",
+      "Gpihbp1",
+      "Cd300lg",
+      "Btnl9"
+    ],
+    "Endocardial-like": [
+      "Npr3",
+      "Nfatc1",
+      "Nrxn3"
+    ],
+    "Arterial-like": [
+      "Gja5",
+      "Efnb2",
+      "Sox17",
+      "Dll4",
+      "Sema3g"
+    ],
+    "Venous-like candidate": [
+      "Nr2f2",
+      "Ephb4",
+      "Ackr1"
+    ],
+    "Lymphatic-like candidate": [
+      "Prox1",
+      "Flt4"
+    ]
+  },
+  "lineage_diagnostics": {
+    "Endothelial": [
+      "Pecam1",
+      "Cdh5",
+      "Kdr",
+      "Esam",
+      "Tek",
+      "Flt1",
+      "Tie1",
+      "Erg",
+      "Fli1"
+    ],
+    "Cardiomyocyte": [
+      "Myh6",
+      "Myh7",
+      "Tnni3",
+      "Myl2",
+      "Actc1",
+      "Ttn",
+      "Ryr2",
+      "Mybpc3",
+      "Tnnt2"
+    ],
+    "Fibroblast": [
+      "Dcn",
+      "Lum",
+      "Pdgfra",
+      "Tcf21",
+      "Col1a1",
+      "Col1a2",
+      "Col3a1"
+    ],
+    "Mural": [
+      "Rgs5",
+      "Cspg4",
+      "Kcnj8",
+      "Abcc9",
+      "Myh11",
+      "Cnn1",
+      "Tagln",
+      "Pdgfrb",
+      "Notch3"
+    ],
+    "Immune": [
+      "Ptprc",
+      "Csf1r",
+      "Adgre1",
+      "Mertk",
+      "Cd3d",
+      "Cd3e",
+      "Cd79a",
+      "Ms4a1"
+    ],
+    "Glial": [
+      "Sox10",
+      "Plp1",
+      "Mpz",
+      "S100b"
+    ]
+  },
+  "segmentation_reference": "../xenium_nuclear_anchored_segmentation/segmentation_design.json"
+}

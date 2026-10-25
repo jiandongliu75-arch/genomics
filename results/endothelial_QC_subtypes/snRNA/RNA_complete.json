@@ -1,0 +1,15 @@
+{
+  "source_EC_nuclei": 5573,
+  "primary_EC_nuclei": 4597,
+  "review_retained": 976,
+  "all_inherited_doublet_calls_singlet": true,
+  "all_inherited_postambient_QC_pass": true,
+  "counts_changed": false,
+  "RNA_input_sha256": "3d0010d55bb05d1a5730830dba3b7918c54aa66b6d473e7fa3a0356a4d69fb28",
+  "ambient_method": "Inherited converged per-library DecontX, called nuclei only, no empty-droplet reference",
+  "doublet_method": "Inherited per-library scDblFinder; residual incompatible-lineage program review; Scrublet retained diagnostic only",
+  "two_pass_mural_review": "Provisional within-age clusters with >=3 mural diagnostic genes detected in>=15% of nuclei, both raw/corrected, in both libraries (>=10 nuclei/library) excluded as group review; final primary graph refitted. Not proof all group members are doublets.",
+  "batch": "Harmony only between two libraries within each age; no age regression",
+  "support": "n>=50, >=10 in both libraries, max-library fraction<=.9, >=3 markers positive in both, minimum seed/QC/marker-withheld cluster Jaccard>=.5",
+  "mixed_program_limit": "Operational review excludes from primary reference, not proof of doublet or false biology; review nuclei and all original counts retained."
+}

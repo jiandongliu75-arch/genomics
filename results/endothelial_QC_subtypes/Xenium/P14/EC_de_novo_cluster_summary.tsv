@@ -1,0 +1,9 @@
+stage	cluster_id	gene_name	profiles	most_common_individual_label	most_common_label_fraction	marker_genes	high_confidence_cluster_best_jaccard	nuclear_only_cluster_best_jaccard	nuclear_depth_matched_cluster_best_jaccard	seed_7_best_jaccard	seed_123_best_jaccard	resolution_0.25_best_jaccard	resolution_0.8_best_jaccard
+P14	P14_XEC0	Npr3/Nppa EC program	341	Endothelial subtype unresolved	0.6480938	Npr3;Nppa;Myl4;Igfbp5;Cpe;Postn;Vwf;Igf2;Cdh11;Dkk3;Myl7;Bmpr1a	0.8894879	0.8655914	0.868984	0.9648094	0.9648094	0.5036928	0.9742857
+P14	P14_XEC1	Mki67/Top2a EC program	30	Capillary-like	0.4666667	Mki67;Top2a;Kif11;Kif15;Stmn1;Hjurp;Cenpf;Ezh2;Smc4;Cdca2;Rad21;H2afv	0.3010753	0.2967033	0.7333333	1	1	0.326087	1
+P14	P14_XEC2	Gja5/Fbln2 EC program	327	Endothelial subtype unresolved	0.5168196	Gja5;Fbln2;Acta2;Vegfc;Fn1;Sparcl1;Myl9;Gja4;Jag1;Lims2;Lama3;Prdm16	0.9356725	0.9319527	0.8997135	0.9617647	0.5672515	0.867374	0.5276968
+P14	P14_XEC3	Car4/Cd36 EC program	417	Capillary-like	0.6978417	Car4;Cd36;Sparcl1;Lims2;Aplnr;Rgcc;Kitl;Itga1;Sema7a;Cxcl12;Meox1;Col4a2	0.9300699	0.9357798	0.8666667	0.9592326	0.9544365	0.7807692	0.9376499
+P14	P14_XEC4	Lhx6/Aplnr EC program	103	Venous-like candidate	0.5825243	Lhx6;Aplnr;Cd36;Fbln2;Nr2f2;Npr1;Calcrl;Kitl;Sema6a;Jam2;Ephb4;Sparcl1	0.9074074	0.8691589	0.7589286	0.9626168	0.9626168	0.2023576	0.9115044
+P14	P14_XEC5	Nrg1/Npr3 EC program	335	Endocardial-like	0.8537313	Nrg1;Npr3;Col4a4;Col4a3;Vcam1;Epha7;Vwf;Bmp6;Smc4;Cpe;Bgn;Itgbl1	0.8015666	0.7923077	0.7979275	0.9654179	0.9654179	0.4948301	0.9731343
+P14	P14_XEC6	Prox1/Flt4 EC program	62	Endothelial subtype unresolved	0.5483871	Prox1;Flt4;Tnfrsf11a;Itgb4;Nr2f2;Stmn1;Itga9;Sox4;Fndc1;Igfbp5;Tgfbr2;F11r	0.6813187	0.6666667	0.9230769	1	1	0.673913	1
+P14	P14_XEC7	Ncam1/Eln EC program	40	Endothelial subtype unresolved	0.925	Ncam1;Eln;Col4a4;Col4a3;Vwf;Fndc1;Cpe;Itga9;Itgb4;Acta2;Fbln2;Itgbl1	0.103352	0.09485095	0.09315068	1	0.2312139	0.1031746	1

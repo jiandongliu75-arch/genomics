@@ -1,0 +1,21 @@
+stage	family	RNA_nuclei	Xenium_A_B_all_candidates	Xenium_A_B_C_all_candidates	Xenium_additional_nuclear_only_candidates
+P0	Capillary-like	480	298	319	669
+P0	Endocardial-like	617	313	337	318
+P0	Arterial-like	47	73	79	21
+P0	Venous-like candidate	0	0	0	0
+P0	Lymphatic-like candidate	0	0	0	0
+P7	Capillary-like	277	292	360	1433
+P7	Endocardial-like	128	160	206	103
+P7	Arterial-like	0	0	0	0
+P7	Venous-like candidate	0	0	0	0
+P7	Lymphatic-like candidate	0	0	0	0
+P14	Capillary-like	690	229	242	3709
+P14	Endocardial-like	244	349	371	358
+P14	Arterial-like	25	96	112	55
+P14	Venous-like candidate	260	48	51	213
+P14	Lymphatic-like candidate	23	19	20	14
+P21	Capillary-like	570	109	123	2627
+P21	Endocardial-like	310	378	412	485
+P21	Arterial-like	53	48	52	61
+P21	Venous-like candidate	0	0	0	0
+P21	Lymphatic-like candidate	22	0	0	2

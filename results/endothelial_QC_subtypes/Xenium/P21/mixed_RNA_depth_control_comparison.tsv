@@ -1,0 +1,15 @@
+stage	cohort	view	profiles	mean_CM_fraction	median_CM_fraction	mean_EC_fraction	strong_CM_fraction	median_molecules	median_genes
+P21	all_candidates	native	35328	0.2111587	0.213198	0.05996153	0.8767267	259	92
+P21	native_strong_CM_program	native	30973	0.2307936	0.2274827	0.0566671	1	281	94
+P21	all_candidates	nuclear_anchored	35328	0.2247581	0.2259751	0.05480455	0.8987489	293	97
+P21	native_strong_CM_program	nuclear_anchored	30973	0.2386895	0.2361111	0.0533318	0.9589965	306	98
+P21	all_candidates	high_confidence	35328	0.1942577	0.1935484	0.06413006	0.7977242	198	81
+P21	native_strong_CM_program	high_confidence	30973	0.207825	0.2051282	0.06257123	0.8732122	208	82
+P21	all_candidates	depth_matched	35328	0.2206794	0.2244898	0.05433128	0.8644984	198	79
+P21	native_strong_CM_program	depth_matched	30973	0.2340303	0.2352941	0.05279449	0.9273561	208	80
+P21	all_candidates	nuclear_only	35328	0.1323503	0.1271332	0.0853934	0.5415817	108	59
+P21	native_strong_CM_program	nuclear_only	30973	0.1433735	0.1384615	0.08464934	0.6165047	111	60
+P21	all_candidates	nuclear_depth_matched	35328	0.2023164	0.2048193	0.05866743	0.7584069	108	55
+P21	native_strong_CM_program	nuclear_depth_matched	30973	0.2209822	0.220339	0.05536498	0.8586511	111	55
+P21	all_candidates	cytoplasmic_only	35328	0.270722	0.2798431	0.03778715	0.8492414	164	65
+P21	native_strong_CM_program	cytoplasmic_only	30973	0.2854877	0.2892562	0.03609845	0.8947148	175	66

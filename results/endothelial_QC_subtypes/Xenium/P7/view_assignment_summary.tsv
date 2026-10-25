@@ -1,0 +1,49 @@
+stage	variant	family	candidate_EC_profiles	profiles	information_QC	broad_EC_competition_pass	mixed_lineage_review
+P7	native	Capillary-like	21067	957	21067	16708	13294
+P7	native	Endocardial-like	21067	382	21067	16708	13294
+P7	native	Arterial-like	21067	0	21067	16708	13294
+P7	native	Venous-like candidate	21067	0	21067	16708	13294
+P7	native	Lymphatic-like candidate	21067	0	21067	16708	13294
+P7	native	Endothelial subtype unresolved	21067	19728	21067	16708	13294
+P7	nuclear_anchored	Capillary-like	21067	538	20862	16219	14240
+P7	nuclear_anchored	Endocardial-like	21067	332	20862	16219	14240
+P7	nuclear_anchored	Arterial-like	21067	0	20862	16219	14240
+P7	nuclear_anchored	Venous-like candidate	21067	0	20862	16219	14240
+P7	nuclear_anchored	Lymphatic-like candidate	21067	0	20862	16219	14240
+P7	nuclear_anchored	Endothelial subtype unresolved	21067	20197	20862	16219	14240
+P7	high_confidence	Capillary-like	21067	1525	20783	15584	11525
+P7	high_confidence	Endocardial-like	21067	322	20783	15584	11525
+P7	high_confidence	Arterial-like	21067	0	20783	15584	11525
+P7	high_confidence	Venous-like candidate	21067	0	20783	15584	11525
+P7	high_confidence	Lymphatic-like candidate	21067	0	20783	15584	11525
+P7	high_confidence	Endothelial subtype unresolved	21067	19220	20783	15584	11525
+P7	depth_matched	Capillary-like	21067	688	20778	13486	13103
+P7	depth_matched	Endocardial-like	21067	221	20778	13486	13103
+P7	depth_matched	Arterial-like	21067	0	20778	13486	13103
+P7	depth_matched	Venous-like candidate	21067	0	20778	13486	13103
+P7	depth_matched	Lymphatic-like candidate	21067	0	20778	13486	13103
+P7	depth_matched	Endothelial subtype unresolved	21067	20158	20778	13486	13103
+P7	nuclear_only	Capillary-like	21067	3291	20525	15105	6983
+P7	nuclear_only	Endocardial-like	21067	319	20525	15105	6983
+P7	nuclear_only	Arterial-like	21067	0	20525	15105	6983
+P7	nuclear_only	Venous-like candidate	21067	0	20525	15105	6983
+P7	nuclear_only	Lymphatic-like candidate	21067	0	20525	15105	6983
+P7	nuclear_only	Endothelial subtype unresolved	21067	17457	20525	15105	6983
+P7	nuclear_depth_matched	Capillary-like	21067	1142	20480	10882	10426
+P7	nuclear_depth_matched	Endocardial-like	21067	210	20480	10882	10426
+P7	nuclear_depth_matched	Arterial-like	21067	0	20480	10882	10426
+P7	nuclear_depth_matched	Venous-like candidate	21067	0	20480	10882	10426
+P7	nuclear_depth_matched	Lymphatic-like candidate	21067	0	20480	10882	10426
+P7	nuclear_depth_matched	Endothelial subtype unresolved	21067	19715	20480	10882	10426
+P7	cytoplasmic_only	Capillary-like	21067	69	19995	3260	7696
+P7	cytoplasmic_only	Endocardial-like	21067	6	19995	3260	7696
+P7	cytoplasmic_only	Arterial-like	21067	0	19995	3260	7696
+P7	cytoplasmic_only	Venous-like candidate	21067	0	19995	3260	7696
+P7	cytoplasmic_only	Lymphatic-like candidate	21067	0	19995	3260	7696
+P7	cytoplasmic_only	Endothelial subtype unresolved	21067	20992	19995	3260	7696
+P7	nuclear_calibrated	Capillary-like	21067	1956	20525	17944	6983
+P7	nuclear_calibrated	Endocardial-like	21067	642	20525	17944	6983
+P7	nuclear_calibrated	Arterial-like	21067	0	20525	17944	6983
+P7	nuclear_calibrated	Venous-like candidate	21067	0	20525	17944	6983
+P7	nuclear_calibrated	Lymphatic-like candidate	21067	0	20525	17944	6983
+P7	nuclear_calibrated	Endothelial subtype unresolved	21067	18469	20525	17944	6983

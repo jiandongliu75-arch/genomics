@@ -1,0 +1,35 @@
+age	sample	EC_family	nuclei
+P0	GSM8827071_P0_1	Arterial-like	22
+P0	GSM8827071_P0_1	Capillary-like	247
+P0	GSM8827071_P0_1	Endocardial-like	269
+P0	GSM8827071_P0_1	Endothelial subtype unresolved	70
+P0	GSM8827072_P0_2	Arterial-like	25
+P0	GSM8827072_P0_2	Capillary-like	233
+P0	GSM8827072_P0_2	Endocardial-like	348
+P0	GSM8827072_P0_2	Endothelial subtype unresolved	35
+P14	GSM8827075_P14_1	Arterial-like	9
+P14	GSM8827075_P14_1	Capillary-like	287
+P14	GSM8827075_P14_1	Endocardial-like	99
+P14	GSM8827075_P14_1	Lymphatic-like candidate	15
+P14	GSM8827075_P14_1	Venous-like candidate	126
+P14	GSM8827076_P14_2	Arterial-like	16
+P14	GSM8827076_P14_2	Capillary-like	403
+P14	GSM8827076_P14_2	Endocardial-like	145
+P14	GSM8827076_P14_2	Lymphatic-like candidate	8
+P14	GSM8827076_P14_2	Venous-like candidate	134
+P21	GSM8827077_P21_1	Arterial-like	39
+P21	GSM8827077_P21_1	Capillary-like	422
+P21	GSM8827077_P21_1	Endocardial-like	245
+P21	GSM8827077_P21_1	Endothelial subtype unresolved	208
+P21	GSM8827077_P21_1	Lymphatic-like candidate	19
+P21	GSM8827078_P21_2	Arterial-like	14
+P21	GSM8827078_P21_2	Capillary-like	148
+P21	GSM8827078_P21_2	Endocardial-like	65
+P21	GSM8827078_P21_2	Endothelial subtype unresolved	110
+P21	GSM8827078_P21_2	Lymphatic-like candidate	3
+P7	GSM8827073_P7_1	Capillary-like	170
+P7	GSM8827073_P7_1	Endocardial-like	73
+P7	GSM8827073_P7_1	Endothelial subtype unresolved	234
+P7	GSM8827074_P7_2	Capillary-like	107
+P7	GSM8827074_P7_2	Endocardial-like	55
+P7	GSM8827074_P7_2	Endothelial subtype unresolved	194

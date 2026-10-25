@@ -1,0 +1,9 @@
+stage	ROI	fully_contained_native_EC_profiles	observed_Q20_gene_RNA	source_selection_cell
+P0	P0_Endothelial_ordinary	44	9087	iknnhlmp-1
+P0	P0_Endothelial_flagged	57	11870	abnfoiao-1
+P7	P7_Endothelial_ordinary	25	4875	kkiagnpi-1
+P7	P7_Endothelial_flagged	64	20680	dmkempck-1
+P14	P14_Endothelial_ordinary	43	10107	mnolakpo-1
+P14	P14_Endothelial_flagged	30	7246	ebpgjecn-1
+P21	P21_Endothelial_ordinary	57	15185	ieoplmmo-1
+P21	P21_Endothelial_flagged	52	18527	jhmmjcpa-1

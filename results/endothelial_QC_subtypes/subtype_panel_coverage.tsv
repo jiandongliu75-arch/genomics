@@ -1,0 +1,46 @@
+family	gene	RNA_measured	Xenium_measured	anchor
+Capillary-like	Rgcc	True	True	True
+Capillary-like	Emcn	True	False	True
+Capillary-like	Car4	True	True	True
+Capillary-like	Cd36	True	True	False
+Capillary-like	Gpihbp1	True	False	True
+Capillary-like	Fabp4	True	False	False
+Capillary-like	Dach1	True	True	False
+Capillary-like	Adgrl4	True	False	False
+Capillary-like	Cd300lg	True	False	True
+Capillary-like	Btnl9	True	False	True
+Capillary-like	Slc28a2	True	False	False
+Capillary-like	Dipk2b	True	False	False
+Endocardial-like	Npr3	True	True	True
+Endocardial-like	Nfatc1	True	False	True
+Endocardial-like	Nrxn3	True	True	True
+Endocardial-like	Nrg1	True	True	False
+Endocardial-like	Smoc1	True	False	False
+Endocardial-like	Col23a1	True	False	False
+Endocardial-like	Hs3st4	True	False	False
+Endocardial-like	Enpp6	True	False	False
+Endocardial-like	Kcnc2	True	False	False
+Arterial-like	Gja5	True	True	True
+Arterial-like	Gja4	True	True	False
+Arterial-like	Efnb2	True	True	True
+Arterial-like	Sox17	True	False	True
+Arterial-like	Dll4	True	True	True
+Arterial-like	Hey1	True	True	False
+Arterial-like	Sema3g	True	False	True
+Arterial-like	Mannr	True	False	False
+Arterial-like	Ptchd1	True	False	False
+Venous-like candidate	Nr2f2	True	True	True
+Venous-like candidate	Ephb4	True	True	True
+Venous-like candidate	Slc38a5	True	False	False
+Venous-like candidate	Ackr1	True	False	True
+Venous-like candidate	Vwf	True	True	False
+Venous-like candidate	Selp	True	False	False
+Lymphatic-like candidate	Prox1	True	True	True
+Lymphatic-like candidate	Flt4	True	True	True
+Lymphatic-like candidate	Lyve1	True	True	False
+Lymphatic-like candidate	Pdpn	True	True	False
+Lymphatic-like candidate	Ccl21a	True	False	False
+Lymphatic-like candidate	Nrp2	True	False	False
+Lymphatic-like candidate	Mmrn1	True	False	False
+Lymphatic-like candidate	Tbx1	True	False	False
+Lymphatic-like candidate	Reln	True	True	False

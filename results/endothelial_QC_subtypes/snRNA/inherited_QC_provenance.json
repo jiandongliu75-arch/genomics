@@ -1,0 +1,204 @@
+{
+  "status": "passed",
+  "dimensions": [
+    73052,
+    32285
+  ],
+  "original_barcodes_accounted_for": 98371,
+  "input_files_verified_unchanged": [
+    {
+      "file": "data/snrna/GSM8827071_P0_1_barcodes.tsv.gz",
+      "bytes": 53001,
+      "sha256": "e3c36f0785284a611c1a1630ec5e549fd488ea33223d5f5aa6b2d4869ac93ef3"
+    },
+    {
+      "file": "data/snrna/GSM8827071_P0_1_features.tsv.gz",
+      "bytes": 290896,
+      "sha256": "9f4bcaa4644967060a41d93409925b31043a7e710dd578d7a90ca82eb35c355c"
+    },
+    {
+      "file": "data/snrna/GSM8827071_P0_1_matrix.mtx.gz",
+      "bytes": 93444207,
+      "sha256": "8d20e11e08a1417a823371dc4c2ec0f274e7cc27f72d25d207f50616fce3a389"
+    },
+    {
+      "file": "data/snrna/GSM8827072_P0_2_barcodes.tsv.gz",
+      "bytes": 53324,
+      "sha256": "1e1c1e6f66ae4f2aba3d57ae90aef7622800b186b652520cac75f7a285c855db"
+    },
+    {
+      "file": "data/snrna/GSM8827072_P0_2_features.tsv.gz",
+      "bytes": 290896,
+      "sha256": "6864fc142b653baa7c658cb986da5366722c5bf720a69fe0edba7bf2e2bd0e9e"
+    },
+    {
+      "file": "data/snrna/GSM8827072_P0_2_matrix.mtx.gz",
+      "bytes": 105638457,
+      "sha256": "8b0d3e073fcf24abd2a7a133b615b8ab9d7f792f45531dbba6f021a937f82612"
+    },
+    {
+      "file": "data/snrna/GSM8827073_P7_1_barcodes.tsv.gz",
+      "bytes": 80100,
+      "sha256": "8699feb78270469b99128101ef949d0fb1570299fd24490678605e4ef6922125"
+    },
+    {
+      "file": "data/snrna/GSM8827073_P7_1_features.tsv.gz",
+      "bytes": 290896,
+      "sha256": "344f9379cf3c927629234cf8fc89b1253de4aa121554cd57b5bca2177f31272d"
+    },
+    {
+      "file": "data/snrna/GSM8827073_P7_1_matrix.mtx.gz",
+      "bytes": 99257818,
+      "sha256": "2c567b4e64c3424a4d7826b132938f5071f267f8cc491f5d2120439fbc8bc40e"
+    },
+    {
+      "file": "data/snrna/GSM8827074_P7_2_barcodes.tsv.gz",
+      "bytes": 55832,
+      "sha256": "1655173b2ae0a5a0dd83c478834e926bb6980510d6b14a2ad776755017547904"
+    },
+    {
+      "file": "data/snrna/GSM8827074_P7_2_features.tsv.gz",
+      "bytes": 290896,
+      "sha256": "9dcf5188e353a5a58ddea178baa09c38034f634bbff2daad19f155df20d8316d"
+    },
+    {
+      "file": "data/snrna/GSM8827074_P7_2_matrix.mtx.gz",
+      "bytes": 77249859,
+      "sha256": "82d23f36698430294fb8f8b3824b58e6734f01da28b1c7a156eca33b21efd828"
+    },
+    {
+      "file": "data/snrna/GSM8827075_P14_1_barcodes.tsv.gz",
+      "bytes": 62526,
+      "sha256": "caa4fe6fcbbd9b769d1d59ffd8dbfb303bdba1e4c12e2e5b43ac3dc2cf33ea73"
+    },
+    {
+      "file": "data/snrna/GSM8827075_P14_1_features.tsv.gz",
+      "bytes": 290896,
+      "sha256": "f5b283b27dafc4e6ddeef1d2124a4fbdc6273733699bf46d152fc4c81338dff9"
+    },
+    {
+      "file": "data/snrna/GSM8827075_P14_1_matrix.mtx.gz",
+      "bytes": 126227069,
+      "sha256": "6350d40220473e7a440c3ffaa6c37102dab67a73f9f7aa4836454bc38a65c0f0"
+    },
+    {
+      "file": "data/snrna/GSM8827076_P14_2_barcodes.tsv.gz",
+      "bytes": 76320,
+      "sha256": "c0971b8bef6f1949d6a31e18553a718bcf5b5d37f98546b282e5683cb518ef88"
+    },
+    {
+      "file": "data/snrna/GSM8827076_P14_2_features.tsv.gz",
+      "bytes": 290896,
+      "sha256": "1b576329c3ae3be7126840f619b9d188b9f3e4205f26be899947ff20195d2570"
+    },
+    {
+      "file": "data/snrna/GSM8827076_P14_2_matrix.mtx.gz",
+      "bytes": 160519050,
+      "sha256": "908776ac851094c40c1dda73b9b8ca49bfa79a5adfa055dd6847565139644a86"
+    },
+    {
+      "file": "data/snrna/GSM8827077_P21_1_barcodes.tsv.gz",
+      "bytes": 52965,
+      "sha256": "f0146e702e9817279dc3021e0fe6af49f49291910c6f9a05e0340c896494f2dc"
+    },
+    {
+      "file": "data/snrna/GSM8827077_P21_1_features.tsv.gz",
+      "bytes": 290896,
+      "sha256": "cc47d1438c333977c8b86b2f171685f3d5001e6548d029ccc5d46e08d0c375cc"
+    },
+    {
+      "file": "data/snrna/GSM8827077_P21_1_matrix.mtx.gz",
+      "bytes": 99772906,
+      "sha256": "5e303a3893cfea4ee1cc5bdd5cef63427783170b99d32f933dcdaf80c9e35e88"
+    },
+    {
+      "file": "data/snrna/GSM8827078_P21_2_barcodes.tsv.gz",
+      "bytes": 58566,
+      "sha256": "b03c02a85977953335e2412b369873364ae9fd6edb401c321b24491b7a2d58c9"
+    },
+    {
+      "file": "data/snrna/GSM8827078_P21_2_features.tsv.gz",
+      "bytes": 290896,
+      "sha256": "d18962498f5d9ba801937be7885fe1121f49bef1dd39570d5ea1cbecd20dae04"
+    },
+    {
+      "file": "data/snrna/GSM8827078_P21_2_matrix.mtx.gz",
+      "bytes": 123794694,
+      "sha256": "02d5a643a1ebde4589a220710da8fba565c556016f94fadecafdb9871de69ea2"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "results/snrna_qc/snrna_qc_filtered.h5ad",
+      "bytes": 1276818192,
+      "sha256": "2e962fb10c8f7de31cfb491729af51b5b048ba3eb2d9bccc510f04110ccb9934"
+    },
+    {
+      "path": "results/snrna_qc/QC_REPORT.pdf",
+      "bytes": 3217368,
+      "sha256": "ccaa896854f33fbe18545845404db0f724e5a956520a794cd6b84ffab7aea60d"
+    },
+    {
+      "path": "results/snrna_qc/QC_REPORT.md",
+      "bytes": 7146,
+      "sha256": "0f53d6f7eb1b98c032e49b00f801cc7fc912d8a72ed14a14f8171708cfad76fe"
+    },
+    {
+      "path": "results/snrna_qc/qc_summary.tsv",
+      "bytes": 2114,
+      "sha256": "2422840dffb8b95a36857186584985d18831a27874f8b1e2d3ca07c14146e253"
+    },
+    {
+      "path": "results/snrna_qc/all_barcode_decisions.csv.gz",
+      "bytes": 8240227,
+      "sha256": "683266aef2dceb164605ec20c2c91e447ec4768887ea6e283bd8e51f239e47e7"
+    }
+  ],
+  "scripts": [
+    {
+      "path": "scripts/snrna_decontx.R",
+      "sha256": "698d48e6e311a2beaff38ec0af2b51d611aaaee9e8aa09c43a8fc6f1cf73cee7"
+    },
+    {
+      "path": "scripts/snrna_decontx_frozen.R",
+      "sha256": "698d48e6e311a2beaff38ec0af2b51d611aaaee9e8aa09c43a8fc6f1cf73cee7"
+    },
+    {
+      "path": "scripts/snrna_qc_embedding.py",
+      "sha256": "fccadbc534f1a947e2bd83463fcf7927d64c5329257a4d65ffa6a4308b8fe77d"
+    },
+    {
+      "path": "scripts/snrna_qc_finalize.py",
+      "sha256": "43d8d80b8dee267a9f0e66ed95b7838e0920a5e106da92d9463f4df2179436a8"
+    },
+    {
+      "path": "scripts/snrna_qc_finish_when_ready.py",
+      "sha256": "fa2f27dae02a2ffb71e04f5109cd2e8418f1ba94f0724ca557fd2e9c8f5c8083"
+    },
+    {
+      "path": "scripts/snrna_qc_report.py",
+      "sha256": "00fcea0fa1e5603af5f3384d88be63eb5f3eed1bbe4ba1dac1bb92eb6df76556"
+    },
+    {
+      "path": "scripts/snrna_qc_stage1.py",
+      "sha256": "4ba8a3178eaaef1d847b22385ad33ac4dd88a7a40a6d7bd46d0ca8f35b7a5964"
+    },
+    {
+      "path": "scripts/snrna_qc_validate.py",
+      "sha256": "dad6f46e0840e87194a283daef180383979a8edf4bb90979c40b58ffe1f863fa"
+    },
+    {
+      "path": "scripts/snrna_qc_workers.py",
+      "sha256": "33f29628d73fee100d8e9964a3bb3527aa33ef2580e847dad90ce50c0a882cea"
+    }
+  ],
+  "checks": [
+    "all retained nuclei pass thresholds",
+    "all retained nuclei predicted singlets",
+    "eight DecontX fits converged",
+    "unique IDs and complete retention/exclusion accounting",
+    "finite nonnegative corrected and raw matrices",
+    "integer original counts retained",
+    "finite QC UMAP"
+  ]
+}

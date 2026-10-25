@@ -4,6 +4,7 @@ Independent QC and exploratory clustering of the mouse-heart dataset [GSE290989]
 
 Spatial analyses map candidate ventricular programs onto the four deposited Xenium sections, with measured-marker evidence and comparisons between assay-aligned transfer and CytoSPACE.
 
+- [Endothelial QC and subclustering in RNA and Xenium: gene-based names, nuclear/boundary evidence, possible merges, count matrices and maps](results/endothelial_QC_subtypes/README.md)
 - [Named P21 fibroblast substates and current neighborhoods relative to CMs, endothelial, mural and other cardiac profiles](results/fibroblast_names_and_neighborhoods/README.md)
 - [Integrated fibroblast spatial assignments: explicit nuclear/cell confidence tiers, actual marker evidence and conservative maps](results/fibroblast_spatial_consensus/README.md)
 - [Whole-section nuclear-anchored Xenium segmentation: antibody images, nuclear/cell transcript assignments, counts and fibroblast confidence](results/xenium_nuclear_anchored_segmentation/README.md)
