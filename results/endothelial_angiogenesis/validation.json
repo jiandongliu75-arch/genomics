@@ -1,0 +1,56 @@
+{
+  "status": "PASS",
+  "primary_EC_nuclei": 4597,
+  "cycling_positive_primary": 77,
+  "RNA_libraries": 8,
+  "cycling_counts_reproduced_from_actual_corrected_RNA": true,
+  "source_counts_unchanged": true,
+  "programs": {
+    "Cycling": [
+      "Mki67",
+      "Top2a",
+      "Cenpf",
+      "Ccnb1",
+      "Ube2c",
+      "Cdk1"
+    ],
+    "DNA_replication": [
+      "Mcm2",
+      "Mcm3",
+      "Mcm4",
+      "Mcm5",
+      "Mcm6",
+      "Pcna",
+      "Tyms",
+      "Rrm2"
+    ],
+    "Sprouting_associated": [
+      "Apln",
+      "Esm1",
+      "Angpt2",
+      "Cxcr4",
+      "Pgf",
+      "Adm"
+    ],
+    "VEGF_Notch_machinery": [
+      "Kdr",
+      "Flt1",
+      "Nrp1",
+      "Nrp2",
+      "Dll4",
+      "Hey1",
+      "Ets1",
+      "Elk3"
+    ],
+    "Stabilization_associated": [
+      "Klf2",
+      "Klf4",
+      "Tek",
+      "Cdh5",
+      "S1pr1",
+      "Cldn5",
+      "Ocln"
+    ]
+  },
+  "no_independent_animal_or_direct_angiogenesis_claim": true
+}
