@@ -4,6 +4,7 @@ Independent QC and exploratory clustering of the mouse-heart dataset [GSE290989]
 
 Spatial analyses map candidate ventricular programs onto the four deposited Xenium sections, with measured-marker evidence and comparisons between assay-aligned transfer and CytoSPACE.
 
+- [Biological assessment: soundness of the atlas, coordination of vascular growth with cardiac development, and what cross-stage Wormhole comparisons could reveal](results/cardiac_developmental_synthesis/README.md)
 - [Paper-guided vascular growth and CM maturation review: measured EC states, native/refined boundaries, sender/receiver controls and a trained Wormhole benchmark](results/cardiac_niche_dynamics/README.md)
 - [Integrated cardiac spatial pipeline: all-cell atlas, segmentation-aware graphs, stable contexts, joint non-CM/maturation models and CellCharter/Wormhole assessment](results/cardiac_spatial_pipeline/README.md)
 - [Cardiac spatial organization and ventricular maturation near active endothelial cells: subtype maps, 21-gene scores and within-stage proximity tests](results/cardiac_spatial_maturation_EC/README.md)

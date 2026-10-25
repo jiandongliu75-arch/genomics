@@ -1,0 +1,18 @@
+{
+  "trained_encoder_reused": true,
+  "additional_training": false,
+  "reserved_clouds": 800,
+  "age_pairs": 6,
+  "pairs_per_age_pair_per_selection": 64,
+  "selections": [
+    "random",
+    "top5_lineage_composition_match"
+  ],
+  "composition_matching_uses_CM_maturation": false,
+  "molecular_ground_metric": "Original outcome-withheld non-CM state PCA + lineage features",
+  "absolute_cell_abundance_in_metric": false,
+  "within_cloud_spatial_arrangement_in_metric": false,
+  "anatomical_compartments_matched": false,
+  "metric_evaluation_is_biological_validation": false,
+  "seed": 3841
+}

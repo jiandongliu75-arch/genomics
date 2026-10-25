@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "cross_age_pairs": 768,
+  "stage_pair_selection_groups": 12,
+  "heldout_metadata_checked": true,
+  "saved_embedding_distance_independently_recomputed": true,
+  "rank_metrics_recomputed": true,
+  "source_hashes_verified": true,
+  "exact_OT_independent_dense_LP_checks": 6,
+  "composition_matching_reduces_lineage_difference": true,
+  "scope": "Computational consistency; no biological validation of developmental correspondence"
+}
