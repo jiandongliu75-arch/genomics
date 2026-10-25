@@ -4,6 +4,7 @@ Independent QC and exploratory clustering of the mouse-heart dataset [GSE290989]
 
 Spatial analyses map candidate ventricular programs onto the four deposited Xenium sections, with measured-marker evidence and comparisons between assay-aligned transfer and CytoSPACE.
 
+- [Cardiac spatial organization and ventricular maturation near active endothelial cells: subtype maps, 21-gene scores and within-stage proximity tests](results/cardiac_spatial_maturation_EC/README.md)
 - [EC gene modules: module-level sprouting/proliferation maps, balanced/rank sensitivities and aggregation checks](results/EC_gene_modules/README.md)
 - [RNA-inferred sprouting added to Xenium: annotated EC count matrices, individual/neighborhood projections and explicit missing-gene validation](results/projected_sprouting_Xenium/README.md)
 - [Improved vascular-program detection: fractional-count correction, RNA support, nuclear/boundary controls and spatial neighborhood maps](results/vascular_program_detection/README.md)
