@@ -1,0 +1,7 @@
+EC_type	P0	P7	P14	P21
+Capillary-like	480	277	690	570
+Endocardial-like	617	128	244	310
+Arterial-like	47	0	25	53
+Venous-like	0	0	260	0
+Lymphatic-like	0	0	23	22
+Unresolved	105	428	0	318
