@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "RNA_primary_nuclei": 4597,
+  "raw_and_fractional_corrected_gene_sums_reconstructed_from_source": true,
+  "threshold_sensitivity_and_cycling_counts_verified": true,
+  "P7_Apln_raw_molecules": 56,
+  "P7_Apln_retained_expected_mass": 55.59331,
+  "P7_Apln_legacy_positive_nuclei": 5,
+  "P7_Apln_fractional_support_nuclei": 47,
+  "no_primary_count_matrix_or_identity_changed": true,
+  "no_missing_spatial_gene_imputed": true,
+  "withheld_program_genes_absent_from_benchmark_features": true,
+  "benchmark_passes": 0,
+  "spatial": [
+    {
+      "stage": "P0",
+      "source_nuclear_clean_native_EC_profiles": 3732,
+      "adaptive_pools": 3686,
+      "position_coverage_fraction": 0.9876741693461951,
+      "nonoverlapping50um_tiles_verified": 128
+    },
+    {
+      "stage": "P7",
+      "source_nuclear_clean_native_EC_profiles": 8944,
+      "adaptive_pools": 8816,
+      "position_coverage_fraction": 0.9856887298747764,
+      "nonoverlapping50um_tiles_verified": 385
+    },
+    {
+      "stage": "P14",
+      "source_nuclear_clean_native_EC_profiles": 8086,
+      "adaptive_pools": 7497,
+      "position_coverage_fraction": 0.9271580509522632,
+      "nonoverlapping50um_tiles_verified": 153
+    },
+    {
+      "stage": "P21",
+      "source_nuclear_clean_native_EC_profiles": 8601,
+      "adaptive_pools": 7658,
+      "position_coverage_fraction": 0.890361585862109,
+      "nonoverlapping50um_tiles_verified": 99
+    }
+  ],
+  "adaptive_pool_source_counts_sampled_and_all_50um_nuclear_tiles_exactly_verified": true,
+  "depth_matched_molecule_equality_checked_during_all_pooling": true,
+  "PDF_pages": 11,
+  "coverage_not_independent_biological_accuracy": true
+}

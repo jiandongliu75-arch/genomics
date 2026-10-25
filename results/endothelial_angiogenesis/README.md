@@ -1,5 +1,7 @@
 # Endothelial proliferation and angiogenesis-associated RNA across ages
 
+**Detection-rule update:** the fractions below use the legacy corrected-count threshold of at least one. DecontX estimates are fractional, so this rule can miss retained near-one values. The [fractional-aware audit and revised support fractions](../vascular_program_detection/README.md) distinguish this threshold artifact from actual RNA removal. The original counts and results below remain an audit of the earlier rule.
+
 The primary QC endothelial cohort shows more cycling-marker-positive nuclei at P0/P7, a decline at P14 and very few at P21. This supports greater **early endothelial proliferative activity**, an important component of angiogenesis. The six cycling genes are Mki67, Top2a, Cenpf, Ccnb1, Ube2c and Cdk1; at least two need a corrected count of at least one.
 
 | Stage | Cycling-positive / EC nuclei | Percentage |

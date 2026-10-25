@@ -4,6 +4,7 @@ Independent QC and exploratory clustering of the mouse-heart dataset [GSE290989]
 
 Spatial analyses map candidate ventricular programs onto the four deposited Xenium sections, with measured-marker evidence and comparisons between assay-aligned transfer and CytoSPACE.
 
+- [Improved vascular-program detection: fractional-count correction, RNA support, nuclear/boundary controls and spatial neighborhood maps](results/vascular_program_detection/README.md)
 - [Endothelial proliferation and angiogenesis-associated programs across P0–P21](results/endothelial_angiogenesis/README.md)
 - [Five primary endothelial types: simplified UMAPs, spatial maps, marker criteria and stage tables](results/endothelial_five_types/README.md)
 - [Endothelial QC and subclustering in RNA and Xenium: gene-based names, nuclear/boundary evidence, possible merges, count matrices and maps](results/endothelial_QC_subtypes/README.md)

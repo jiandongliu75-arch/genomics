@@ -1,0 +1,43 @@
+{
+  "status": "PASS",
+  "stage": "P0",
+  "nuclear_clean_native_EC_profiles": 3732,
+  "cell_and_nuclear_clean_EC_profiles": 1516,
+  "primary_tile_um": 50,
+  "sensitivity_tile_um": [
+    25,
+    100
+  ],
+  "minimum_EC_profiles_per_tile": 5,
+  "source_counts_and_coordinates_unchanged": true,
+  "gene_measurements_added_or_imputed": false,
+  "original_sprouting_core_observed": [
+    "Angpt2"
+  ],
+  "observed_proxy_panels": {
+    "Angpt2_single_gene": [
+      "Angpt2"
+    ],
+    "Sprouting_guidance_observed_proxy": [
+      "Angpt2",
+      "Unc5b",
+      "Plxnd1",
+      "Itgb3",
+      "Lama4"
+    ],
+    "EC_matrix_observed_proxy": [
+      "Mmp2",
+      "Itga5",
+      "Itgb3",
+      "Fn1"
+    ],
+    "Cycling_observed": [
+      "Mki67",
+      "Top2a",
+      "Cenpf"
+    ]
+  },
+  "cohort": "Frozen native broad EC and nuclear-broad-clean evidence; no multiple projected nuclear components or unresolved geometry; independent of current outcome scores.",
+  "controls": "Same profiles and non-overlapping physical tiles across native/refined/core/nuclear and exact molecule-depth controls; count equality checked after pooling.",
+  "meaning": "Observed multi-gene guidance/remodeling or cycling proxies at neighborhood resolution, not full six-gene sprouting recovery, individual tip-cell identity or vessel-growth rate."
+}

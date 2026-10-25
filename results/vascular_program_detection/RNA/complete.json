@@ -1,0 +1,68 @@
+{
+  "status": "PASS",
+  "nuclei": 4597,
+  "libraries": 8,
+  "source_counts_unchanged": true,
+  "rank_score": "Mean top1500 enrichment minus20 expression/detection-matched controls per gene; top3000 sensitivity; numerical dust floor0.001; fractional counts retained.",
+  "pseudobulk_support": "Corrected expected mass>=5 and>=3 nuclei with corrected count>=0.25, required in both age-matched libraries; exploratory support, not calibrated accuracy.",
+  "background": "QC-retained non-EC raw cellular RNA is a sensitivity proxy, not measured empty-droplet ambient. No per-cell count restoration or primary replacement correction.",
+  "inference_gate": "Withhold every program gene from shared-panel features; opposite-library same-age Ridge alpha10. Both directions must achieve Spearman>=.2, within-family residual Spearman>=.15 and R2>0 before any inference can be considered.",
+  "inference_feature_scaling": "Training-library normalization; SD floor0.25 and clipping[-5,5] prevent unstable amplification of almost-constant fractional features.",
+  "programs": {
+    "Original_sprouting_core": [
+      "Apln",
+      "Esm1",
+      "Angpt2",
+      "Cxcr4",
+      "Pgf",
+      "Adm"
+    ],
+    "Sprouting_guidance_support": [
+      "Apln",
+      "Esm1",
+      "Angpt2",
+      "Cxcr4",
+      "Pgf",
+      "Adm",
+      "Unc5b",
+      "Plxnd1",
+      "Kcne3",
+      "Fscn1",
+      "Nid2",
+      "Itgb3",
+      "Lama4"
+    ],
+    "EC_matrix_remodeling": [
+      "Mmp14",
+      "Mmp2",
+      "Adamts1",
+      "Adam15",
+      "Adam17",
+      "Plau",
+      "Plaur",
+      "Itga5",
+      "Itgb3",
+      "Fn1",
+      "Sparc",
+      "Timp1",
+      "Timp2",
+      "Lgals3",
+      "Serpine1"
+    ],
+    "Cycling": [
+      "Mki67",
+      "Top2a",
+      "Cenpf",
+      "Ccnb1",
+      "Ube2c",
+      "Cdk1"
+    ]
+  },
+  "program_limits": {
+    "Original_sprouting_core": "Prespecified six-gene panel; Xenium only measures Angpt2, so its full score is not directly measurable spatially.",
+    "Sprouting_guidance_support": "Supportive sprouting/guidance-associated panel, including multifunctional and inhibitory guidance components; not equivalent to a verified tip-cell identity or direct growth rate.",
+    "EC_matrix_remodeling": "Protease/adhesion/matrix-associated RNA; shared with fibroblasts and other lineages, requiring EC identity and ownership checks. Not measured matrix degradation.",
+    "Cycling": "Proliferation-associated RNA, separate from tip/stalk identity and completed cell division."
+  },
+  "technical_benchmark_passes": 0
+}
