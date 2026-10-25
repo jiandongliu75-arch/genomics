@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "ECs": 29363,
+  "measured_features": 403,
+  "source_count_matrices_and_coordinates_preserved": true,
+  "all_9_module_predictions_reconstructed_from_fixed_reference_weights": true,
+  "mean_module_identical_to_previous_six_gene_score": true,
+  "aggregation_order_changes_only_floating_point_rounding": true,
+  "RNA_library_benchmark_cases": 432,
+  "inferred_module_definitions_not_independently_validated_activity": true,
+  "PDF_pages": 5
+}

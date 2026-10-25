@@ -1,0 +1,16 @@
+{
+  "default_module_already_present": true,
+  "projection_aggregation_order_equivalent": true,
+  "module_definitions_tested": [
+    "mean_log_expression",
+    "gene_balanced",
+    "rank_enrichment"
+  ],
+  "unmeasured_module_passed_stage_resolution_pairs": {
+    "gene_balanced": 1,
+    "mean_log_expression": 1,
+    "rank_enrichment": 0
+  },
+  "source_counts_and_default_sprouting_scores_unchanged": true,
+  "all_inferred_spatial_alternatives_exploratory": true
+}
