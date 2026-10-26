@@ -1,0 +1,11 @@
+exposure	source	denominator
+FB__Postn-associated	Cell+nuclear-supported fibroblast family	All eligible broad fibroblast neighbors, including unknown family
+FB__Gfpt2-associated	Cell+nuclear-supported fibroblast family	All eligible broad fibroblast neighbors, including unknown family
+FB__Col8a1-associated	Cell+nuclear-supported fibroblast family	All eligible broad fibroblast neighbors, including unknown family
+FB__Lsamp-associated	Cell+nuclear-supported fibroblast family	All eligible broad fibroblast neighbors, including unknown family
+FB__Kirrel3-associated	Cell+nuclear-supported fibroblast family	All eligible broad fibroblast neighbors, including unknown family
+EC__Capillary-like	Nuclear-supported EC type, with broad EC identity/QC	All eligible broad EC neighbors, including unknown type
+EC__Endocardial-like	Nuclear-supported EC type, with broad EC identity/QC	All eligible broad EC neighbors, including unknown type
+EC__Arterial-like	Nuclear-supported EC type, with broad EC identity/QC	All eligible broad EC neighbors, including unknown type
+EC__Venous-like	Nuclear-supported EC type, with broad EC identity/QC	All eligible broad EC neighbors, including unknown type
+EC__Lymphatic-like	Nuclear-supported EC type, with broad EC identity/QC	All eligible broad EC neighbors, including unknown type

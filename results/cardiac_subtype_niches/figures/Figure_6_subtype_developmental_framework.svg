@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="538.319328pt" height="552.719505pt" viewBox="0 0 538.319328 552.719505" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-26T14:24:16.442928</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 552.719505
+L 538.319328 552.719505
+L 538.319328 0
+L 0 0
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 71.609916 156.346983
+L 208.013313 156.346983
+Q 213.657592 156.346983 213.657592 154.503254
+L 213.657592 53.098144
+Q 213.657592 51.254415 208.013313 51.254415
+L 71.609916 51.254415
+Q 65.965637 51.254415 65.965637 53.098144
+L 65.965637 154.503254
+Q 65.965637 156.346983 71.609916 156.346983
+z
+" clip-path="url(#p0345c59b39)" style="fill: #f5f8fa; stroke: #ee7733; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 226.827575 156.346983
+L 363.230973 156.346983
+Q 368.875251 156.346983 368.875251 154.503254
+L 368.875251 53.098144
+Q 368.875251 51.254415 363.230973 51.254415
+L 226.827575 51.254415
+Q 221.183297 51.254415 221.183297 53.098144
+L 221.183297 154.503254
+Q 221.183297 156.346983 226.827575 156.346983
+z
+" clip-path="url(#p0345c59b39)" style="fill: #f5f8fa; stroke: #4477aa; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 382.045234 156.346983
+L 518.448632 156.346983
+Q 524.09291 156.346983 524.09291 154.503254
+L 524.09291 53.098144
+Q 524.09291 51.254415 518.448632 51.254415
+L 382.045234 51.254415
+Q 376.400956 51.254415 376.400956 53.098144
+L 376.400956 154.503254
+Q 376.400956 156.346983 382.045234 156.346983
+z
+" clip-path="url(#p0345c59b39)" style="fill: #f5f8fa; stroke: #228833; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="5.76" y="14.877187" transform="rotate(-0 5.76 14.877187)">a</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: middle" x="139.811615" y="71.848344" transform="rotate(-0 139.811615 71.848344)">CM identity</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(83.802865 111.83313)">Ankrd1; working; Slit2; Ddc;</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(125.74849 121.435318)">cycling</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: middle" x="295.029274" y="71.848344" transform="rotate(-0 295.029274 71.848344)">Maturation within stage</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(235.091774 107.032349)">Continuous21-gene score and</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(246.244274 116.634536)">separate functional-RNA</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(270.316149 126.236099)">components</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: middle" x="450.246933" y="71.848344" transform="rotate(-0 450.246933 71.848344)">Non-CM subtypes</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(396.762558 107.032036)">Postn / Gfpt2 / Col8a1 FBs;</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(403.330058 116.634224)">capillary / endocardial /</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(427.128183 126.236411)">arterial ECs</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: middle" x="297.381057" y="176.013428" transform="rotate(-0 297.381057 176.013428)">Broad lineage context is background; it is not a limit on subtype-defined analyses</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start" x="62.202785" y="23.515087" transform="rotate(-0 62.202785 23.515087)">The analysis unit is a subtype-defined developmental neighborhood</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_5">
+    <path d="M 76.313481 347.658966
+L 287.973926 347.658966
+Q 292.677491 347.658966 292.677491 346.122525
+L 292.677491 233.962328
+Q 292.677491 232.425887 287.973926 232.425887
+L 76.313481 232.425887
+Q 71.609916 232.425887 71.609916 233.962328
+L 71.609916 346.122525
+Q 71.609916 347.658966 76.313481 347.658966
+z
+" clip-path="url(#p65884f7121)" style="fill: #aa3377; fill-opacity: 0.062745; stroke: #aa3377; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 306.788187 347.658966
+L 518.448632 347.658966
+Q 523.152197 347.658966 523.152197 346.122525
+L 523.152197 233.962328
+Q 523.152197 232.425887 518.448632 232.425887
+L 306.788187 232.425887
+Q 302.084622 232.425887 302.084622 233.962328
+L 302.084622 346.122525
+Q 302.084622 347.658966 306.788187 347.658966
+z
+" clip-path="url(#p65884f7121)" style="fill: #228833; fill-opacity: 0.062745; stroke: #228833; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="5.76" y="197.277812" transform="rotate(-0 5.76 197.277812)">b</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #aa3377" x="182.143704" y="251.176087" transform="rotate(-0 182.143704 251.176087)">P7 · cycling CM + Postn FB</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(92.296204 295.770196)">Lower maturation/metabolic-regulatory RNA;</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(101.138079 305.372384)">annotation and radius sensitivity remain</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #228833" x="412.61841" y="251.176087" transform="rotate(-0 412.61841 251.176087)">P14 · Ankrd1-CM + endocardial EC</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(322.94341 295.770196)">Higher sarcomere RNA in local models; not a</text>
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'" transform="translate(318.654035 305.372384)">uniform increase in all maturation components</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start" x="62.202785" y="205.915712" transform="rotate(-0 62.202785 205.915712)">Component-specific candidates from the observed data</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_7">
+    <path d="M 71.609916 533.131536
+L 208.013313 533.131536
+Q 212.716879 533.131536 212.716879 531.595095
+L 212.716879 416.362016
+Q 212.716879 414.825575 208.013313 414.825575
+L 71.609916 414.825575
+Q 66.906351 414.825575 66.906351 416.362016
+L 66.906351 531.595095
+Q 66.906351 533.131536 71.609916 533.131536
+z
+" clip-path="url(#p938f568a57)" style="fill: #f5f8fa; stroke: #4477aa; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 226.827575 533.131536
+L 363.230973 533.131536
+Q 367.934538 533.131536 367.934538 531.595095
+L 367.934538 416.362016
+Q 367.934538 414.825575 363.230973 414.825575
+L 226.827575 414.825575
+Q 222.12401 414.825575 222.12401 416.362016
+L 222.12401 531.595095
+Q 222.12401 533.131536 226.827575 533.131536
+z
+" clip-path="url(#p938f568a57)" style="fill: #f5f8fa; stroke: #4477aa; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 382.045234 533.131536
+L 518.448632 533.131536
+Q 523.152197 533.131536 523.152197 531.595095
+L 523.152197 416.362016
+Q 523.152197 414.825575 518.448632 414.825575
+L 382.045234 414.825575
+Q 377.341669 414.825575 377.341669 416.362016
+L 377.341669 531.595095
+Q 377.341669 533.131536 382.045234 533.131536
+z
+" clip-path="url(#p938f568a57)" style="fill: #f5f8fa; stroke: #4477aa; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="5.76" y="379.6775" transform="rotate(-0 5.76 379.6775)">c</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="139.811615" y="433.195853" transform="rotate(-0 139.811615 433.195853)">Fibroblast comparison</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(89.06474 467.801558)">Postn versus Gfpt2 context</text>
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(91.387396 476.803609)">around early cycling CMs;</text>
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(81.252435 485.805659)">assess metabolism, matrix and</text>
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(104.372357 494.80771)">completed division</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="295.029274" y="433.195853" transform="rotate(-0 295.029274 433.195853)">EC × CM identity</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(251.683961 467.801558)">Endocardial-like versus</text>
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(242.045875 476.803609)">capillary ECs around Ankrd1</text>
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(232.218532 485.805659)">versus working CMs; sarcomeres,</text>
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(261.612672 494.80771)">calcium and force</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="450.246933" y="433.195853" transform="rotate(-0 450.246933 433.195853)">State continuity</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(392.932284 467.801851)">Trace validated early FB labels</text>
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(397.661386 476.803902)">into later matrix-specialized</text>
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(402.256894 485.805952)">states; do not treat OT as</text>
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'" transform="translate(434.018222 494.807417)">ancestry</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start" x="62.202785" y="388.3154" transform="rotate(-0 62.202785 388.3154)">Choose subtype-matched functional and lineage experiments</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p0345c59b39">
+   <rect x="62.202785" y="28.515087" width="470.356543" height="153.644105"/>
+  </clipPath>
+  <clipPath id="p65884f7121">
+   <rect x="62.202785" y="210.915712" width="470.356543" height="153.644105"/>
+  </clipPath>
+  <clipPath id="p938f568a57">
+   <rect x="62.202785" y="393.3154" width="470.356543" height="153.644105"/>
+  </clipPath>
+ </defs>
+</svg>

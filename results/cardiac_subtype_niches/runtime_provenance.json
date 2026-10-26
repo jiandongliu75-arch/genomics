@@ -1,0 +1,35 @@
+{
+  "analysis_python": "/workspace/heart-atlas/venv/bin/python",
+  "document_python": "python",
+  "analysis_versions": {
+    "numpy": "2.5.4",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2",
+    "anndata": "0.13.4"
+  },
+  "starting_commit": "6f2720584a11754f05638ad618bb5aefcb894bcc",
+  "receipts": [
+    {
+      "step": "numerical",
+      "seconds": 7.395132064819336,
+      "completed": true
+    },
+    {
+      "step": "word",
+      "seconds": 0.5731122493743896,
+      "completed": true
+    },
+    {
+      "step": "render",
+      "seconds": 8.165750503540039,
+      "completed": true
+    },
+    {
+      "step": "documents",
+      "seconds": 0.27487635612487793,
+      "completed": true
+    }
+  ],
+  "primary_unit": "stage \u00d7 CM identity \u00d7 within-state maturation \u00d7 known FB/EC subtypes; no two-cluster filter"
+}

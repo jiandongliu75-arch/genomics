@@ -1,0 +1,13 @@
+stage_a	stage_b	CM_state	distance_stratum	exact_mean_absolute_maturation_rank_gap	Wormhole_mean_absolute_maturation_rank_gap	all_candidate_pairs_mean_absolute_rank_gap	scope
+P0	P7	Ankrd1.CM	>100µm	0.257255427	0.226403696	0.352340004	Held-out age-relative, within-CM-state rank descriptor; no calendar-time, fate, rate or biological-replication interpretation
+P0	P7	Ankrd1.CM	≤100µm	0.522959661	0.416581051	0.3642769	Held-out age-relative, within-CM-state rank descriptor; no calendar-time, fate, rate or biological-replication interpretation
+P0	P7	v.CM	>100µm	0.298312962	0.208580428	0.299942609	Held-out age-relative, within-CM-state rank descriptor; no calendar-time, fate, rate or biological-replication interpretation
+P0	P7	v.CM	≤100µm	0.366557609	0.319016548	0.277438219	Held-out age-relative, within-CM-state rank descriptor; no calendar-time, fate, rate or biological-replication interpretation
+P14	P21	Ankrd1.CM	>100µm	0.42953068	0.413557169	0.36434107	Held-out age-relative, within-CM-state rank descriptor; no calendar-time, fate, rate or biological-replication interpretation
+P14	P21	Ankrd1.CM	≤100µm	0.237655171	0.538272449	0.388715778	Held-out age-relative, within-CM-state rank descriptor; no calendar-time, fate, rate or biological-replication interpretation
+P14	P21	v.CM	>100µm	0.344009001	0.344009001	0.289720523	Held-out age-relative, within-CM-state rank descriptor; no calendar-time, fate, rate or biological-replication interpretation
+P14	P21	v.CM	≤100µm	0.313518019	0.518308434	0.37148701	Held-out age-relative, within-CM-state rank descriptor; no calendar-time, fate, rate or biological-replication interpretation
+P7	P14	Ankrd1.CM	>100µm	0.122855455	0.108858565	0.269351485	Held-out age-relative, within-CM-state rank descriptor; no calendar-time, fate, rate or biological-replication interpretation
+P7	P14	Ankrd1.CM	≤100µm	0.334342962	0.29459378	0.288580549	Held-out age-relative, within-CM-state rank descriptor; no calendar-time, fate, rate or biological-replication interpretation
+P7	P14	v.CM	>100µm	0.171642265	0.242549495	0.217467805	Held-out age-relative, within-CM-state rank descriptor; no calendar-time, fate, rate or biological-replication interpretation
+P7	P14	v.CM	≤100µm	0.45278132	0.45278132	0.344414946	Held-out age-relative, within-CM-state rank descriptor; no calendar-time, fate, rate or biological-replication interpretation

@@ -1,0 +1,45 @@
+{
+  "status": "PASS",
+  "stages": [
+    {
+      "stage": "P0",
+      "CM_profiles": 17272,
+      "within_state_ranks_checked": true,
+      "independent_neighbor_reconstructions": 6,
+      "original_coordinates_preserved": true
+    },
+    {
+      "stage": "P7",
+      "CM_profiles": 30485,
+      "within_state_ranks_checked": true,
+      "independent_neighbor_reconstructions": 6,
+      "original_coordinates_preserved": true
+    },
+    {
+      "stage": "P14",
+      "CM_profiles": 33659,
+      "within_state_ranks_checked": true,
+      "independent_neighbor_reconstructions": 6,
+      "original_coordinates_preserved": true
+    },
+    {
+      "stage": "P21",
+      "CM_profiles": 37949,
+      "within_state_ranks_checked": true,
+      "independent_neighbor_reconstructions": 6,
+      "original_coordinates_preserved": true
+    }
+  ],
+  "independent_target_coefficients": 2,
+  "shared_CM_state_slope_difference_checks": 12,
+  "same_CM_geometry_cohorts_checked": true,
+  "matched_identity_quartiles_regions_calipers_checked": true,
+  "known_subtypes_not_gated_by_unsupervised_cluster_stability": true,
+  "untyped_sources_retained_in_denominators": true,
+  "CM_identity_restricted_OT_observed_neighborhoods": 96,
+  "independent_cloud_LPs": 12,
+  "outer_objectives_checked_with_Hungarian": 12,
+  "transport_marginals_and_cost_decomposition_checked": true,
+  "new_biological_replicates": 0,
+  "lineage_fate_or_causal_mechanism_validated": false
+}

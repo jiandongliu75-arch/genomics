@@ -1,0 +1,593 @@
+stage	CM_state	distance_stratum	pair_kind	exact_W2_squared
+P0	v.CM	≤100µm	Within same CM state	0.339917122
+P0	v.CM	≤100µm	Within same CM state	0.489659548
+P0	v.CM	≤100µm	Within same CM state	1.02846345
+P0	v.CM	≤100µm	Within same CM state	0.584260386
+P0	v.CM	≤100µm	Within same CM state	1.01507144
+P0	v.CM	≤100µm	Within same CM state	1.10694201
+P7	v.CM	≤100µm	Within same CM state	0.662613968
+P7	v.CM	≤100µm	Within same CM state	0.737428139
+P7	v.CM	≤100µm	Within same CM state	0.637859474
+P7	v.CM	≤100µm	Within same CM state	0.555860542
+P7	v.CM	≤100µm	Within same CM state	0.638761964
+P7	v.CM	≤100µm	Within same CM state	0.737829939
+P14	v.CM	≤100µm	Within same CM state	0.900835453
+P14	v.CM	≤100µm	Within same CM state	0.762893235
+P14	v.CM	≤100µm	Within same CM state	1.21687431
+P14	v.CM	≤100µm	Within same CM state	1.05009509
+P14	v.CM	≤100µm	Within same CM state	1.14180121
+P14	v.CM	≤100µm	Within same CM state	1.3160036
+P21	v.CM	≤100µm	Within same CM state	1.05471646
+P21	v.CM	≤100µm	Within same CM state	1.03508016
+P21	v.CM	≤100µm	Within same CM state	1.19281001
+P21	v.CM	≤100µm	Within same CM state	1.06586208
+P21	v.CM	≤100µm	Within same CM state	0.847932244
+P21	v.CM	≤100µm	Within same CM state	0.91829877
+P0	v.CM	>100µm	Within same CM state	1.15653423
+P0	v.CM	>100µm	Within same CM state	0.973469307
+P0	v.CM	>100µm	Within same CM state	0.888395074
+P0	v.CM	>100µm	Within same CM state	1.13040393
+P0	v.CM	>100µm	Within same CM state	0.591151707
+P0	v.CM	>100µm	Within same CM state	1.1575428
+P0	v.CM	>100µm	Within same CM state	0.606709883
+P0	v.CM	>100µm	Within same CM state	0.637509348
+P0	v.CM	>100µm	Within same CM state	0.913922819
+P0	v.CM	>100µm	Within same CM state	0.940212661
+P0	v.CM	>100µm	Within same CM state	0.964731805
+P0	v.CM	>100µm	Within same CM state	0.691000505
+P0	v.CM	>100µm	Within same CM state	0.781853399
+P0	v.CM	>100µm	Within same CM state	0.639203064
+P0	v.CM	>100µm	Within same CM state	0.820710797
+P0	v.CM	>100µm	Within same CM state	0.690402597
+P0	v.CM	>100µm	Within same CM state	0.929711021
+P0	v.CM	>100µm	Within same CM state	0.516848435
+P0	v.CM	>100µm	Within same CM state	0.970507364
+P0	v.CM	>100µm	Within same CM state	0.787037139
+P0	v.CM	>100µm	Within same CM state	1.10895777
+P0	v.CM	>100µm	Within same CM state	0.731314774
+P0	v.CM	>100µm	Within same CM state	0.930184441
+P0	v.CM	>100µm	Within same CM state	1.03948415
+P0	v.CM	>100µm	Within same CM state	0.781304057
+P0	v.CM	>100µm	Within same CM state	0.814266876
+P0	v.CM	>100µm	Within same CM state	0.367872433
+P0	v.CM	>100µm	Within same CM state	0.809343308
+P7	v.CM	>100µm	Within same CM state	0.41568401
+P7	v.CM	>100µm	Within same CM state	0.800642171
+P7	v.CM	>100µm	Within same CM state	0.555115456
+P7	v.CM	>100µm	Within same CM state	0.428520981
+P7	v.CM	>100µm	Within same CM state	0.409607248
+P7	v.CM	>100µm	Within same CM state	0.584448643
+P7	v.CM	>100µm	Within same CM state	1.38906499
+P7	v.CM	>100µm	Within same CM state	0.857927473
+P7	v.CM	>100µm	Within same CM state	0.61442603
+P7	v.CM	>100µm	Within same CM state	0.34285814
+P7	v.CM	>100µm	Within same CM state	0.420509385
+P7	v.CM	>100µm	Within same CM state	0.435046474
+P7	v.CM	>100µm	Within same CM state	1.55934686
+P7	v.CM	>100µm	Within same CM state	0.600775761
+P7	v.CM	>100µm	Within same CM state	0.776654556
+P7	v.CM	>100µm	Within same CM state	0.650526987
+P7	v.CM	>100µm	Within same CM state	0.924773999
+P7	v.CM	>100µm	Within same CM state	1.39198339
+P7	v.CM	>100µm	Within same CM state	0.532115804
+P7	v.CM	>100µm	Within same CM state	0.472916564
+P7	v.CM	>100µm	Within same CM state	0.73427742
+P7	v.CM	>100µm	Within same CM state	1.34494254
+P7	v.CM	>100µm	Within same CM state	0.314926303
+P7	v.CM	>100µm	Within same CM state	0.403838092
+P7	v.CM	>100µm	Within same CM state	1.51015288
+P7	v.CM	>100µm	Within same CM state	0.446211963
+P7	v.CM	>100µm	Within same CM state	1.4725422
+P7	v.CM	>100µm	Within same CM state	1.74565696
+P14	v.CM	>100µm	Within same CM state	1.51610111
+P14	v.CM	>100µm	Within same CM state	1.57164307
+P14	v.CM	>100µm	Within same CM state	1.61285322
+P14	v.CM	>100µm	Within same CM state	1.28946139
+P14	v.CM	>100µm	Within same CM state	1.47237954
+P14	v.CM	>100µm	Within same CM state	1.42773411
+P14	v.CM	>100µm	Within same CM state	1.53433784
+P14	v.CM	>100µm	Within same CM state	1.14599373
+P14	v.CM	>100µm	Within same CM state	0.910935998
+P14	v.CM	>100µm	Within same CM state	0.957105235
+P14	v.CM	>100µm	Within same CM state	0.925827187
+P14	v.CM	>100µm	Within same CM state	0.959518885
+P14	v.CM	>100µm	Within same CM state	1.18468288
+P14	v.CM	>100µm	Within same CM state	1.18712924
+P14	v.CM	>100µm	Within same CM state	1.0423566
+P14	v.CM	>100µm	Within same CM state	0.802908553
+P14	v.CM	>100µm	Within same CM state	0.604970652
+P14	v.CM	>100µm	Within same CM state	1.24754887
+P14	v.CM	>100µm	Within same CM state	0.963054048
+P14	v.CM	>100µm	Within same CM state	0.711105438
+P14	v.CM	>100µm	Within same CM state	0.92555153
+P14	v.CM	>100µm	Within same CM state	1.04740677
+P14	v.CM	>100µm	Within same CM state	0.751020483
+P14	v.CM	>100µm	Within same CM state	0.974025071
+P14	v.CM	>100µm	Within same CM state	1.31562167
+P14	v.CM	>100µm	Within same CM state	0.753199964
+P14	v.CM	>100µm	Within same CM state	1.03807644
+P14	v.CM	>100µm	Within same CM state	0.985146802
+P21	v.CM	>100µm	Within same CM state	1.3867026
+P21	v.CM	>100µm	Within same CM state	0.86086263
+P21	v.CM	>100µm	Within same CM state	1.30535931
+P21	v.CM	>100µm	Within same CM state	0.274654511
+P21	v.CM	>100µm	Within same CM state	1.16243331
+P21	v.CM	>100µm	Within same CM state	1.03943466
+P21	v.CM	>100µm	Within same CM state	0.743955505
+P21	v.CM	>100µm	Within same CM state	0.763488117
+P21	v.CM	>100µm	Within same CM state	0.74410211
+P21	v.CM	>100µm	Within same CM state	1.38528807
+P21	v.CM	>100µm	Within same CM state	1.24260456
+P21	v.CM	>100µm	Within same CM state	0.680728795
+P21	v.CM	>100µm	Within same CM state	1.04665043
+P21	v.CM	>100µm	Within same CM state	0.717296308
+P21	v.CM	>100µm	Within same CM state	0.921518376
+P21	v.CM	>100µm	Within same CM state	0.832249896
+P21	v.CM	>100µm	Within same CM state	0.541202233
+P21	v.CM	>100µm	Within same CM state	0.484200633
+P21	v.CM	>100µm	Within same CM state	1.41340688
+P21	v.CM	>100µm	Within same CM state	1.03336708
+P21	v.CM	>100µm	Within same CM state	0.626581737
+P21	v.CM	>100µm	Within same CM state	0.99571529
+P21	v.CM	>100µm	Within same CM state	1.21422702
+P21	v.CM	>100µm	Within same CM state	1.04451217
+P21	v.CM	>100µm	Within same CM state	0.653697877
+P21	v.CM	>100µm	Within same CM state	1.03316894
+P21	v.CM	>100µm	Within same CM state	0.940093987
+P21	v.CM	>100µm	Within same CM state	0.560468214
+P0	Ankrd1.CM	≤100µm	Within same CM state	0.427461737
+P0	Ankrd1.CM	≤100µm	Within same CM state	1.3384782
+P0	Ankrd1.CM	≤100µm	Within same CM state	0.76085124
+P0	Ankrd1.CM	≤100µm	Within same CM state	1.462447
+P0	Ankrd1.CM	≤100µm	Within same CM state	0.562534065
+P0	Ankrd1.CM	≤100µm	Within same CM state	1.58095047
+P7	Ankrd1.CM	≤100µm	Within same CM state	0.605913711
+P7	Ankrd1.CM	≤100µm	Within same CM state	0.551308101
+P7	Ankrd1.CM	≤100µm	Within same CM state	0.484054046
+P7	Ankrd1.CM	≤100µm	Within same CM state	0.545846423
+P7	Ankrd1.CM	≤100µm	Within same CM state	0.76921143
+P7	Ankrd1.CM	≤100µm	Within same CM state	0.590745898
+P14	Ankrd1.CM	≤100µm	Within same CM state	0.808796386
+P14	Ankrd1.CM	≤100µm	Within same CM state	1.09943311
+P14	Ankrd1.CM	≤100µm	Within same CM state	1.24684529
+P14	Ankrd1.CM	≤100µm	Within same CM state	1.12132599
+P14	Ankrd1.CM	≤100µm	Within same CM state	0.832737978
+P14	Ankrd1.CM	≤100µm	Within same CM state	0.905265812
+P21	Ankrd1.CM	≤100µm	Within same CM state	1.45566098
+P21	Ankrd1.CM	≤100µm	Within same CM state	1.2839175
+P21	Ankrd1.CM	≤100µm	Within same CM state	1.1189112
+P21	Ankrd1.CM	≤100µm	Within same CM state	1.31490045
+P21	Ankrd1.CM	≤100µm	Within same CM state	1.65436052
+P21	Ankrd1.CM	≤100µm	Within same CM state	0.840195758
+P0	Ankrd1.CM	>100µm	Within same CM state	0.670485786
+P0	Ankrd1.CM	>100µm	Within same CM state	0.685076153
+P0	Ankrd1.CM	>100µm	Within same CM state	0.692605817
+P0	Ankrd1.CM	>100µm	Within same CM state	0.59941016
+P0	Ankrd1.CM	>100µm	Within same CM state	0.697052922
+P0	Ankrd1.CM	>100µm	Within same CM state	0.962390717
+P0	Ankrd1.CM	>100µm	Within same CM state	1.07444285
+P0	Ankrd1.CM	>100µm	Within same CM state	0.840889625
+P0	Ankrd1.CM	>100µm	Within same CM state	0.912152863
+P0	Ankrd1.CM	>100µm	Within same CM state	0.775582203
+P0	Ankrd1.CM	>100µm	Within same CM state	0.689624162
+P0	Ankrd1.CM	>100µm	Within same CM state	1.08897056
+P0	Ankrd1.CM	>100µm	Within same CM state	0.749629648
+P0	Ankrd1.CM	>100µm	Within same CM state	0.744075535
+P0	Ankrd1.CM	>100µm	Within same CM state	0.776012654
+P0	Ankrd1.CM	>100µm	Within same CM state	0.912896216
+P0	Ankrd1.CM	>100µm	Within same CM state	0.474095602
+P0	Ankrd1.CM	>100µm	Within same CM state	1.22959136
+P0	Ankrd1.CM	>100µm	Within same CM state	0.442179893
+P0	Ankrd1.CM	>100µm	Within same CM state	0.882151589
+P0	Ankrd1.CM	>100µm	Within same CM state	0.833208528
+P0	Ankrd1.CM	>100µm	Within same CM state	1.12780953
+P0	Ankrd1.CM	>100µm	Within same CM state	0.684539392
+P0	Ankrd1.CM	>100µm	Within same CM state	0.924982381
+P0	Ankrd1.CM	>100µm	Within same CM state	1.07195851
+P0	Ankrd1.CM	>100µm	Within same CM state	1.08385991
+P0	Ankrd1.CM	>100µm	Within same CM state	1.24483991
+P0	Ankrd1.CM	>100µm	Within same CM state	1.3230739
+P7	Ankrd1.CM	>100µm	Within same CM state	0.607499188
+P7	Ankrd1.CM	>100µm	Within same CM state	0.739185921
+P7	Ankrd1.CM	>100µm	Within same CM state	0.551594602
+P7	Ankrd1.CM	>100µm	Within same CM state	0.499890979
+P7	Ankrd1.CM	>100µm	Within same CM state	0.43383437
+P7	Ankrd1.CM	>100µm	Within same CM state	0.575089333
+P7	Ankrd1.CM	>100µm	Within same CM state	0.530688467
+P7	Ankrd1.CM	>100µm	Within same CM state	0.685584097
+P7	Ankrd1.CM	>100µm	Within same CM state	0.535889357
+P7	Ankrd1.CM	>100µm	Within same CM state	0.508036793
+P7	Ankrd1.CM	>100µm	Within same CM state	0.574865762
+P7	Ankrd1.CM	>100µm	Within same CM state	0.618802893
+P7	Ankrd1.CM	>100µm	Within same CM state	0.333734775
+P7	Ankrd1.CM	>100µm	Within same CM state	0.541965113
+P7	Ankrd1.CM	>100µm	Within same CM state	0.613230318
+P7	Ankrd1.CM	>100µm	Within same CM state	0.730774572
+P7	Ankrd1.CM	>100µm	Within same CM state	0.695219399
+P7	Ankrd1.CM	>100µm	Within same CM state	0.497032925
+P7	Ankrd1.CM	>100µm	Within same CM state	0.551611918
+P7	Ankrd1.CM	>100µm	Within same CM state	0.585360641
+P7	Ankrd1.CM	>100µm	Within same CM state	0.46722468
+P7	Ankrd1.CM	>100µm	Within same CM state	0.424845447
+P7	Ankrd1.CM	>100µm	Within same CM state	0.479807766
+P7	Ankrd1.CM	>100µm	Within same CM state	0.699464709
+P7	Ankrd1.CM	>100µm	Within same CM state	0.395547583
+P7	Ankrd1.CM	>100µm	Within same CM state	0.639069595
+P7	Ankrd1.CM	>100µm	Within same CM state	0.51125454
+P7	Ankrd1.CM	>100µm	Within same CM state	0.586559321
+P14	Ankrd1.CM	>100µm	Within same CM state	0.401383156
+P14	Ankrd1.CM	>100µm	Within same CM state	1.10022487
+P14	Ankrd1.CM	>100µm	Within same CM state	0.552343971
+P14	Ankrd1.CM	>100µm	Within same CM state	0.841487346
+P14	Ankrd1.CM	>100µm	Within same CM state	0.572249507
+P14	Ankrd1.CM	>100µm	Within same CM state	0.91741589
+P14	Ankrd1.CM	>100µm	Within same CM state	0.675302962
+P14	Ankrd1.CM	>100µm	Within same CM state	1.12665791
+P14	Ankrd1.CM	>100µm	Within same CM state	0.626726645
+P14	Ankrd1.CM	>100µm	Within same CM state	0.921449517
+P14	Ankrd1.CM	>100µm	Within same CM state	0.538917335
+P14	Ankrd1.CM	>100µm	Within same CM state	0.983468041
+P14	Ankrd1.CM	>100µm	Within same CM state	0.937429948
+P14	Ankrd1.CM	>100µm	Within same CM state	1.32297647
+P14	Ankrd1.CM	>100µm	Within same CM state	1.45473815
+P14	Ankrd1.CM	>100µm	Within same CM state	1.35170788
+P14	Ankrd1.CM	>100µm	Within same CM state	1.2557492
+P14	Ankrd1.CM	>100µm	Within same CM state	1.17600532
+P14	Ankrd1.CM	>100µm	Within same CM state	0.548298371
+P14	Ankrd1.CM	>100µm	Within same CM state	0.64646298
+P14	Ankrd1.CM	>100µm	Within same CM state	1.08771779
+P14	Ankrd1.CM	>100µm	Within same CM state	0.741113069
+P14	Ankrd1.CM	>100µm	Within same CM state	0.888986594
+P14	Ankrd1.CM	>100µm	Within same CM state	1.24613639
+P14	Ankrd1.CM	>100µm	Within same CM state	0.795576752
+P14	Ankrd1.CM	>100µm	Within same CM state	0.974385264
+P14	Ankrd1.CM	>100µm	Within same CM state	1.07582275
+P14	Ankrd1.CM	>100µm	Within same CM state	0.986283387
+P21	Ankrd1.CM	>100µm	Within same CM state	0.57991459
+P21	Ankrd1.CM	>100µm	Within same CM state	0.871226953
+P21	Ankrd1.CM	>100µm	Within same CM state	0.792832309
+P21	Ankrd1.CM	>100µm	Within same CM state	1.10060705
+P21	Ankrd1.CM	>100µm	Within same CM state	0.790486888
+P21	Ankrd1.CM	>100µm	Within same CM state	0.66874443
+P21	Ankrd1.CM	>100µm	Within same CM state	0.693631602
+P21	Ankrd1.CM	>100µm	Within same CM state	0.840784737
+P21	Ankrd1.CM	>100µm	Within same CM state	0.950823408
+P21	Ankrd1.CM	>100µm	Within same CM state	0.896704676
+P21	Ankrd1.CM	>100µm	Within same CM state	0.833802007
+P21	Ankrd1.CM	>100µm	Within same CM state	0.803972837
+P21	Ankrd1.CM	>100µm	Within same CM state	0.746572969
+P21	Ankrd1.CM	>100µm	Within same CM state	1.05697284
+P21	Ankrd1.CM	>100µm	Within same CM state	1.09801518
+P21	Ankrd1.CM	>100µm	Within same CM state	0.957110838
+P21	Ankrd1.CM	>100µm	Within same CM state	1.01666947
+P21	Ankrd1.CM	>100µm	Within same CM state	0.849420221
+P21	Ankrd1.CM	>100µm	Within same CM state	1.24805777
+P21	Ankrd1.CM	>100µm	Within same CM state	0.812064438
+P21	Ankrd1.CM	>100µm	Within same CM state	0.816404676
+P21	Ankrd1.CM	>100µm	Within same CM state	0.613145106
+P21	Ankrd1.CM	>100µm	Within same CM state	0.94408869
+P21	Ankrd1.CM	>100µm	Within same CM state	1.09737729
+P21	Ankrd1.CM	>100µm	Within same CM state	1.02148296
+P21	Ankrd1.CM	>100µm	Within same CM state	0.948261139
+P21	Ankrd1.CM	>100µm	Within same CM state	0.638408182
+P21	Ankrd1.CM	>100µm	Within same CM state	0.836376257
+P0	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.704240082
+P0	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.604715347
+P0	Ankrd1.CM versus v.CM	≤100µm	Between CM states	1.64912993
+P0	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.420893842
+P0	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.651941369
+P0	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.534384257
+P0	Ankrd1.CM versus v.CM	≤100µm	Between CM states	1.70819382
+P0	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.458981147
+P0	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.954116351
+P0	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.814277087
+P0	Ankrd1.CM versus v.CM	≤100µm	Between CM states	1.86726173
+P0	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.482618052
+P0	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.797305207
+P0	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.819232759
+P0	Ankrd1.CM versus v.CM	≤100µm	Between CM states	1.09407646
+P0	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.924795349
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.755648452
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.722286379
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.904639986
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.893751092
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.707328561
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.578799877
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.08633108
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.27923996
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.935993994
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.91302026
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.84202823
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.955859636
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.04257365
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.1710091
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.715548142
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.08179414
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.706307934
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.612399863
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.887598045
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.642299094
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.77631089
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.879268299
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.976016982
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.906001429
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.733787662
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.554801994
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.972495413
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.787467911
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.71293435
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.884518569
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.12838883
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.462810659
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.900761378
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.710189232
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.831262363
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.01883038
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.02743676
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.23806185
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.0339391
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.04083911
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.467692627
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.666989405
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.548228676
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.569618662
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.49403027
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.396442907
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.764143755
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.16140046
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.00018464
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.08418105
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.453983043
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.834870605
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.96326138
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.10897105
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.373377998
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.23538245
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.448632389
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.440464587
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.682268645
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.622853285
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.607281401
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.525372161
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.831939472
+P0	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.0814691
+P7	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.597122377
+P7	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.532964085
+P7	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.566220125
+P7	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.553752543
+P7	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.588141058
+P7	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.736222817
+P7	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.738287906
+P7	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.625809466
+P7	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.502597761
+P7	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.614527818
+P7	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.729933724
+P7	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.588625278
+P7	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.674164
+P7	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.784030997
+P7	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.553938244
+P7	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.590741165
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.402901812
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.594775108
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.669291096
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.507706838
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.341707899
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.489530124
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.516368376
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.511626268
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.374497001
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.458657726
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.567462944
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.482778482
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.551273179
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.571224821
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.575832727
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.422472634
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.744207098
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.844083782
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.768795999
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.70369266
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.613343723
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.598618787
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.89447487
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.702406729
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.571297052
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.526693395
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.794490943
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.625396298
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.480764706
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.418243752
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.700343423
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.550623771
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.356173957
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.518223806
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.611766436
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.453219375
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.572522259
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.489239102
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.465473801
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.429637627
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.289537866
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.540679789
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.637469857
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.452536542
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.510904235
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.413262178
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.49909382
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.444114596
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.424268388
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.719091811
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.763309089
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.604202862
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.766833241
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.630684314
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.594373014
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.628853301
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.5523304
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.31043809
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.31767362
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.48461919
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.26849104
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.32084322
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.53419162
+P7	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.28342426
+P14	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.949860715
+P14	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.505488884
+P14	Ankrd1.CM versus v.CM	≤100µm	Between CM states	1.01383678
+P14	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.791840613
+P14	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.803406907
+P14	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.840609181
+P14	Ankrd1.CM versus v.CM	≤100µm	Between CM states	1.20037028
+P14	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.950036586
+P14	Ankrd1.CM versus v.CM	≤100µm	Between CM states	1.01900944
+P14	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.676705959
+P14	Ankrd1.CM versus v.CM	≤100µm	Between CM states	1.16989451
+P14	Ankrd1.CM versus v.CM	≤100µm	Between CM states	1.0867942
+P14	Ankrd1.CM versus v.CM	≤100µm	Between CM states	1.00026793
+P14	Ankrd1.CM versus v.CM	≤100µm	Between CM states	1.18472588
+P14	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.745688717
+P14	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.795086418
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.45506659
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.50843399
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.39406846
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.43328593
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.53420755
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.57179337
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.857204904
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.38378777
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.769833705
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.898150796
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.885480071
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.00427942
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.2763224
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.0926652
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.04531054
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.836895675
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.639723486
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.747295132
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.56070181
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.514049155
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.748649499
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.703293924
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.13971426
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.809435725
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.00671407
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.956281868
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.952799756
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.877571432
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.957852792
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.2516565
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.28872894
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.807824601
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.701707855
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.691083905
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.854877212
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.890914493
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.905392126
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.89746278
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.934522758
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.00737291
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.648985886
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.588801355
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.17494166
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.597978906
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.695946735
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.788812503
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.13652126
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.83466921
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.65368989
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.760388859
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.31515361
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.463489632
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.746627748
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.716307228
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.0183818
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.500389885
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.15108588
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.28392447
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.36298502
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.13384784
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.1799772
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.56189811
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.42901561
+P14	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.785273201
+P21	Ankrd1.CM versus v.CM	≤100µm	Between CM states	1.14425044
+P21	Ankrd1.CM versus v.CM	≤100µm	Between CM states	1.92955028
+P21	Ankrd1.CM versus v.CM	≤100µm	Between CM states	1.04742835
+P21	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.803023181
+P21	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.888529671
+P21	Ankrd1.CM versus v.CM	≤100µm	Between CM states	1.48722166
+P21	Ankrd1.CM versus v.CM	≤100µm	Between CM states	1.11817932
+P21	Ankrd1.CM versus v.CM	≤100µm	Between CM states	1.18309651
+P21	Ankrd1.CM versus v.CM	≤100µm	Between CM states	1.60968162
+P21	Ankrd1.CM versus v.CM	≤100µm	Between CM states	1.22062828
+P21	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.640385952
+P21	Ankrd1.CM versus v.CM	≤100µm	Between CM states	1.10055642
+P21	Ankrd1.CM versus v.CM	≤100µm	Between CM states	1.03167149
+P21	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.97405658
+P21	Ankrd1.CM versus v.CM	≤100µm	Between CM states	0.942498922
+P21	Ankrd1.CM versus v.CM	≤100µm	Between CM states	1.30544604
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.945806977
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.897407685
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.02981702
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.17219188
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.10752191
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.14106137
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.708752757
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.14160043
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.918338642
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.05173915
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.18243492
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.19091466
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.02990379
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.970700106
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.03614522
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.04583156
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.422416235
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.636305492
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.812453132
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.737831178
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.03879001
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.737857808
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.588633356
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.698216592
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.655659191
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.995647315
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.07173883
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.96068148
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.16354338
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.874790174
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.936866886
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.745457527
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.01837264
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.824059594
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.00947322
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.17644558
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.22870757
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.19336236
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.700577732
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.2223105
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.7425236
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.904881908
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.39191441
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.827045197
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.25849784
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.02113267
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.787393845
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.948473178
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.480122933
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.641408095
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.733252993
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.787124776
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.0409746
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.755983246
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.715256324
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.626291541
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.666188393
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.64187594
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.804102961
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.718954926
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	1.00166661
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.839595748
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.619188043
+P21	Ankrd1.CM versus v.CM	>100µm	Between CM states	0.787505267

@@ -1,0 +1,13 @@
+stage_a	stage_b	CM_state	distance_stratum	pairs	Wormhole_exact_rank_correlation	nearest_exact_match_agreement	correspondence_mass_reassigned	extra_exact_cost_fraction	scope
+P0	P7	v.CM	≤100µm	16	0.894117647	0.5	0.5	0.0198634962	CM-identity-restricted, coarse-anatomical-proxy correspondence; outcome not used for distance, no cell tracking
+P7	P14	v.CM	≤100µm	16	0.888235294	0.5	0	0	CM-identity-restricted, coarse-anatomical-proxy correspondence; outcome not used for distance, no cell tracking
+P14	P21	v.CM	≤100µm	16	0.6	0.5	0.75	0.0464738012	CM-identity-restricted, coarse-anatomical-proxy correspondence; outcome not used for distance, no cell tracking
+P0	P7	v.CM	>100µm	64	0.826282051	0	0.75	0.0545037478	CM-identity-restricted, coarse-anatomical-proxy correspondence; outcome not used for distance, no cell tracking
+P7	P14	v.CM	>100µm	64	0.865750916	0.625	0.75	0.096781299	CM-identity-restricted, coarse-anatomical-proxy correspondence; outcome not used for distance, no cell tracking
+P14	P21	v.CM	>100µm	64	0.7378663	0.375	0.25	0.00181009491	CM-identity-restricted, coarse-anatomical-proxy correspondence; outcome not used for distance, no cell tracking
+P0	P7	Ankrd1.CM	≤100µm	16	0.788235294	0.5	0.5	0.0136396766	CM-identity-restricted, coarse-anatomical-proxy correspondence; outcome not used for distance, no cell tracking
+P7	P14	Ankrd1.CM	≤100µm	16	0.841176471	0.75	1	0.0711116781	CM-identity-restricted, coarse-anatomical-proxy correspondence; outcome not used for distance, no cell tracking
+P14	P21	Ankrd1.CM	≤100µm	16	0.835294118	1	0.5	0.0181368311	CM-identity-restricted, coarse-anatomical-proxy correspondence; outcome not used for distance, no cell tracking
+P0	P7	Ankrd1.CM	>100µm	64	0.530448718	0.25	0.625	0.0677800404	CM-identity-restricted, coarse-anatomical-proxy correspondence; outcome not used for distance, no cell tracking
+P7	P14	Ankrd1.CM	>100µm	64	0.913324176	0.75	0.25	0.0466560847	CM-identity-restricted, coarse-anatomical-proxy correspondence; outcome not used for distance, no cell tracking
+P14	P21	Ankrd1.CM	>100µm	64	0.652518315	0.375	0.375	0.022418369	CM-identity-restricted, coarse-anatomical-proxy correspondence; outcome not used for distance, no cell tracking

@@ -1,0 +1,18 @@
+stage	CM_state	spatial_CM_profiles	analysis_eligible_CM_profiles	source_typing_note
+P0	Ankrd1.CM	4664	3724	Primary EC is nuclear supported; FB is cell+nuclear supported; unknowns retained in lineage denominator
+P0	Ddc.CM	3417	2437	Primary EC is nuclear supported; FB is cell+nuclear supported; unknowns retained in lineage denominator
+P0	Slit2.CM	1209	1002	Primary EC is nuclear supported; FB is cell+nuclear supported; unknowns retained in lineage denominator
+P0	p.CM	3409	2477	Primary EC is nuclear supported; FB is cell+nuclear supported; unknowns retained in lineage denominator
+P0	v.CM	4573	3431	Primary EC is nuclear supported; FB is cell+nuclear supported; unknowns retained in lineage denominator
+P7	Ankrd1.CM	9170	8370	Primary EC is nuclear supported; FB is cell+nuclear supported; unknowns retained in lineage denominator
+P7	Ddc.CM	6024	5421	Primary EC is nuclear supported; FB is cell+nuclear supported; unknowns retained in lineage denominator
+P7	Slit2.CM	1039	1014	Primary EC is nuclear supported; FB is cell+nuclear supported; unknowns retained in lineage denominator
+P7	p.CM	4931	4462	Primary EC is nuclear supported; FB is cell+nuclear supported; unknowns retained in lineage denominator
+P7	v.CM	9321	8392	Primary EC is nuclear supported; FB is cell+nuclear supported; unknowns retained in lineage denominator
+P14	Ankrd1.CM	11574	9231	Primary EC is nuclear supported; FB is cell+nuclear supported; unknowns retained in lineage denominator
+P14	Slit2.CM	2331	1963	Primary EC is nuclear supported; FB is cell+nuclear supported; unknowns retained in lineage denominator
+P14	p.CM	1082	909	Primary EC is nuclear supported; FB is cell+nuclear supported; unknowns retained in lineage denominator
+P14	v.CM	18672	14893	Primary EC is nuclear supported; FB is cell+nuclear supported; unknowns retained in lineage denominator
+P21	Ankrd1.CM	18875	13286	Primary EC is nuclear supported; FB is cell+nuclear supported; unknowns retained in lineage denominator
+P21	Slit2.CM	940	858	Primary EC is nuclear supported; FB is cell+nuclear supported; unknowns retained in lineage denominator
+P21	v.CM	18134	12909	Primary EC is nuclear supported; FB is cell+nuclear supported; unknowns retained in lineage denominator

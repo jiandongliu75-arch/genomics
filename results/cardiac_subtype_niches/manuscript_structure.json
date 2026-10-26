@@ -1,0 +1,30 @@
+{
+  "title": "Subtype-resolved cardiac neighborhoods and asynchronous cardiomyocyte maturation after birth",
+  "central_message": "A ventricular CM identity contains a range of maturation states within the same section. Resolving its fibroblast and endothelial neighbors at subtype level reveals component-specific developmental relationships that a broad CM\u2013EC\u2013fibroblast grouping cannot describe.",
+  "sections": [
+    "Abstract",
+    "Introduction",
+    "Results",
+    "CM identity and maturation are separate axes within P0 and P7 sections",
+    "Known fibroblast and endothelial subtypes define finer neighborhood profiles",
+    "Regional organization and local association answer different questions",
+    "Specific CM-state and maturation-component relationships emerge",
+    "Fibroblast program specialization provides temporal comparison sets",
+    "Transport is conditioned on CM identity and audited against held-out maturation",
+    "Discussion",
+    "Methods"
+  ],
+  "main_figure_plates": 6,
+  "data_scope": "Secondary analysis, one spatial section/age, no new biological replication",
+  "manuscript_words": 2918,
+  "figures": [
+    "Figure_1_CM_identity_and_maturation",
+    "Figure_2_known_subtype_neighborhoods",
+    "Figure_3_CM_state_specific_associations",
+    "Figure_4_fibroblast_specialization",
+    "Figure_5_CM_identity_conditioned_transport",
+    "Figure_6_subtype_developmental_framework"
+  ],
+  "editable_Word": true,
+  "source_text": "Manuscript_text.md"
+}

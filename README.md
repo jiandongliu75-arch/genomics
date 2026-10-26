@@ -4,6 +4,7 @@ Independent QC and exploratory clustering of the mouse-heart dataset [GSE290989]
 
 Spatial analyses map candidate ventricular programs onto the four deposited Xenium sections, with measured-marker evidence and comparisons between assay-aligned transfer and CytoSPACE.
 
+- [Subtype-first revised manuscript: CM identity × within-stage maturation × specific FB/EC neighborhoods, component models and identity-conditioned transport](results/cardiac_subtype_niches/README.md)
 - [Manuscript-style developmental story: editable Word document, six integrated figure plates, fibroblast continuity hypotheses and calibrated neighborhood transport](results/cardiac_developmental_story/README.md)
 - [Reconstructed atlas relationships: anatomy-controlled CM–vascular comparisons, inferred developmental intervals and a selected functional experiment](results/cardiac_spatial_reconstruction/README.md)
 - [Biological assessment: soundness of the atlas, coordination of vascular growth with cardiac development, and what cross-stage Wormhole comparisons could reveal](results/cardiac_developmental_synthesis/README.md)

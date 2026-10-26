@@ -1,0 +1,7 @@
+figure	central_message	raster_DPI	formats
+Figure_1_CM_identity_and_maturation	CM identity and within-stage maturation are separate axes; no two-context cluster restriction	300	PNG;PDF;SVG
+Figure_2_known_subtype_neighborhoods	Known FB and EC subtypes are analyzed around each CM identity and maturation group; unsupported cells are gray	300	PNG;PDF;SVG
+Figure_3_CM_state_specific_associations	Subtype associations can be CM-state- and component-specific; local models and source/geometry sensitivity limit causal interpretation	300	PNG;PDF;SVG
+Figure_4_fibroblast_specialization	Reviewed fibroblast programs and candidate RNA continuity provide a temporal counterpart to subtype-resolved neighborhoods	300	PNG;PDF;SVG
+Figure_5_CM_identity_conditioned_transport	Transport is conditioned on known CM identity; fine source descriptors and held-out maturation are audited rather than collapsed into broad contexts	300	PNG;PDF;SVG
+Figure_6_subtype_developmental_framework	Known CM identities, within-stage maturation and specific FB/EC subtypes define the developmental questions and follow-up experiments	300	PNG;PDF;SVG
