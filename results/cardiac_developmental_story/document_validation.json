@@ -38,6 +38,7 @@
   "standalone_combined_figure_PDF_pages": 6,
   "individual_figures_have_300dpi_PNG_vector_PDF_and_editable_SVG": true,
   "all_figure_PNGs_at_least2000px": true,
+  "combined_figure_PDF_minimum_embedded_raster_DPI": 299.99949137456025,
   "required_manuscript_sections_and_scope_present": true,
   "placeholder_or_replacement_characters_found": false,
   "scope": "File content, numerical-claim presence and layout bounds; visual review is additionally required"

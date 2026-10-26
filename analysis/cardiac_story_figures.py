@@ -247,7 +247,7 @@ def main():
     for fn in [figure1,figure2,figure3,figure4,figure5,figure6]:
         print('STORY_FIGURE',fn.__name__,flush=True);fn()
     with PdfPages(OUT/'Cardiac_development_integrated_figures.pdf') as pdf:
-        for fig,_ in FIGURES:pdf.savefig(fig,bbox_inches='tight',pad_inches=.08)
+        for fig,_ in FIGURES:pdf.savefig(fig,dpi=300,bbox_inches='tight',pad_inches=.08)
     for fig,_ in FIGURES:plt.close(fig)
     save(pd.DataFrame(MANIFEST),'figure_message_and_panel_key.tsv')
     p=OUT/'analysis_source_files.json';SOURCES.update(json.loads(p.read_text()));p.write_text(json.dumps(sorted(SOURCES),indent=2)+'\n')

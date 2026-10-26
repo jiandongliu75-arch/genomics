@@ -34,6 +34,12 @@ def main():
     assert len(actual_images)==6 and len({p['page'] for p in actual_images})==6
     assert '\ufffd' not in ''.join(all_text)
     combined=fitz.open(OUT/'Cardiac_development_integrated_figures.pdf');assert len(combined)==6
+    raster_dpi=[]
+    for page in combined:
+        for info in page.get_image_info():
+            rect=fitz.Rect(info['bbox'])
+            raster_dpi.extend([info['width']*72/rect.width,info['height']*72/rect.height])
+    assert raster_dpi and min(raster_dpi)>=299
     for name in figures:
         p=OUT/'figures'/(name+'.png')
         with Image.open(p) as im:
@@ -44,6 +50,7 @@ def main():
     check={'status':'PASS','Word_embeds_exact_current_PNG_hashes':True,'Word_embedded_figures':6,'rendered_manuscript_pages':len(pdf),
         'figure_plates_full_page_and_within_page_bounds':actual_images,'standalone_combined_figure_PDF_pages':6,
         'individual_figures_have_300dpi_PNG_vector_PDF_and_editable_SVG':True,'all_figure_PNGs_at_least2000px':True,
+        'combined_figure_PDF_minimum_embedded_raster_DPI':min(raster_dpi),
         'required_manuscript_sections_and_scope_present':True,'placeholder_or_replacement_characters_found':False,
         'scope':'File content, numerical-claim presence and layout bounds; visual review is additionally required'}
     (OUT/'document_validation.json').write_text(json.dumps(check,indent=2)+'\n')
