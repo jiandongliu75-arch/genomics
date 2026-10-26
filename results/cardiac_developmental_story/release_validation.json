@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "numerical_checks": "PASS",
+  "document_checks": "PASS",
+  "Word_pages_after_rendering": 20,
+  "integrated_main_figures": 6,
+  "observed_OT_neighborhoods": 96,
+  "relative_document_links_checked": 45,
+  "source_and_artifact_hashes_recorded": true,
+  "ZIP_packages_checked": true,
+  "new_biological_replication": 0,
+  "lineage_conversion_or_causality_claimed_as_validated": false
+}

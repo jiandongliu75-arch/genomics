@@ -1,0 +1,39 @@
+{
+  "status": "PASS",
+  "cohorts": [
+    {
+      "stage": "P0",
+      "observed_neighborhoods": 24,
+      "eligibility_spacing_sources": "PASS"
+    },
+    {
+      "stage": "P7",
+      "observed_neighborhoods": 24,
+      "eligibility_spacing_sources": "PASS"
+    },
+    {
+      "stage": "P14",
+      "observed_neighborhoods": 24,
+      "eligibility_spacing_sources": "PASS"
+    },
+    {
+      "stage": "P21",
+      "observed_neighborhoods": 24,
+      "eligibility_spacing_sources": "PASS"
+    }
+  ],
+  "exact_source_cloud_LPs_independently_recomputed": 6,
+  "outer_neighborhood_LPs_checked_by_Hungarian_assignment": 6,
+  "all_uniform_transport_marginals_checked": true,
+  "entropic_marginals_checked": true,
+  "all_cost_decompositions_checked": true,
+  "rank_and_nearest_match_metrics_independently_recomputed": true,
+  "CM_maturation_genes_withheld": true,
+  "RNA_pseudobulks_independently_recomputed": 2,
+  "late_basement_contrast_supported_in_each_library_and_raw_corrected_view": true,
+  "RNA_raw_corrected_program_Spearman": 0.9968819756935834,
+  "P21_F0_current_Col8a1_family_preserved": true,
+  "biological_fates_validated": false,
+  "new_biological_replicates": 0,
+  "scope": "Numerical/data provenance; no anatomical, causal or lineage validation"
+}

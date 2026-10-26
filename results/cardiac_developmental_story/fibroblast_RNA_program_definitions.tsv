@@ -1,0 +1,7 @@
+program	genes	count_denominator	function_measured
+Fibrillar matrix	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	Full RNA pseudobulk molecules	False
+Basement matrix	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	Full RNA pseudobulk molecules	False
+Elastic matrix	Eln;Fbln1;Fbln2;Thsd4	Full RNA pseudobulk molecules	False
+Matrix remodeling	Fn1;Tnc;Thbs1;Vcan;Mmp2	Full RNA pseudobulk molecules	False
+Cycling	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	Full RNA pseudobulk molecules	False
+Early developmental	Postn;Ptn;Tnc;Col24a1	Full RNA pseudobulk molecules	False

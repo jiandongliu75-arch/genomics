@@ -1,0 +1,45 @@
+{
+  "analysis_python": "/workspace/heart-atlas/venv/bin/python",
+  "document_python": "python",
+  "source_commit": "bfbbf4463be871a8715cbbe7cbef71780e6cd27a",
+  "analysis_versions": {
+    "numpy": "2.5.4",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1",
+    "anndata": "0.13.4",
+    "matplotlib": "3.11.2",
+    "pillow": "13.0.0"
+  },
+  "document_versions": {
+    "python_docx": "1.2.0",
+    "PyMuPDF": "1.26.6"
+  },
+  "execution_receipts": [
+    {
+      "step": "figures",
+      "completed": true,
+      "seconds": 35.211883544921875
+    },
+    {
+      "step": "word",
+      "completed": true,
+      "seconds": 0.4095475673675537
+    },
+    {
+      "step": "render",
+      "completed": true,
+      "seconds": 7.953706502914429
+    },
+    {
+      "step": "documents",
+      "completed": true,
+      "seconds": 0.3205070495605469
+    },
+    {
+      "step": "documents",
+      "completed": true,
+      "seconds": 0.3824331760406494
+    }
+  ],
+  "data_policy": "Frozen QC inputs; source hashes and original coordinates retained; one spatial section/age"
+}

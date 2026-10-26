@@ -1,0 +1,961 @@
+level	stage	library	group	nuclei	view	program	mean_log1p_CPM	genes	new_biological_replicates
+fibroblast_family	P0	GSM8827071_P0_1	Kirrel3-associated	185	corrected	Fibrillar matrix	5.29758853	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P0	GSM8827071_P0_1	Kirrel3-associated	185	corrected	Basement matrix	4.66838536	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P0	GSM8827071_P0_1	Kirrel3-associated	185	corrected	Elastic matrix	5.04647276	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P0	GSM8827071_P0_1	Kirrel3-associated	185	corrected	Matrix remodeling	5.47149937	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P0	GSM8827071_P0_1	Kirrel3-associated	185	corrected	Cycling	2.5514482	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P0	GSM8827071_P0_1	Kirrel3-associated	185	corrected	Early developmental	5.51549956	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P0	GSM8827071_P0_1	Kirrel3-associated	185	raw	Fibrillar matrix	5.22715024	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P0	GSM8827071_P0_1	Kirrel3-associated	185	raw	Basement matrix	4.74960754	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P0	GSM8827071_P0_1	Kirrel3-associated	185	raw	Elastic matrix	5.09780236	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P0	GSM8827071_P0_1	Kirrel3-associated	185	raw	Matrix remodeling	5.40817397	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P0	GSM8827071_P0_1	Kirrel3-associated	185	raw	Cycling	2.5342801	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P0	GSM8827071_P0_1	Kirrel3-associated	185	raw	Early developmental	5.46120374	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P0	GSM8827071_P0_1	Postn-associated	841	corrected	Fibrillar matrix	5.88413455	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P0	GSM8827071_P0_1	Postn-associated	841	corrected	Basement matrix	5.24736286	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P0	GSM8827071_P0_1	Postn-associated	841	corrected	Elastic matrix	5.80536382	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P0	GSM8827071_P0_1	Postn-associated	841	corrected	Matrix remodeling	5.54312696	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P0	GSM8827071_P0_1	Postn-associated	841	corrected	Cycling	2.69176899	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P0	GSM8827071_P0_1	Postn-associated	841	corrected	Early developmental	6.43037241	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P0	GSM8827071_P0_1	Postn-associated	841	raw	Fibrillar matrix	5.80138781	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P0	GSM8827071_P0_1	Postn-associated	841	raw	Basement matrix	5.29817289	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P0	GSM8827071_P0_1	Postn-associated	841	raw	Elastic matrix	5.73375146	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P0	GSM8827071_P0_1	Postn-associated	841	raw	Matrix remodeling	5.46608153	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P0	GSM8827071_P0_1	Postn-associated	841	raw	Cycling	2.67497373	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P0	GSM8827071_P0_1	Postn-associated	841	raw	Early developmental	6.34535214	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P0	GSM8827072_P0_2	Kirrel3-associated	176	corrected	Fibrillar matrix	5.2796482	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P0	GSM8827072_P0_2	Kirrel3-associated	176	corrected	Basement matrix	4.79410338	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P0	GSM8827072_P0_2	Kirrel3-associated	176	corrected	Elastic matrix	4.78977623	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P0	GSM8827072_P0_2	Kirrel3-associated	176	corrected	Matrix remodeling	5.39448034	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P0	GSM8827072_P0_2	Kirrel3-associated	176	corrected	Cycling	1.83091328	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P0	GSM8827072_P0_2	Kirrel3-associated	176	corrected	Early developmental	5.5122432	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P0	GSM8827072_P0_2	Kirrel3-associated	176	raw	Fibrillar matrix	5.23377186	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P0	GSM8827072_P0_2	Kirrel3-associated	176	raw	Basement matrix	4.82383513	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P0	GSM8827072_P0_2	Kirrel3-associated	176	raw	Elastic matrix	4.84819162	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P0	GSM8827072_P0_2	Kirrel3-associated	176	raw	Matrix remodeling	5.34821898	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P0	GSM8827072_P0_2	Kirrel3-associated	176	raw	Cycling	1.85620473	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P0	GSM8827072_P0_2	Kirrel3-associated	176	raw	Early developmental	5.46612192	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P0	GSM8827072_P0_2	Postn-associated	940	corrected	Fibrillar matrix	5.88178482	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P0	GSM8827072_P0_2	Postn-associated	940	corrected	Basement matrix	5.03941206	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P0	GSM8827072_P0_2	Postn-associated	940	corrected	Elastic matrix	5.83287133	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P0	GSM8827072_P0_2	Postn-associated	940	corrected	Matrix remodeling	5.49796772	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P0	GSM8827072_P0_2	Postn-associated	940	corrected	Cycling	2.52866855	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P0	GSM8827072_P0_2	Postn-associated	940	corrected	Early developmental	6.38877596	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P0	GSM8827072_P0_2	Postn-associated	940	raw	Fibrillar matrix	5.82934941	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P0	GSM8827072_P0_2	Postn-associated	940	raw	Basement matrix	5.11759918	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P0	GSM8827072_P0_2	Postn-associated	940	raw	Elastic matrix	5.78888129	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P0	GSM8827072_P0_2	Postn-associated	940	raw	Matrix remodeling	5.45020053	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P0	GSM8827072_P0_2	Postn-associated	940	raw	Cycling	2.52056537	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P0	GSM8827072_P0_2	Postn-associated	940	raw	Early developmental	6.33502643	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P14	GSM8827075_P14_1	Col8a1-associated	1371	corrected	Fibrillar matrix	5.89850517	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P14	GSM8827075_P14_1	Col8a1-associated	1371	corrected	Basement matrix	5.64862239	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P14	GSM8827075_P14_1	Col8a1-associated	1371	corrected	Elastic matrix	5.64279397	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P14	GSM8827075_P14_1	Col8a1-associated	1371	corrected	Matrix remodeling	4.62187585	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P14	GSM8827075_P14_1	Col8a1-associated	1371	corrected	Cycling	0.654623795	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P14	GSM8827075_P14_1	Col8a1-associated	1371	corrected	Early developmental	4.54501063	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P14	GSM8827075_P14_1	Col8a1-associated	1371	raw	Fibrillar matrix	5.81554404	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P14	GSM8827075_P14_1	Col8a1-associated	1371	raw	Basement matrix	5.61399511	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P14	GSM8827075_P14_1	Col8a1-associated	1371	raw	Elastic matrix	5.57723785	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P14	GSM8827075_P14_1	Col8a1-associated	1371	raw	Matrix remodeling	4.54134776	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P14	GSM8827075_P14_1	Col8a1-associated	1371	raw	Cycling	0.663902299	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P14	GSM8827075_P14_1	Col8a1-associated	1371	raw	Early developmental	4.46550536	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P14	GSM8827075_P14_1	Gfpt2-associated	437	corrected	Fibrillar matrix	5.55701332	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P14	GSM8827075_P14_1	Gfpt2-associated	437	corrected	Basement matrix	5.13329308	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P14	GSM8827075_P14_1	Gfpt2-associated	437	corrected	Elastic matrix	5.55300634	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P14	GSM8827075_P14_1	Gfpt2-associated	437	corrected	Matrix remodeling	4.15590898	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P14	GSM8827075_P14_1	Gfpt2-associated	437	corrected	Cycling	0.686808098	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P14	GSM8827075_P14_1	Gfpt2-associated	437	corrected	Early developmental	2.72344046	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P14	GSM8827075_P14_1	Gfpt2-associated	437	raw	Fibrillar matrix	5.47854989	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P14	GSM8827075_P14_1	Gfpt2-associated	437	raw	Basement matrix	5.09935262	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P14	GSM8827075_P14_1	Gfpt2-associated	437	raw	Elastic matrix	5.49094492	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P14	GSM8827075_P14_1	Gfpt2-associated	437	raw	Matrix remodeling	4.08552192	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P14	GSM8827075_P14_1	Gfpt2-associated	437	raw	Cycling	0.699644384	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P14	GSM8827075_P14_1	Gfpt2-associated	437	raw	Early developmental	2.6646183	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P14	GSM8827075_P14_1	Kirrel3-associated	73	corrected	Fibrillar matrix	5.64520181	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P14	GSM8827075_P14_1	Kirrel3-associated	73	corrected	Basement matrix	5.32122802	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P14	GSM8827075_P14_1	Kirrel3-associated	73	corrected	Elastic matrix	5.30208101	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P14	GSM8827075_P14_1	Kirrel3-associated	73	corrected	Matrix remodeling	4.69388628	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P14	GSM8827075_P14_1	Kirrel3-associated	73	corrected	Cycling	0.507835042	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P14	GSM8827075_P14_1	Kirrel3-associated	73	corrected	Early developmental	4.76851818	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P14	GSM8827075_P14_1	Kirrel3-associated	73	raw	Fibrillar matrix	5.59611734	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P14	GSM8827075_P14_1	Kirrel3-associated	73	raw	Basement matrix	5.30516685	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P14	GSM8827075_P14_1	Kirrel3-associated	73	raw	Elastic matrix	5.27908071	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P14	GSM8827075_P14_1	Kirrel3-associated	73	raw	Matrix remodeling	4.647018	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P14	GSM8827075_P14_1	Kirrel3-associated	73	raw	Cycling	0.501364836	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P14	GSM8827075_P14_1	Kirrel3-associated	73	raw	Early developmental	4.72372775	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P14	GSM8827075_P14_1	Lsamp-associated	382	corrected	Fibrillar matrix	5.95429457	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P14	GSM8827075_P14_1	Lsamp-associated	382	corrected	Basement matrix	5.60790884	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P14	GSM8827075_P14_1	Lsamp-associated	382	corrected	Elastic matrix	5.97494726	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P14	GSM8827075_P14_1	Lsamp-associated	382	corrected	Matrix remodeling	4.6412209	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P14	GSM8827075_P14_1	Lsamp-associated	382	corrected	Cycling	0.576824467	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P14	GSM8827075_P14_1	Lsamp-associated	382	corrected	Early developmental	5.18875335	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P14	GSM8827075_P14_1	Lsamp-associated	382	raw	Fibrillar matrix	5.8523463	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P14	GSM8827075_P14_1	Lsamp-associated	382	raw	Basement matrix	5.56455609	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P14	GSM8827075_P14_1	Lsamp-associated	382	raw	Elastic matrix	5.89608717	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P14	GSM8827075_P14_1	Lsamp-associated	382	raw	Matrix remodeling	4.54298564	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P14	GSM8827075_P14_1	Lsamp-associated	382	raw	Cycling	0.580133467	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P14	GSM8827075_P14_1	Lsamp-associated	382	raw	Early developmental	5.09019483	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P14	GSM8827075_P14_1	Unresolved fibroblast program	16	corrected	Fibrillar matrix	5.5195012	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P14	GSM8827075_P14_1	Unresolved fibroblast program	16	corrected	Basement matrix	5.43510866	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P14	GSM8827075_P14_1	Unresolved fibroblast program	16	corrected	Elastic matrix	5.46790526	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P14	GSM8827075_P14_1	Unresolved fibroblast program	16	corrected	Matrix remodeling	4.16976105	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P14	GSM8827075_P14_1	Unresolved fibroblast program	16	corrected	Cycling	3.73793002	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P14	GSM8827075_P14_1	Unresolved fibroblast program	16	corrected	Early developmental	3.65650934	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P14	GSM8827075_P14_1	Unresolved fibroblast program	16	raw	Fibrillar matrix	5.4506557	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P14	GSM8827075_P14_1	Unresolved fibroblast program	16	raw	Basement matrix	5.40553586	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P14	GSM8827075_P14_1	Unresolved fibroblast program	16	raw	Elastic matrix	5.41189708	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P14	GSM8827075_P14_1	Unresolved fibroblast program	16	raw	Matrix remodeling	4.11572785	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P14	GSM8827075_P14_1	Unresolved fibroblast program	16	raw	Cycling	3.76243755	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P14	GSM8827075_P14_1	Unresolved fibroblast program	16	raw	Early developmental	3.6075636	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P14	GSM8827076_P14_2	Col8a1-associated	1746	corrected	Fibrillar matrix	5.91033007	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P14	GSM8827076_P14_2	Col8a1-associated	1746	corrected	Basement matrix	5.70234253	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P14	GSM8827076_P14_2	Col8a1-associated	1746	corrected	Elastic matrix	5.60086522	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P14	GSM8827076_P14_2	Col8a1-associated	1746	corrected	Matrix remodeling	4.84945908	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P14	GSM8827076_P14_2	Col8a1-associated	1746	corrected	Cycling	0.675997056	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P14	GSM8827076_P14_2	Col8a1-associated	1746	corrected	Early developmental	4.63263338	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P14	GSM8827076_P14_2	Col8a1-associated	1746	raw	Fibrillar matrix	5.83419879	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P14	GSM8827076_P14_2	Col8a1-associated	1746	raw	Basement matrix	5.66764301	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P14	GSM8827076_P14_2	Col8a1-associated	1746	raw	Elastic matrix	5.54096579	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P14	GSM8827076_P14_2	Col8a1-associated	1746	raw	Matrix remodeling	4.77554275	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P14	GSM8827076_P14_2	Col8a1-associated	1746	raw	Cycling	0.691200486	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P14	GSM8827076_P14_2	Col8a1-associated	1746	raw	Early developmental	4.55943337	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P14	GSM8827076_P14_2	Gfpt2-associated	565	corrected	Fibrillar matrix	5.63177869	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P14	GSM8827076_P14_2	Gfpt2-associated	565	corrected	Basement matrix	5.27004668	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P14	GSM8827076_P14_2	Gfpt2-associated	565	corrected	Elastic matrix	5.51406515	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P14	GSM8827076_P14_2	Gfpt2-associated	565	corrected	Matrix remodeling	4.34442783	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P14	GSM8827076_P14_2	Gfpt2-associated	565	corrected	Cycling	0.726032588	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P14	GSM8827076_P14_2	Gfpt2-associated	565	corrected	Early developmental	3.20718999	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P14	GSM8827076_P14_2	Gfpt2-associated	565	raw	Fibrillar matrix	5.55830159	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P14	GSM8827076_P14_2	Gfpt2-associated	565	raw	Basement matrix	5.23679587	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P14	GSM8827076_P14_2	Gfpt2-associated	565	raw	Elastic matrix	5.45669004	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P14	GSM8827076_P14_2	Gfpt2-associated	565	raw	Matrix remodeling	4.27790919	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P14	GSM8827076_P14_2	Gfpt2-associated	565	raw	Cycling	0.747917435	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P14	GSM8827076_P14_2	Gfpt2-associated	565	raw	Early developmental	3.1446227	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P14	GSM8827076_P14_2	Kirrel3-associated	106	corrected	Fibrillar matrix	5.40750451	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P14	GSM8827076_P14_2	Kirrel3-associated	106	corrected	Basement matrix	5.09491216	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P14	GSM8827076_P14_2	Kirrel3-associated	106	corrected	Elastic matrix	4.73388868	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P14	GSM8827076_P14_2	Kirrel3-associated	106	corrected	Matrix remodeling	4.74148147	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P14	GSM8827076_P14_2	Kirrel3-associated	106	corrected	Cycling	0.121227124	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P14	GSM8827076_P14_2	Kirrel3-associated	106	corrected	Early developmental	4.52838148	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P14	GSM8827076_P14_2	Kirrel3-associated	106	raw	Fibrillar matrix	5.34740946	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P14	GSM8827076_P14_2	Kirrel3-associated	106	raw	Basement matrix	5.13923149	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P14	GSM8827076_P14_2	Kirrel3-associated	106	raw	Elastic matrix	4.8049971	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P14	GSM8827076_P14_2	Kirrel3-associated	106	raw	Matrix remodeling	4.70716957	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P14	GSM8827076_P14_2	Kirrel3-associated	106	raw	Cycling	0.186434132	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P14	GSM8827076_P14_2	Kirrel3-associated	106	raw	Early developmental	4.51154363	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P14	GSM8827076_P14_2	Lsamp-associated	526	corrected	Fibrillar matrix	5.93794555	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P14	GSM8827076_P14_2	Lsamp-associated	526	corrected	Basement matrix	5.64146788	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P14	GSM8827076_P14_2	Lsamp-associated	526	corrected	Elastic matrix	5.82700093	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P14	GSM8827076_P14_2	Lsamp-associated	526	corrected	Matrix remodeling	4.55284647	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P14	GSM8827076_P14_2	Lsamp-associated	526	corrected	Cycling	0.556790651	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P14	GSM8827076_P14_2	Lsamp-associated	526	corrected	Early developmental	5.30190643	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P14	GSM8827076_P14_2	Lsamp-associated	526	raw	Fibrillar matrix	5.84619754	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P14	GSM8827076_P14_2	Lsamp-associated	526	raw	Basement matrix	5.59922158	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P14	GSM8827076_P14_2	Lsamp-associated	526	raw	Elastic matrix	5.75545798	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P14	GSM8827076_P14_2	Lsamp-associated	526	raw	Matrix remodeling	4.4655751	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P14	GSM8827076_P14_2	Lsamp-associated	526	raw	Cycling	0.570498081	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P14	GSM8827076_P14_2	Lsamp-associated	526	raw	Early developmental	5.21274268	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P14	GSM8827076_P14_2	Unresolved fibroblast program	19	corrected	Fibrillar matrix	5.56617853	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P14	GSM8827076_P14_2	Unresolved fibroblast program	19	corrected	Basement matrix	5.37055101	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P14	GSM8827076_P14_2	Unresolved fibroblast program	19	corrected	Elastic matrix	5.33902403	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P14	GSM8827076_P14_2	Unresolved fibroblast program	19	corrected	Matrix remodeling	4.66625883	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P14	GSM8827076_P14_2	Unresolved fibroblast program	19	corrected	Cycling	3.85254032	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P14	GSM8827076_P14_2	Unresolved fibroblast program	19	corrected	Early developmental	4.7999331	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P14	GSM8827076_P14_2	Unresolved fibroblast program	19	raw	Fibrillar matrix	5.4893331	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P14	GSM8827076_P14_2	Unresolved fibroblast program	19	raw	Basement matrix	5.33396512	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P14	GSM8827076_P14_2	Unresolved fibroblast program	19	raw	Elastic matrix	5.2787907	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P14	GSM8827076_P14_2	Unresolved fibroblast program	19	raw	Matrix remodeling	4.59113937	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P14	GSM8827076_P14_2	Unresolved fibroblast program	19	raw	Cycling	3.86026626	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P14	GSM8827076_P14_2	Unresolved fibroblast program	19	raw	Early developmental	4.72507813	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P21	GSM8827077_P21_1	Col8a1-associated	1568	corrected	Fibrillar matrix	5.63049471	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P21	GSM8827077_P21_1	Col8a1-associated	1568	corrected	Basement matrix	5.61809007	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P21	GSM8827077_P21_1	Col8a1-associated	1568	corrected	Elastic matrix	5.24919064	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P21	GSM8827077_P21_1	Col8a1-associated	1568	corrected	Matrix remodeling	4.38418562	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P21	GSM8827077_P21_1	Col8a1-associated	1568	corrected	Cycling	0.145401763	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P21	GSM8827077_P21_1	Col8a1-associated	1568	corrected	Early developmental	3.5016489	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P21	GSM8827077_P21_1	Col8a1-associated	1568	raw	Fibrillar matrix	5.57168382	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P21	GSM8827077_P21_1	Col8a1-associated	1568	raw	Basement matrix	5.59225194	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P21	GSM8827077_P21_1	Col8a1-associated	1568	raw	Elastic matrix	5.23015428	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P21	GSM8827077_P21_1	Col8a1-associated	1568	raw	Matrix remodeling	4.32692264	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P21	GSM8827077_P21_1	Col8a1-associated	1568	raw	Cycling	0.264953095	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P21	GSM8827077_P21_1	Col8a1-associated	1568	raw	Early developmental	3.45759929	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P21	GSM8827077_P21_1	Gfpt2-associated	154	corrected	Fibrillar matrix	5.45306812	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P21	GSM8827077_P21_1	Gfpt2-associated	154	corrected	Basement matrix	5.20810944	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P21	GSM8827077_P21_1	Gfpt2-associated	154	corrected	Elastic matrix	5.12291888	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P21	GSM8827077_P21_1	Gfpt2-associated	154	corrected	Matrix remodeling	4.27140619	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P21	GSM8827077_P21_1	Gfpt2-associated	154	corrected	Cycling	0.169135046	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P21	GSM8827077_P21_1	Gfpt2-associated	154	corrected	Early developmental	2.39173524	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P21	GSM8827077_P21_1	Gfpt2-associated	154	raw	Fibrillar matrix	5.40484332	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P21	GSM8827077_P21_1	Gfpt2-associated	154	raw	Basement matrix	5.18767794	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P21	GSM8827077_P21_1	Gfpt2-associated	154	raw	Elastic matrix	5.10387822	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P21	GSM8827077_P21_1	Gfpt2-associated	154	raw	Matrix remodeling	4.23008503	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P21	GSM8827077_P21_1	Gfpt2-associated	154	raw	Cycling	0.240223714	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P21	GSM8827077_P21_1	Gfpt2-associated	154	raw	Early developmental	2.36960392	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P21	GSM8827077_P21_1	Kirrel3-associated	65	corrected	Fibrillar matrix	5.2650367	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P21	GSM8827077_P21_1	Kirrel3-associated	65	corrected	Basement matrix	5.23512124	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P21	GSM8827077_P21_1	Kirrel3-associated	65	corrected	Elastic matrix	5.12086171	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P21	GSM8827077_P21_1	Kirrel3-associated	65	corrected	Matrix remodeling	4.67634751	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P21	GSM8827077_P21_1	Kirrel3-associated	65	corrected	Cycling	0	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P21	GSM8827077_P21_1	Kirrel3-associated	65	corrected	Early developmental	4.65797552	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P21	GSM8827077_P21_1	Kirrel3-associated	65	raw	Fibrillar matrix	5.17038941	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P21	GSM8827077_P21_1	Kirrel3-associated	65	raw	Basement matrix	5.19646661	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P21	GSM8827077_P21_1	Kirrel3-associated	65	raw	Elastic matrix	5.17049746	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P21	GSM8827077_P21_1	Kirrel3-associated	65	raw	Matrix remodeling	4.5910746	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P21	GSM8827077_P21_1	Kirrel3-associated	65	raw	Cycling	0	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P21	GSM8827077_P21_1	Kirrel3-associated	65	raw	Early developmental	4.55342878	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P21	GSM8827077_P21_1	Lsamp-associated	764	corrected	Fibrillar matrix	5.73039375	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P21	GSM8827077_P21_1	Lsamp-associated	764	corrected	Basement matrix	5.70151689	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P21	GSM8827077_P21_1	Lsamp-associated	764	corrected	Elastic matrix	5.44883021	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P21	GSM8827077_P21_1	Lsamp-associated	764	corrected	Matrix remodeling	4.17076925	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P21	GSM8827077_P21_1	Lsamp-associated	764	corrected	Cycling	0.0533206307	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P21	GSM8827077_P21_1	Lsamp-associated	764	corrected	Early developmental	4.23295405	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P21	GSM8827077_P21_1	Lsamp-associated	764	raw	Fibrillar matrix	5.6690704	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P21	GSM8827077_P21_1	Lsamp-associated	764	raw	Basement matrix	5.67854986	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P21	GSM8827077_P21_1	Lsamp-associated	764	raw	Elastic matrix	5.50125225	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P21	GSM8827077_P21_1	Lsamp-associated	764	raw	Matrix remodeling	4.11245382	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P21	GSM8827077_P21_1	Lsamp-associated	764	raw	Cycling	0.123601575	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P21	GSM8827077_P21_1	Lsamp-associated	764	raw	Early developmental	4.1678572	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P21	GSM8827078_P21_2	Col8a1-associated	1143	corrected	Fibrillar matrix	5.35433185	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P21	GSM8827078_P21_2	Col8a1-associated	1143	corrected	Basement matrix	5.49514772	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P21	GSM8827078_P21_2	Col8a1-associated	1143	corrected	Elastic matrix	4.99911631	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P21	GSM8827078_P21_2	Col8a1-associated	1143	corrected	Matrix remodeling	4.11106558	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P21	GSM8827078_P21_2	Col8a1-associated	1143	corrected	Cycling	0.293190726	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P21	GSM8827078_P21_2	Col8a1-associated	1143	corrected	Early developmental	3.28801063	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P21	GSM8827078_P21_2	Col8a1-associated	1143	raw	Fibrillar matrix	5.28375082	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P21	GSM8827078_P21_2	Col8a1-associated	1143	raw	Basement matrix	5.45875577	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P21	GSM8827078_P21_2	Col8a1-associated	1143	raw	Elastic matrix	4.96276224	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P21	GSM8827078_P21_2	Col8a1-associated	1143	raw	Matrix remodeling	4.04263385	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P21	GSM8827078_P21_2	Col8a1-associated	1143	raw	Cycling	0.348094845	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P21	GSM8827078_P21_2	Col8a1-associated	1143	raw	Early developmental	3.22562863	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P21	GSM8827078_P21_2	Gfpt2-associated	125	corrected	Fibrillar matrix	4.91452523	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P21	GSM8827078_P21_2	Gfpt2-associated	125	corrected	Basement matrix	5.10385124	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P21	GSM8827078_P21_2	Gfpt2-associated	125	corrected	Elastic matrix	4.84339445	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P21	GSM8827078_P21_2	Gfpt2-associated	125	corrected	Matrix remodeling	3.74937907	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P21	GSM8827078_P21_2	Gfpt2-associated	125	corrected	Cycling	0.151900302	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P21	GSM8827078_P21_2	Gfpt2-associated	125	corrected	Early developmental	1.82890135	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P21	GSM8827078_P21_2	Gfpt2-associated	125	raw	Fibrillar matrix	4.85330603	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P21	GSM8827078_P21_2	Gfpt2-associated	125	raw	Basement matrix	5.07258752	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P21	GSM8827078_P21_2	Gfpt2-associated	125	raw	Elastic matrix	4.81501592	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P21	GSM8827078_P21_2	Gfpt2-associated	125	raw	Matrix remodeling	3.69517981	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P21	GSM8827078_P21_2	Gfpt2-associated	125	raw	Cycling	0.222762158	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P21	GSM8827078_P21_2	Gfpt2-associated	125	raw	Early developmental	1.79421372	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P21	GSM8827078_P21_2	Kirrel3-associated	49	corrected	Fibrillar matrix	5.15507936	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P21	GSM8827078_P21_2	Kirrel3-associated	49	corrected	Basement matrix	5.18627503	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P21	GSM8827078_P21_2	Kirrel3-associated	49	corrected	Elastic matrix	4.43142416	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P21	GSM8827078_P21_2	Kirrel3-associated	49	corrected	Matrix remodeling	4.39748848	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P21	GSM8827078_P21_2	Kirrel3-associated	49	corrected	Cycling	0.266396546	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P21	GSM8827078_P21_2	Kirrel3-associated	49	corrected	Early developmental	4.04519076	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P21	GSM8827078_P21_2	Kirrel3-associated	49	raw	Fibrillar matrix	5.10593601	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P21	GSM8827078_P21_2	Kirrel3-associated	49	raw	Basement matrix	5.16768312	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P21	GSM8827078_P21_2	Kirrel3-associated	49	raw	Elastic matrix	4.40472245	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P21	GSM8827078_P21_2	Kirrel3-associated	49	raw	Matrix remodeling	4.34534084	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P21	GSM8827078_P21_2	Kirrel3-associated	49	raw	Cycling	0.258869214	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P21	GSM8827078_P21_2	Kirrel3-associated	49	raw	Early developmental	4.00091733	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P21	GSM8827078_P21_2	Lsamp-associated	469	corrected	Fibrillar matrix	5.41892697	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P21	GSM8827078_P21_2	Lsamp-associated	469	corrected	Basement matrix	5.64783098	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P21	GSM8827078_P21_2	Lsamp-associated	469	corrected	Elastic matrix	5.42481976	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P21	GSM8827078_P21_2	Lsamp-associated	469	corrected	Matrix remodeling	4.04050904	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P21	GSM8827078_P21_2	Lsamp-associated	469	corrected	Cycling	0.287655571	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P21	GSM8827078_P21_2	Lsamp-associated	469	corrected	Early developmental	3.93007897	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P21	GSM8827078_P21_2	Lsamp-associated	469	raw	Fibrillar matrix	5.34105433	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P21	GSM8827078_P21_2	Lsamp-associated	469	raw	Basement matrix	5.60744286	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P21	GSM8827078_P21_2	Lsamp-associated	469	raw	Elastic matrix	5.38729136	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P21	GSM8827078_P21_2	Lsamp-associated	469	raw	Matrix remodeling	3.96624129	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P21	GSM8827078_P21_2	Lsamp-associated	469	raw	Cycling	0.33367191	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P21	GSM8827078_P21_2	Lsamp-associated	469	raw	Early developmental	3.85910142	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P7	GSM8827073_P7_1	Gfpt2-associated	256	corrected	Fibrillar matrix	5.87058858	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P7	GSM8827073_P7_1	Gfpt2-associated	256	corrected	Basement matrix	5.16591503	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P7	GSM8827073_P7_1	Gfpt2-associated	256	corrected	Elastic matrix	5.31763455	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P7	GSM8827073_P7_1	Gfpt2-associated	256	corrected	Matrix remodeling	5.44635321	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P7	GSM8827073_P7_1	Gfpt2-associated	256	corrected	Cycling	1.3256862	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P7	GSM8827073_P7_1	Gfpt2-associated	256	corrected	Early developmental	4.94641343	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P7	GSM8827073_P7_1	Gfpt2-associated	256	raw	Fibrillar matrix	5.75421135	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P7	GSM8827073_P7_1	Gfpt2-associated	256	raw	Basement matrix	5.13911626	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P7	GSM8827073_P7_1	Gfpt2-associated	256	raw	Elastic matrix	5.21151153	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P7	GSM8827073_P7_1	Gfpt2-associated	256	raw	Matrix remodeling	5.33160902	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P7	GSM8827073_P7_1	Gfpt2-associated	256	raw	Cycling	1.35747015	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P7	GSM8827073_P7_1	Gfpt2-associated	256	raw	Early developmental	4.83175129	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P7	GSM8827073_P7_1	Kirrel3-associated	59	corrected	Fibrillar matrix	5.46638117	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P7	GSM8827073_P7_1	Kirrel3-associated	59	corrected	Basement matrix	4.85233867	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P7	GSM8827073_P7_1	Kirrel3-associated	59	corrected	Elastic matrix	4.4923968	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P7	GSM8827073_P7_1	Kirrel3-associated	59	corrected	Matrix remodeling	5.26345946	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P7	GSM8827073_P7_1	Kirrel3-associated	59	corrected	Cycling	1.60011175	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P7	GSM8827073_P7_1	Kirrel3-associated	59	corrected	Early developmental	5.40852722	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P7	GSM8827073_P7_1	Kirrel3-associated	59	raw	Fibrillar matrix	5.28989012	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P7	GSM8827073_P7_1	Kirrel3-associated	59	raw	Basement matrix	4.81217418	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P7	GSM8827073_P7_1	Kirrel3-associated	59	raw	Elastic matrix	4.32709183	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P7	GSM8827073_P7_1	Kirrel3-associated	59	raw	Matrix remodeling	5.08805493	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P7	GSM8827073_P7_1	Kirrel3-associated	59	raw	Cycling	1.60734726	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P7	GSM8827073_P7_1	Kirrel3-associated	59	raw	Early developmental	5.23255053	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P7	GSM8827073_P7_1	Postn-associated	1183	corrected	Fibrillar matrix	5.96763362	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P7	GSM8827073_P7_1	Postn-associated	1183	corrected	Basement matrix	5.39720272	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P7	GSM8827073_P7_1	Postn-associated	1183	corrected	Elastic matrix	5.4674719	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P7	GSM8827073_P7_1	Postn-associated	1183	corrected	Matrix remodeling	5.43285877	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P7	GSM8827073_P7_1	Postn-associated	1183	corrected	Cycling	2.49534399	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P7	GSM8827073_P7_1	Postn-associated	1183	corrected	Early developmental	6.37945305	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P7	GSM8827073_P7_1	Postn-associated	1183	raw	Fibrillar matrix	5.84003259	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P7	GSM8827073_P7_1	Postn-associated	1183	raw	Basement matrix	5.36810974	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P7	GSM8827073_P7_1	Postn-associated	1183	raw	Elastic matrix	5.34980675	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P7	GSM8827073_P7_1	Postn-associated	1183	raw	Matrix remodeling	5.30579542	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P7	GSM8827073_P7_1	Postn-associated	1183	raw	Cycling	2.49560701	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P7	GSM8827073_P7_1	Postn-associated	1183	raw	Early developmental	6.25031001	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P7	GSM8827074_P7_2	Gfpt2-associated	203	corrected	Fibrillar matrix	6.38393693	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P7	GSM8827074_P7_2	Gfpt2-associated	203	corrected	Basement matrix	5.07827474	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P7	GSM8827074_P7_2	Gfpt2-associated	203	corrected	Elastic matrix	5.6600923	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P7	GSM8827074_P7_2	Gfpt2-associated	203	corrected	Matrix remodeling	5.46707912	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P7	GSM8827074_P7_2	Gfpt2-associated	203	corrected	Cycling	1.07486746	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P7	GSM8827074_P7_2	Gfpt2-associated	203	corrected	Early developmental	5.06648194	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P7	GSM8827074_P7_2	Gfpt2-associated	203	raw	Fibrillar matrix	6.29620242	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P7	GSM8827074_P7_2	Gfpt2-associated	203	raw	Basement matrix	5.0560493	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P7	GSM8827074_P7_2	Gfpt2-associated	203	raw	Elastic matrix	5.58106552	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P7	GSM8827074_P7_2	Gfpt2-associated	203	raw	Matrix remodeling	5.38121661	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P7	GSM8827074_P7_2	Gfpt2-associated	203	raw	Cycling	1.06410034	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P7	GSM8827074_P7_2	Gfpt2-associated	203	raw	Early developmental	4.98010208	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P7	GSM8827074_P7_2	Kirrel3-associated	69	corrected	Fibrillar matrix	5.27107197	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P7	GSM8827074_P7_2	Kirrel3-associated	69	corrected	Basement matrix	5.00952971	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P7	GSM8827074_P7_2	Kirrel3-associated	69	corrected	Elastic matrix	4.70059961	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P7	GSM8827074_P7_2	Kirrel3-associated	69	corrected	Matrix remodeling	4.97604501	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P7	GSM8827074_P7_2	Kirrel3-associated	69	corrected	Cycling	2.00831246	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P7	GSM8827074_P7_2	Kirrel3-associated	69	corrected	Early developmental	5.25827252	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P7	GSM8827074_P7_2	Kirrel3-associated	69	raw	Fibrillar matrix	5.20830362	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P7	GSM8827074_P7_2	Kirrel3-associated	69	raw	Basement matrix	5.07135329	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P7	GSM8827074_P7_2	Kirrel3-associated	69	raw	Elastic matrix	4.68358382	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P7	GSM8827074_P7_2	Kirrel3-associated	69	raw	Matrix remodeling	4.96640567	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P7	GSM8827074_P7_2	Kirrel3-associated	69	raw	Cycling	2.03084912	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P7	GSM8827074_P7_2	Kirrel3-associated	69	raw	Early developmental	5.21935644	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P7	GSM8827074_P7_2	Postn-associated	838	corrected	Fibrillar matrix	6.09613833	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P7	GSM8827074_P7_2	Postn-associated	838	corrected	Basement matrix	5.49548931	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P7	GSM8827074_P7_2	Postn-associated	838	corrected	Elastic matrix	5.57044937	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P7	GSM8827074_P7_2	Postn-associated	838	corrected	Matrix remodeling	5.50639926	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P7	GSM8827074_P7_2	Postn-associated	838	corrected	Cycling	2.84598112	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P7	GSM8827074_P7_2	Postn-associated	838	corrected	Early developmental	6.40150964	Postn;Ptn;Tnc;Col24a1	0
+fibroblast_family	P7	GSM8827074_P7_2	Postn-associated	838	raw	Fibrillar matrix	5.97778098	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+fibroblast_family	P7	GSM8827074_P7_2	Postn-associated	838	raw	Basement matrix	5.46246524	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+fibroblast_family	P7	GSM8827074_P7_2	Postn-associated	838	raw	Elastic matrix	5.46208901	Eln;Fbln1;Fbln2;Thsd4	0
+fibroblast_family	P7	GSM8827074_P7_2	Postn-associated	838	raw	Matrix remodeling	5.39025763	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+fibroblast_family	P7	GSM8827074_P7_2	Postn-associated	838	raw	Cycling	2.82977271	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+fibroblast_family	P7	GSM8827074_P7_2	Postn-associated	838	raw	Early developmental	6.28283733	Postn;Ptn;Tnc;Col24a1	0
+named_state	P0	GSM8827071_P0_1	P0_F1	105	corrected	Fibrillar matrix	6.14361442	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P0	GSM8827071_P0_1	P0_F1	105	corrected	Basement matrix	5.26930495	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P0	GSM8827071_P0_1	P0_F1	105	corrected	Elastic matrix	6.0853462	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P0	GSM8827071_P0_1	P0_F1	105	corrected	Matrix remodeling	5.41225411	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P0	GSM8827071_P0_1	P0_F1	105	corrected	Cycling	1.53357895	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P0	GSM8827071_P0_1	P0_F1	105	corrected	Early developmental	6.01720306	Postn;Ptn;Tnc;Col24a1	0
+named_state	P0	GSM8827071_P0_1	P0_F1	105	raw	Fibrillar matrix	6.0640071	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P0	GSM8827071_P0_1	P0_F1	105	raw	Basement matrix	5.32773812	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P0	GSM8827071_P0_1	P0_F1	105	raw	Elastic matrix	6.017308	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P0	GSM8827071_P0_1	P0_F1	105	raw	Matrix remodeling	5.33755107	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P0	GSM8827071_P0_1	P0_F1	105	raw	Cycling	1.52676398	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P0	GSM8827071_P0_1	P0_F1	105	raw	Early developmental	5.93583054	Postn;Ptn;Tnc;Col24a1	0
+named_state	P0	GSM8827071_P0_1	P0_F2	172	corrected	Fibrillar matrix	5.9196027	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P0	GSM8827071_P0_1	P0_F2	172	corrected	Basement matrix	5.08812393	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P0	GSM8827071_P0_1	P0_F2	172	corrected	Elastic matrix	5.73245047	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P0	GSM8827071_P0_1	P0_F2	172	corrected	Matrix remodeling	5.72759803	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P0	GSM8827071_P0_1	P0_F2	172	corrected	Cycling	2.19470412	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P0	GSM8827071_P0_1	P0_F2	172	corrected	Early developmental	6.87429516	Postn;Ptn;Tnc;Col24a1	0
+named_state	P0	GSM8827071_P0_1	P0_F2	172	raw	Fibrillar matrix	5.82357184	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P0	GSM8827071_P0_1	P0_F2	172	raw	Basement matrix	5.1434255	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P0	GSM8827071_P0_1	P0_F2	172	raw	Elastic matrix	5.65088556	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P0	GSM8827071_P0_1	P0_F2	172	raw	Matrix remodeling	5.63847227	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P0	GSM8827071_P0_1	P0_F2	172	raw	Cycling	2.17149898	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P0	GSM8827071_P0_1	P0_F2	172	raw	Early developmental	6.77494023	Postn;Ptn;Tnc;Col24a1	0
+named_state	P0	GSM8827071_P0_1	P0_F3	242	corrected	Fibrillar matrix	5.97382389	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P0	GSM8827071_P0_1	P0_F3	242	corrected	Basement matrix	5.38282828	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P0	GSM8827071_P0_1	P0_F3	242	corrected	Elastic matrix	5.73839452	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P0	GSM8827071_P0_1	P0_F3	242	corrected	Matrix remodeling	5.22644198	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P0	GSM8827071_P0_1	P0_F3	242	corrected	Cycling	1.70683647	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P0	GSM8827071_P0_1	P0_F3	242	corrected	Early developmental	5.8643241	Postn;Ptn;Tnc;Col24a1	0
+named_state	P0	GSM8827071_P0_1	P0_F3	242	raw	Fibrillar matrix	5.89114964	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P0	GSM8827071_P0_1	P0_F3	242	raw	Basement matrix	5.42962461	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P0	GSM8827071_P0_1	P0_F3	242	raw	Elastic matrix	5.66814831	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P0	GSM8827071_P0_1	P0_F3	242	raw	Matrix remodeling	5.14883947	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P0	GSM8827071_P0_1	P0_F3	242	raw	Cycling	1.71654618	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P0	GSM8827071_P0_1	P0_F3	242	raw	Early developmental	5.77954236	Postn;Ptn;Tnc;Col24a1	0
+named_state	P0	GSM8827071_P0_1	P0_F4	185	corrected	Fibrillar matrix	5.29758853	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P0	GSM8827071_P0_1	P0_F4	185	corrected	Basement matrix	4.66838536	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P0	GSM8827071_P0_1	P0_F4	185	corrected	Elastic matrix	5.04647276	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P0	GSM8827071_P0_1	P0_F4	185	corrected	Matrix remodeling	5.47149937	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P0	GSM8827071_P0_1	P0_F4	185	corrected	Cycling	2.5514482	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P0	GSM8827071_P0_1	P0_F4	185	corrected	Early developmental	5.51549956	Postn;Ptn;Tnc;Col24a1	0
+named_state	P0	GSM8827071_P0_1	P0_F4	185	raw	Fibrillar matrix	5.22715024	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P0	GSM8827071_P0_1	P0_F4	185	raw	Basement matrix	4.74960754	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P0	GSM8827071_P0_1	P0_F4	185	raw	Elastic matrix	5.09780236	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P0	GSM8827071_P0_1	P0_F4	185	raw	Matrix remodeling	5.40817397	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P0	GSM8827071_P0_1	P0_F4	185	raw	Cycling	2.5342801	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P0	GSM8827071_P0_1	P0_F4	185	raw	Early developmental	5.46120374	Postn;Ptn;Tnc;Col24a1	0
+named_state	P0	GSM8827071_P0_1	P0_F5	66	corrected	Fibrillar matrix	5.6354021	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P0	GSM8827071_P0_1	P0_F5	66	corrected	Basement matrix	5.25426715	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P0	GSM8827071_P0_1	P0_F5	66	corrected	Elastic matrix	5.46767338	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P0	GSM8827071_P0_1	P0_F5	66	corrected	Matrix remodeling	5.37428135	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P0	GSM8827071_P0_1	P0_F5	66	corrected	Cycling	4.03655044	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P0	GSM8827071_P0_1	P0_F5	66	corrected	Early developmental	6.28872287	Postn;Ptn;Tnc;Col24a1	0
+named_state	P0	GSM8827071_P0_1	P0_F5	66	raw	Fibrillar matrix	5.57058868	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P0	GSM8827071_P0_1	P0_F5	66	raw	Basement matrix	5.29022631	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P0	GSM8827071_P0_1	P0_F5	66	raw	Elastic matrix	5.41233171	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P0	GSM8827071_P0_1	P0_F5	66	raw	Matrix remodeling	5.31343723	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P0	GSM8827071_P0_1	P0_F5	66	raw	Cycling	4.02608614	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P0	GSM8827071_P0_1	P0_F5	66	raw	Early developmental	6.22185874	Postn;Ptn;Tnc;Col24a1	0
+named_state	P0	GSM8827071_P0_1	P0_F6	256	corrected	Fibrillar matrix	5.66251326	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P0	GSM8827071_P0_1	P0_F6	256	corrected	Basement matrix	5.07607193	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P0	GSM8827071_P0_1	P0_F6	256	corrected	Elastic matrix	5.27165732	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P0	GSM8827071_P0_1	P0_F6	256	corrected	Matrix remodeling	5.63570229	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P0	GSM8827071_P0_1	P0_F6	256	corrected	Cycling	1.47638772	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P0	GSM8827071_P0_1	P0_F6	256	corrected	Early developmental	6.42572663	Postn;Ptn;Tnc;Col24a1	0
+named_state	P0	GSM8827071_P0_1	P0_F6	256	raw	Fibrillar matrix	5.58103841	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P0	GSM8827071_P0_1	P0_F6	256	raw	Basement matrix	5.12854728	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P0	GSM8827071_P0_1	P0_F6	256	raw	Elastic matrix	5.20041942	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P0	GSM8827071_P0_1	P0_F6	256	raw	Matrix remodeling	5.56000449	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P0	GSM8827071_P0_1	P0_F6	256	raw	Cycling	1.46530517	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P0	GSM8827071_P0_1	P0_F6	256	raw	Early developmental	6.34212556	Postn;Ptn;Tnc;Col24a1	0
+named_state	P0	GSM8827072_P0_2	P0_F1	146	corrected	Fibrillar matrix	6.10086021	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P0	GSM8827072_P0_2	P0_F1	146	corrected	Basement matrix	5.05936216	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P0	GSM8827072_P0_2	P0_F1	146	corrected	Elastic matrix	6.22042344	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P0	GSM8827072_P0_2	P0_F1	146	corrected	Matrix remodeling	5.46910626	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P0	GSM8827072_P0_2	P0_F1	146	corrected	Cycling	1.11661062	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P0	GSM8827072_P0_2	P0_F1	146	corrected	Early developmental	6.18533924	Postn;Ptn;Tnc;Col24a1	0
+named_state	P0	GSM8827072_P0_2	P0_F1	146	raw	Fibrillar matrix	6.04117267	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P0	GSM8827072_P0_2	P0_F1	146	raw	Basement matrix	5.12840534	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P0	GSM8827072_P0_2	P0_F1	146	raw	Elastic matrix	6.16697416	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P0	GSM8827072_P0_2	P0_F1	146	raw	Matrix remodeling	5.41300557	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P0	GSM8827072_P0_2	P0_F1	146	raw	Cycling	1.12592372	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P0	GSM8827072_P0_2	P0_F1	146	raw	Early developmental	6.12446246	Postn;Ptn;Tnc;Col24a1	0
+named_state	P0	GSM8827072_P0_2	P0_F2	176	corrected	Fibrillar matrix	5.87636056	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P0	GSM8827072_P0_2	P0_F2	176	corrected	Basement matrix	4.87836644	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P0	GSM8827072_P0_2	P0_F2	176	corrected	Elastic matrix	5.73258037	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P0	GSM8827072_P0_2	P0_F2	176	corrected	Matrix remodeling	5.53303592	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P0	GSM8827072_P0_2	P0_F2	176	corrected	Cycling	1.45290716	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P0	GSM8827072_P0_2	P0_F2	176	corrected	Early developmental	6.89114022	Postn;Ptn;Tnc;Col24a1	0
+named_state	P0	GSM8827072_P0_2	P0_F2	176	raw	Fibrillar matrix	5.81007939	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P0	GSM8827072_P0_2	P0_F2	176	raw	Basement matrix	5.02634097	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P0	GSM8827072_P0_2	P0_F2	176	raw	Elastic matrix	5.69589626	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P0	GSM8827072_P0_2	P0_F2	176	raw	Matrix remodeling	5.4793646	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P0	GSM8827072_P0_2	P0_F2	176	raw	Cycling	1.4511461	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P0	GSM8827072_P0_2	P0_F2	176	raw	Early developmental	6.82036642	Postn;Ptn;Tnc;Col24a1	0
+named_state	P0	GSM8827072_P0_2	P0_F3	282	corrected	Fibrillar matrix	6.05195427	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P0	GSM8827072_P0_2	P0_F3	282	corrected	Basement matrix	5.15212269	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P0	GSM8827072_P0_2	P0_F3	282	corrected	Elastic matrix	5.71901963	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P0	GSM8827072_P0_2	P0_F3	282	corrected	Matrix remodeling	5.24651584	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P0	GSM8827072_P0_2	P0_F3	282	corrected	Cycling	1.88486923	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P0	GSM8827072_P0_2	P0_F3	282	corrected	Early developmental	5.79426898	Postn;Ptn;Tnc;Col24a1	0
+named_state	P0	GSM8827072_P0_2	P0_F3	282	raw	Fibrillar matrix	6.006708	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P0	GSM8827072_P0_2	P0_F3	282	raw	Basement matrix	5.21199845	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P0	GSM8827072_P0_2	P0_F3	282	raw	Elastic matrix	5.67927609	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P0	GSM8827072_P0_2	P0_F3	282	raw	Matrix remodeling	5.20431955	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P0	GSM8827072_P0_2	P0_F3	282	raw	Cycling	1.87962881	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P0	GSM8827072_P0_2	P0_F3	282	raw	Early developmental	5.74839567	Postn;Ptn;Tnc;Col24a1	0
+named_state	P0	GSM8827072_P0_2	P0_F4	176	corrected	Fibrillar matrix	5.2796482	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P0	GSM8827072_P0_2	P0_F4	176	corrected	Basement matrix	4.79410338	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P0	GSM8827072_P0_2	P0_F4	176	corrected	Elastic matrix	4.78977623	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P0	GSM8827072_P0_2	P0_F4	176	corrected	Matrix remodeling	5.39448034	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P0	GSM8827072_P0_2	P0_F4	176	corrected	Cycling	1.83091328	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P0	GSM8827072_P0_2	P0_F4	176	corrected	Early developmental	5.5122432	Postn;Ptn;Tnc;Col24a1	0
+named_state	P0	GSM8827072_P0_2	P0_F4	176	raw	Fibrillar matrix	5.23377186	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P0	GSM8827072_P0_2	P0_F4	176	raw	Basement matrix	4.82383513	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P0	GSM8827072_P0_2	P0_F4	176	raw	Elastic matrix	4.84819162	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P0	GSM8827072_P0_2	P0_F4	176	raw	Matrix remodeling	5.34821898	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P0	GSM8827072_P0_2	P0_F4	176	raw	Cycling	1.85620473	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P0	GSM8827072_P0_2	P0_F4	176	raw	Early developmental	5.46612192	Postn;Ptn;Tnc;Col24a1	0
+named_state	P0	GSM8827072_P0_2	P0_F5	52	corrected	Fibrillar matrix	5.57314605	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P0	GSM8827072_P0_2	P0_F5	52	corrected	Basement matrix	4.91082481	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P0	GSM8827072_P0_2	P0_F5	52	corrected	Elastic matrix	5.58990129	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P0	GSM8827072_P0_2	P0_F5	52	corrected	Matrix remodeling	5.05238406	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P0	GSM8827072_P0_2	P0_F5	52	corrected	Cycling	4.30292888	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P0	GSM8827072_P0_2	P0_F5	52	corrected	Early developmental	6.02461451	Postn;Ptn;Tnc;Col24a1	0
+named_state	P0	GSM8827072_P0_2	P0_F5	52	raw	Fibrillar matrix	5.51817393	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P0	GSM8827072_P0_2	P0_F5	52	raw	Basement matrix	4.93517677	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P0	GSM8827072_P0_2	P0_F5	52	raw	Elastic matrix	5.53937837	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P0	GSM8827072_P0_2	P0_F5	52	raw	Matrix remodeling	4.99970392	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P0	GSM8827072_P0_2	P0_F5	52	raw	Cycling	4.28740386	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P0	GSM8827072_P0_2	P0_F5	52	raw	Early developmental	5.96639769	Postn;Ptn;Tnc;Col24a1	0
+named_state	P0	GSM8827072_P0_2	P0_F6	284	corrected	Fibrillar matrix	5.58951078	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P0	GSM8827072_P0_2	P0_F6	284	corrected	Basement matrix	4.86779585	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P0	GSM8827072_P0_2	P0_F6	284	corrected	Elastic matrix	5.14266959	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P0	GSM8827072_P0_2	P0_F6	284	corrected	Matrix remodeling	5.56241999	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P0	GSM8827072_P0_2	P0_F6	284	corrected	Cycling	1.97555264	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P0	GSM8827072_P0_2	P0_F6	284	corrected	Early developmental	6.36855909	Postn;Ptn;Tnc;Col24a1	0
+named_state	P0	GSM8827072_P0_2	P0_F6	284	raw	Fibrillar matrix	5.54237875	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P0	GSM8827072_P0_2	P0_F6	284	raw	Basement matrix	4.9262231	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P0	GSM8827072_P0_2	P0_F6	284	raw	Elastic matrix	5.1003923	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P0	GSM8827072_P0_2	P0_F6	284	raw	Matrix remodeling	5.51924637	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P0	GSM8827072_P0_2	P0_F6	284	raw	Cycling	1.97171713	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P0	GSM8827072_P0_2	P0_F6	284	raw	Early developmental	6.32035389	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827075_P14_1	P14_F0	437	corrected	Fibrillar matrix	5.55701332	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827075_P14_1	P14_F0	437	corrected	Basement matrix	5.13329308	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827075_P14_1	P14_F0	437	corrected	Elastic matrix	5.55300634	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827075_P14_1	P14_F0	437	corrected	Matrix remodeling	4.15590898	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827075_P14_1	P14_F0	437	corrected	Cycling	0.686808098	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827075_P14_1	P14_F0	437	corrected	Early developmental	2.72344046	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827075_P14_1	P14_F0	437	raw	Fibrillar matrix	5.47854989	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827075_P14_1	P14_F0	437	raw	Basement matrix	5.09935262	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827075_P14_1	P14_F0	437	raw	Elastic matrix	5.49094492	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827075_P14_1	P14_F0	437	raw	Matrix remodeling	4.08552192	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827075_P14_1	P14_F0	437	raw	Cycling	0.699644384	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827075_P14_1	P14_F0	437	raw	Early developmental	2.6646183	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827075_P14_1	P14_F1	631	corrected	Fibrillar matrix	5.85314834	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827075_P14_1	P14_F1	631	corrected	Basement matrix	5.59546063	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827075_P14_1	P14_F1	631	corrected	Elastic matrix	5.84791559	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827075_P14_1	P14_F1	631	corrected	Matrix remodeling	4.60855291	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827075_P14_1	P14_F1	631	corrected	Cycling	0.558139437	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827075_P14_1	P14_F1	631	corrected	Early developmental	4.19246477	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827075_P14_1	P14_F1	631	raw	Fibrillar matrix	5.77024294	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827075_P14_1	P14_F1	631	raw	Basement matrix	5.56074639	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827075_P14_1	P14_F1	631	raw	Elastic matrix	5.78182205	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827075_P14_1	P14_F1	631	raw	Matrix remodeling	4.52832508	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827075_P14_1	P14_F1	631	raw	Cycling	0.56690631	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827075_P14_1	P14_F1	631	raw	Early developmental	4.11351961	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827075_P14_1	P14_F2	612	corrected	Fibrillar matrix	5.94523446	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827075_P14_1	P14_F2	612	corrected	Basement matrix	5.60266808	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827075_P14_1	P14_F2	612	corrected	Elastic matrix	5.32818286	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827075_P14_1	P14_F2	612	corrected	Matrix remodeling	4.59940798	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827075_P14_1	P14_F2	612	corrected	Cycling	0.606325343	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827075_P14_1	P14_F2	612	corrected	Early developmental	4.73247823	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827075_P14_1	P14_F2	612	raw	Fibrillar matrix	5.86370117	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827075_P14_1	P14_F2	612	raw	Basement matrix	5.56839431	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827075_P14_1	P14_F2	612	raw	Elastic matrix	5.2644985	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827075_P14_1	P14_F2	612	raw	Matrix remodeling	4.52019923	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827075_P14_1	P14_F2	612	raw	Cycling	0.618290744	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827075_P14_1	P14_F2	612	raw	Early developmental	4.65401788	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827075_P14_1	P14_F3	382	corrected	Fibrillar matrix	5.95429457	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827075_P14_1	P14_F3	382	corrected	Basement matrix	5.60790884	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827075_P14_1	P14_F3	382	corrected	Elastic matrix	5.97494726	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827075_P14_1	P14_F3	382	corrected	Matrix remodeling	4.6412209	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827075_P14_1	P14_F3	382	corrected	Cycling	0.576824467	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827075_P14_1	P14_F3	382	corrected	Early developmental	5.18875335	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827075_P14_1	P14_F3	382	raw	Fibrillar matrix	5.8523463	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827075_P14_1	P14_F3	382	raw	Basement matrix	5.56455609	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827075_P14_1	P14_F3	382	raw	Elastic matrix	5.89608717	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827075_P14_1	P14_F3	382	raw	Matrix remodeling	4.54298564	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827075_P14_1	P14_F3	382	raw	Cycling	0.580133467	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827075_P14_1	P14_F3	382	raw	Early developmental	5.09019483	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827075_P14_1	P14_F4	128	corrected	Fibrillar matrix	5.84143441	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827075_P14_1	P14_F4	128	corrected	Basement matrix	5.63688387	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827075_P14_1	P14_F4	128	corrected	Elastic matrix	5.4651446	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827075_P14_1	P14_F4	128	corrected	Matrix remodeling	4.17655412	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827075_P14_1	P14_F4	128	corrected	Cycling	0.915788939	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827075_P14_1	P14_F4	128	corrected	Early developmental	4.44134155	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827075_P14_1	P14_F4	128	raw	Fibrillar matrix	5.75154893	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827075_P14_1	P14_F4	128	raw	Basement matrix	5.59961943	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827075_P14_1	P14_F4	128	raw	Elastic matrix	5.39432994	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827075_P14_1	P14_F4	128	raw	Matrix remodeling	4.09236559	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827075_P14_1	P14_F4	128	raw	Cycling	0.929357992	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827075_P14_1	P14_F4	128	raw	Early developmental	4.35613776	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827075_P14_1	P14_F5	73	corrected	Fibrillar matrix	5.64520181	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827075_P14_1	P14_F5	73	corrected	Basement matrix	5.32122802	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827075_P14_1	P14_F5	73	corrected	Elastic matrix	5.30208101	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827075_P14_1	P14_F5	73	corrected	Matrix remodeling	4.69388628	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827075_P14_1	P14_F5	73	corrected	Cycling	0.507835042	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827075_P14_1	P14_F5	73	corrected	Early developmental	4.76851818	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827075_P14_1	P14_F5	73	raw	Fibrillar matrix	5.59611734	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827075_P14_1	P14_F5	73	raw	Basement matrix	5.30516685	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827075_P14_1	P14_F5	73	raw	Elastic matrix	5.27908071	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827075_P14_1	P14_F5	73	raw	Matrix remodeling	4.647018	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827075_P14_1	P14_F5	73	raw	Cycling	0.501364836	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827075_P14_1	P14_F5	73	raw	Early developmental	4.72372775	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827075_P14_1	P14_F7	16	corrected	Fibrillar matrix	5.5195012	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827075_P14_1	P14_F7	16	corrected	Basement matrix	5.43510866	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827075_P14_1	P14_F7	16	corrected	Elastic matrix	5.46790526	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827075_P14_1	P14_F7	16	corrected	Matrix remodeling	4.16976105	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827075_P14_1	P14_F7	16	corrected	Cycling	3.73793002	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827075_P14_1	P14_F7	16	corrected	Early developmental	3.65650934	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827075_P14_1	P14_F7	16	raw	Fibrillar matrix	5.4506557	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827075_P14_1	P14_F7	16	raw	Basement matrix	5.40553586	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827075_P14_1	P14_F7	16	raw	Elastic matrix	5.41189708	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827075_P14_1	P14_F7	16	raw	Matrix remodeling	4.11572785	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827075_P14_1	P14_F7	16	raw	Cycling	3.76243755	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827075_P14_1	P14_F7	16	raw	Early developmental	3.6075636	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827076_P14_2	P14_F0	565	corrected	Fibrillar matrix	5.63177869	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827076_P14_2	P14_F0	565	corrected	Basement matrix	5.27004668	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827076_P14_2	P14_F0	565	corrected	Elastic matrix	5.51406515	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827076_P14_2	P14_F0	565	corrected	Matrix remodeling	4.34442783	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827076_P14_2	P14_F0	565	corrected	Cycling	0.726032588	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827076_P14_2	P14_F0	565	corrected	Early developmental	3.20718999	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827076_P14_2	P14_F0	565	raw	Fibrillar matrix	5.55830159	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827076_P14_2	P14_F0	565	raw	Basement matrix	5.23679587	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827076_P14_2	P14_F0	565	raw	Elastic matrix	5.45669004	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827076_P14_2	P14_F0	565	raw	Matrix remodeling	4.27790919	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827076_P14_2	P14_F0	565	raw	Cycling	0.747917435	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827076_P14_2	P14_F0	565	raw	Early developmental	3.1446227	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827076_P14_2	P14_F1	781	corrected	Fibrillar matrix	5.85122731	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827076_P14_2	P14_F1	781	corrected	Basement matrix	5.65979417	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827076_P14_2	P14_F1	781	corrected	Elastic matrix	5.79971388	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827076_P14_2	P14_F1	781	corrected	Matrix remodeling	4.83685979	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827076_P14_2	P14_F1	781	corrected	Cycling	0.558426772	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827076_P14_2	P14_F1	781	corrected	Early developmental	4.09464067	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827076_P14_2	P14_F1	781	raw	Fibrillar matrix	5.77446471	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827076_P14_2	P14_F1	781	raw	Basement matrix	5.62484898	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827076_P14_2	P14_F1	781	raw	Elastic matrix	5.7392432	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827076_P14_2	P14_F1	781	raw	Matrix remodeling	4.76250129	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827076_P14_2	P14_F1	781	raw	Cycling	0.578478335	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827076_P14_2	P14_F1	781	raw	Early developmental	4.02222029	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827076_P14_2	P14_F2	811	corrected	Fibrillar matrix	5.95752866	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827076_P14_2	P14_F2	811	corrected	Basement matrix	5.65048832	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827076_P14_2	P14_F2	811	corrected	Elastic matrix	5.29465236	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827076_P14_2	P14_F2	811	corrected	Matrix remodeling	4.78957758	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827076_P14_2	P14_F2	811	corrected	Cycling	0.755030012	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827076_P14_2	P14_F2	811	corrected	Early developmental	4.89970907	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827076_P14_2	P14_F2	811	raw	Fibrillar matrix	5.88287058	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827076_P14_2	P14_F2	811	raw	Basement matrix	5.61633024	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827076_P14_2	P14_F2	811	raw	Elastic matrix	5.23607516	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827076_P14_2	P14_F2	811	raw	Matrix remodeling	4.71727319	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827076_P14_2	P14_F2	811	raw	Cycling	0.767579076	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827076_P14_2	P14_F2	811	raw	Early developmental	4.82752712	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827076_P14_2	P14_F3	526	corrected	Fibrillar matrix	5.93794555	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827076_P14_2	P14_F3	526	corrected	Basement matrix	5.64146788	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827076_P14_2	P14_F3	526	corrected	Elastic matrix	5.82700093	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827076_P14_2	P14_F3	526	corrected	Matrix remodeling	4.55284647	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827076_P14_2	P14_F3	526	corrected	Cycling	0.556790651	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827076_P14_2	P14_F3	526	corrected	Early developmental	5.30190643	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827076_P14_2	P14_F3	526	raw	Fibrillar matrix	5.84619754	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827076_P14_2	P14_F3	526	raw	Basement matrix	5.59922158	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827076_P14_2	P14_F3	526	raw	Elastic matrix	5.75545798	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827076_P14_2	P14_F3	526	raw	Matrix remodeling	4.4655751	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827076_P14_2	P14_F3	526	raw	Cycling	0.570498081	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827076_P14_2	P14_F3	526	raw	Early developmental	5.21274268	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827076_P14_2	P14_F4	154	corrected	Fibrillar matrix	5.89955317	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827076_P14_2	P14_F4	154	corrected	Basement matrix	5.74330844	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827076_P14_2	P14_F4	154	corrected	Elastic matrix	5.55896136	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827076_P14_2	P14_F4	154	corrected	Matrix remodeling	4.689587	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827076_P14_2	P14_F4	154	corrected	Cycling	0.447396735	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827076_P14_2	P14_F4	154	corrected	Early developmental	4.20990549	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827076_P14_2	P14_F4	154	raw	Fibrillar matrix	5.81889514	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827076_P14_2	P14_F4	154	raw	Basement matrix	5.70636911	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827076_P14_2	P14_F4	154	raw	Elastic matrix	5.49385355	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827076_P14_2	P14_F4	154	raw	Matrix remodeling	4.61131534	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827076_P14_2	P14_F4	154	raw	Cycling	0.458321823	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827076_P14_2	P14_F4	154	raw	Early developmental	4.13416462	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827076_P14_2	P14_F5	106	corrected	Fibrillar matrix	5.40750451	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827076_P14_2	P14_F5	106	corrected	Basement matrix	5.09491216	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827076_P14_2	P14_F5	106	corrected	Elastic matrix	4.73388868	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827076_P14_2	P14_F5	106	corrected	Matrix remodeling	4.74148147	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827076_P14_2	P14_F5	106	corrected	Cycling	0.121227124	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827076_P14_2	P14_F5	106	corrected	Early developmental	4.52838148	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827076_P14_2	P14_F5	106	raw	Fibrillar matrix	5.34740946	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827076_P14_2	P14_F5	106	raw	Basement matrix	5.13923149	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827076_P14_2	P14_F5	106	raw	Elastic matrix	4.8049971	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827076_P14_2	P14_F5	106	raw	Matrix remodeling	4.70716957	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827076_P14_2	P14_F5	106	raw	Cycling	0.186434132	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827076_P14_2	P14_F5	106	raw	Early developmental	4.51154363	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827076_P14_2	P14_F7	19	corrected	Fibrillar matrix	5.56617853	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827076_P14_2	P14_F7	19	corrected	Basement matrix	5.37055101	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827076_P14_2	P14_F7	19	corrected	Elastic matrix	5.33902403	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827076_P14_2	P14_F7	19	corrected	Matrix remodeling	4.66625883	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827076_P14_2	P14_F7	19	corrected	Cycling	3.85254032	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827076_P14_2	P14_F7	19	corrected	Early developmental	4.7999331	Postn;Ptn;Tnc;Col24a1	0
+named_state	P14	GSM8827076_P14_2	P14_F7	19	raw	Fibrillar matrix	5.4893331	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P14	GSM8827076_P14_2	P14_F7	19	raw	Basement matrix	5.33396512	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P14	GSM8827076_P14_2	P14_F7	19	raw	Elastic matrix	5.2787907	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P14	GSM8827076_P14_2	P14_F7	19	raw	Matrix remodeling	4.59113937	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P14	GSM8827076_P14_2	P14_F7	19	raw	Cycling	3.86026626	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P14	GSM8827076_P14_2	P14_F7	19	raw	Early developmental	4.72507813	Postn;Ptn;Tnc;Col24a1	0
+named_state	P21	GSM8827077_P21_1	Col8a1/Hmcn2 fibroblasts	802	corrected	Fibrillar matrix	5.57438317	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P21	GSM8827077_P21_1	Col8a1/Hmcn2 fibroblasts	802	corrected	Basement matrix	5.6152013	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P21	GSM8827077_P21_1	Col8a1/Hmcn2 fibroblasts	802	corrected	Elastic matrix	5.35761711	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P21	GSM8827077_P21_1	Col8a1/Hmcn2 fibroblasts	802	corrected	Matrix remodeling	4.3615152	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P21	GSM8827077_P21_1	Col8a1/Hmcn2 fibroblasts	802	corrected	Cycling	0.160062925	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P21	GSM8827077_P21_1	Col8a1/Hmcn2 fibroblasts	802	corrected	Early developmental	3.05531499	Postn;Ptn;Tnc;Col24a1	0
+named_state	P21	GSM8827077_P21_1	Col8a1/Hmcn2 fibroblasts	802	raw	Fibrillar matrix	5.51839876	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P21	GSM8827077_P21_1	Col8a1/Hmcn2 fibroblasts	802	raw	Basement matrix	5.59148373	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P21	GSM8827077_P21_1	Col8a1/Hmcn2 fibroblasts	802	raw	Elastic matrix	5.33931989	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P21	GSM8827077_P21_1	Col8a1/Hmcn2 fibroblasts	802	raw	Matrix remodeling	4.30724178	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P21	GSM8827077_P21_1	Col8a1/Hmcn2 fibroblasts	802	raw	Cycling	0.296120849	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P21	GSM8827077_P21_1	Col8a1/Hmcn2 fibroblasts	802	raw	Early developmental	3.01523919	Postn;Ptn;Tnc;Col24a1	0
+named_state	P21	GSM8827077_P21_1	Col8a1/Svep1 fibroblasts	766	corrected	Fibrillar matrix	5.68357708	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P21	GSM8827077_P21_1	Col8a1/Svep1 fibroblasts	766	corrected	Basement matrix	5.58292635	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P21	GSM8827077_P21_1	Col8a1/Svep1 fibroblasts	766	corrected	Elastic matrix	5.03837589	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P21	GSM8827077_P21_1	Col8a1/Svep1 fibroblasts	766	corrected	Matrix remodeling	4.34140491	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P21	GSM8827077_P21_1	Col8a1/Svep1 fibroblasts	766	corrected	Cycling	0.124146359	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P21	GSM8827077_P21_1	Col8a1/Svep1 fibroblasts	766	corrected	Early developmental	3.67218134	Postn;Ptn;Tnc;Col24a1	0
+named_state	P21	GSM8827077_P21_1	Col8a1/Svep1 fibroblasts	766	raw	Fibrillar matrix	5.62160284	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P21	GSM8827077_P21_1	Col8a1/Svep1 fibroblasts	766	raw	Basement matrix	5.55504265	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P21	GSM8827077_P21_1	Col8a1/Svep1 fibroblasts	766	raw	Elastic matrix	5.01986125	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P21	GSM8827077_P21_1	Col8a1/Svep1 fibroblasts	766	raw	Matrix remodeling	4.28101373	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P21	GSM8827077_P21_1	Col8a1/Svep1 fibroblasts	766	raw	Cycling	0.221221398	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P21	GSM8827077_P21_1	Col8a1/Svep1 fibroblasts	766	raw	Early developmental	3.62455966	Postn;Ptn;Tnc;Col24a1	0
+named_state	P21	GSM8827077_P21_1	Gfpt2-associated fibroblasts	154	corrected	Fibrillar matrix	5.45306812	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P21	GSM8827077_P21_1	Gfpt2-associated fibroblasts	154	corrected	Basement matrix	5.20810944	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P21	GSM8827077_P21_1	Gfpt2-associated fibroblasts	154	corrected	Elastic matrix	5.12291888	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P21	GSM8827077_P21_1	Gfpt2-associated fibroblasts	154	corrected	Matrix remodeling	4.27140619	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P21	GSM8827077_P21_1	Gfpt2-associated fibroblasts	154	corrected	Cycling	0.169135046	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P21	GSM8827077_P21_1	Gfpt2-associated fibroblasts	154	corrected	Early developmental	2.39173524	Postn;Ptn;Tnc;Col24a1	0
+named_state	P21	GSM8827077_P21_1	Gfpt2-associated fibroblasts	154	raw	Fibrillar matrix	5.40484332	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P21	GSM8827077_P21_1	Gfpt2-associated fibroblasts	154	raw	Basement matrix	5.18767794	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P21	GSM8827077_P21_1	Gfpt2-associated fibroblasts	154	raw	Elastic matrix	5.10387822	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P21	GSM8827077_P21_1	Gfpt2-associated fibroblasts	154	raw	Matrix remodeling	4.23008503	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P21	GSM8827077_P21_1	Gfpt2-associated fibroblasts	154	raw	Cycling	0.240223714	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P21	GSM8827077_P21_1	Gfpt2-associated fibroblasts	154	raw	Early developmental	2.36960392	Postn;Ptn;Tnc;Col24a1	0
+named_state	P21	GSM8827077_P21_1	Kirrel3-associated fibroblasts	65	corrected	Fibrillar matrix	5.2650367	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P21	GSM8827077_P21_1	Kirrel3-associated fibroblasts	65	corrected	Basement matrix	5.23512124	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P21	GSM8827077_P21_1	Kirrel3-associated fibroblasts	65	corrected	Elastic matrix	5.12086171	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P21	GSM8827077_P21_1	Kirrel3-associated fibroblasts	65	corrected	Matrix remodeling	4.67634751	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P21	GSM8827077_P21_1	Kirrel3-associated fibroblasts	65	corrected	Cycling	0	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P21	GSM8827077_P21_1	Kirrel3-associated fibroblasts	65	corrected	Early developmental	4.65797552	Postn;Ptn;Tnc;Col24a1	0
+named_state	P21	GSM8827077_P21_1	Kirrel3-associated fibroblasts	65	raw	Fibrillar matrix	5.17038941	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P21	GSM8827077_P21_1	Kirrel3-associated fibroblasts	65	raw	Basement matrix	5.19646661	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P21	GSM8827077_P21_1	Kirrel3-associated fibroblasts	65	raw	Elastic matrix	5.17049746	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P21	GSM8827077_P21_1	Kirrel3-associated fibroblasts	65	raw	Matrix remodeling	4.5910746	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P21	GSM8827077_P21_1	Kirrel3-associated fibroblasts	65	raw	Cycling	0	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P21	GSM8827077_P21_1	Kirrel3-associated fibroblasts	65	raw	Early developmental	4.55342878	Postn;Ptn;Tnc;Col24a1	0
+named_state	P21	GSM8827077_P21_1	Lsamp/Col4a5 fibroblasts	282	corrected	Fibrillar matrix	5.67509131	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P21	GSM8827077_P21_1	Lsamp/Col4a5 fibroblasts	282	corrected	Basement matrix	5.87788974	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P21	GSM8827077_P21_1	Lsamp/Col4a5 fibroblasts	282	corrected	Elastic matrix	5.52638886	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P21	GSM8827077_P21_1	Lsamp/Col4a5 fibroblasts	282	corrected	Matrix remodeling	3.85914049	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P21	GSM8827077_P21_1	Lsamp/Col4a5 fibroblasts	282	corrected	Cycling	0.103040567	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P21	GSM8827077_P21_1	Lsamp/Col4a5 fibroblasts	282	corrected	Early developmental	3.50956629	Postn;Ptn;Tnc;Col24a1	0
+named_state	P21	GSM8827077_P21_1	Lsamp/Col4a5 fibroblasts	282	raw	Fibrillar matrix	5.61732722	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P21	GSM8827077_P21_1	Lsamp/Col4a5 fibroblasts	282	raw	Basement matrix	5.85525165	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P21	GSM8827077_P21_1	Lsamp/Col4a5 fibroblasts	282	raw	Elastic matrix	5.55388495	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P21	GSM8827077_P21_1	Lsamp/Col4a5 fibroblasts	282	raw	Matrix remodeling	3.80704347	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P21	GSM8827077_P21_1	Lsamp/Col4a5 fibroblasts	282	raw	Cycling	0.176457511	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P21	GSM8827077_P21_1	Lsamp/Col4a5 fibroblasts	282	raw	Early developmental	3.45452612	Postn;Ptn;Tnc;Col24a1	0
+named_state	P21	GSM8827077_P21_1	Lsamp/Slit3 fibroblasts	482	corrected	Fibrillar matrix	5.7641936	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P21	GSM8827077_P21_1	Lsamp/Slit3 fibroblasts	482	corrected	Basement matrix	5.41807515	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P21	GSM8827077_P21_1	Lsamp/Slit3 fibroblasts	482	corrected	Elastic matrix	5.32758113	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P21	GSM8827077_P21_1	Lsamp/Slit3 fibroblasts	482	corrected	Matrix remodeling	4.16051975	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P21	GSM8827077_P21_1	Lsamp/Slit3 fibroblasts	482	corrected	Cycling	1.18832518e-15	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P21	GSM8827077_P21_1	Lsamp/Slit3 fibroblasts	482	corrected	Early developmental	4.30155859	Postn;Ptn;Tnc;Col24a1	0
+named_state	P21	GSM8827077_P21_1	Lsamp/Slit3 fibroblasts	482	raw	Fibrillar matrix	5.70022654	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P21	GSM8827077_P21_1	Lsamp/Slit3 fibroblasts	482	raw	Basement matrix	5.39433359	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P21	GSM8827077_P21_1	Lsamp/Slit3 fibroblasts	482	raw	Elastic matrix	5.39432006	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P21	GSM8827077_P21_1	Lsamp/Slit3 fibroblasts	482	raw	Matrix remodeling	4.09975104	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P21	GSM8827077_P21_1	Lsamp/Slit3 fibroblasts	482	raw	Cycling	0.0663444167	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P21	GSM8827077_P21_1	Lsamp/Slit3 fibroblasts	482	raw	Early developmental	4.23147554	Postn;Ptn;Tnc;Col24a1	0
+named_state	P21	GSM8827078_P21_2	Col8a1/Hmcn2 fibroblasts	579	corrected	Fibrillar matrix	5.27366896	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P21	GSM8827078_P21_2	Col8a1/Hmcn2 fibroblasts	579	corrected	Basement matrix	5.47137931	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P21	GSM8827078_P21_2	Col8a1/Hmcn2 fibroblasts	579	corrected	Elastic matrix	5.10285462	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P21	GSM8827078_P21_2	Col8a1/Hmcn2 fibroblasts	579	corrected	Matrix remodeling	4.1752307	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P21	GSM8827078_P21_2	Col8a1/Hmcn2 fibroblasts	579	corrected	Cycling	0.363345771	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P21	GSM8827078_P21_2	Col8a1/Hmcn2 fibroblasts	579	corrected	Early developmental	2.85802872	Postn;Ptn;Tnc;Col24a1	0
+named_state	P21	GSM8827078_P21_2	Col8a1/Hmcn2 fibroblasts	579	raw	Fibrillar matrix	5.20582867	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P21	GSM8827078_P21_2	Col8a1/Hmcn2 fibroblasts	579	raw	Basement matrix	5.43676644	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P21	GSM8827078_P21_2	Col8a1/Hmcn2 fibroblasts	579	raw	Elastic matrix	5.0683501	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P21	GSM8827078_P21_2	Col8a1/Hmcn2 fibroblasts	579	raw	Matrix remodeling	4.10967383	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P21	GSM8827078_P21_2	Col8a1/Hmcn2 fibroblasts	579	raw	Cycling	0.415827453	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P21	GSM8827078_P21_2	Col8a1/Hmcn2 fibroblasts	579	raw	Early developmental	2.79968205	Postn;Ptn;Tnc;Col24a1	0
+named_state	P21	GSM8827078_P21_2	Col8a1/Svep1 fibroblasts	564	corrected	Fibrillar matrix	5.42700844	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P21	GSM8827078_P21_2	Col8a1/Svep1 fibroblasts	564	corrected	Basement matrix	5.47605338	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P21	GSM8827078_P21_2	Col8a1/Svep1 fibroblasts	564	corrected	Elastic matrix	4.83804932	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P21	GSM8827078_P21_2	Col8a1/Svep1 fibroblasts	564	corrected	Matrix remodeling	3.95420407	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P21	GSM8827078_P21_2	Col8a1/Svep1 fibroblasts	564	corrected	Cycling	0.174553874	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P21	GSM8827078_P21_2	Col8a1/Svep1 fibroblasts	564	corrected	Early developmental	3.5323781	Postn;Ptn;Tnc;Col24a1	0
+named_state	P21	GSM8827078_P21_2	Col8a1/Svep1 fibroblasts	564	raw	Fibrillar matrix	5.35348627	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P21	GSM8827078_P21_2	Col8a1/Svep1 fibroblasts	564	raw	Basement matrix	5.43753856	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P21	GSM8827078_P21_2	Col8a1/Svep1 fibroblasts	564	raw	Elastic matrix	4.80031007	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P21	GSM8827078_P21_2	Col8a1/Svep1 fibroblasts	564	raw	Matrix remodeling	3.88309502	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P21	GSM8827078_P21_2	Col8a1/Svep1 fibroblasts	564	raw	Cycling	0.230653687	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P21	GSM8827078_P21_2	Col8a1/Svep1 fibroblasts	564	raw	Early developmental	3.46641576	Postn;Ptn;Tnc;Col24a1	0
+named_state	P21	GSM8827078_P21_2	Gfpt2-associated fibroblasts	125	corrected	Fibrillar matrix	4.91452523	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P21	GSM8827078_P21_2	Gfpt2-associated fibroblasts	125	corrected	Basement matrix	5.10385124	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P21	GSM8827078_P21_2	Gfpt2-associated fibroblasts	125	corrected	Elastic matrix	4.84339445	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P21	GSM8827078_P21_2	Gfpt2-associated fibroblasts	125	corrected	Matrix remodeling	3.74937907	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P21	GSM8827078_P21_2	Gfpt2-associated fibroblasts	125	corrected	Cycling	0.151900302	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P21	GSM8827078_P21_2	Gfpt2-associated fibroblasts	125	corrected	Early developmental	1.82890135	Postn;Ptn;Tnc;Col24a1	0
+named_state	P21	GSM8827078_P21_2	Gfpt2-associated fibroblasts	125	raw	Fibrillar matrix	4.85330603	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P21	GSM8827078_P21_2	Gfpt2-associated fibroblasts	125	raw	Basement matrix	5.07258752	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P21	GSM8827078_P21_2	Gfpt2-associated fibroblasts	125	raw	Elastic matrix	4.81501592	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P21	GSM8827078_P21_2	Gfpt2-associated fibroblasts	125	raw	Matrix remodeling	3.69517981	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P21	GSM8827078_P21_2	Gfpt2-associated fibroblasts	125	raw	Cycling	0.222762158	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P21	GSM8827078_P21_2	Gfpt2-associated fibroblasts	125	raw	Early developmental	1.79421372	Postn;Ptn;Tnc;Col24a1	0
+named_state	P21	GSM8827078_P21_2	Kirrel3-associated fibroblasts	49	corrected	Fibrillar matrix	5.15507936	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P21	GSM8827078_P21_2	Kirrel3-associated fibroblasts	49	corrected	Basement matrix	5.18627503	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P21	GSM8827078_P21_2	Kirrel3-associated fibroblasts	49	corrected	Elastic matrix	4.43142416	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P21	GSM8827078_P21_2	Kirrel3-associated fibroblasts	49	corrected	Matrix remodeling	4.39748848	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P21	GSM8827078_P21_2	Kirrel3-associated fibroblasts	49	corrected	Cycling	0.266396546	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P21	GSM8827078_P21_2	Kirrel3-associated fibroblasts	49	corrected	Early developmental	4.04519076	Postn;Ptn;Tnc;Col24a1	0
+named_state	P21	GSM8827078_P21_2	Kirrel3-associated fibroblasts	49	raw	Fibrillar matrix	5.10593601	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P21	GSM8827078_P21_2	Kirrel3-associated fibroblasts	49	raw	Basement matrix	5.16768312	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P21	GSM8827078_P21_2	Kirrel3-associated fibroblasts	49	raw	Elastic matrix	4.40472245	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P21	GSM8827078_P21_2	Kirrel3-associated fibroblasts	49	raw	Matrix remodeling	4.34534084	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P21	GSM8827078_P21_2	Kirrel3-associated fibroblasts	49	raw	Cycling	0.258869214	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P21	GSM8827078_P21_2	Kirrel3-associated fibroblasts	49	raw	Early developmental	4.00091733	Postn;Ptn;Tnc;Col24a1	0
+named_state	P21	GSM8827078_P21_2	Lsamp/Col4a5 fibroblasts	256	corrected	Fibrillar matrix	5.24795711	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P21	GSM8827078_P21_2	Lsamp/Col4a5 fibroblasts	256	corrected	Basement matrix	5.73639052	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P21	GSM8827078_P21_2	Lsamp/Col4a5 fibroblasts	256	corrected	Elastic matrix	5.42363082	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P21	GSM8827078_P21_2	Lsamp/Col4a5 fibroblasts	256	corrected	Matrix remodeling	3.78466721	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P21	GSM8827078_P21_2	Lsamp/Col4a5 fibroblasts	256	corrected	Cycling	0.375009968	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P21	GSM8827078_P21_2	Lsamp/Col4a5 fibroblasts	256	corrected	Early developmental	3.55567436	Postn;Ptn;Tnc;Col24a1	0
+named_state	P21	GSM8827078_P21_2	Lsamp/Col4a5 fibroblasts	256	raw	Fibrillar matrix	5.17544119	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P21	GSM8827078_P21_2	Lsamp/Col4a5 fibroblasts	256	raw	Basement matrix	5.69788227	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P21	GSM8827078_P21_2	Lsamp/Col4a5 fibroblasts	256	raw	Elastic matrix	5.38862367	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P21	GSM8827078_P21_2	Lsamp/Col4a5 fibroblasts	256	raw	Matrix remodeling	3.72131282	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P21	GSM8827078_P21_2	Lsamp/Col4a5 fibroblasts	256	raw	Cycling	0.422139683	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P21	GSM8827078_P21_2	Lsamp/Col4a5 fibroblasts	256	raw	Early developmental	3.49152168	Postn;Ptn;Tnc;Col24a1	0
+named_state	P21	GSM8827078_P21_2	Lsamp/Slit3 fibroblasts	213	corrected	Fibrillar matrix	5.6043254	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P21	GSM8827078_P21_2	Lsamp/Slit3 fibroblasts	213	corrected	Basement matrix	5.35511409	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P21	GSM8827078_P21_2	Lsamp/Slit3 fibroblasts	213	corrected	Elastic matrix	5.28042899	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P21	GSM8827078_P21_2	Lsamp/Slit3 fibroblasts	213	corrected	Matrix remodeling	4.10617406	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P21	GSM8827078_P21_2	Lsamp/Slit3 fibroblasts	213	corrected	Cycling	0.138675055	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P21	GSM8827078_P21_2	Lsamp/Slit3 fibroblasts	213	corrected	Early developmental	3.86446583	Postn;Ptn;Tnc;Col24a1	0
+named_state	P21	GSM8827078_P21_2	Lsamp/Slit3 fibroblasts	213	raw	Fibrillar matrix	5.51926655	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P21	GSM8827078_P21_2	Lsamp/Slit3 fibroblasts	213	raw	Basement matrix	5.31489861	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P21	GSM8827078_P21_2	Lsamp/Slit3 fibroblasts	213	raw	Elastic matrix	5.23782588	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P21	GSM8827078_P21_2	Lsamp/Slit3 fibroblasts	213	raw	Matrix remodeling	4.02403248	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P21	GSM8827078_P21_2	Lsamp/Slit3 fibroblasts	213	raw	Cycling	0.183676354	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P21	GSM8827078_P21_2	Lsamp/Slit3 fibroblasts	213	raw	Early developmental	3.787609	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827073_P7_1	P7_F1	312	corrected	Fibrillar matrix	5.75598785	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827073_P7_1	P7_F1	312	corrected	Basement matrix	5.28640633	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827073_P7_1	P7_F1	312	corrected	Elastic matrix	5.32879226	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827073_P7_1	P7_F1	312	corrected	Matrix remodeling	5.21024522	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827073_P7_1	P7_F1	312	corrected	Cycling	1.64083893	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827073_P7_1	P7_F1	312	corrected	Early developmental	6.74232703	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827073_P7_1	P7_F1	312	raw	Fibrillar matrix	5.6260122	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827073_P7_1	P7_F1	312	raw	Basement matrix	5.2637204	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827073_P7_1	P7_F1	312	raw	Elastic matrix	5.20965689	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827073_P7_1	P7_F1	312	raw	Matrix remodeling	5.08164318	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827073_P7_1	P7_F1	312	raw	Cycling	1.66044603	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827073_P7_1	P7_F1	312	raw	Early developmental	6.61147887	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827073_P7_1	P7_F2	618	corrected	Fibrillar matrix	6.01266689	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827073_P7_1	P7_F2	618	corrected	Basement matrix	5.45480533	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827073_P7_1	P7_F2	618	corrected	Elastic matrix	5.39292077	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827073_P7_1	P7_F2	618	corrected	Matrix remodeling	5.4647561	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827073_P7_1	P7_F2	618	corrected	Cycling	1.6698484	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827073_P7_1	P7_F2	618	corrected	Early developmental	6.0883235	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827073_P7_1	P7_F2	618	raw	Fibrillar matrix	5.8848122	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827073_P7_1	P7_F2	618	raw	Basement matrix	5.42560069	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827073_P7_1	P7_F2	618	raw	Elastic matrix	5.27477975	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827073_P7_1	P7_F2	618	raw	Matrix remodeling	5.33694282	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827073_P7_1	P7_F2	618	raw	Cycling	1.67017837	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827073_P7_1	P7_F2	618	raw	Early developmental	5.95823433	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827073_P7_1	P7_F3	104	corrected	Fibrillar matrix	6.13162783	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827073_P7_1	P7_F3	104	corrected	Basement matrix	5.19175475	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827073_P7_1	P7_F3	104	corrected	Elastic matrix	5.86549082	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827073_P7_1	P7_F3	104	corrected	Matrix remodeling	5.14244946	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827073_P7_1	P7_F3	104	corrected	Cycling	1.57498256	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827073_P7_1	P7_F3	104	corrected	Early developmental	6.3389073	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827073_P7_1	P7_F3	104	raw	Fibrillar matrix	5.99742536	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827073_P7_1	P7_F3	104	raw	Basement matrix	5.15159257	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827073_P7_1	P7_F3	104	raw	Elastic matrix	5.73950645	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827073_P7_1	P7_F3	104	raw	Matrix remodeling	5.01174576	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827073_P7_1	P7_F3	104	raw	Cycling	1.56866267	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827073_P7_1	P7_F3	104	raw	Early developmental	6.20276327	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827073_P7_1	P7_F4	256	corrected	Fibrillar matrix	5.87058858	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827073_P7_1	P7_F4	256	corrected	Basement matrix	5.16591503	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827073_P7_1	P7_F4	256	corrected	Elastic matrix	5.31763455	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827073_P7_1	P7_F4	256	corrected	Matrix remodeling	5.44635321	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827073_P7_1	P7_F4	256	corrected	Cycling	1.3256862	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827073_P7_1	P7_F4	256	corrected	Early developmental	4.94641343	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827073_P7_1	P7_F4	256	raw	Fibrillar matrix	5.75421135	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827073_P7_1	P7_F4	256	raw	Basement matrix	5.13911626	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827073_P7_1	P7_F4	256	raw	Elastic matrix	5.21151153	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827073_P7_1	P7_F4	256	raw	Matrix remodeling	5.33160902	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827073_P7_1	P7_F4	256	raw	Cycling	1.35747015	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827073_P7_1	P7_F4	256	raw	Early developmental	4.83175129	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827073_P7_1	P7_F6	52	corrected	Fibrillar matrix	5.9495428	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827073_P7_1	P7_F6	52	corrected	Basement matrix	5.49958172	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827073_P7_1	P7_F6	52	corrected	Elastic matrix	4.59595729	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827073_P7_1	P7_F6	52	corrected	Matrix remodeling	5.33859472	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827073_P7_1	P7_F6	52	corrected	Cycling	1.82438432	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827073_P7_1	P7_F6	52	corrected	Early developmental	6.14505744	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827073_P7_1	P7_F6	52	raw	Fibrillar matrix	5.82397055	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827073_P7_1	P7_F6	52	raw	Basement matrix	5.46672736	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827073_P7_1	P7_F6	52	raw	Elastic matrix	4.48078808	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827073_P7_1	P7_F6	52	raw	Matrix remodeling	5.21362955	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827073_P7_1	P7_F6	52	raw	Cycling	1.81377039	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827073_P7_1	P7_F6	52	raw	Early developmental	6.01777464	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827073_P7_1	P7_F7	97	corrected	Fibrillar matrix	5.77388065	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827073_P7_1	P7_F7	97	corrected	Basement matrix	5.27185571	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827073_P7_1	P7_F7	97	corrected	Elastic matrix	5.4167458	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827073_P7_1	P7_F7	97	corrected	Matrix remodeling	5.36342473	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827073_P7_1	P7_F7	97	corrected	Cycling	4.03020126	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827073_P7_1	P7_F7	97	corrected	Early developmental	6.20542834	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827073_P7_1	P7_F7	97	raw	Fibrillar matrix	5.65862619	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827073_P7_1	P7_F7	97	raw	Basement matrix	5.24150835	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827073_P7_1	P7_F7	97	raw	Elastic matrix	5.31151315	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827073_P7_1	P7_F7	97	raw	Matrix remodeling	5.2492664	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827073_P7_1	P7_F7	97	raw	Cycling	4.04674835	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827073_P7_1	P7_F7	97	raw	Early developmental	6.08966664	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827073_P7_1	P7_F8	59	corrected	Fibrillar matrix	5.46638117	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827073_P7_1	P7_F8	59	corrected	Basement matrix	4.85233867	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827073_P7_1	P7_F8	59	corrected	Elastic matrix	4.4923968	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827073_P7_1	P7_F8	59	corrected	Matrix remodeling	5.26345946	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827073_P7_1	P7_F8	59	corrected	Cycling	1.60011175	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827073_P7_1	P7_F8	59	corrected	Early developmental	5.40852722	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827073_P7_1	P7_F8	59	raw	Fibrillar matrix	5.28989012	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827073_P7_1	P7_F8	59	raw	Basement matrix	4.81217418	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827073_P7_1	P7_F8	59	raw	Elastic matrix	4.32709183	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827073_P7_1	P7_F8	59	raw	Matrix remodeling	5.08805493	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827073_P7_1	P7_F8	59	raw	Cycling	1.60734726	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827073_P7_1	P7_F8	59	raw	Early developmental	5.23255053	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827074_P7_2	P7_F1	198	corrected	Fibrillar matrix	5.87168979	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827074_P7_2	P7_F1	198	corrected	Basement matrix	5.52280516	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827074_P7_2	P7_F1	198	corrected	Elastic matrix	5.4542529	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827074_P7_2	P7_F1	198	corrected	Matrix remodeling	5.52779346	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827074_P7_2	P7_F1	198	corrected	Cycling	1.0478299	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827074_P7_2	P7_F1	198	corrected	Early developmental	6.79150927	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827074_P7_2	P7_F1	198	raw	Fibrillar matrix	5.75963118	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827074_P7_2	P7_F1	198	raw	Basement matrix	5.49409755	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827074_P7_2	P7_F1	198	raw	Elastic matrix	5.35233782	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827074_P7_2	P7_F1	198	raw	Matrix remodeling	5.41760466	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827074_P7_2	P7_F1	198	raw	Cycling	1.06552123	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827074_P7_2	P7_F1	198	raw	Early developmental	6.67946538	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827074_P7_2	P7_F2	435	corrected	Fibrillar matrix	6.11446696	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827074_P7_2	P7_F2	435	corrected	Basement matrix	5.49169468	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827074_P7_2	P7_F2	435	corrected	Elastic matrix	5.47086729	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827074_P7_2	P7_F2	435	corrected	Matrix remodeling	5.42776456	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827074_P7_2	P7_F2	435	corrected	Cycling	1.90043472	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827074_P7_2	P7_F2	435	corrected	Early developmental	6.04613196	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827074_P7_2	P7_F2	435	raw	Fibrillar matrix	6.0003459	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827074_P7_2	P7_F2	435	raw	Basement matrix	5.45986346	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827074_P7_2	P7_F2	435	raw	Elastic matrix	5.36603689	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827074_P7_2	P7_F2	435	raw	Matrix remodeling	5.31677514	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827074_P7_2	P7_F2	435	raw	Cycling	1.89845348	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827074_P7_2	P7_F2	435	raw	Early developmental	5.93305014	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827074_P7_2	P7_F3	63	corrected	Fibrillar matrix	6.48127413	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827074_P7_2	P7_F3	63	corrected	Basement matrix	5.15917101	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827074_P7_2	P7_F3	63	corrected	Elastic matrix	5.78634694	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827074_P7_2	P7_F3	63	corrected	Matrix remodeling	5.22728715	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827074_P7_2	P7_F3	63	corrected	Cycling	1.38747786	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827074_P7_2	P7_F3	63	corrected	Early developmental	6.12620817	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827074_P7_2	P7_F3	63	raw	Fibrillar matrix	6.3230745	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827074_P7_2	P7_F3	63	raw	Basement matrix	5.12384613	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827074_P7_2	P7_F3	63	raw	Elastic matrix	5.63819858	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827074_P7_2	P7_F3	63	raw	Matrix remodeling	5.07299782	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827074_P7_2	P7_F3	63	raw	Cycling	1.4052098	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827074_P7_2	P7_F3	63	raw	Early developmental	5.96844195	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827074_P7_2	P7_F4	203	corrected	Fibrillar matrix	6.38393693	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827074_P7_2	P7_F4	203	corrected	Basement matrix	5.07827474	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827074_P7_2	P7_F4	203	corrected	Elastic matrix	5.6600923	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827074_P7_2	P7_F4	203	corrected	Matrix remodeling	5.46707912	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827074_P7_2	P7_F4	203	corrected	Cycling	1.07486746	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827074_P7_2	P7_F4	203	corrected	Early developmental	5.06648194	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827074_P7_2	P7_F4	203	raw	Fibrillar matrix	6.29620242	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827074_P7_2	P7_F4	203	raw	Basement matrix	5.0560493	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827074_P7_2	P7_F4	203	raw	Elastic matrix	5.58106552	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827074_P7_2	P7_F4	203	raw	Matrix remodeling	5.38121661	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827074_P7_2	P7_F4	203	raw	Cycling	1.06410034	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827074_P7_2	P7_F4	203	raw	Early developmental	4.98010208	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827074_P7_2	P7_F6	51	corrected	Fibrillar matrix	6.1722482	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827074_P7_2	P7_F6	51	corrected	Basement matrix	5.5868911	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827074_P7_2	P7_F6	51	corrected	Elastic matrix	4.81194918	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827074_P7_2	P7_F6	51	corrected	Matrix remodeling	5.43987004	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827074_P7_2	P7_F6	51	corrected	Cycling	1.02490066	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827074_P7_2	P7_F6	51	corrected	Early developmental	6.28624994	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827074_P7_2	P7_F6	51	raw	Fibrillar matrix	6.07291998	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827074_P7_2	P7_F6	51	raw	Basement matrix	5.56218777	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827074_P7_2	P7_F6	51	raw	Elastic matrix	4.72398881	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827074_P7_2	P7_F6	51	raw	Matrix remodeling	5.34143506	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827074_P7_2	P7_F6	51	raw	Cycling	1.03311974	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827074_P7_2	P7_F6	51	raw	Early developmental	6.18656545	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827074_P7_2	P7_F7	91	corrected	Fibrillar matrix	5.93437531	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827074_P7_2	P7_F7	91	corrected	Basement matrix	5.41600043	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827074_P7_2	P7_F7	91	corrected	Elastic matrix	5.55551365	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827074_P7_2	P7_F7	91	corrected	Matrix remodeling	5.58733712	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827074_P7_2	P7_F7	91	corrected	Cycling	4.33741228	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827074_P7_2	P7_F7	91	corrected	Early developmental	6.38202844	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827074_P7_2	P7_F7	91	raw	Fibrillar matrix	5.80197887	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827074_P7_2	P7_F7	91	raw	Basement matrix	5.37864426	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827074_P7_2	P7_F7	91	raw	Elastic matrix	5.43581569	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827074_P7_2	P7_F7	91	raw	Matrix remodeling	5.45558383	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827074_P7_2	P7_F7	91	raw	Cycling	4.28926218	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827074_P7_2	P7_F7	91	raw	Early developmental	6.24811566	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827074_P7_2	P7_F8	69	corrected	Fibrillar matrix	5.27107197	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827074_P7_2	P7_F8	69	corrected	Basement matrix	5.00952971	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827074_P7_2	P7_F8	69	corrected	Elastic matrix	4.70059961	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827074_P7_2	P7_F8	69	corrected	Matrix remodeling	4.97604501	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827074_P7_2	P7_F8	69	corrected	Cycling	2.00831246	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827074_P7_2	P7_F8	69	corrected	Early developmental	5.25827252	Postn;Ptn;Tnc;Col24a1	0
+named_state	P7	GSM8827074_P7_2	P7_F8	69	raw	Fibrillar matrix	5.20830362	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	0
+named_state	P7	GSM8827074_P7_2	P7_F8	69	raw	Basement matrix	5.07135329	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	0
+named_state	P7	GSM8827074_P7_2	P7_F8	69	raw	Elastic matrix	4.68358382	Eln;Fbln1;Fbln2;Thsd4	0
+named_state	P7	GSM8827074_P7_2	P7_F8	69	raw	Matrix remodeling	4.96640567	Fn1;Tnc;Thbs1;Vcan;Mmp2	0
+named_state	P7	GSM8827074_P7_2	P7_F8	69	raw	Cycling	2.03084912	Mki67;Top2a;Cenpf;Ccnb1;Ube2c;Cdk1	0
+named_state	P7	GSM8827074_P7_2	P7_F8	69	raw	Early developmental	5.21935644	Postn;Ptn;Tnc;Col24a1	0
