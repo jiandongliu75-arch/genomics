@@ -1,0 +1,57 @@
+level	stage	library	group	nuclei	view	gene	log1p_CPM	fraction_detected
+fibroblast_family	P0	GSM8827071_P0_1	Kirrel3-associated	185	corrected	Postn	7.54424785	0.816216216
+fibroblast_family	P0	GSM8827071_P0_1	Kirrel3-associated	185	raw	Postn	7.46093331	0.816216216
+fibroblast_family	P0	GSM8827071_P0_1	Postn-associated	841	corrected	Postn	7.34568095	0.853745541
+fibroblast_family	P0	GSM8827071_P0_1	Postn-associated	841	raw	Postn	7.26145543	0.853745541
+fibroblast_family	P0	GSM8827072_P0_2	Kirrel3-associated	176	corrected	Postn	7.66028277	0.948863636
+fibroblast_family	P0	GSM8827072_P0_2	Kirrel3-associated	176	raw	Postn	7.59980624	0.948863636
+fibroblast_family	P0	GSM8827072_P0_2	Postn-associated	940	corrected	Postn	7.30432059	0.892553191
+fibroblast_family	P0	GSM8827072_P0_2	Postn-associated	940	raw	Postn	7.25070995	0.892553191
+fibroblast_family	P14	GSM8827075_P14_1	Col8a1-associated	1371	corrected	Postn	6.43405631	0.682713348
+fibroblast_family	P14	GSM8827075_P14_1	Col8a1-associated	1371	raw	Postn	6.35186695	0.682713348
+fibroblast_family	P14	GSM8827075_P14_1	Gfpt2-associated	437	corrected	Postn	6.17991757	0.608695652
+fibroblast_family	P14	GSM8827075_P14_1	Gfpt2-associated	437	raw	Postn	6.10200028	0.608695652
+fibroblast_family	P14	GSM8827075_P14_1	Kirrel3-associated	73	corrected	Postn	6.7022259	0.643835616
+fibroblast_family	P14	GSM8827075_P14_1	Kirrel3-associated	73	raw	Postn	6.64771035	0.643835616
+fibroblast_family	P14	GSM8827075_P14_1	Lsamp-associated	382	corrected	Postn	6.2983462	0.609947644
+fibroblast_family	P14	GSM8827075_P14_1	Lsamp-associated	382	raw	Postn	6.19731725	0.609947644
+fibroblast_family	P14	GSM8827075_P14_1	Unresolved fibroblast program	16	corrected	Postn	6.53732707	0.875
+fibroblast_family	P14	GSM8827075_P14_1	Unresolved fibroblast program	16	raw	Postn	6.46875122	0.875
+fibroblast_family	P14	GSM8827076_P14_2	Col8a1-associated	1746	corrected	Postn	6.53095415	0.710194731
+fibroblast_family	P14	GSM8827076_P14_2	Col8a1-associated	1746	raw	Postn	6.45597933	0.710194731
+fibroblast_family	P14	GSM8827076_P14_2	Gfpt2-associated	565	corrected	Postn	6.16985621	0.660176991
+fibroblast_family	P14	GSM8827076_P14_2	Gfpt2-associated	565	raw	Postn	6.09752433	0.660176991
+fibroblast_family	P14	GSM8827076_P14_2	Kirrel3-associated	106	corrected	Postn	7.07329297	0.764150943
+fibroblast_family	P14	GSM8827076_P14_2	Kirrel3-associated	106	raw	Postn	6.98731024	0.764150943
+fibroblast_family	P14	GSM8827076_P14_2	Lsamp-associated	526	corrected	Postn	6.37846818	0.604562738
+fibroblast_family	P14	GSM8827076_P14_2	Lsamp-associated	526	raw	Postn	6.28801667	0.604562738
+fibroblast_family	P14	GSM8827076_P14_2	Unresolved fibroblast program	19	corrected	Postn	6.71128065	0.789473684
+fibroblast_family	P14	GSM8827076_P14_2	Unresolved fibroblast program	19	raw	Postn	6.63694704	0.789473684
+fibroblast_family	P21	GSM8827077_P21_1	Col8a1-associated	1568	corrected	Postn	4.87477872	0.202168367
+fibroblast_family	P21	GSM8827077_P21_1	Col8a1-associated	1568	raw	Postn	4.82634654	0.202168367
+fibroblast_family	P21	GSM8827077_P21_1	Gfpt2-associated	154	corrected	Postn	5.16014369	0.292207792
+fibroblast_family	P21	GSM8827077_P21_1	Gfpt2-associated	154	raw	Postn	5.12214998	0.292207792
+fibroblast_family	P21	GSM8827077_P21_1	Kirrel3-associated	65	corrected	Postn	6.92020607	0.6
+fibroblast_family	P21	GSM8827077_P21_1	Kirrel3-associated	65	raw	Postn	6.81733759	0.6
+fibroblast_family	P21	GSM8827077_P21_1	Lsamp-associated	764	corrected	Postn	5.57265157	0.293193717
+fibroblast_family	P21	GSM8827077_P21_1	Lsamp-associated	764	raw	Postn	5.50815732	0.293193717
+fibroblast_family	P21	GSM8827078_P21_2	Col8a1-associated	1143	corrected	Postn	4.40299881	0.179352581
+fibroblast_family	P21	GSM8827078_P21_2	Col8a1-associated	1143	raw	Postn	4.34028206	0.179352581
+fibroblast_family	P21	GSM8827078_P21_2	Gfpt2-associated	125	corrected	Postn	4.4665821	0.168
+fibroblast_family	P21	GSM8827078_P21_2	Gfpt2-associated	125	raw	Postn	4.41126206	0.168
+fibroblast_family	P21	GSM8827078_P21_2	Kirrel3-associated	49	corrected	Postn	6.98632706	0.775510204
+fibroblast_family	P21	GSM8827078_P21_2	Kirrel3-associated	49	raw	Postn	6.92596213	0.775510204
+fibroblast_family	P21	GSM8827078_P21_2	Lsamp-associated	469	corrected	Postn	5.22710371	0.245202559
+fibroblast_family	P21	GSM8827078_P21_2	Lsamp-associated	469	raw	Postn	5.15680365	0.245202559
+fibroblast_family	P7	GSM8827073_P7_1	Gfpt2-associated	256	corrected	Postn	7.73037902	0.94921875
+fibroblast_family	P7	GSM8827073_P7_1	Gfpt2-associated	256	raw	Postn	7.61288451	0.94921875
+fibroblast_family	P7	GSM8827073_P7_1	Kirrel3-associated	59	corrected	Postn	7.87755576	0.881355932
+fibroblast_family	P7	GSM8827073_P7_1	Kirrel3-associated	59	raw	Postn	7.69739829	0.881355932
+fibroblast_family	P7	GSM8827073_P7_1	Postn-associated	1183	corrected	Postn	7.73707512	0.904480135
+fibroblast_family	P7	GSM8827073_P7_1	Postn-associated	1183	raw	Postn	7.60749397	0.904480135
+fibroblast_family	P7	GSM8827074_P7_2	Gfpt2-associated	203	corrected	Postn	7.8698067	0.921182266
+fibroblast_family	P7	GSM8827074_P7_2	Gfpt2-associated	203	raw	Postn	7.78247875	0.921182266
+fibroblast_family	P7	GSM8827074_P7_2	Kirrel3-associated	69	corrected	Postn	7.80907023	0.884057971
+fibroblast_family	P7	GSM8827074_P7_2	Kirrel3-associated	69	raw	Postn	7.72536839	0.884057971
+fibroblast_family	P7	GSM8827074_P7_2	Postn-associated	838	corrected	Postn	7.78580298	0.915274463
+fibroblast_family	P7	GSM8827074_P7_2	Postn-associated	838	raw	Postn	7.66588391	0.915274463

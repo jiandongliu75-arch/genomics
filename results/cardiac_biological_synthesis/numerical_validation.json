@@ -1,0 +1,38 @@
+{
+  "status": "PASS",
+  "stages": [
+    {
+      "stage": "P0",
+      "FB_profiles_retained": 2319,
+      "candidate_sources": 1249,
+      "original_coordinates_preserved": true,
+      "no_focal_source_overlap": true
+    },
+    {
+      "stage": "P7",
+      "FB_profiles_retained": 8564,
+      "candidate_sources": 4185,
+      "original_coordinates_preserved": true,
+      "no_focal_source_overlap": true
+    },
+    {
+      "stage": "P14",
+      "FB_profiles_retained": 9824,
+      "candidate_sources": 2884,
+      "original_coordinates_preserved": true,
+      "no_focal_source_overlap": true
+    },
+    {
+      "stage": "P21",
+      "FB_profiles_retained": 13083,
+      "candidate_sources": 3707,
+      "original_coordinates_preserved": true,
+      "no_focal_source_overlap": true
+    }
+  ],
+  "independent_neighbor_reconstructions": 32,
+  "independent_centered_lstsq_models": 2,
+  "full_grid_BH_recalculated": true,
+  "original_atlas_and_previous_transport_not_overwritten": true,
+  "new_cell_identity_accuracy_or_biological_replication_established": false
+}

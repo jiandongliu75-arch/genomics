@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "numerical_and_document_validation": "PASS",
+  "relative_links_checked": 20,
+  "old_atlas_and_transport_not_overwritten": true,
+  "nuclear_optional_candidates_are_not_validated_cell_types": true,
+  "public_article_supplement_reviewed": "Supplementary Figure 1b-e; approximate plot readings explicitly marked",
+  "new_biological_replicates": 0,
+  "new_functional_mechanism_validated": false
+}

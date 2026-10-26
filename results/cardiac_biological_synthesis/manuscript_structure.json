@@ -1,0 +1,20 @@
+{
+  "title": "Regional coordination of muscle, matrix and vascular development in the postnatal heart",
+  "central_message": "Postnatal heart development involves regionally coordinated changes in muscle, matrix and vasculature. Cardiomyocyte identities contain different maturation states, and their changing environments may support different aspects of growth and specialization at different times.",
+  "main_figures": [
+    "Figure_1_CM_identity_and_maturation",
+    "Figure_2_fibroblast_development_and_assignment",
+    "Figure_3_fibroblast_matrix_specialization",
+    "Figure_4_vascular_growth_and_CM_specialization",
+    "Figure_5_CM_identity_conditioned_transport",
+    "Figure_6_regional_developmental_model"
+  ],
+  "supplementary_figures": [
+    "Figure_S1_fibroblast_assignment_audit"
+  ],
+  "main_text_words": 2514,
+  "methods_references_words": 1206,
+  "new_biological_replicates": 0,
+  "nuclear_optional_FB_sensitivity": true,
+  "old_atlas_or_transport_overwritten": false
+}

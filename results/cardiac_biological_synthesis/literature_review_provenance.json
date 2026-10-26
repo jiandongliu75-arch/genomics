@@ -1,0 +1,15 @@
+{
+  "atlas_article": "https://doi.org/10.1038/s44161-026-00861-z",
+  "supplement_filename": "44161_2026_861_MOESM1_ESM.pdf",
+  "supplement_sha256": "2f3be57c2e540c971c209ce04bf8d9e7ee066c757aab46597faed9b9a8ce0f23",
+  "supplement_pdf_pages_inspected": [
+    3,
+    4
+  ],
+  "supplement_download_service": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13561863/supplementaryFiles",
+  "segmentation_values_are_approximate_visual_readings": true,
+  "benchmark_raw_values_recovered": false,
+  "journal_pdf_redistributed": false,
+  "perinatal_vascular_paper": "https://doi.org/10.1038/s41556-021-00747-1",
+  "perinatal_fulltext_reviewed": "Local uploaded PDF and extracted full text; regional vascular expansion and lineage-tracing sections revisited"
+}

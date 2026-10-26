@@ -1,0 +1,13 @@
+{
+  "legacy_atlas_unchanged": true,
+  "nuclear_optional": true,
+  "whole_cell": "Inherited whole-cell support gates, eligible broad FB and segmentation/source QC",
+  "boundary_supported": "Whole-cell and boundary-core agree and pass inherited gates; supported alternative nuclear call vetoes; nuclear absence never vetoes",
+  "multigene_candidate": "Same as boundary-supported, except no mandatory individual anchor in either cell/core; >=2 supplied markers, weight>=0.6, margin>=0.15, both RNA libraries, raw-reference agreement and information QC retained in both views",
+  "nuclear_evidence_is_independent_validation": false,
+  "reference_weights_are_calibrated_probabilities": false,
+  "candidate_layer_is_validated_identity": false,
+  "spatial_smoothing_or_label_quotas": false,
+  "no_cross_stage_Postn_label_restoration": true,
+  "boundary_core_and_whole_cell_share_transcripts": true
+}
