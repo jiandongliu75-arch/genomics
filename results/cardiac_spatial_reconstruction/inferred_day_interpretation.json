@@ -1,0 +1,19 @@
+{
+  "observed_days": [
+    0,
+    7,
+    14,
+    21
+  ],
+  "inferred_days": [
+    3,
+    5,
+    10
+  ],
+  "independent_RNA_libraries_per_observed_age": 2,
+  "independent_spatial_sections_per_age_available": 1,
+  "new_observed_samples_generated": 0,
+  "new_biological_replication_generated": 0,
+  "latent_time_is_calendar_time": false,
+  "not_identifiable": "True P3/P5/P10 distributions, spatial anatomy, temporal ordering of perfusion/contact effects, functional CM maturity or causal trajectories"
+}

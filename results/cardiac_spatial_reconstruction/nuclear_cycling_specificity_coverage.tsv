@@ -1,0 +1,9 @@
+stage	geometry	nuclear_clean_EC_sources	CMs_with_nuclear_evidence	CM_fraction_two_cycling_genes_detected	EC_fraction_two_cycling_genes_detected	scope
+P0	within50um	3732	16123	0.217763444	0.204448017	Observed nuclear RNA; zero/low nuclear information excluded only from this sensitivity, not removed from atlas
+P0	annulus30to50um	3732	15751	0.21782744	0.204448017	Observed nuclear RNA; zero/low nuclear information excluded only from this sensitivity, not removed from atlas
+P7	within50um	8944	27167	0.122096661	0.132491055	Observed nuclear RNA; zero/low nuclear information excluded only from this sensitivity, not removed from atlas
+P7	annulus30to50um	8944	26542	0.121995328	0.132491055	Observed nuclear RNA; zero/low nuclear information excluded only from this sensitivity, not removed from atlas
+P14	within50um	8086	28566	0.00959182245	0.0140984418	Observed nuclear RNA; zero/low nuclear information excluded only from this sensitivity, not removed from atlas
+P14	annulus30to50um	8086	25974	0.00916300916	0.0140984418	Observed nuclear RNA; zero/low nuclear information excluded only from this sensitivity, not removed from atlas
+P21	within50um	8601	27860	0.00251256281	0.0105801651	Observed nuclear RNA; zero/low nuclear information excluded only from this sensitivity, not removed from atlas
+P21	annulus30to50um	8601	24186	0.0026048127	0.0105801651	Observed nuclear RNA; zero/low nuclear information excluded only from this sensitivity, not removed from atlas

@@ -1,0 +1,6 @@
+program	genes	measurement	interpretation
+maturation21	Rxrg;Ppargc1a;Ppargc1b;Cebpa;Cebpb;Esrra;Esrrb;Esrrg;Mitf;Myh6;Tnni3;Myl2;Kcnq1;Jph1;Jph2;Bin1;Lpin1;Pln;Ppara;Ppard;Cpt1b	Direct measured403-gene Xenium RNA; native and reassigned core views	Transcript-program proxy, not functional measurement
+metabolic	Ppargc1a;Ppargc1b;Esrra;Esrrg;Ppara;Ppard;Cpt1b;Lpin1	Direct measured403-gene Xenium RNA; native and reassigned core views	Transcript-program proxy, not functional measurement
+sarcomere	Myh6;Tnni3;Myl2	Direct measured403-gene Xenium RNA; native and reassigned core views	Transcript-program proxy, not functional measurement
+excitation_contraction	Pln;Jph1;Jph2;Bin1;Kcnq1	Direct measured403-gene Xenium RNA; native and reassigned core views	Transcript-program proxy, not functional measurement
+cycling	Mki67;Top2a;Cenpf	Direct measured403-gene Xenium RNA; native and reassigned core views	Transcript-program proxy, not functional measurement

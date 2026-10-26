@@ -1,0 +1,4 @@
+ordering	nuclei	graph_components	largest_component_nuclei	geodesic_age_Spearman	diffusion_age_Spearman	depth_geodesic_Spearman	root_observed_age	root_id	HVGs	outcome_genes_withheld	interpretation
+pooled	43249	1	43249	0.901742719	0.897669161	0.4357561	P0	GSM8827072_P0_2:TTCTAACGTCAGGCAA-1	1500	True	Cross-sectional developmental ordering; graph continuity and library replication exposed, not a calibrated day or observed lineage
+RNA_replicate1	21038	1	21038	0.889538772	0.875523971	0.494895058	P0	GSM8827071_P0_1:TTAGGCATCTGCATGA-1	1500	True	Cross-sectional developmental ordering; graph continuity and library replication exposed, not a calibrated day or observed lineage
+RNA_replicate2	22211	1	22211	0.888202446	0.870908975	0.32932152	P0	GSM8827072_P0_2:AGTGCCGGTATACAGA-1	1500	True	Cross-sectional developmental ordering; graph continuity and library replication exposed, not a calibrated day or observed lineage

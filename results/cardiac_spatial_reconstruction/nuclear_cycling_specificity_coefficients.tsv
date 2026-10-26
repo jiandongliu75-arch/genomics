@@ -1,0 +1,17 @@
+stage	geometry	local_source_program_permutation_p_for_continuous_score	exposure	outcome	standardized_coefficient	block_CI_low	block_CI_high	CMs	bootstrap_blocks	approximate_block_p	partial_exposure_variance	collinearity_review	design_rank	design_columns	independent_spatial_animals_inferred	within_section_FDR_BH
+P0	within50um	0.005	QC_EC_nuclear_cycling	CM_nuclear_cycling	0.0463381725	0.0214641111	0.070594274	16123	37	0.00119778071	0.685558037	False	11	11	False	0.00544231526
+P0	within50um	0.005	QC_EC_nuclear_cycling	CM_nuclear_coherent_cycling	0.0401620154	0.0184796928	0.0626659362	16123	37	0.00136057882	0.685558037	False	11	11	False	0.00544231526
+P0	annulus30to50um	0.205	QC_EC_nuclear_cycling	CM_nuclear_cycling	0.0131424595	-0.00666437693	0.0338040441	15751	37	0.227035493	0.751151675	False	11	11	False	0.479979129
+P0	annulus30to50um	0.205	QC_EC_nuclear_cycling	CM_nuclear_coherent_cycling	0.0100899658	-0.0106587413	0.0299797071	15751	37	0.322692663	0.751151675	False	11	11	False	0.51630826
+P7	within50um	0.005	QC_EC_nuclear_cycling	CM_nuclear_cycling	0.0319940803	0.0173122818	0.0468644538	27167	73	9.130557e-05	0.733420179	False	11	11	False	0.00146088912
+P7	within50um	0.005	QC_EC_nuclear_cycling	CM_nuclear_coherent_cycling	0.0245644814	0.0114950484	0.0387242212	27167	73	0.000772459359	0.733420179	False	11	11	False	0.00544231526
+P7	annulus30to50um	0.235	QC_EC_nuclear_cycling	CM_nuclear_cycling	0.00832957974	-0.0054436401	0.0208253449	26542	73	0.239989565	0.806222505	False	11	11	False	0.479979129
+P7	annulus30to50um	0.235	QC_EC_nuclear_cycling	CM_nuclear_coherent_cycling	0.00744635522	-0.00579907272	0.0212473102	26542	73	0.281978837	0.806222505	False	11	11	False	0.501295711
+P14	within50um	0.945	QC_EC_nuclear_cycling	CM_nuclear_cycling	0.000623128793	-0.013045227	0.0142621238	28566	122	0.930214147	0.82093178	False	11	11	False	0.930214147
+P14	within50um	0.945	QC_EC_nuclear_cycling	CM_nuclear_coherent_cycling	-0.00264708606	-0.0178240287	0.011605139	28566	122	0.718624349	0.82093178	False	11	11	False	0.821284971
+P14	annulus30to50um	0.53	QC_EC_nuclear_cycling	CM_nuclear_cycling	-0.00396726186	-0.0167097403	0.00828694138	25974	122	0.538076857	0.877126383	False	11	11	False	0.71743581
+P14	annulus30to50um	0.53	QC_EC_nuclear_cycling	CM_nuclear_coherent_cycling	-0.00885395408	-0.0201812205	0.00280449541	25974	122	0.122630151	0.877126383	False	11	11	False	0.327013736
+P21	within50um	0.07	QC_EC_nuclear_cycling	CM_nuclear_cycling	0.0126274568	-0.000619177137	0.0260380392	27860	137	0.0629665701	0.810249334	False	11	11	False	0.201493024
+P21	within50um	0.07	QC_EC_nuclear_cycling	CM_nuclear_coherent_cycling	0.00308416898	-0.00810649374	0.0164609593	27860	137	0.622160304	0.810249334	False	11	11	False	0.765735759
+P21	annulus30to50um	0.4	QC_EC_nuclear_cycling	CM_nuclear_cycling	-0.00544476964	-0.0187033824	0.010682787	24186	137	0.470080124	0.865167971	False	11	11	False	0.683752907
+P21	annulus30to50um	0.4	QC_EC_nuclear_cycling	CM_nuclear_coherent_cycling	-0.00102543454	-0.0136164608	0.01440245	24186	137	0.886847584	0.865167971	False	11	11	False	0.930214147

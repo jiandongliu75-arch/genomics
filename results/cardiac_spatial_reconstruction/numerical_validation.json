@@ -1,0 +1,55 @@
+{
+  "status": "PASS",
+  "stages": [
+    {
+      "stage": "P0",
+      "profiles": 47611,
+      "Figure4d_count_exact": 6298,
+      "score_rows_independently_recomputed": 32,
+      "CM_surface_samples_brute_force_checked": 128,
+      "independent_graph_BFS_checks": 4,
+      "original_ids_coordinates_preserved": true,
+      "status": "PASS"
+    },
+    {
+      "stage": "P7",
+      "profiles": 99429,
+      "Figure4d_count_exact": 11086,
+      "score_rows_independently_recomputed": 32,
+      "CM_surface_samples_brute_force_checked": 128,
+      "independent_graph_BFS_checks": 4,
+      "original_ids_coordinates_preserved": true,
+      "status": "PASS"
+    },
+    {
+      "stage": "P14",
+      "profiles": 117070,
+      "Figure4d_count_exact": 22532,
+      "score_rows_independently_recomputed": 32,
+      "CM_surface_samples_brute_force_checked": 128,
+      "independent_graph_BFS_checks": 4,
+      "original_ids_coordinates_preserved": true,
+      "status": "PASS"
+    },
+    {
+      "stage": "P21",
+      "profiles": 143944,
+      "Figure4d_count_exact": 24588,
+      "score_rows_independently_recomputed": 32,
+      "CM_surface_samples_brute_force_checked": 128,
+      "independent_graph_BFS_checks": 4,
+      "original_ids_coordinates_preserved": true,
+      "status": "PASS"
+    }
+  ],
+  "unchanged_count_files_compared_to_prior_release": 8,
+  "coefficient_independently_residualized": true,
+  "shared_anatomy_covariance_identity_checked": true,
+  "spatial_holdout_buffer_checked": true,
+  "RNA_replicate_series_disjoint": true,
+  "maturation_validation_genes_withheld_from_ordering": true,
+  "interpolation_recomputed": true,
+  "interpolated_days_are_new_samples": false,
+  "exact_author_Figure4e_inputs_recovered": false,
+  "scope": "Numerical/source/geometry checks, not anatomical ground truth, new spatial replication, perfusion or causal validation"
+}

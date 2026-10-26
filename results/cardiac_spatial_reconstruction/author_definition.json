@@ -1,0 +1,71 @@
+{
+  "source_commit": "102d80e6ea5de44f594461c727a4b3c6e1bc3508",
+  "public_obs_fields": [
+    "cell_id",
+    "x_centroid",
+    "y_centroid",
+    "transcript_counts",
+    "control_probe_counts",
+    "control_codeword_counts",
+    "unassigned_codeword_counts",
+    "deprecated_codeword_counts",
+    "total_counts",
+    "cell_area",
+    "nucleus_area",
+    "graphclust",
+    "kmeans_5_clusters",
+    "kmeans_3_clusters",
+    "kmeans_8_clusters",
+    "kmeans_4_clusters",
+    "kmeans_9_clusters",
+    "kmeans_7_clusters",
+    "kmeans_2_clusters",
+    "kmeans_10_clusters",
+    "kmeans_6_clusters",
+    "cytoSPACE.final.anno"
+  ],
+  "Figure4d_population": "v.CM",
+  "Figure4e_populations": {
+    "P0": [
+      "v.CM",
+      "Slit2.CM",
+      "p.CM",
+      "Ankrd1.CM",
+      "Ddc.CM",
+      "a.CM"
+    ],
+    "P7": [
+      "v.CM",
+      "Slit2.CM",
+      "p.CM",
+      "Ankrd1.CM",
+      "Ddc.CM",
+      "a.CM"
+    ],
+    "P14": [
+      "v.CM",
+      "Slit2.CM",
+      "p.CM",
+      "Ankrd1.CM",
+      "a.CM"
+    ],
+    "P21": [
+      "v.CM",
+      "Slit2.CM",
+      "Ankrd1.CM",
+      "a.CM"
+    ]
+  },
+  "Figure4e_source_names": [
+    "ventricle_left_compact",
+    "trabecular_right",
+    "ventricle_right_compact",
+    "trabecular_left"
+  ],
+  "original_mask_available": false,
+  "original_score_available": false,
+  "original_graph_available": false,
+  "exact_Figure4e_replication_claimed": false,
+  "independent_morphology_masks_use_CM_maturation": false,
+  "script_sha256": "04a70ea80ebfddb5572cdac80ec58fc6a192ac9cdb78122fcfcb93a0b0f24fee"
+}
