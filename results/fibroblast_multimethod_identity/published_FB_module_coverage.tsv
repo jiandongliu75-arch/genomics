@@ -1,0 +1,7 @@
+author_family	published_genes	measured_upregulated_markers	measured_marker_list	module_scored	spatial_anatomy_established_by_module
+Col8a1.Fib	10	4	Cmklr1;Col8a1;Col6a3;Htra3	True	False
+Gfpt2.Fib	10	3	Gfpt2;Pi16;Adgrd1	True	False
+Lsamp.Fib	10	3	Col8a1;Itgbl1;Lsamp	True	False
+Postn.Fib	10	4	Col24a1;Ptn;Tnc;Postn	True	False
+p.Fib	10	1	Top2a	False	False
+valve.Fib	10	1	Kirrel3	False	False

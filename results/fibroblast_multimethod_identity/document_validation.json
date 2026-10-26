@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "rendered_pages": 9,
+  "integrated_figure_pages": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "Word_embeds_current_figure_hashes": true,
+  "combined_minimum_raster_DPI": 299.99949137456025,
+  "figure_bounds_and_no_orphan_pages_checked": true,
+  "biological_and_fate_scope_checked": true
+}

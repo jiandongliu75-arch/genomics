@@ -1,0 +1,16 @@
+{
+  "analysis_versions": {
+    "numpy": "2.5.4",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "anndata": "0.13.4",
+    "matplotlib": "3.11.2"
+  },
+  "starting_commit": "7f668efaffa3edfef3083e7bbd2f91cb0230a5d5",
+  "seed": 261026,
+  "new_biological_replicates": 0,
+  "nuclear_confirmation_required": false,
+  "CM_models_or_transport_recomputed": false,
+  "current_reference_labels_changed": false
+}

@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "relative_links_checked": 19,
+  "numerical_and_document_validation": "PASS",
+  "legacy_atlas_and_CM_models_and_transport_preserved": true,
+  "new_fate_or_Xenium_accuracy_established": false,
+  "new_biological_replicates": 0,
+  "prediction_arrays": "variant x view x method x cell; labelled axes; confidence/margin float32"
+}
