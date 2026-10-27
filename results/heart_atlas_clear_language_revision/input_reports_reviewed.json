@@ -1,0 +1,18 @@
+[
+  {
+    "uploaded_filename": "Fibroblast_alternative_identity_reassessment.docx",
+    "uploaded_sha256": "cabe39a4888ab84bd3b736c33e76160b479b12dc6a4bc82912a17b99678e0066",
+    "prior_report_path": "results/fibroblast_multimethod_identity/Fibroblast_alternative_identity_reassessment.docx",
+    "prior_sha256": "cabe39a4888ab84bd3b736c33e76160b479b12dc6a4bc82912a17b99678e0066",
+    "paragraph_and_table_text_matches_prior_report": true,
+    "synthesis_figure_pixels_match_prior_report": true
+  },
+  {
+    "uploaded_filename": "Postnatal_heart_biological_synthesis.docx",
+    "uploaded_sha256": "897f60e7ed53f4b05777f5d0e817e4d6c3e126fdb7f1753981fc57d3441f78d9",
+    "prior_report_path": "results/cardiac_biological_synthesis/Postnatal_heart_biological_synthesis.docx",
+    "prior_sha256": "a4438642bf1a125282dad917cbd2daad4fe2476a619b2c3b2b7a1f0746646edd",
+    "paragraph_and_table_text_matches_prior_report": true,
+    "synthesis_figure_pixels_match_prior_report": true
+  }
+]

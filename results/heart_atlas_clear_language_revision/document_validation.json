@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "rendered_pages": 22,
+  "main_figures": 7,
+  "supporting_figures": 2,
+  "figure_pages": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    20,
+    21
+  ],
+  "current_png_hashes_embedded": true,
+  "combined_minimum_raster_DPI": 299.99949137456025,
+  "data_claims_checked": true,
+  "figure_bounds_and_no_orphan_pages_checked": true,
+  "analysis_status_and_requested_language_checked": true
+}

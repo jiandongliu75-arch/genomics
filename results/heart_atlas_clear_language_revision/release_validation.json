@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "data_claim_and_document_checks": "PASS",
+  "relative_links_checked": 20,
+  "uploaded_reports_combined_in_clear_biological_language": true,
+  "earlier_analysis_artifacts_preserved": true,
+  "CM_associations_and_transport_refitted": false,
+  "new_biological_replicates": 0
+}
