@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "latest_refit_primary_tests": 925,
+  "latest_refit_corrected_hits": 1,
+  "FB_corrected_hits": 0,
+  "updated_P14_arterial_percentages_rounded": [
+    11,
+    7
+  ],
+  "earlier_capillary_comparisons_retained_separately": true,
+  "reference_unavailability_not_a_biological_zero": true,
+  "new_models_fitted_for_unified_document": false
+}
