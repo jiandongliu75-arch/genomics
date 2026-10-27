@@ -1,0 +1,11 @@
+candidate	genes_checked	measured_targets	unmeasured_targets	all_listed_targets_measured	interpretation	availability_establishes_detection
+PTPRM contact-associated candidate	Ptprm	Ptprm		True	Both sides measured; direct Meis1 RNA is absent. Boundary staining or perturbation is separate evidence.	False
+Paper-prioritized NAMPT–INSR candidate	Nampt;Insr	Nampt;Insr		True	Both targets measured. Independently review biochemical evidence; feature ranking does not establish binding or sender identity.	False
+Fibronectin–integrin candidate	Fn1;Itga5;Itgb1	Fn1;Itga5;Itgb1		True	All named targets measured. RNA does not locate deposited fibronectin or establish assembled receptor activity.	False
+Laminin-associated matrix/receptor candidate	Lama4;Lamb1;Lamc1;Dag1	Lama4;Lamb1;Lamc1;Dag1		True	All named targets measured; distinguish matrix deposition from expression in producer cells.	False
+Pleiotrophin-associated candidate	Ptn;Ptprz1	Ptn;Ptprz1		True	Both targets measured; validate expression, cellular source and context.	False
+IGF2-associated growth candidate	Igf2;Igf1r	Igf2;Igf1r		True	Both targets measured; growth and overall maturation are distinct outcomes.	False
+NRG1–ERBB2/ERBB4 complex candidate	Nrg1;Erbb2;Erbb4	Nrg1;Erbb4	Erbb2	False	Erbb2 is absent. Do not treat this particular complex as fully measured; other ERBB configurations require separate assessment.	False
+TGFβ2-associated feedback hypothesis	Tgfb2;Tgfbr1;Tgfbr2;Smad2;Smad3;Smad7	Tgfb2;Tgfbr1;Tgfbr2	Smad2;Smad3;Smad7	False	Receptors/ligand measured, listed SMAD transcripts absent. Latent ligand activation and CM→FB→CM causality are unestablished.	False
+IGF1-associated trophic candidate	Igf1;Igf1r	Igf1;Igf1r		True	Both targets measured; do not assign an immune or other source before checking expression.	False
+BMP2/4-associated candidate	Bmp2;Bmp4;Bmpr1a;Bmpr1b;Bmpr2	Bmpr1a;Bmpr1b;Bmpr2	Bmp2;Bmp4	False	The listed BMP ligands are absent despite receptor coverage. This is not absence of the whole BMP pathway.	False

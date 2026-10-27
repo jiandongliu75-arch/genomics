@@ -1,0 +1,62 @@
+{
+  "status": "proposed_not_fitted",
+  "primary_question": "Do source-resolved non-CM molecular inputs add information about CM development beyond receiver state and anatomy?",
+  "stages": [
+    "P0",
+    "P7",
+    "P14",
+    "P21"
+  ],
+  "analysis_by_stage": true,
+  "outcomes": [
+    "Measured 21-gene index",
+    "Metabolic-regulatory",
+    "Sarcomere",
+    "Excitation-contraction",
+    "Separate cycling"
+  ],
+  "feature_sets": {
+    "A": "Capture, size, CM identity, anatomy, broad composition",
+    "B": "A plus directly measured receiver receptors",
+    "C": "B plus CM-to-CM spatial inputs",
+    "D": "C plus source-resolved non-CM ligand/matrix-program exposures and source counts",
+    "E": "D plus ligand-receptor interaction/compatibility features"
+  },
+  "source_families": [
+    "EC subtypes",
+    "Postn fibroblasts",
+    "Gfpt2/Pi16 fibroblasts",
+    "Col8a1 fibroblasts retained as one family",
+    "Lsamp and Kirrel3 candidates",
+    "Pericytes",
+    "Smooth muscle",
+    "Immune",
+    "Epicardial",
+    "CM control sources"
+  ],
+  "joint_all_cell_communication_solver": true,
+  "retain_per_edge_sender_identity": true,
+  "primary_validation": "Held-out contiguous spatial regions; training-only fitting/tuning; explicitly disjoint source neighborhoods where feasible",
+  "secreted_radius_um": 200,
+  "matrix_contact_search_radius_um": 50,
+  "contact_interpretation": "Search range is not verified membrane contact; use separate operational boundary apposition",
+  "initial_gap_for_200um_source_radius_um": 400,
+  "validate_actual_source_ID_overlap": true,
+  "prevent_global_communication_competition_across_validation_domains": true,
+  "comparison_learners": [
+    "Interpretable regression",
+    "Random forest with training-only complexity selection"
+  ],
+  "covariate_gene_overlap": "Withhold all outcome genes from predictors and audit compositional normalization",
+  "checks": [
+    "Native/core and source-confidence sensitivity",
+    "Age and CM-state support",
+    "Region-preserving source-program nulls",
+    "Grouped feature ablation",
+    "CM receptor-only versus neighbor increment",
+    "Independent hearts when available"
+  ],
+  "inferred_RNA_activities": "Keep distinct from direct Xenium measurements; use withheld-gene/library validation",
+  "causal_or_fate_interpretation": false,
+  "new_model_results_generated": false
+}
