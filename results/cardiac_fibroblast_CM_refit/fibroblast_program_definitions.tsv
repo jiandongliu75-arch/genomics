@@ -1,0 +1,8 @@
+program	genes	measurement	functional_measurement
+Col8a1.Fib	Cmklr1;Col8a1;Col6a3;Htra3	Measured rank excess over 200 reference-abundance-matched control sets	False
+Gfpt2.Fib	Gfpt2;Pi16;Adgrd1	Measured rank excess over 200 reference-abundance-matched control sets	False
+Lsamp.Fib	Col8a1;Itgbl1;Lsamp	Measured rank excess over 200 reference-abundance-matched control sets	False
+Postn.Fib	Col24a1;Ptn;Tnc;Postn	Measured rank excess over 200 reference-abundance-matched control sets	False
+Fibrillar_matrix	Col1a1;Col1a2;Col3a1	Measured rank excess over 200 reference-abundance-matched control sets	False
+Basement_matrix	Lama4;Lama5;Lamb1;Lamb2;Lamc1;Col4a1;Col4a2;Hspg2	Measured rank excess over 200 reference-abundance-matched control sets	False
+Elastic_matrix	Eln;Fbln1;Fbln2	Measured rank excess over 200 reference-abundance-matched control sets	False

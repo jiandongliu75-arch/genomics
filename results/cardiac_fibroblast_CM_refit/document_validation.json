@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "report_pages": 20,
+  "main_figures": 6,
+  "supporting_figures": 1,
+  "figure_pages": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    19
+  ],
+  "current_figure_hashes_embedded": true,
+  "minimum_standalone_figure_raster_DPI": 299.99922082981624,
+  "figure_bounds_and_page_content_checked": true,
+  "reported_numbers_and_analysis_status_checked": true
+}

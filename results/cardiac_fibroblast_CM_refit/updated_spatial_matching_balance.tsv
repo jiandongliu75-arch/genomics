@@ -1,0 +1,17 @@
+new_label_layer	stage	covariate	target_family	reference_family	before_standardized_mean_difference	after_standardized_mean_difference
+candidate	P7	log_gene_molecules	Gfpt2-associated	Postn-associated	-0.0626823138	-0.00427010112
+candidate	P7	log_cell_area	Gfpt2-associated	Postn-associated	-0.212720354	-8.35525486e-05
+candidate	P7	log_resolved_neighbors_50um	Gfpt2-associated	Postn-associated	0.232945717	-0.00627416192
+candidate	P7	nuclear_fraction	Gfpt2-associated	Postn-associated	-0.175346814	-0.00187543663
+crosschecked	P7	log_gene_molecules	Gfpt2-associated	Postn-associated	-0.100902479	-0.00761145447
+crosschecked	P7	log_cell_area	Gfpt2-associated	Postn-associated	-0.273108665	-0.00425042056
+crosschecked	P7	log_resolved_neighbors_50um	Gfpt2-associated	Postn-associated	0.318623741	0.000718238672
+crosschecked	P7	nuclear_fraction	Gfpt2-associated	Postn-associated	-0.168710016	-0.00140244621
+candidate	P14	log_gene_molecules	Col8a1-associated	Gfpt2-associated	0.0973375142	-0.0242854624
+candidate	P14	log_cell_area	Col8a1-associated	Gfpt2-associated	0.154594943	0.000813079852
+candidate	P14	log_resolved_neighbors_50um	Col8a1-associated	Gfpt2-associated	-0.14244917	-0.0122087137
+candidate	P14	nuclear_fraction	Col8a1-associated	Gfpt2-associated	-0.126398107	-0.0254011609
+crosschecked	P14	log_gene_molecules	Col8a1-associated	Gfpt2-associated	0.0589706591	-0.0222378447
+crosschecked	P14	log_cell_area	Col8a1-associated	Gfpt2-associated	0.121209407	0.00229657741
+crosschecked	P14	log_resolved_neighbors_50um	Col8a1-associated	Gfpt2-associated	-0.0899621668	-0.0105567461
+crosschecked	P14	nuclear_fraction	Col8a1-associated	Gfpt2-associated	-0.113874542	-0.0209663169

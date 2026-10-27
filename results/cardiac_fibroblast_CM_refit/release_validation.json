@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "report_pages": 20,
+  "numerical_validation": "PASS",
+  "report_claim_checks": "PASS",
+  "document_validation": "PASS",
+  "source_table_archive_files": 30,
+  "relative_links_checked": 14,
+  "new_CM_models_fitted_with_latest_FB_labels": true,
+  "transport_descriptors_updated": true,
+  "transport_plans_or_encoder_retrained": false,
+  "new_segmentation": false,
+  "new_biological_replicates": 0,
+  "segmentation_uncertainty_fully_propagated": false
+}

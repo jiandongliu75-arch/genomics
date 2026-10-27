@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "independent_neighborhood_program_means_checked": 8064,
+  "independent_regression_coefficients_checked": 36,
+  "coefficient_rows": 17256,
+  "primary_hypotheses": 925,
+  "global_primary_BH_recalculated": true,
+  "missing_reference_classes_not_printed_as_zeros": true,
+  "FB_program_genes_disjoint_from_CM_maturation_panel": true,
+  "largest_design_condition_number": 438.508644,
+  "same_CM_views_within_each_geometry": true,
+  "new_biological_replicates": 0,
+  "segmentation_uncertainty_fully_propagated": false
+}

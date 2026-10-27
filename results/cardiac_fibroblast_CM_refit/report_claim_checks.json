@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "primary_grid_tests": 925,
+  "primary_corrected_hits": 1,
+  "fibroblast_corrected_hits": 0,
+  "reference_unavailability_not_presented_as_zero": true,
+  "P21_candidate_FB": 7992,
+  "P21_Postn_pattern": 192,
+  "P21_Gfpt2_pattern": 1339,
+  "updated_P14_matched_arterial_percentages_rounded": [
+    11,
+    7
+  ],
+  "matching_covariate_balance_max_abs_SD": 0.0254011609,
+  "transport_neighborhoods": 96,
+  "transport_without_eligible_FB": 15,
+  "P7_P14_four_context_pattern_directions_checked": true,
+  "P0_elastic_candidate_CM_excluded_sensitivity_checked": true
+}

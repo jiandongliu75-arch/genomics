@@ -1,0 +1,13 @@
+stage	geometry	CM_profiles	base_eligible_CM	common_informative_FB_CM
+P0	proximity50	17272	13071	13071
+P0	proximity30	17272	7270	7270
+P0	contact	17272	814	814
+P7	proximity50	30485	27659	27659
+P7	proximity30	30485	17264	17264
+P7	contact	30485	2379	2379
+P14	proximity50	33659	26996	26996
+P14	proximity30	33659	13519	13519
+P14	contact	33659	2529	2529
+P21	proximity50	37949	27053	27053
+P21	proximity30	37949	11191	11191
+P21	contact	37949	2054	2054
