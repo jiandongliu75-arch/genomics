@@ -4,6 +4,9 @@ Independent QC and exploratory clustering of the mouse-heart dataset [GSE290989]
 
 Spatial analyses map candidate ventricular programs onto the four deposited Xenium sections, with measured-marker evidence and comparisons between assay-aligned transfer and CytoSPACE.
 
+- [Latest focused follow-up: direct 21-gene CM maturation maps, updated non-CM neighborhoods, capillary-source sensitivity and fibroblast developmental questions](results/CM_maturation21_nonCM_context/README.md)
+- [Unified biological report: muscle, matrix and vascular development, nine main figures and current fibroblast refits](results/heart_atlas_unified_report/README.md)
+- [Completed CM–fibroblast refit with updated families, measured matrix programs and segmentation sensitivities](results/cardiac_fibroblast_CM_refit/README.md)
 - [Subtype-first revised manuscript: CM identity × within-stage maturation × specific FB/EC neighborhoods, component models and identity-conditioned transport](results/cardiac_subtype_niches/README.md)
 - [Manuscript-style developmental story: editable Word document, six integrated figure plates, fibroblast continuity hypotheses and calibrated neighborhood transport](results/cardiac_developmental_story/README.md)
 - [Reconstructed atlas relationships: anatomy-controlled CM–vascular comparisons, inferred developmental intervals and a selected functional experiment](results/cardiac_spatial_reconstruction/README.md)

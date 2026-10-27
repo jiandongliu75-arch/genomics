@@ -1,0 +1,38 @@
+[
+  {
+    "number": 1,
+    "stem": "Figure_1_direct_21gene_CM_maturation_maps",
+    "title": "CM maturation varies within the original cardiac sections",
+    "legend": "a\u2013d, Directly measured 21-gene core-RNA scores on one frozen reference scale across P0\u2013P21; extreme colors are clipped at pooled 2nd/98th percentiles for display. e\u2013h, Relative score ranks within the same age and CM identity. Only frozen strict ventricular map cohorts are colored. Percentile is a relative rank, not a percentage of physiological maturity. Gray retains tissue context, with display-only background subsampling. Counts and analyses use all eligible profiles. Scale bars, 500 \u00b5m."
+  },
+  {
+    "number": 2,
+    "stem": "Figure_2_nonCM_subtypes_over_CM_maturation",
+    "title": "Non-CM identities provide the context for CM developmental variation",
+    "legend": "a\u2013d, Five reviewed EC subtypes. e\u2013h, Updated multi-gene fibroblast candidates, retaining Col8a1 as one family. Gfpt2/Pi16 names the existing Gfpt2-associated signature without demanding detection of both markers. i\u2013l, Pericytes, smooth-muscle, immune and epicardial cells. Darker CM shading indicates higher measured 21-gene scores on the same scale across sections. Colored source points require broad source quality control. Unassigned profiles remain in background context rather than being forced into a subtype. The overlays do not establish direct contact or unbiased cell abundance. Scale bars, 500 \u00b5m."
+  },
+  {
+    "number": 3,
+    "stem": "Figure_3_nonCM_relationships_with_CM_components",
+    "title": "Neighbor relationships differ across developmental components",
+    "legend": "a\u2013d, Overall 21-gene, metabolic-regulatory, sarcomere and separate cell-cycle outcomes. Values are standardized within-region, CM-identity-conditioned associations from 50-\u00b5m neighborhoods. Asterisks indicate global BH q < 0.05 among all 235 supported primary tests, including the excitation\u2013contraction outcome supplied in tables. Gray denotes unavailable or insufficiently supported comparisons. Broad source fractions use resolved-neighbor denominators; subtype fractions use all eligible members of their lineage, including unassigned profiles. Colors do not establish causal influence. One section is available at each age."
+  },
+  {
+    "number": 4,
+    "stem": "Figure_4_capillary_score_and_robustness_tests",
+    "title": "Capillary apposition does not establish uniformly greater CM maturity",
+    "legend": "a, Overall score with the original capillary sources in core and deposited CM RNA, and newly matched QC-supported capillary sources in core RNA. b,c, Metabolic-regulatory and cell-cycle outcomes with original versus QC-supported sources. d, P7 gene-group omissions retain frozen normalization/reference; original-source pairs are unchanged. e, Equal-depth sensitivity compares the same depth-eligible pairs before and after exact subsampling to 50 molecules, averaged across three draws. f, Original-source sarcomere and excitation\u2013contraction outcomes. Intervals are 95% spatial-block intervals, not animal replication. New QC-source cohorts contain 338, 514, 913 and 680 pairs. Source definitions change matched cohorts as well as capillary identities. The 20 original-source strict-ventricular core tests form the corrected primary matched family; sensitivity panels do not create additional discoveries."
+  },
+  {
+    "number": 5,
+    "stem": "Figure_5_maturation_score_depth_and_gene_audit",
+    "title": "Gene omission and capture sensitivity address different questions",
+    "legend": "a,b, Mean age-related differences among identical depth-eligible CMs within each age, using original versus fixed-depth scores or jointly omitting Cebpb/Rxrg/Lpin1. Each curve is centered on its own P0 mean. c, Additive gene contributions to the original 21-gene P21-minus-P0 score difference in the full strict map cohorts; the three prespecified omitted genes are highlighted. d, Display-only samples of 1,500 CMs per stage show score versus captured transcript depth. e, Mean and range of correlations across 21 single-gene omissions, separately by age and RNA view. f, Change in buffered spatially held-out R\u00b2 after adding fine identities or identities plus fibroblast programs to the anatomy/capture/broad-context model. High omission correlation does not establish functional validity, and subsampling discards biological information as well as equalizing molecule number."
+  },
+  {
+    "number": 6,
+    "stem": "Figure_6_fibroblast_matrix_development",
+    "title": "Fibroblast development changes matrix composition rather than uniformly increasing collagen RNA",
+    "legend": "a\u2013c, Corrected full-RNA library pseudobulk matrix scores within reviewed fibroblast families. Small points show the two libraries; lines show their unweighted means. Different gene sets have different expression baselines and are not protein measurements. d, Selected within-family gene changes; the displayed Fn1/Col1/Col3 directions agree across library cross-comparisons. Missing screened contrasts are not imputed as zero. e, Selected existing marker-withheld RNA similarities with reviewed family names. Dashed arrows indicate expression resemblance, not descendants, probabilities or conversion rates. f, Median void/outer-surface geometry within a conservative ventricular selector; only assessable groups with at least 30 profiles are shown. This is not validated transmural depth and does not track migration."
+  }
+]

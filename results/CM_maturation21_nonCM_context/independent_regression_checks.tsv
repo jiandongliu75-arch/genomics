@@ -1,0 +1,17 @@
+stage	source	outcome	maximum_absolute_error	status
+P0	Broad__Fibroblast	core_Z__maturation21	1.95427008e-11	PASS
+P0	Broad__Fibroblast	core_Z__metabolic	4.52415327e-11	PASS
+P0	Broad__Smooth muscle	core_Z__maturation21	4.56635719e-11	PASS
+P0	EC__Capillary-like	core_Z__maturation21	2.29486655e-12	PASS
+P7	Broad__Fibroblast	core_Z__maturation21	7.84785084e-12	PASS
+P7	Broad__Fibroblast	core_Z__metabolic	3.22323869e-11	PASS
+P7	Broad__Smooth muscle	core_Z__maturation21	1.45519707e-12	PASS
+P7	EC__Capillary-like	core_Z__maturation21	2.21815318e-12	PASS
+P14	Broad__Fibroblast	core_Z__maturation21	2.71105048e-11	PASS
+P14	Broad__Fibroblast	core_Z__metabolic	2.56059375e-11	PASS
+P14	Broad__Smooth muscle	core_Z__maturation21	2.18043628e-14	PASS
+P14	EC__Capillary-like	core_Z__maturation21	2.95068961e-12	PASS
+P21	Broad__Fibroblast	core_Z__maturation21	4.81120456e-11	PASS
+P21	Broad__Fibroblast	core_Z__metabolic	1.41741618e-11	PASS
+P21	Broad__Smooth muscle	core_Z__maturation21	3.06458088e-11	PASS
+P21	EC__Capillary-like	core_Z__maturation21	3.6333471e-12	PASS
