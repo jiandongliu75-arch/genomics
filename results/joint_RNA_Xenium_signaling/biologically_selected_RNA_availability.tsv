@@ -1,0 +1,25 @@
+stage	source	pair_id	RNA_two_library_availability	source_mean_log1p_CP10k	receiver_mean_log1p_CP10k	source_detection_min	source_detection_max	receiver_detection_min	receiver_detection_max	evidence
+P0	Broad:Endothelial	Nrg1--Erbb4	True	0.80711742	3.468428	0.20723684	0.25585023	0.98860735	0.99193955	Corrected nuclear RNA availability; not signaling activation or source-specific causality
+P7	Broad:Endothelial	Nrg1--Erbb4	True	0.28077764	3.4188117	0.06918239	0.087078652	0.97844722	0.98399672	Corrected nuclear RNA availability; not signaling activation or source-specific causality
+P14	Broad:Endothelial	Nrg1--Erbb4	True	0.36781944	2.9752848	0.083569405	0.10261194	0.98777411	0.98930209	Corrected nuclear RNA availability; not signaling activation or source-specific causality
+P21	Broad:Endothelial	Nrg1--Erbb4	True	0.47554836	3.1802823	0.10718114	0.12647059	0.99293612	0.99851949	Corrected nuclear RNA availability; not signaling activation or source-specific causality
+P0	Broad:Endothelial	Igf2--Igf1r	True	0.77408908	2.127266	0.17434211	0.31513261	0.83559222	0.91402183	Corrected nuclear RNA availability; not signaling activation or source-specific causality
+P7	Broad:Endothelial	Igf2--Igf1r	True	0.24687595	1.7828588	0.029350105	0.047752809	0.61327455	0.67521543	Corrected nuclear RNA availability; not signaling activation or source-specific causality
+P14	Broad:Endothelial	Igf2--Igf1r	True	0.27319948	1.2818295	0.07082153	0.072761194	0.68636441	0.69318843	Corrected nuclear RNA availability; not signaling activation or source-specific causality
+P21	Broad:Endothelial	Igf2--Igf1r	True	0.16218811	1.0915791	0.029411765	0.048231511	0.6229643	0.63298526	Corrected nuclear RNA availability; not signaling activation or source-specific causality
+P0	Broad:Fibroblast	Fn1--Itga5_Itgb1	True	1.3027176	0.22566749	0.35769981	0.51075269	0.033785111	0.072208228	Corrected nuclear RNA availability; not signaling activation or source-specific causality
+P7	Broad:Fibroblast	Fn1--Itga5_Itgb1	False	1.3098718	0.13734909	0.29238985	0.33963964	0.0094293412	0.011694707	Corrected nuclear RNA availability; not signaling activation or source-specific causality
+P14	Broad:Fibroblast	Fn1--Itga5_Itgb1	True	0.69088185	0.21349073	0.18165862	0.24172856	0.063264118	0.068432671	Corrected nuclear RNA availability; not signaling activation or source-specific causality
+P21	Broad:Fibroblast	Fn1--Itga5_Itgb1	True	0.36561288	0.27031212	0.09462486	0.10505684	0.08507371	0.110051	Corrected nuclear RNA availability; not signaling activation or source-specific causality
+P0	Broad:Fibroblast	Lamc1--Dag1	True	1.5576132	0.58518278	0.43664717	0.61021505	0.16283638	0.24869857	Corrected nuclear RNA availability; not signaling activation or source-specific causality
+P7	Broad:Fibroblast	Lamc1--Dag1	True	2.1148645	0.86699941	0.56208278	0.62342342	0.19054617	0.28949528	Corrected nuclear RNA availability; not signaling activation or source-specific causality
+P14	Broad:Fibroblast	Lamc1--Dag1	True	2.501841	1.3466414	0.84159719	0.84976367	0.72307394	0.74019358	Corrected nuclear RNA availability; not signaling activation or source-specific causality
+P21	Broad:Fibroblast	Lamc1--Dag1	True	2.4103343	1.6113568	0.82320659	0.84602464	0.83615726	0.86087224	Corrected nuclear RNA availability; not signaling activation or source-specific causality
+P0	Broad:Fibroblast	Tnc--Itga9_Itgb1	True	0.5311804	0.30679232	0.14327485	0.18010753	0.074641524	0.12308984	Corrected nuclear RNA availability; not signaling activation or source-specific causality
+P7	Broad:Fibroblast	Tnc--Itga9_Itgb1	True	0.42900689	0.42806761	0.084779706	0.094594595	0.07421014	0.087197374	Corrected nuclear RNA availability; not signaling activation or source-specific causality
+P14	Broad:Fibroblast	Tnc--Itga9_Itgb1	True	0.17081629	0.59324802	0.043001316	0.054017556	0.30242826	0.30390064	Corrected nuclear RNA availability; not signaling activation or source-specific causality
+P21	Broad:Fibroblast	Tnc--Itga9_Itgb1	False	0.078895024	0.54556119	0.018477044	0.025088201	0.28557329	0.29023342	Corrected nuclear RNA availability; not signaling activation or source-specific causality
+P0	CM	Ptprm--Ptprm	True	1.0706695	1.0706695	0.43292084	0.55650714	0.43292084	0.55650714	Corrected nuclear RNA availability; not signaling activation or source-specific causality
+P7	CM	Ptprm--Ptprm	True	2.3501946	2.3501946	0.81459711	0.88715634	0.81459711	0.88715634	Corrected nuclear RNA availability; not signaling activation or source-specific causality
+P14	CM	Ptprm--Ptprm	True	2.6468983	2.6468983	0.98311663	0.983189	0.98311663	0.983189	Corrected nuclear RNA availability; not signaling activation or source-specific causality
+P21	CM	Ptprm--Ptprm	True	2.6952092	2.6952092	0.99232187	0.99539398	0.99232187	0.99539398	Corrected nuclear RNA availability; not signaling activation or source-specific causality

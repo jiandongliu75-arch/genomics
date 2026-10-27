@@ -1,0 +1,5 @@
+stage	view	fold	available_training_CMs	fitted_training_CMs	test_CMs	minimum_receiver_gap_um	train_test_source_ID_overlap	interpretation
+P21	native	0	24143	12000	7620	402.94762	0	Each source is assigned to one domain; receivers have 200-um interior margin; regions are not independent hearts
+P21	native	1	22210	12000	9553	402.38758	0	Each source is assigned to one domain; receivers have 200-um interior margin; regions are not independent hearts
+P21	native	2	23508	12000	8255	401.95618	0	Each source is assigned to one domain; receivers have 200-um interior margin; regions are not independent hearts
+P21	native	3	25428	12000	6335	401.95618	0	Each source is assigned to one domain; receivers have 200-um interior margin; regions are not independent hearts

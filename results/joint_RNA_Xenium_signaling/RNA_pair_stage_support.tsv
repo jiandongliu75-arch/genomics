@@ -1,0 +1,1413 @@
+stage	pair_id	supported_source_groups	RNA_supported	RNA_support_strength
+P0	Tgfb1--Tgfbr1_Tgfbr2		False	0
+P0	Tgfb2--Tgfbr1_Tgfbr2		False	0
+P0	Tgfb1--Acvr1_Tgfbr1_Tgfbr2		False	0
+P0	Tgfb2--Acvr1_Tgfbr1_Tgfbr2		False	0
+P0	Bmp5--Acvr1_Acvr2a	CM;Broad:Pericyte;Broad:Smooth muscle;FB:Kirrel3;Pericyte;Smooth muscle	True	0.22685678
+P0	Bmp5--Acvr1_Bmpr2	CM;Broad:Pericyte;Broad:Smooth muscle;FB:Kirrel3;Pericyte;Smooth muscle	True	0.29340633
+P0	Bmp5--Acvr2a_Bmpr1a	CM;Broad:Pericyte;Broad:Smooth muscle;FB:Kirrel3;Pericyte;Smooth muscle	True	0.48899262
+P0	Bmp5--Bmpr1a_Bmpr2	CM;Broad:Pericyte;Broad:Smooth muscle;FB:Kirrel3;Pericyte;Smooth muscle	True	0.54263666
+P0	Bmp5--Acvr2a_Bmpr1b		False	0
+P0	Bmp5--Bmpr1b_Bmpr2		False	0
+P0	Bmp6--Acvr1_Acvr2a	Broad:Endothelial;Broad:Fibroblast;Broad:Smooth muscle;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Smooth muscle;Epicardial	True	0.22685678
+P0	Bmp6--Acvr1_Bmpr2	Broad:Endothelial;Broad:Fibroblast;Broad:Smooth muscle;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Smooth muscle;Epicardial	True	0.29340633
+P0	Bmp6--Acvr2a_Bmpr1a	Broad:Endothelial;Broad:Fibroblast;Broad:Smooth muscle;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Smooth muscle;Epicardial	True	0.48899262
+P0	Bmp6--Bmpr1a_Bmpr2	Broad:Endothelial;Broad:Fibroblast;Broad:Smooth muscle;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Smooth muscle;Epicardial	True	0.60623443
+P0	Bmp6--Acvr2a_Bmpr1b		False	0
+P0	Bmp6--Bmpr1b_Bmpr2		False	0
+P0	Wnt9a--Fzd4_Lrp5		False	0
+P0	Wnt9a--Fzd6_Lrp5		False	0
+P0	Wnt9a--Fzd4_Lrp6		False	0
+P0	Wnt9a--Fzd6_Lrp6		False	0
+P0	Wnt5a--Fzd4		False	0
+P0	Wnt5a--Fzd6		False	0
+P0	Wnt5a--Mcam		False	0
+P0	Wnt5b--Fzd4		False	0
+P0	Wnt5b--Fzd6		False	0
+P0	Egf--Egfr		False	0
+P0	Tgfa--Egfr		False	0
+P0	Hbegf--Egfr		False	0
+P0	Hbegf--Erbb4	EC:Unresolved	True	0.098089877
+P0	Nrg1--Erbb3		False	0
+P0	Nrg1--Erbb4	Broad:Endothelial;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;Epicardial	True	1.3031414
+P0	Nrg2--Erbb3		False	0
+P0	Nrg2--Erbb4	Broad:Immune;Broad:Epicardial;Immune;Epicardial	True	0.56667124
+P0	Nrg1--Itgav_Itgb3		False	0
+P0	Fgf1--Fgfr1		False	0
+P0	Fgf1--Fgfr2	CM;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;Smooth muscle;Immune;Epicardial	True	0.80055269
+P0	Fgf2--Fgfr1		False	0
+P0	Fgf2--Fgfr2	Broad:Fibroblast;Broad:Smooth muscle;FB:Kirrel3;Smooth muscle	True	0.40785893
+P0	Fgf9--Fgfr1		False	0
+P0	Fgf9--Fgfr2	CM	True	0.17473126
+P0	Pdgfa--Pdgfra		False	0
+P0	Pdgfa--Pdgfrb		False	0
+P0	Pdgfb--Pdgfra		False	0
+P0	Pdgfb--Pdgfrb		False	0
+P0	Pdgfc--Pdgfra		False	0
+P0	Pdgfd--Pdgfrb		False	0
+P0	Vegfa--Flt1		False	0
+P0	Vegfa--Kdr		False	0
+P0	Vegfb--Flt1		False	0
+P0	Vegfc--Flt4		False	0
+P0	Vegfc--Kdr		False	0
+P0	Vegfd--Flt4		False	0
+P0	Vegfd--Kdr		False	0
+P0	Vegfa--Flt1_Kdr		False	0
+P0	Vegfc--Flt4_Kdr		False	0
+P0	Vegfd--Flt4_Kdr		False	0
+P0	Igf1--Igf1r	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Immune;Epicardial	True	1.1637755
+P0	Igf2--Igf1r	Broad:Endothelial;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;Epicardial	True	1.053153
+P0	Igf2--Igf2r	Broad:Endothelial;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;Epicardial	True	1.053153
+P0	Igf1--Itgav_Itgb3		False	0
+P0	Igf1--Itga6_Itgb4		False	0
+P0	Igf2--Itgav_Itgb3		False	0
+P0	Igf2--Itga6_Itgb4		False	0
+P0	Ccl25--Ackr4		False	0
+P0	Il34--Csf1r		False	0
+P0	Csf1--Csf1r		False	0
+P0	Eda--Edar		False	0
+P0	Tnfsf11--Tnfrsf11a		False	0
+P0	Tnfsf11--Tnfrsf11b		False	0
+P0	Nampt--Insr	CM;Broad:Endothelial;Broad:Immune;EC:Unresolved;Immune	True	0.22889352
+P0	Nampt--Itga5_Itgb1	CM;Broad:Endothelial;Broad:Immune;EC:Unresolved;Immune	True	0.19488486
+P0	Angptl2--Itga5_Itgb1	Broad:Fibroblast;FB:Postn	True	0.19488486
+P0	Angptl2--Tlr4	Broad:Fibroblast;FB:Postn	True	0.37805926
+P0	Angptl2--Pirb		False	0
+P0	Angpt1--Tek		False	0
+P0	Angpt2--Tek		False	0
+P0	Angpt2--Itga5_Itgb1	Broad:Endothelial;Broad:Fibroblast;Broad:Immune;EC:Capillary-like;FB:Postn;Immune	True	0.18756
+P0	Ptn--Ptprz1		False	0
+P0	Ptn--Sdc2	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.30099296
+P0	Ptn--Sdc4		False	0
+P0	Ptn--Itgav_Itgb3		False	0
+P0	Ptn--Ncl	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.3255503
+P0	Postn--Itgav_Itgb3		False	0
+P0	Postn--Itgav_Itgb5		False	0
+P0	Nppa--Npr1		False	0
+P0	Kitl--Kit		False	0
+P0	Ntf3--Ntrk2		False	0
+P0	Ntf3--Ntrk3		False	0
+P0	Sema3a--Nrp1_Plxna2	CM;Broad:Endothelial;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;Epicardial	True	0.65731887
+P0	Sema3a--Nrp1_Plxna4	CM;Broad:Endothelial;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;Epicardial	True	0.76637147
+P0	Sema3c--Nrp1_Plxna2	Broad:Fibroblast;Broad:Epicardial;FB:Postn;FB:Kirrel3;Epicardial	True	0.65731887
+P0	Sema3c--Nrp1_Plxna4	Broad:Fibroblast;Broad:Epicardial;FB:Postn;FB:Kirrel3;Epicardial	True	0.76637147
+P0	Sema3c--Plxnd1		False	0
+P0	Sema3e--Plxnd1		False	0
+P0	Gas6--Axl		False	0
+P0	Gas6--Mertk	CM;Broad:Endothelial;Broad:Immune;Broad:Epicardial;EC:Unresolved;Immune;Epicardial	True	0.22326634
+P0	Grn--Sort1	Broad:Immune;Immune	True	0.19915168
+P0	Lgals9--Ptprc		False	0
+P0	Pros1--Axl		False	0
+P0	Rarres2--Cmklr1		False	0
+P0	Lgals9--Cd44	Broad:Endothelial;Broad:Immune;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;Immune	True	0.13763741
+P0	Col1a1--Itga1_Itgb1	Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.40217267
+P0	Col1a2--Itga1_Itgb1	Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.40217267
+P0	Col4a1--Itga1_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.40217267
+P0	Col4a2--Itga1_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.40217267
+P0	Col4a3--Itga1_Itgb1	CM;Broad:Epicardial;Epicardial	True	0.34333044
+P0	Col4a4--Itga1_Itgb1	CM;Broad:Epicardial;EC:Unresolved;Epicardial	True	0.40217267
+P0	Col4a5--Itga1_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Smooth muscle;Immune;Epicardial	True	0.40217267
+P0	Col4a6--Itga1_Itgb1	CM;Broad:Fibroblast;Broad:Smooth muscle;Broad:Epicardial;FB:Kirrel3;Smooth muscle;Epicardial	True	0.38337512
+P0	Col6a1--Itga1_Itgb1	Broad:Fibroblast;Broad:Pericyte;FB:Postn;Pericyte	True	0.40217267
+P0	Col6a2--Itga1_Itgb1	Broad:Fibroblast;Broad:Immune;Broad:Epicardial;FB:Postn;FB:Kirrel3;Immune;Epicardial	True	0.40217267
+P0	Col6a3--Itga1_Itgb1	Broad:Fibroblast;EC:Endocardial-like;FB:Postn;FB:Kirrel3	True	0.40217267
+P0	Col6a6--Itga1_Itgb1	Broad:Fibroblast;Broad:Smooth muscle;Broad:Epicardial;FB:Postn;FB:Kirrel3;Smooth muscle;Epicardial	True	0.40217267
+P0	Fn1--Itga3_Itgb1		False	0
+P0	Fn1--Itga4_Itgb1		False	0
+P0	Fn1--Itga5_Itgb1	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.19488486
+P0	Fn1--Itga8_Itgb1		False	0
+P0	Lama3--Itga1_Itgb1	CM;Broad:Endothelial;Broad:Epicardial;EC:Capillary-like;EC:Unresolved;FB:Kirrel3;Epicardial	True	0.32935412
+P0	Lama4--Itga1_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.40217267
+P0	Lama5--Itga1_Itgb1	Broad:Smooth muscle;Broad:Epicardial;Smooth muscle;Epicardial	True	0.40217267
+P0	Lamb1--Itga1_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;Pericyte;Smooth muscle;Immune;Epicardial	True	0.40217267
+P0	Lamb2--Itga1_Itgb1	Broad:Immune;Immune	True	0.080836252
+P0	Lamb3--Itga1_Itgb1		False	0
+P0	Lamc1--Itga1_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.40217267
+P0	Lama3--Itga3_Itgb1		False	0
+P0	Lama4--Itga3_Itgb1		False	0
+P0	Lama5--Itga3_Itgb1		False	0
+P0	Lamb1--Itga3_Itgb1		False	0
+P0	Lamb2--Itga3_Itgb1		False	0
+P0	Lamb3--Itga3_Itgb1		False	0
+P0	Lamc1--Itga3_Itgb1		False	0
+P0	Reln--Itga3_Itgb1		False	0
+P0	Thbs1--Itga3_Itgb1		False	0
+P0	Col1a1--Itga3_Itgb1		False	0
+P0	Col1a2--Itga3_Itgb1		False	0
+P0	Col4a1--Itga3_Itgb1		False	0
+P0	Col4a2--Itga3_Itgb1		False	0
+P0	Col4a3--Itga3_Itgb1		False	0
+P0	Col4a4--Itga3_Itgb1		False	0
+P0	Col4a5--Itga3_Itgb1		False	0
+P0	Col4a6--Itga3_Itgb1		False	0
+P0	Col6a1--Itga3_Itgb1		False	0
+P0	Col6a2--Itga3_Itgb1		False	0
+P0	Col6a3--Itga3_Itgb1		False	0
+P0	Col6a6--Itga3_Itgb1		False	0
+P0	Lama3--Itga6_Itgb1		False	0
+P0	Lama4--Itga6_Itgb1		False	0
+P0	Lama5--Itga6_Itgb1		False	0
+P0	Lamb1--Itga6_Itgb1		False	0
+P0	Lamb2--Itga6_Itgb1		False	0
+P0	Lamb3--Itga6_Itgb1		False	0
+P0	Lamc1--Itga6_Itgb1		False	0
+P0	Lama3--Itga7_Itgb1		False	0
+P0	Lama4--Itga7_Itgb1		False	0
+P0	Lama5--Itga7_Itgb1		False	0
+P0	Lamb1--Itga7_Itgb1		False	0
+P0	Lamb2--Itga7_Itgb1		False	0
+P0	Lamb3--Itga7_Itgb1		False	0
+P0	Lamc1--Itga7_Itgb1		False	0
+P0	Vtn--Itga8_Itgb1		False	0
+P0	Tnc--Itga8_Itgb1		False	0
+P0	Tnr--Itga8_Itgb1		False	0
+P0	Tnxb--Itga8_Itgb1		False	0
+P0	Tnc--Itga9_Itgb1	Broad:Fibroblast;Broad:Pericyte;FB:Postn;FB:Kirrel3;Pericyte	True	0.28658113
+P0	Tnr--Itga9_Itgb1		False	0
+P0	Tnxb--Itga9_Itgb1	Broad:Fibroblast;Broad:Immune;Broad:Epicardial;FB:Postn;Immune;Epicardial	True	0.28658113
+P0	Col1a1--Itga9_Itgb1	Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.28658113
+P0	Col1a2--Itga9_Itgb1	Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.28658113
+P0	Col4a1--Itga9_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.28658113
+P0	Col4a2--Itga9_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.28658113
+P0	Col4a3--Itga9_Itgb1	CM;Broad:Epicardial;Epicardial	True	0.28658113
+P0	Col4a4--Itga9_Itgb1	CM;Broad:Epicardial;EC:Unresolved;Epicardial	True	0.28658113
+P0	Col4a5--Itga9_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Smooth muscle;Immune;Epicardial	True	0.28658113
+P0	Col4a6--Itga9_Itgb1	CM;Broad:Fibroblast;Broad:Smooth muscle;Broad:Epicardial;FB:Kirrel3;Smooth muscle;Epicardial	True	0.28658113
+P0	Col6a1--Itga9_Itgb1	Broad:Fibroblast;Broad:Pericyte;FB:Postn;Pericyte	True	0.28658113
+P0	Col6a2--Itga9_Itgb1	Broad:Fibroblast;Broad:Immune;Broad:Epicardial;FB:Postn;FB:Kirrel3;Immune;Epicardial	True	0.28658113
+P0	Col6a3--Itga9_Itgb1	Broad:Fibroblast;EC:Endocardial-like;FB:Postn;FB:Kirrel3	True	0.28658113
+P0	Col6a6--Itga9_Itgb1	Broad:Fibroblast;Broad:Smooth muscle;Broad:Epicardial;FB:Postn;FB:Kirrel3;Smooth muscle;Epicardial	True	0.28658113
+P0	Lama3--Itga9_Itgb1	CM;Broad:Endothelial;Broad:Epicardial;EC:Capillary-like;EC:Unresolved;FB:Kirrel3;Epicardial	True	0.28658113
+P0	Lama4--Itga9_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.28658113
+P0	Lama5--Itga9_Itgb1	Broad:Smooth muscle;Broad:Epicardial;Smooth muscle;Epicardial	True	0.28658113
+P0	Lamb1--Itga9_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;Pericyte;Smooth muscle;Immune;Epicardial	True	0.28658113
+P0	Lamb2--Itga9_Itgb1	Broad:Immune;Immune	True	0.080836252
+P0	Lamb3--Itga9_Itgb1		False	0
+P0	Lamc1--Itga9_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.28658113
+P0	Col1a1--Itga10_Itgb1		False	0
+P0	Col1a2--Itga10_Itgb1		False	0
+P0	Col4a1--Itga10_Itgb1		False	0
+P0	Col4a2--Itga10_Itgb1		False	0
+P0	Col4a3--Itga10_Itgb1		False	0
+P0	Col4a4--Itga10_Itgb1		False	0
+P0	Col4a5--Itga10_Itgb1		False	0
+P0	Col4a6--Itga10_Itgb1		False	0
+P0	Col6a1--Itga10_Itgb1		False	0
+P0	Col6a2--Itga10_Itgb1		False	0
+P0	Col6a3--Itga10_Itgb1		False	0
+P0	Col6a6--Itga10_Itgb1		False	0
+P0	Fn1--Itgav_Itgb1		False	0
+P0	Vtn--Itgav_Itgb1		False	0
+P0	Fn1--Itgav_Itgb3		False	0
+P0	Vtn--Itgav_Itgb3		False	0
+P0	Vwf--Itgav_Itgb3		False	0
+P0	Tnc--Itgav_Itgb3		False	0
+P0	Tnr--Itgav_Itgb3		False	0
+P0	Tnxb--Itgav_Itgb3		False	0
+P0	Thbs1--Itgav_Itgb3		False	0
+P0	Vtn--Itgav_Itgb5		False	0
+P0	Tnc--Itgav_Itgb6		False	0
+P0	Tnr--Itgav_Itgb6		False	0
+P0	Tnxb--Itgav_Itgb6		False	0
+P0	Fn1--Itgav_Itgb6		False	0
+P0	Vtn--Itgav_Itgb8		False	0
+P0	Fn1--Itgav_Itgb8		False	0
+P0	Lama3--Itgav_Itgb8		False	0
+P0	Lama4--Itgav_Itgb8		False	0
+P0	Lama5--Itgav_Itgb8		False	0
+P0	Lamb1--Itgav_Itgb8		False	0
+P0	Lamb2--Itgav_Itgb8		False	0
+P0	Lamb3--Itgav_Itgb8		False	0
+P0	Lamc1--Itgav_Itgb8		False	0
+P0	Col1a1--Itgav_Itgb8		False	0
+P0	Col1a2--Itgav_Itgb8		False	0
+P0	Col4a1--Itgav_Itgb8		False	0
+P0	Col4a2--Itgav_Itgb8		False	0
+P0	Col4a3--Itgav_Itgb8		False	0
+P0	Col4a4--Itgav_Itgb8		False	0
+P0	Col4a5--Itgav_Itgb8		False	0
+P0	Col4a6--Itgav_Itgb8		False	0
+P0	Col6a1--Itgav_Itgb8		False	0
+P0	Col6a2--Itgav_Itgb8		False	0
+P0	Col6a3--Itgav_Itgb8		False	0
+P0	Col6a6--Itgav_Itgb8		False	0
+P0	Lama3--Itga6_Itgb4		False	0
+P0	Lama4--Itga6_Itgb4		False	0
+P0	Lama5--Itga6_Itgb4		False	0
+P0	Lamb1--Itga6_Itgb4		False	0
+P0	Lamb2--Itga6_Itgb4		False	0
+P0	Lamb3--Itga6_Itgb4		False	0
+P0	Lamc1--Itga6_Itgb4		False	0
+P0	Fn1--Cd44	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.13763741
+P0	Col1a1--Cd44	Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.13763741
+P0	Col1a2--Cd44	Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.13763741
+P0	Col4a1--Cd44	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.13763741
+P0	Col4a2--Cd44	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.13763741
+P0	Col4a3--Cd44	CM;Broad:Epicardial;Epicardial	True	0.13763741
+P0	Col4a4--Cd44	CM;Broad:Epicardial;EC:Unresolved;Epicardial	True	0.13763741
+P0	Col4a5--Cd44	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Smooth muscle;Immune;Epicardial	True	0.13763741
+P0	Col4a6--Cd44	CM;Broad:Fibroblast;Broad:Smooth muscle;Broad:Epicardial;FB:Kirrel3;Smooth muscle;Epicardial	True	0.13763741
+P0	Col6a1--Cd44	Broad:Fibroblast;Broad:Pericyte;FB:Postn;Pericyte	True	0.13763741
+P0	Col6a2--Cd44	Broad:Fibroblast;Broad:Immune;Broad:Epicardial;FB:Postn;FB:Kirrel3;Immune;Epicardial	True	0.13763741
+P0	Col6a3--Cd44	Broad:Fibroblast;EC:Endocardial-like;FB:Postn;FB:Kirrel3	True	0.13763741
+P0	Col6a6--Cd44	Broad:Fibroblast;Broad:Smooth muscle;Broad:Epicardial;FB:Postn;FB:Kirrel3;Smooth muscle;Epicardial	True	0.13763741
+P0	Lama3--Cd44	CM;Broad:Endothelial;Broad:Epicardial;EC:Capillary-like;EC:Unresolved;FB:Kirrel3;Epicardial	True	0.13763741
+P0	Lama4--Cd44	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.13763741
+P0	Lama5--Cd44	Broad:Smooth muscle;Broad:Epicardial;Smooth muscle;Epicardial	True	0.13763741
+P0	Lamb1--Cd44	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;Pericyte;Smooth muscle;Immune;Epicardial	True	0.13763741
+P0	Lamb2--Cd44	Broad:Immune;Immune	True	0.080836252
+P0	Lamb3--Cd44		False	0
+P0	Lamc1--Cd44	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.13763741
+P0	Col1a1--Sdc4		False	0
+P0	Col1a2--Sdc4		False	0
+P0	Col4a1--Sdc4		False	0
+P0	Col4a2--Sdc4		False	0
+P0	Col4a3--Sdc4		False	0
+P0	Col4a4--Sdc4		False	0
+P0	Col4a5--Sdc4		False	0
+P0	Col4a6--Sdc4		False	0
+P0	Col6a1--Sdc4		False	0
+P0	Col6a2--Sdc4		False	0
+P0	Col6a3--Sdc4		False	0
+P0	Col6a6--Sdc4		False	0
+P0	Fn1--Sdc4		False	0
+P0	Tnc--Sdc4		False	0
+P0	Tnr--Sdc4		False	0
+P0	Tnxb--Sdc4		False	0
+P0	Thbs1--Sdc4		False	0
+P0	Thbs1--Cd36	Broad:Fibroblast;Broad:Epicardial;FB:Postn;FB:Kirrel3;Epicardial	True	0.48420062
+P0	Thbs1--Cd47	Broad:Fibroblast;Broad:Epicardial;FB:Postn;FB:Kirrel3;Epicardial	True	0.20770261
+P0	Agrn--Dag1	CM;Broad:Endothelial;Broad:Pericyte;Broad:Smooth muscle;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Kirrel3;Pericyte;Smooth muscle;Epicardial	True	0.55953164
+P0	Hspg2--Dag1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Smooth muscle;Broad:Immune;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Smooth muscle;Immune	True	0.55953164
+P0	Lama3--Dag1	CM;Broad:Endothelial;Broad:Epicardial;EC:Capillary-like;EC:Unresolved;FB:Kirrel3;Epicardial	True	0.32935412
+P0	Lama4--Dag1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.55953164
+P0	Lama5--Dag1	Broad:Smooth muscle;Broad:Epicardial;Smooth muscle;Epicardial	True	0.44185538
+P0	Lamb1--Dag1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;Pericyte;Smooth muscle;Immune;Epicardial	True	0.55953164
+P0	Lamb2--Dag1	Broad:Immune;Immune	True	0.080836252
+P0	Lamb3--Dag1		False	0
+P0	Lamc1--Dag1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.55953164
+P0	Cadm1--Cadm1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Immune;Broad:Epicardial;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Immune;Epicardial	True	0.15521587
+P0	Cd200--Cd200r1		False	0
+P0	Cd22--Ptprc		False	0
+P0	Entpd1--Adora1		False	0
+P0	Ptprc--Cd22		False	0
+P0	Ptprc--Mrc1		False	0
+P0	Cd46--Jag1		False	0
+P0	Cd48--Cd244a		False	0
+P0	Cdh4--Cdh4		False	0
+P0	Cdh2--Cdh2	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	3.3131123
+P0	Cdh1--Cdh1		False	0
+P0	Cdh5--Cdh5		False	0
+P0	Cntn2--L1cam		False	0
+P0	Cntn2--Cntn2		False	0
+P0	Cspg4--Itga3_Itgb1		False	0
+P0	Dsc2--Dsg2		False	0
+P0	Efnb2--Epha4	Broad:Endothelial;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;Smooth muscle;Immune;Epicardial	True	0.28295138
+P0	Efnb2--Ephb1		False	0
+P0	Efnb2--Ephb2		False	0
+P0	Efnb2--Ephb3		False	0
+P0	Efnb2--Ephb4		False	0
+P0	Esam--Esam		False	0
+P0	Jam2--Itga3_Itgb1		False	0
+P0	Jam2--Itgav_Itgb1		False	0
+P0	Jam2--Jam3	Broad:Endothelial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved	True	0.1921392
+P0	F11r--F11r	CM;Broad:Endothelial;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;Immune;Epicardial	True	0.18354081
+P0	F11r--Jam2		False	0
+P0	F11r--Jam3	CM;Broad:Endothelial;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;Immune;Epicardial	True	0.1921392
+P0	Jam2--F11r	Broad:Endothelial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved	True	0.18354081
+P0	Jam2--Jam2		False	0
+P0	Jam3--F11r	CM;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Epicardial;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Epicardial	True	0.18354081
+P0	Jam3--Jam2		False	0
+P0	Jam3--Jam3	CM;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Epicardial;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Epicardial	True	0.1921392
+P0	L1cam--Itgav_Itgb3		False	0
+P0	L1cam--L1cam		False	0
+P0	Mpzl1--Mpzl1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune	True	0.23168777
+P0	Ncam1--Fgfr1		False	0
+P0	Ncam1--Ncam1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	1.8837087
+P0	Ncam1--Ncam2		False	0
+P0	Ncam1--L1cam		False	0
+P0	Ncam2--L1cam		False	0
+P0	Nectin3--Pvr		False	0
+P0	Negr1--Negr1		False	0
+P0	Lrrc4c--Ntng1		False	0
+P0	Lrrc4--Ntng2		False	0
+P0	Dll4--Notch1		False	0
+P0	Dll4--Notch2		False	0
+P0	Dll4--Notch3		False	0
+P0	Dll4--Notch4		False	0
+P0	Jag1--Notch1		False	0
+P0	Jag1--Notch2	Broad:Endothelial;Broad:Fibroblast;Broad:Smooth muscle;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;Smooth muscle	True	0.45043358
+P0	Jag1--Notch3		False	0
+P0	Jag1--Notch4		False	0
+P0	Nrxn1--Nlgn3		False	0
+P0	Nrxn3--Nlgn3		False	0
+P0	Pecam1--Pecam1		False	0
+P0	Ptprm--Ptprm	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	1.0352025
+P0	Sema4a--Nrp1_Plxna2		False	0
+P0	Sema4a--Nrp1_Plxna4		False	0
+P0	Sema6a--Plxna2	Broad:Endothelial;Broad:Fibroblast;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Immune;Epicardial	True	0.71022329
+P0	Sema6a--Plxna4	Broad:Endothelial;Broad:Fibroblast;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Immune;Epicardial	True	0.83755201
+P0	Sema7a--Itga1_Itgb1	Broad:Endothelial;Broad:Pericyte;Broad:Immune;EC:Capillary-like;Pericyte;Immune	True	0.3625498
+P0	Sema7a--Plxnc1		False	0
+P0	Itga4_Itgb1--Vcam1		False	0
+P0	Itga9_Itgb1--Vcam1		False	0
+P0	Vsir--Igsf11		False	0
+P7	Tgfb1--Tgfbr1_Tgfbr2		False	0
+P7	Tgfb2--Tgfbr1_Tgfbr2		False	0
+P7	Tgfb1--Acvr1_Tgfbr1_Tgfbr2		False	0
+P7	Tgfb2--Acvr1_Tgfbr1_Tgfbr2		False	0
+P7	Bmp5--Acvr1_Acvr2a		False	0
+P7	Bmp5--Acvr1_Bmpr2		False	0
+P7	Bmp5--Acvr2a_Bmpr1a	Broad:Smooth muscle;FB:Kirrel3;Smooth muscle	True	0.40212188
+P7	Bmp5--Bmpr1a_Bmpr2	Broad:Smooth muscle;FB:Kirrel3;Smooth muscle	True	0.45857747
+P7	Bmp5--Acvr2a_Bmpr1b		False	0
+P7	Bmp5--Bmpr1b_Bmpr2		False	0
+P7	Bmp6--Acvr1_Acvr2a		False	0
+P7	Bmp6--Acvr1_Bmpr2		False	0
+P7	Bmp6--Acvr2a_Bmpr1a	Broad:Endothelial;Broad:Fibroblast;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Smooth muscle;Immune;Epicardial	True	0.40212188
+P7	Bmp6--Bmpr1a_Bmpr2	Broad:Endothelial;Broad:Fibroblast;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Smooth muscle;Immune;Epicardial	True	0.45857747
+P7	Bmp6--Acvr2a_Bmpr1b		False	0
+P7	Bmp6--Bmpr1b_Bmpr2		False	0
+P7	Wnt9a--Fzd4_Lrp5		False	0
+P7	Wnt9a--Fzd6_Lrp5		False	0
+P7	Wnt9a--Fzd4_Lrp6		False	0
+P7	Wnt9a--Fzd6_Lrp6		False	0
+P7	Wnt5a--Fzd4		False	0
+P7	Wnt5a--Fzd6		False	0
+P7	Wnt5a--Mcam		False	0
+P7	Wnt5b--Fzd4		False	0
+P7	Wnt5b--Fzd6		False	0
+P7	Egf--Egfr		False	0
+P7	Tgfa--Egfr		False	0
+P7	Hbegf--Egfr		False	0
+P7	Hbegf--Erbb4		False	0
+P7	Nrg1--Erbb3		False	0
+P7	Nrg1--Erbb4	Broad:Endothelial;EC:Endocardial-like;EC:Unresolved	True	1.2796306
+P7	Nrg2--Erbb3		False	0
+P7	Nrg2--Erbb4	Broad:Epicardial;Epicardial	True	0.61790266
+P7	Nrg1--Itgav_Itgb3		False	0
+P7	Fgf1--Fgfr1		False	0
+P7	Fgf1--Fgfr2	CM;Broad:Smooth muscle;Broad:Epicardial;Smooth muscle;Epicardial	True	0.8834778
+P7	Fgf2--Fgfr1		False	0
+P7	Fgf2--Fgfr2	FB:Kirrel3	True	0.2996213
+P7	Fgf9--Fgfr1		False	0
+P7	Fgf9--Fgfr2		False	0
+P7	Pdgfa--Pdgfra		False	0
+P7	Pdgfa--Pdgfrb		False	0
+P7	Pdgfb--Pdgfra		False	0
+P7	Pdgfb--Pdgfrb		False	0
+P7	Pdgfc--Pdgfra		False	0
+P7	Pdgfd--Pdgfrb		False	0
+P7	Vegfa--Flt1		False	0
+P7	Vegfa--Kdr		False	0
+P7	Vegfb--Flt1		False	0
+P7	Vegfc--Flt4		False	0
+P7	Vegfc--Kdr		False	0
+P7	Vegfd--Flt4		False	0
+P7	Vegfd--Kdr		False	0
+P7	Vegfa--Flt1_Kdr		False	0
+P7	Vegfc--Flt4_Kdr		False	0
+P7	Vegfd--Flt4_Kdr		False	0
+P7	Igf1--Igf1r	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Immune;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Kirrel3;Immune	True	1.3458432
+P7	Igf2--Igf1r	Broad:Endothelial;EC:Endocardial-like;EC:Unresolved	True	0.75344156
+P7	Igf2--Igf2r	Broad:Endothelial;EC:Endocardial-like;EC:Unresolved	True	0.75344156
+P7	Igf1--Itgav_Itgb3		False	0
+P7	Igf1--Itga6_Itgb4		False	0
+P7	Igf2--Itgav_Itgb3		False	0
+P7	Igf2--Itga6_Itgb4		False	0
+P7	Ccl25--Ackr4		False	0
+P7	Il34--Csf1r		False	0
+P7	Csf1--Csf1r		False	0
+P7	Eda--Edar		False	0
+P7	Tnfsf11--Tnfrsf11a		False	0
+P7	Tnfsf11--Tnfrsf11b		False	0
+P7	Nampt--Insr		False	0
+P7	Nampt--Itga5_Itgb1		False	0
+P7	Angptl2--Itga5_Itgb1		False	0
+P7	Angptl2--Tlr4	Broad:Fibroblast;Broad:Immune;EC:Unresolved;FB:Postn;FB:Gfpt2;Immune	True	0.45117208
+P7	Angptl2--Pirb		False	0
+P7	Angpt1--Tek		False	0
+P7	Angpt2--Tek		False	0
+P7	Angpt2--Itga5_Itgb1		False	0
+P7	Ptn--Ptprz1		False	0
+P7	Ptn--Sdc2	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Immune;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Pericyte;Immune	True	0.17437761
+P7	Ptn--Sdc4		False	0
+P7	Ptn--Itgav_Itgb3		False	0
+P7	Ptn--Ncl		False	0
+P7	Postn--Itgav_Itgb3		False	0
+P7	Postn--Itgav_Itgb5		False	0
+P7	Nppa--Npr1		False	0
+P7	Kitl--Kit		False	0
+P7	Ntf3--Ntrk2		False	0
+P7	Ntf3--Ntrk3		False	0
+P7	Sema3a--Nrp1_Plxna2	CM;Broad:Endothelial;Broad:Epicardial;EC:Endocardial-like;EC:Unresolved;Epicardial	True	0.44643654
+P7	Sema3a--Nrp1_Plxna4	CM;Broad:Endothelial;Broad:Epicardial;EC:Endocardial-like;EC:Unresolved;Epicardial	True	0.44643654
+P7	Sema3c--Nrp1_Plxna2	Broad:Endothelial;Broad:Fibroblast;Broad:Immune;Broad:Epicardial;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Immune;Epicardial	True	0.61160419
+P7	Sema3c--Nrp1_Plxna4	Broad:Endothelial;Broad:Fibroblast;Broad:Immune;Broad:Epicardial;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Immune;Epicardial	True	0.92751282
+P7	Sema3c--Plxnd1		False	0
+P7	Sema3e--Plxnd1		False	0
+P7	Gas6--Axl		False	0
+P7	Gas6--Mertk		False	0
+P7	Grn--Sort1		False	0
+P7	Lgals9--Ptprc		False	0
+P7	Pros1--Axl		False	0
+P7	Rarres2--Cmklr1		False	0
+P7	Lgals9--Cd44		False	0
+P7	Col1a1--Itga1_Itgb1	Broad:Endothelial;Broad:Fibroblast;Broad:Immune;Broad:Epicardial;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Immune;Epicardial	True	0.25249715
+P7	Col1a2--Itga1_Itgb1	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.25249715
+P7	Col4a1--Itga1_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.25249715
+P7	Col4a2--Itga1_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.25249715
+P7	Col4a3--Itga1_Itgb1	Broad:Epicardial;EC:Endocardial-like;Epicardial	True	0.25249715
+P7	Col4a4--Itga1_Itgb1	Broad:Endothelial;Broad:Epicardial;EC:Endocardial-like;FB:Kirrel3;Epicardial	True	0.25249715
+P7	Col4a5--Itga1_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Smooth muscle;Broad:Epicardial;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Smooth muscle;Epicardial	True	0.25249715
+P7	Col4a6--Itga1_Itgb1	Broad:Epicardial;FB:Kirrel3;Epicardial	True	0.23300407
+P7	Col6a1--Itga1_Itgb1	Broad:Fibroblast;FB:Gfpt2	True	0.25249715
+P7	Col6a2--Itga1_Itgb1	Broad:Fibroblast;Broad:Immune;EC:Unresolved;FB:Postn;FB:Gfpt2;Immune	True	0.25249715
+P7	Col6a3--Itga1_Itgb1	Broad:Endothelial;Broad:Fibroblast;Broad:Immune;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Immune	True	0.25249715
+P7	Col6a6--Itga1_Itgb1	Broad:Endothelial;Broad:Fibroblast;Broad:Immune;Broad:Epicardial;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Immune;Epicardial	True	0.25249715
+P7	Fn1--Itga3_Itgb1		False	0
+P7	Fn1--Itga4_Itgb1		False	0
+P7	Fn1--Itga5_Itgb1		False	0
+P7	Fn1--Itga8_Itgb1		False	0
+P7	Lama3--Itga1_Itgb1	Broad:Epicardial;EC:Unresolved;Epicardial	True	0.25249715
+P7	Lama4--Itga1_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.25249715
+P7	Lama5--Itga1_Itgb1	Broad:Smooth muscle;Smooth muscle	True	0.25249715
+P7	Lamb1--Itga1_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Pericyte;Immune;Epicardial	True	0.25249715
+P7	Lamb2--Itga1_Itgb1		False	0
+P7	Lamb3--Itga1_Itgb1		False	0
+P7	Lamc1--Itga1_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.25249715
+P7	Lama3--Itga3_Itgb1		False	0
+P7	Lama4--Itga3_Itgb1		False	0
+P7	Lama5--Itga3_Itgb1		False	0
+P7	Lamb1--Itga3_Itgb1		False	0
+P7	Lamb2--Itga3_Itgb1		False	0
+P7	Lamb3--Itga3_Itgb1		False	0
+P7	Lamc1--Itga3_Itgb1		False	0
+P7	Reln--Itga3_Itgb1		False	0
+P7	Thbs1--Itga3_Itgb1		False	0
+P7	Col1a1--Itga3_Itgb1		False	0
+P7	Col1a2--Itga3_Itgb1		False	0
+P7	Col4a1--Itga3_Itgb1		False	0
+P7	Col4a2--Itga3_Itgb1		False	0
+P7	Col4a3--Itga3_Itgb1		False	0
+P7	Col4a4--Itga3_Itgb1		False	0
+P7	Col4a5--Itga3_Itgb1		False	0
+P7	Col4a6--Itga3_Itgb1		False	0
+P7	Col6a1--Itga3_Itgb1		False	0
+P7	Col6a2--Itga3_Itgb1		False	0
+P7	Col6a3--Itga3_Itgb1		False	0
+P7	Col6a6--Itga3_Itgb1		False	0
+P7	Lama3--Itga6_Itgb1		False	0
+P7	Lama4--Itga6_Itgb1		False	0
+P7	Lama5--Itga6_Itgb1		False	0
+P7	Lamb1--Itga6_Itgb1		False	0
+P7	Lamb2--Itga6_Itgb1		False	0
+P7	Lamb3--Itga6_Itgb1		False	0
+P7	Lamc1--Itga6_Itgb1		False	0
+P7	Lama3--Itga7_Itgb1		False	0
+P7	Lama4--Itga7_Itgb1		False	0
+P7	Lama5--Itga7_Itgb1		False	0
+P7	Lamb1--Itga7_Itgb1		False	0
+P7	Lamb2--Itga7_Itgb1		False	0
+P7	Lamb3--Itga7_Itgb1		False	0
+P7	Lamc1--Itga7_Itgb1		False	0
+P7	Vtn--Itga8_Itgb1		False	0
+P7	Tnc--Itga8_Itgb1		False	0
+P7	Tnr--Itga8_Itgb1		False	0
+P7	Tnxb--Itga8_Itgb1		False	0
+P7	Tnc--Itga9_Itgb1	Broad:Endothelial;Broad:Fibroblast;EC:Unresolved;FB:Postn;FB:Kirrel3	True	0.42610259
+P7	Tnr--Itga9_Itgb1		False	0
+P7	Tnxb--Itga9_Itgb1	Broad:Endothelial;Broad:Fibroblast;Broad:Immune;EC:Unresolved;FB:Postn;FB:Gfpt2;Immune	True	0.42610259
+P7	Col1a1--Itga9_Itgb1	Broad:Endothelial;Broad:Fibroblast;Broad:Immune;Broad:Epicardial;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Immune;Epicardial	True	0.42610259
+P7	Col1a2--Itga9_Itgb1	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.42610259
+P7	Col4a1--Itga9_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.42610259
+P7	Col4a2--Itga9_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.42610259
+P7	Col4a3--Itga9_Itgb1	Broad:Epicardial;EC:Endocardial-like;Epicardial	True	0.42610259
+P7	Col4a4--Itga9_Itgb1	Broad:Endothelial;Broad:Epicardial;EC:Endocardial-like;FB:Kirrel3;Epicardial	True	0.42610259
+P7	Col4a5--Itga9_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Smooth muscle;Broad:Epicardial;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Smooth muscle;Epicardial	True	0.42610259
+P7	Col4a6--Itga9_Itgb1	Broad:Epicardial;FB:Kirrel3;Epicardial	True	0.23300407
+P7	Col6a1--Itga9_Itgb1	Broad:Fibroblast;FB:Gfpt2	True	0.35172207
+P7	Col6a2--Itga9_Itgb1	Broad:Fibroblast;Broad:Immune;EC:Unresolved;FB:Postn;FB:Gfpt2;Immune	True	0.42610259
+P7	Col6a3--Itga9_Itgb1	Broad:Endothelial;Broad:Fibroblast;Broad:Immune;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Immune	True	0.42610259
+P7	Col6a6--Itga9_Itgb1	Broad:Endothelial;Broad:Fibroblast;Broad:Immune;Broad:Epicardial;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Immune;Epicardial	True	0.42610259
+P7	Lama3--Itga9_Itgb1	Broad:Epicardial;EC:Unresolved;Epicardial	True	0.34625159
+P7	Lama4--Itga9_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.42610259
+P7	Lama5--Itga9_Itgb1	Broad:Smooth muscle;Smooth muscle	True	0.32846419
+P7	Lamb1--Itga9_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Pericyte;Immune;Epicardial	True	0.42610259
+P7	Lamb2--Itga9_Itgb1		False	0
+P7	Lamb3--Itga9_Itgb1		False	0
+P7	Lamc1--Itga9_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.42610259
+P7	Col1a1--Itga10_Itgb1		False	0
+P7	Col1a2--Itga10_Itgb1		False	0
+P7	Col4a1--Itga10_Itgb1		False	0
+P7	Col4a2--Itga10_Itgb1		False	0
+P7	Col4a3--Itga10_Itgb1		False	0
+P7	Col4a4--Itga10_Itgb1		False	0
+P7	Col4a5--Itga10_Itgb1		False	0
+P7	Col4a6--Itga10_Itgb1		False	0
+P7	Col6a1--Itga10_Itgb1		False	0
+P7	Col6a2--Itga10_Itgb1		False	0
+P7	Col6a3--Itga10_Itgb1		False	0
+P7	Col6a6--Itga10_Itgb1		False	0
+P7	Fn1--Itgav_Itgb1		False	0
+P7	Vtn--Itgav_Itgb1		False	0
+P7	Fn1--Itgav_Itgb3		False	0
+P7	Vtn--Itgav_Itgb3		False	0
+P7	Vwf--Itgav_Itgb3		False	0
+P7	Tnc--Itgav_Itgb3		False	0
+P7	Tnr--Itgav_Itgb3		False	0
+P7	Tnxb--Itgav_Itgb3		False	0
+P7	Thbs1--Itgav_Itgb3		False	0
+P7	Vtn--Itgav_Itgb5		False	0
+P7	Tnc--Itgav_Itgb6		False	0
+P7	Tnr--Itgav_Itgb6		False	0
+P7	Tnxb--Itgav_Itgb6		False	0
+P7	Fn1--Itgav_Itgb6		False	0
+P7	Vtn--Itgav_Itgb8		False	0
+P7	Fn1--Itgav_Itgb8		False	0
+P7	Lama3--Itgav_Itgb8		False	0
+P7	Lama4--Itgav_Itgb8		False	0
+P7	Lama5--Itgav_Itgb8		False	0
+P7	Lamb1--Itgav_Itgb8		False	0
+P7	Lamb2--Itgav_Itgb8		False	0
+P7	Lamb3--Itgav_Itgb8		False	0
+P7	Lamc1--Itgav_Itgb8		False	0
+P7	Col1a1--Itgav_Itgb8		False	0
+P7	Col1a2--Itgav_Itgb8		False	0
+P7	Col4a1--Itgav_Itgb8		False	0
+P7	Col4a2--Itgav_Itgb8		False	0
+P7	Col4a3--Itgav_Itgb8		False	0
+P7	Col4a4--Itgav_Itgb8		False	0
+P7	Col4a5--Itgav_Itgb8		False	0
+P7	Col4a6--Itgav_Itgb8		False	0
+P7	Col6a1--Itgav_Itgb8		False	0
+P7	Col6a2--Itgav_Itgb8		False	0
+P7	Col6a3--Itgav_Itgb8		False	0
+P7	Col6a6--Itgav_Itgb8		False	0
+P7	Lama3--Itga6_Itgb4		False	0
+P7	Lama4--Itga6_Itgb4		False	0
+P7	Lama5--Itga6_Itgb4		False	0
+P7	Lamb1--Itga6_Itgb4		False	0
+P7	Lamb2--Itga6_Itgb4		False	0
+P7	Lamb3--Itga6_Itgb4		False	0
+P7	Lamc1--Itga6_Itgb4		False	0
+P7	Fn1--Cd44		False	0
+P7	Col1a1--Cd44		False	0
+P7	Col1a2--Cd44		False	0
+P7	Col4a1--Cd44		False	0
+P7	Col4a2--Cd44		False	0
+P7	Col4a3--Cd44		False	0
+P7	Col4a4--Cd44		False	0
+P7	Col4a5--Cd44		False	0
+P7	Col4a6--Cd44		False	0
+P7	Col6a1--Cd44		False	0
+P7	Col6a2--Cd44		False	0
+P7	Col6a3--Cd44		False	0
+P7	Col6a6--Cd44		False	0
+P7	Lama3--Cd44		False	0
+P7	Lama4--Cd44		False	0
+P7	Lama5--Cd44		False	0
+P7	Lamb1--Cd44		False	0
+P7	Lamb2--Cd44		False	0
+P7	Lamb3--Cd44		False	0
+P7	Lamc1--Cd44		False	0
+P7	Col1a1--Sdc4		False	0
+P7	Col1a2--Sdc4		False	0
+P7	Col4a1--Sdc4		False	0
+P7	Col4a2--Sdc4		False	0
+P7	Col4a3--Sdc4		False	0
+P7	Col4a4--Sdc4		False	0
+P7	Col4a5--Sdc4		False	0
+P7	Col4a6--Sdc4		False	0
+P7	Col6a1--Sdc4		False	0
+P7	Col6a2--Sdc4		False	0
+P7	Col6a3--Sdc4		False	0
+P7	Col6a6--Sdc4		False	0
+P7	Fn1--Sdc4		False	0
+P7	Tnc--Sdc4		False	0
+P7	Tnr--Sdc4		False	0
+P7	Tnxb--Sdc4		False	0
+P7	Thbs1--Sdc4		False	0
+P7	Thbs1--Cd36	Broad:Fibroblast;Broad:Epicardial;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Epicardial	True	0.73950813
+P7	Thbs1--Cd47		False	0
+P7	Agrn--Dag1	CM;Broad:Endothelial;EC:Endocardial-like;EC:Unresolved	True	0.54185902
+P7	Hspg2--Dag1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Gfpt2;Pericyte;Smooth muscle;Immune;Epicardial	True	0.79990972
+P7	Lama3--Dag1	Broad:Epicardial;EC:Unresolved;Epicardial	True	0.34625159
+P7	Lama4--Dag1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.79990972
+P7	Lama5--Dag1	Broad:Smooth muscle;Smooth muscle	True	0.32846419
+P7	Lamb1--Dag1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Pericyte;Immune;Epicardial	True	0.79990972
+P7	Lamb2--Dag1		False	0
+P7	Lamb3--Dag1		False	0
+P7	Lamc1--Dag1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.79990972
+P7	Cadm1--Cadm1		False	0
+P7	Cd200--Cd200r1		False	0
+P7	Cd22--Ptprc		False	0
+P7	Entpd1--Adora1		False	0
+P7	Ptprc--Cd22		False	0
+P7	Ptprc--Mrc1		False	0
+P7	Cd46--Jag1		False	0
+P7	Cd48--Cd244a		False	0
+P7	Cdh4--Cdh4		False	0
+P7	Cdh2--Cdh2	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	3.3477505
+P7	Cdh1--Cdh1		False	0
+P7	Cdh5--Cdh5		False	0
+P7	Cntn2--L1cam		False	0
+P7	Cntn2--Cntn2		False	0
+P7	Cspg4--Itga3_Itgb1		False	0
+P7	Dsc2--Dsg2	CM	True	0.28633313
+P7	Efnb2--Epha4	Broad:Endothelial;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;Immune;Epicardial	True	0.31641293
+P7	Efnb2--Ephb1		False	0
+P7	Efnb2--Ephb2		False	0
+P7	Efnb2--Ephb3		False	0
+P7	Efnb2--Ephb4		False	0
+P7	Esam--Esam		False	0
+P7	Jam2--Itga3_Itgb1		False	0
+P7	Jam2--Itgav_Itgb1		False	0
+P7	Jam2--Jam3		False	0
+P7	F11r--F11r		False	0
+P7	F11r--Jam2		False	0
+P7	F11r--Jam3		False	0
+P7	Jam2--F11r		False	0
+P7	Jam2--Jam2		False	0
+P7	Jam3--F11r		False	0
+P7	Jam3--Jam2		False	0
+P7	Jam3--Jam3		False	0
+P7	L1cam--Itgav_Itgb3		False	0
+P7	L1cam--L1cam		False	0
+P7	Mpzl1--Mpzl1		False	0
+P7	Ncam1--Fgfr1		False	0
+P7	Ncam1--Ncam1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.57973035
+P7	Ncam1--Ncam2		False	0
+P7	Ncam1--L1cam		False	0
+P7	Ncam2--L1cam		False	0
+P7	Nectin3--Pvr		False	0
+P7	Negr1--Negr1		False	0
+P7	Lrrc4c--Ntng1		False	0
+P7	Lrrc4--Ntng2		False	0
+P7	Dll4--Notch1		False	0
+P7	Dll4--Notch2		False	0
+P7	Dll4--Notch3		False	0
+P7	Dll4--Notch4		False	0
+P7	Jag1--Notch1		False	0
+P7	Jag1--Notch2	Broad:Endothelial;Broad:Fibroblast;Broad:Smooth muscle;Broad:Immune;EC:Unresolved;FB:Gfpt2;Smooth muscle;Immune	True	0.48832468
+P7	Jag1--Notch3		False	0
+P7	Jag1--Notch4		False	0
+P7	Nrxn1--Nlgn3		False	0
+P7	Nrxn3--Nlgn3		False	0
+P7	Pecam1--Pecam1		False	0
+P7	Ptprm--Ptprm	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	2.2805058
+P7	Sema4a--Nrp1_Plxna2		False	0
+P7	Sema4a--Nrp1_Plxna4		False	0
+P7	Sema6a--Plxna2	Broad:Endothelial;Broad:Fibroblast;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Immune;Epicardial	True	0.70954241
+P7	Sema6a--Plxna4	Broad:Endothelial;Broad:Fibroblast;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Postn;FB:Gfpt2;FB:Kirrel3;Immune;Epicardial	True	1.0837833
+P7	Sema7a--Itga1_Itgb1	EC:Unresolved	True	0.21537588
+P7	Sema7a--Plxnc1		False	0
+P7	Itga4_Itgb1--Vcam1		False	0
+P7	Itga9_Itgb1--Vcam1		False	0
+P7	Vsir--Igsf11		False	0
+P14	Tgfb1--Tgfbr1_Tgfbr2		False	0
+P14	Tgfb2--Tgfbr1_Tgfbr2		False	0
+P14	Tgfb1--Acvr1_Tgfbr1_Tgfbr2		False	0
+P14	Tgfb2--Acvr1_Tgfbr1_Tgfbr2		False	0
+P14	Bmp5--Acvr1_Acvr2a	Broad:Pericyte;Broad:Smooth muscle;Pericyte;Smooth muscle	True	0.20723534
+P14	Bmp5--Acvr1_Bmpr2	Broad:Pericyte;Broad:Smooth muscle;Pericyte;Smooth muscle	True	0.25425745
+P14	Bmp5--Acvr2a_Bmpr1a	Broad:Pericyte;Broad:Smooth muscle;Pericyte;Smooth muscle	True	0.47814502
+P14	Bmp5--Bmpr1a_Bmpr2	Broad:Pericyte;Broad:Smooth muscle;Pericyte;Smooth muscle	True	0.50669508
+P14	Bmp5--Acvr2a_Bmpr1b		False	0
+P14	Bmp5--Bmpr1b_Bmpr2		False	0
+P14	Bmp6--Acvr1_Acvr2a	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.20723534
+P14	Bmp6--Acvr1_Bmpr2	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.25425745
+P14	Bmp6--Acvr2a_Bmpr1a	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.47814502
+P14	Bmp6--Bmpr1a_Bmpr2	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.60610554
+P14	Bmp6--Acvr2a_Bmpr1b		False	0
+P14	Bmp6--Bmpr1b_Bmpr2		False	0
+P14	Wnt9a--Fzd4_Lrp5		False	0
+P14	Wnt9a--Fzd6_Lrp5		False	0
+P14	Wnt9a--Fzd4_Lrp6		False	0
+P14	Wnt9a--Fzd6_Lrp6		False	0
+P14	Wnt5a--Fzd4		False	0
+P14	Wnt5a--Fzd6	Broad:Epicardial;Epicardial	True	0.25165533
+P14	Wnt5a--Mcam		False	0
+P14	Wnt5b--Fzd4		False	0
+P14	Wnt5b--Fzd6	CM;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Epicardial;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Epicardial	True	0.25165533
+P14	Egf--Egfr		False	0
+P14	Tgfa--Egfr		False	0
+P14	Hbegf--Egfr		False	0
+P14	Hbegf--Erbb4		False	0
+P14	Nrg1--Erbb3		False	0
+P14	Nrg1--Erbb4	Broad:Endothelial;Broad:Epicardial;EC:Endocardial-like;Epicardial	True	1.4352057
+P14	Nrg2--Erbb3		False	0
+P14	Nrg2--Erbb4	Broad:Immune;Broad:Epicardial;Immune;Epicardial	True	1.043548
+P14	Nrg1--Itgav_Itgb3		False	0
+P14	Fgf1--Fgfr1	CM;Broad:Pericyte;Broad:Smooth muscle;Broad:Epicardial;FB:Kirrel3;Pericyte;Smooth muscle;Epicardial	True	0.11187086
+P14	Fgf1--Fgfr2	CM;Broad:Pericyte;Broad:Smooth muscle;Broad:Epicardial;FB:Kirrel3;Pericyte;Smooth muscle;Epicardial	True	1.9118659
+P14	Fgf2--Fgfr1	Broad:Fibroblast;Broad:Smooth muscle;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Smooth muscle;Epicardial	True	0.11187086
+P14	Fgf2--Fgfr2	Broad:Fibroblast;Broad:Smooth muscle;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Smooth muscle;Epicardial	True	0.4592604
+P14	Fgf9--Fgfr1	CM	True	0.11187086
+P14	Fgf9--Fgfr2	CM	True	0.13010578
+P14	Pdgfa--Pdgfra		False	0
+P14	Pdgfa--Pdgfrb		False	0
+P14	Pdgfb--Pdgfra		False	0
+P14	Pdgfb--Pdgfrb		False	0
+P14	Pdgfc--Pdgfra		False	0
+P14	Pdgfd--Pdgfrb		False	0
+P14	Vegfa--Flt1		False	0
+P14	Vegfa--Kdr		False	0
+P14	Vegfb--Flt1		False	0
+P14	Vegfc--Flt4		False	0
+P14	Vegfc--Kdr		False	0
+P14	Vegfd--Flt4		False	0
+P14	Vegfd--Kdr		False	0
+P14	Vegfa--Flt1_Kdr		False	0
+P14	Vegfc--Flt4_Kdr		False	0
+P14	Vegfd--Flt4_Kdr		False	0
+P14	Igf1--Igf1r	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Immune;Broad:Epicardial;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Immune;Epicardial	True	1.2553753
+P14	Igf2--Igf1r	Broad:Endothelial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like	True	0.76841736
+P14	Igf2--Igf2r	Broad:Endothelial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like	True	0.76841736
+P14	Igf1--Itgav_Itgb3		False	0
+P14	Igf1--Itga6_Itgb4		False	0
+P14	Igf2--Itgav_Itgb3		False	0
+P14	Igf2--Itga6_Itgb4		False	0
+P14	Ccl25--Ackr4	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.22542105
+P14	Il34--Csf1r		False	0
+P14	Csf1--Csf1r		False	0
+P14	Eda--Edar		False	0
+P14	Tnfsf11--Tnfrsf11a		False	0
+P14	Tnfsf11--Tnfrsf11b		False	0
+P14	Nampt--Insr	CM;Broad:Fibroblast;Broad:Pericyte;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;Pericyte	True	0.4134151
+P14	Nampt--Itga5_Itgb1	CM;Broad:Fibroblast;Broad:Pericyte;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;Pericyte	True	0.21190017
+P14	Angptl2--Itga5_Itgb1	CM;Broad:Fibroblast;Broad:Pericyte;Broad:Immune;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Immune	True	0.21190017
+P14	Angptl2--Tlr4	CM;Broad:Fibroblast;Broad:Pericyte;Broad:Immune;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Immune	True	0.68120782
+P14	Angptl2--Pirb		False	0
+P14	Angpt1--Tek		False	0
+P14	Angpt2--Tek		False	0
+P14	Angpt2--Itga5_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;EC:Capillary-like;EC:Endocardial-like;FB:Lsamp;Pericyte;Smooth muscle	True	0.21190017
+P14	Ptn--Ptprz1		False	0
+P14	Ptn--Sdc2	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;EC:Endocardial-like;EC:Venous-like;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte	True	0.13789013
+P14	Ptn--Sdc4		False	0
+P14	Ptn--Itgav_Itgb3		False	0
+P14	Ptn--Ncl	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;EC:Endocardial-like;EC:Venous-like;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte	True	0.24868323
+P14	Postn--Itgav_Itgb3		False	0
+P14	Postn--Itgav_Itgb5		False	0
+P14	Nppa--Npr1		False	0
+P14	Kitl--Kit		False	0
+P14	Ntf3--Ntrk2		False	0
+P14	Ntf3--Ntrk3		False	0
+P14	Sema3a--Nrp1_Plxna2	CM;Broad:Endothelial;Broad:Epicardial;EC:Endocardial-like;EC:Venous-like;Epicardial	True	0.47229346
+P14	Sema3a--Nrp1_Plxna4	CM;Broad:Endothelial;Broad:Epicardial;EC:Endocardial-like;EC:Venous-like;Epicardial	True	0.47229346
+P14	Sema3c--Nrp1_Plxna2	CM;Broad:Fibroblast;Broad:Immune;Broad:Epicardial;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Immune;Epicardial	True	0.80659599
+P14	Sema3c--Nrp1_Plxna4	CM;Broad:Fibroblast;Broad:Immune;Broad:Epicardial;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Immune;Epicardial	True	0.71918325
+P14	Sema3c--Plxnd1		False	0
+P14	Sema3e--Plxnd1		False	0
+P14	Gas6--Axl		False	0
+P14	Gas6--Mertk		False	0
+P14	Grn--Sort1	Broad:Immune;EC:Venous-like;Immune	True	0.1149959
+P14	Lgals9--Ptprc		False	0
+P14	Pros1--Axl		False	0
+P14	Rarres2--Cmklr1		False	0
+P14	Lgals9--Cd44	Broad:Endothelial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2	True	0.23603247
+P14	Col1a1--Itga1_Itgb1	Broad:Fibroblast;Broad:Pericyte;Broad:Epicardial;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Epicardial	True	0.25212116
+P14	Col1a2--Itga1_Itgb1	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.25212116
+P14	Col4a1--Itga1_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.25212116
+P14	Col4a2--Itga1_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.25212116
+P14	Col4a3--Itga1_Itgb1	Broad:Endothelial;Broad:Fibroblast;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Epicardial	True	0.25212116
+P14	Col4a4--Itga1_Itgb1	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Epicardial	True	0.25212116
+P14	Col4a5--Itga1_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Smooth muscle;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Smooth muscle;Epicardial	True	0.25212116
+P14	Col4a6--Itga1_Itgb1	Broad:Fibroblast;Broad:Smooth muscle;Broad:Epicardial;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Smooth muscle;Epicardial	True	0.25212116
+P14	Col6a1--Itga1_Itgb1	Broad:Fibroblast;Broad:Pericyte;FB:Gfpt2;FB:Col8a1;FB:Lsamp;Pericyte	True	0.25212116
+P14	Col6a2--Itga1_Itgb1	Broad:Fibroblast;Broad:Pericyte;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Epicardial	True	0.25212116
+P14	Col6a3--Itga1_Itgb1	Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle	True	0.25212116
+P14	Col6a6--Itga1_Itgb1	Broad:Fibroblast;Broad:Epicardial;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Epicardial	True	0.25212116
+P14	Fn1--Itga3_Itgb1		False	0
+P14	Fn1--Itga4_Itgb1		False	0
+P14	Fn1--Itga5_Itgb1	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;Pericyte;Smooth muscle;Immune;Epicardial	True	0.21190017
+P14	Fn1--Itga8_Itgb1		False	0
+P14	Lama3--Itga1_Itgb1	CM;Broad:Endothelial;Broad:Epicardial;EC:Capillary-like;Epicardial	True	0.25212116
+P14	Lama4--Itga1_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.25212116
+P14	Lama5--Itga1_Itgb1	CM;Broad:Smooth muscle;Broad:Epicardial;Smooth muscle;Epicardial	True	0.25212116
+P14	Lamb1--Itga1_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Immune;Epicardial	True	0.25212116
+P14	Lamb2--Itga1_Itgb1	CM;Broad:Smooth muscle;EC:Venous-like;Smooth muscle	True	0.25212116
+P14	Lamb3--Itga1_Itgb1		False	0
+P14	Lamc1--Itga1_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.25212116
+P14	Lama3--Itga3_Itgb1		False	0
+P14	Lama4--Itga3_Itgb1		False	0
+P14	Lama5--Itga3_Itgb1		False	0
+P14	Lamb1--Itga3_Itgb1		False	0
+P14	Lamb2--Itga3_Itgb1		False	0
+P14	Lamb3--Itga3_Itgb1		False	0
+P14	Lamc1--Itga3_Itgb1		False	0
+P14	Reln--Itga3_Itgb1		False	0
+P14	Thbs1--Itga3_Itgb1		False	0
+P14	Col1a1--Itga3_Itgb1		False	0
+P14	Col1a2--Itga3_Itgb1		False	0
+P14	Col4a1--Itga3_Itgb1		False	0
+P14	Col4a2--Itga3_Itgb1		False	0
+P14	Col4a3--Itga3_Itgb1		False	0
+P14	Col4a4--Itga3_Itgb1		False	0
+P14	Col4a5--Itga3_Itgb1		False	0
+P14	Col4a6--Itga3_Itgb1		False	0
+P14	Col6a1--Itga3_Itgb1		False	0
+P14	Col6a2--Itga3_Itgb1		False	0
+P14	Col6a3--Itga3_Itgb1		False	0
+P14	Col6a6--Itga3_Itgb1		False	0
+P14	Lama3--Itga6_Itgb1		False	0
+P14	Lama4--Itga6_Itgb1		False	0
+P14	Lama5--Itga6_Itgb1		False	0
+P14	Lamb1--Itga6_Itgb1		False	0
+P14	Lamb2--Itga6_Itgb1		False	0
+P14	Lamb3--Itga6_Itgb1		False	0
+P14	Lamc1--Itga6_Itgb1		False	0
+P14	Lama3--Itga7_Itgb1	CM;Broad:Endothelial;Broad:Epicardial;EC:Capillary-like;Epicardial	True	0.18173213
+P14	Lama4--Itga7_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.18173213
+P14	Lama5--Itga7_Itgb1	CM;Broad:Smooth muscle;Broad:Epicardial;Smooth muscle;Epicardial	True	0.18173213
+P14	Lamb1--Itga7_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Immune;Epicardial	True	0.18173213
+P14	Lamb2--Itga7_Itgb1	CM;Broad:Smooth muscle;EC:Venous-like;Smooth muscle	True	0.18173213
+P14	Lamb3--Itga7_Itgb1		False	0
+P14	Lamc1--Itga7_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.18173213
+P14	Vtn--Itga8_Itgb1		False	0
+P14	Tnc--Itga8_Itgb1		False	0
+P14	Tnr--Itga8_Itgb1		False	0
+P14	Tnxb--Itga8_Itgb1		False	0
+P14	Tnc--Itga9_Itgb1	Broad:Fibroblast;FB:Col8a1;FB:Lsamp	True	0.2799057
+P14	Tnr--Itga9_Itgb1	CM	True	0.2972672
+P14	Tnxb--Itga9_Itgb1	Broad:Fibroblast;Broad:Pericyte;Broad:Immune;Broad:Epicardial;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Immune;Epicardial	True	0.57777603
+P14	Col1a1--Itga9_Itgb1	Broad:Fibroblast;Broad:Pericyte;Broad:Epicardial;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Epicardial	True	0.57777603
+P14	Col1a2--Itga9_Itgb1	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.57777603
+P14	Col4a1--Itga9_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.57777603
+P14	Col4a2--Itga9_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.57777603
+P14	Col4a3--Itga9_Itgb1	Broad:Endothelial;Broad:Fibroblast;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Epicardial	True	0.57777603
+P14	Col4a4--Itga9_Itgb1	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Epicardial	True	0.57777603
+P14	Col4a5--Itga9_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Smooth muscle;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Smooth muscle;Epicardial	True	0.57777603
+P14	Col4a6--Itga9_Itgb1	Broad:Fibroblast;Broad:Smooth muscle;Broad:Epicardial;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Smooth muscle;Epicardial	True	0.57777603
+P14	Col6a1--Itga9_Itgb1	Broad:Fibroblast;Broad:Pericyte;FB:Gfpt2;FB:Col8a1;FB:Lsamp;Pericyte	True	0.53431652
+P14	Col6a2--Itga9_Itgb1	Broad:Fibroblast;Broad:Pericyte;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Epicardial	True	0.57777603
+P14	Col6a3--Itga9_Itgb1	Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle	True	0.57777603
+P14	Col6a6--Itga9_Itgb1	Broad:Fibroblast;Broad:Epicardial;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Epicardial	True	0.57777603
+P14	Lama3--Itga9_Itgb1	CM;Broad:Endothelial;Broad:Epicardial;EC:Capillary-like;Epicardial	True	0.57777603
+P14	Lama4--Itga9_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.57777603
+P14	Lama5--Itga9_Itgb1	CM;Broad:Smooth muscle;Broad:Epicardial;Smooth muscle;Epicardial	True	0.53031026
+P14	Lamb1--Itga9_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Immune;Epicardial	True	0.57777603
+P14	Lamb2--Itga9_Itgb1	CM;Broad:Smooth muscle;EC:Venous-like;Smooth muscle	True	0.26172795
+P14	Lamb3--Itga9_Itgb1		False	0
+P14	Lamc1--Itga9_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.57777603
+P14	Col1a1--Itga10_Itgb1		False	0
+P14	Col1a2--Itga10_Itgb1		False	0
+P14	Col4a1--Itga10_Itgb1		False	0
+P14	Col4a2--Itga10_Itgb1		False	0
+P14	Col4a3--Itga10_Itgb1		False	0
+P14	Col4a4--Itga10_Itgb1		False	0
+P14	Col4a5--Itga10_Itgb1		False	0
+P14	Col4a6--Itga10_Itgb1		False	0
+P14	Col6a1--Itga10_Itgb1		False	0
+P14	Col6a2--Itga10_Itgb1		False	0
+P14	Col6a3--Itga10_Itgb1		False	0
+P14	Col6a6--Itga10_Itgb1		False	0
+P14	Fn1--Itgav_Itgb1		False	0
+P14	Vtn--Itgav_Itgb1		False	0
+P14	Fn1--Itgav_Itgb3		False	0
+P14	Vtn--Itgav_Itgb3		False	0
+P14	Vwf--Itgav_Itgb3		False	0
+P14	Tnc--Itgav_Itgb3		False	0
+P14	Tnr--Itgav_Itgb3		False	0
+P14	Tnxb--Itgav_Itgb3		False	0
+P14	Thbs1--Itgav_Itgb3		False	0
+P14	Vtn--Itgav_Itgb5		False	0
+P14	Tnc--Itgav_Itgb6	Broad:Fibroblast;FB:Col8a1;FB:Lsamp	True	0.092735355
+P14	Tnr--Itgav_Itgb6	CM	True	0.092735355
+P14	Tnxb--Itgav_Itgb6	Broad:Fibroblast;Broad:Pericyte;Broad:Immune;Broad:Epicardial;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Immune;Epicardial	True	0.092735355
+P14	Fn1--Itgav_Itgb6	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;Pericyte;Smooth muscle;Immune;Epicardial	True	0.092735355
+P14	Vtn--Itgav_Itgb8		False	0
+P14	Fn1--Itgav_Itgb8		False	0
+P14	Lama3--Itgav_Itgb8		False	0
+P14	Lama4--Itgav_Itgb8		False	0
+P14	Lama5--Itgav_Itgb8		False	0
+P14	Lamb1--Itgav_Itgb8		False	0
+P14	Lamb2--Itgav_Itgb8		False	0
+P14	Lamb3--Itgav_Itgb8		False	0
+P14	Lamc1--Itgav_Itgb8		False	0
+P14	Col1a1--Itgav_Itgb8		False	0
+P14	Col1a2--Itgav_Itgb8		False	0
+P14	Col4a1--Itgav_Itgb8		False	0
+P14	Col4a2--Itgav_Itgb8		False	0
+P14	Col4a3--Itgav_Itgb8		False	0
+P14	Col4a4--Itgav_Itgb8		False	0
+P14	Col4a5--Itgav_Itgb8		False	0
+P14	Col4a6--Itgav_Itgb8		False	0
+P14	Col6a1--Itgav_Itgb8		False	0
+P14	Col6a2--Itgav_Itgb8		False	0
+P14	Col6a3--Itgav_Itgb8		False	0
+P14	Col6a6--Itgav_Itgb8		False	0
+P14	Lama3--Itga6_Itgb4		False	0
+P14	Lama4--Itga6_Itgb4		False	0
+P14	Lama5--Itga6_Itgb4		False	0
+P14	Lamb1--Itga6_Itgb4		False	0
+P14	Lamb2--Itga6_Itgb4		False	0
+P14	Lamb3--Itga6_Itgb4		False	0
+P14	Lamc1--Itga6_Itgb4		False	0
+P14	Fn1--Cd44	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;Pericyte;Smooth muscle;Immune;Epicardial	True	0.23603247
+P14	Col1a1--Cd44	Broad:Fibroblast;Broad:Pericyte;Broad:Epicardial;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Epicardial	True	0.23603247
+P14	Col1a2--Cd44	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.23603247
+P14	Col4a1--Cd44	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.23603247
+P14	Col4a2--Cd44	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.23603247
+P14	Col4a3--Cd44	Broad:Endothelial;Broad:Fibroblast;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Epicardial	True	0.23603247
+P14	Col4a4--Cd44	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Epicardial	True	0.23603247
+P14	Col4a5--Cd44	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Smooth muscle;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Smooth muscle;Epicardial	True	0.23603247
+P14	Col4a6--Cd44	Broad:Fibroblast;Broad:Smooth muscle;Broad:Epicardial;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Smooth muscle;Epicardial	True	0.23603247
+P14	Col6a1--Cd44	Broad:Fibroblast;Broad:Pericyte;FB:Gfpt2;FB:Col8a1;FB:Lsamp;Pericyte	True	0.23603247
+P14	Col6a2--Cd44	Broad:Fibroblast;Broad:Pericyte;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Epicardial	True	0.23603247
+P14	Col6a3--Cd44	Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle	True	0.23603247
+P14	Col6a6--Cd44	Broad:Fibroblast;Broad:Epicardial;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Epicardial	True	0.23603247
+P14	Lama3--Cd44	CM;Broad:Endothelial;Broad:Epicardial;EC:Capillary-like;Epicardial	True	0.23603247
+P14	Lama4--Cd44	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.23603247
+P14	Lama5--Cd44	CM;Broad:Smooth muscle;Broad:Epicardial;Smooth muscle;Epicardial	True	0.23603247
+P14	Lamb1--Cd44	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Immune;Epicardial	True	0.23603247
+P14	Lamb2--Cd44	CM;Broad:Smooth muscle;EC:Venous-like;Smooth muscle	True	0.23603247
+P14	Lamb3--Cd44		False	0
+P14	Lamc1--Cd44	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.23603247
+P14	Col1a1--Sdc4		False	0
+P14	Col1a2--Sdc4		False	0
+P14	Col4a1--Sdc4		False	0
+P14	Col4a2--Sdc4		False	0
+P14	Col4a3--Sdc4		False	0
+P14	Col4a4--Sdc4		False	0
+P14	Col4a5--Sdc4		False	0
+P14	Col4a6--Sdc4		False	0
+P14	Col6a1--Sdc4		False	0
+P14	Col6a2--Sdc4		False	0
+P14	Col6a3--Sdc4		False	0
+P14	Col6a6--Sdc4		False	0
+P14	Fn1--Sdc4		False	0
+P14	Tnc--Sdc4		False	0
+P14	Tnr--Sdc4		False	0
+P14	Tnxb--Sdc4		False	0
+P14	Thbs1--Sdc4		False	0
+P14	Thbs1--Cd36	Broad:Fibroblast;FB:Col8a1;FB:Kirrel3	True	0.28474872
+P14	Thbs1--Cd47	Broad:Fibroblast;FB:Col8a1;FB:Kirrel3	True	0.23101449
+P14	Agrn--Dag1	CM;Broad:Endothelial;Broad:Pericyte;Broad:Smooth muscle;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;Pericyte;Smooth muscle	True	0.40129983
+P14	Hspg2--Dag1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	1.3388505
+P14	Lama3--Dag1	CM;Broad:Endothelial;Broad:Epicardial;EC:Capillary-like;Epicardial	True	0.6167436
+P14	Lama4--Dag1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	1.3388505
+P14	Lama5--Dag1	CM;Broad:Smooth muscle;Broad:Epicardial;Smooth muscle;Epicardial	True	0.53031026
+P14	Lamb1--Dag1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Immune;Epicardial	True	1.3388505
+P14	Lamb2--Dag1	CM;Broad:Smooth muscle;EC:Venous-like;Smooth muscle	True	0.26172795
+P14	Lamb3--Dag1		False	0
+P14	Lamc1--Dag1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	1.3388505
+P14	Cadm1--Cadm1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;FB:Lsamp;FB:Kirrel3;Immune;Epicardial	True	0.055018928
+P14	Cd200--Cd200r1		False	0
+P14	Cd22--Ptprc		False	0
+P14	Entpd1--Adora1	Broad:Endothelial;Broad:Smooth muscle;Broad:Immune;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;Smooth muscle;Immune	True	0.16812362
+P14	Ptprc--Cd22		False	0
+P14	Ptprc--Mrc1		False	0
+P14	Cd46--Jag1		False	0
+P14	Cd48--Cd244a		False	0
+P14	Cdh4--Cdh4		False	0
+P14	Cdh2--Cdh2	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	2.8842525
+P14	Cdh1--Cdh1		False	0
+P14	Cdh5--Cdh5		False	0
+P14	Cntn2--L1cam		False	0
+P14	Cntn2--Cntn2		False	0
+P14	Cspg4--Itga3_Itgb1		False	0
+P14	Dsc2--Dsg2	CM	True	0.42205006
+P14	Efnb2--Epha4	Broad:Endothelial;Broad:Smooth muscle;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;Smooth muscle;Epicardial	True	0.30113863
+P14	Efnb2--Ephb1	Broad:Endothelial;Broad:Smooth muscle;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;Smooth muscle;Epicardial	True	0.056160049
+P14	Efnb2--Ephb2		False	0
+P14	Efnb2--Ephb3		False	0
+P14	Efnb2--Ephb4	Broad:Endothelial;Broad:Smooth muscle;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;Smooth muscle;Epicardial	True	0.10628683
+P14	Esam--Esam		False	0
+P14	Jam2--Itga3_Itgb1		False	0
+P14	Jam2--Itgav_Itgb1		False	0
+P14	Jam2--Jam3		False	0
+P14	F11r--F11r	CM;Broad:Endothelial;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;Immune;Epicardial	True	0.14494795
+P14	F11r--Jam2	CM;Broad:Endothelial;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;Immune;Epicardial	True	0.2669062
+P14	F11r--Jam3		False	0
+P14	Jam2--F11r	CM;Broad:Endothelial;Broad:Fibroblast;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Col8a1;FB:Lsamp	True	0.14494795
+P14	Jam2--Jam2	CM;Broad:Endothelial;Broad:Fibroblast;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Col8a1;FB:Lsamp	True	0.2669062
+P14	Jam3--F11r	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Epicardial;EC:Capillary-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;Pericyte;Smooth muscle;Epicardial	True	0.14494795
+P14	Jam3--Jam2	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Epicardial;EC:Capillary-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;Pericyte;Smooth muscle;Epicardial	True	0.2669062
+P14	Jam3--Jam3		False	0
+P14	L1cam--Itgav_Itgb3		False	0
+P14	L1cam--L1cam		False	0
+P14	Mpzl1--Mpzl1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Epicardial	True	0.15441834
+P14	Ncam1--Fgfr1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Epicardial	True	0.11187086
+P14	Ncam1--Ncam1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Epicardial	True	0.27372566
+P14	Ncam1--Ncam2		False	0
+P14	Ncam1--L1cam		False	0
+P14	Ncam2--L1cam		False	0
+P14	Nectin3--Pvr	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Epicardial	True	0.11076391
+P14	Negr1--Negr1		False	0
+P14	Lrrc4c--Ntng1		False	0
+P14	Lrrc4--Ntng2		False	0
+P14	Dll4--Notch1		False	0
+P14	Dll4--Notch2		False	0
+P14	Dll4--Notch3		False	0
+P14	Dll4--Notch4		False	0
+P14	Jag1--Notch1		False	0
+P14	Jag1--Notch2	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle	True	0.67946371
+P14	Jag1--Notch3	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle	True	0.18674566
+P14	Jag1--Notch4		False	0
+P14	Nrxn1--Nlgn3		False	0
+P14	Nrxn3--Nlgn3		False	0
+P14	Pecam1--Pecam1		False	0
+P14	Ptprm--Ptprm	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	2.6209569
+P14	Sema4a--Nrp1_Plxna2		False	0
+P14	Sema4a--Nrp1_Plxna4		False	0
+P14	Sema6a--Plxna2	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Immune;Epicardial	True	1.0166228
+P14	Sema6a--Plxna4	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Venous-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Immune;Epicardial	True	0.91493374
+P14	Sema7a--Itga1_Itgb1	Broad:Endothelial;Broad:Pericyte;EC:Capillary-like;Pericyte	True	0.25212116
+P14	Sema7a--Plxnc1		False	0
+P14	Itga4_Itgb1--Vcam1		False	0
+P14	Itga9_Itgb1--Vcam1		False	0
+P14	Vsir--Igsf11		False	0
+P21	Tgfb1--Tgfbr1_Tgfbr2		False	0
+P21	Tgfb2--Tgfbr1_Tgfbr2		False	0
+P21	Tgfb1--Acvr1_Tgfbr1_Tgfbr2		False	0
+P21	Tgfb2--Acvr1_Tgfbr1_Tgfbr2		False	0
+P21	Bmp5--Acvr1_Acvr2a	Broad:Pericyte;Broad:Smooth muscle;FB:Kirrel3;Pericyte;Smooth muscle	True	0.18070825
+P21	Bmp5--Acvr1_Bmpr2	Broad:Pericyte;Broad:Smooth muscle;FB:Kirrel3;Pericyte;Smooth muscle	True	0.22889504
+P21	Bmp5--Acvr2a_Bmpr1a	Broad:Pericyte;Broad:Smooth muscle;FB:Kirrel3;Pericyte;Smooth muscle	True	0.43547452
+P21	Bmp5--Bmpr1a_Bmpr2	Broad:Pericyte;Broad:Smooth muscle;FB:Kirrel3;Pericyte;Smooth muscle	True	0.45108906
+P21	Bmp5--Acvr2a_Bmpr1b		False	0
+P21	Bmp5--Bmpr1b_Bmpr2		False	0
+P21	Bmp6--Acvr1_Acvr2a	Broad:Endothelial;Broad:Fibroblast;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Smooth muscle;Immune;Epicardial	True	0.18070825
+P21	Bmp6--Acvr1_Bmpr2	Broad:Endothelial;Broad:Fibroblast;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Smooth muscle;Immune;Epicardial	True	0.22889504
+P21	Bmp6--Acvr2a_Bmpr1a	Broad:Endothelial;Broad:Fibroblast;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Smooth muscle;Immune;Epicardial	True	0.43547452
+P21	Bmp6--Bmpr1a_Bmpr2	Broad:Endothelial;Broad:Fibroblast;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Smooth muscle;Immune;Epicardial	True	0.56269087
+P21	Bmp6--Acvr2a_Bmpr1b		False	0
+P21	Bmp6--Bmpr1b_Bmpr2		False	0
+P21	Wnt9a--Fzd4_Lrp5		False	0
+P21	Wnt9a--Fzd6_Lrp5		False	0
+P21	Wnt9a--Fzd4_Lrp6		False	0
+P21	Wnt9a--Fzd6_Lrp6	Broad:Epicardial;Epicardial	True	0.10691193
+P21	Wnt5a--Fzd4		False	0
+P21	Wnt5a--Fzd6	Broad:Epicardial;FB:Kirrel3;Epicardial	True	0.16396179
+P21	Wnt5a--Mcam		False	0
+P21	Wnt5b--Fzd4		False	0
+P21	Wnt5b--Fzd6	CM;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Epicardial;FB:Gfpt2;FB:Col8a1;FB:Lsamp;Pericyte;Smooth muscle;Epicardial	True	0.16396179
+P21	Egf--Egfr		False	0
+P21	Tgfa--Egfr		False	0
+P21	Hbegf--Egfr		False	0
+P21	Hbegf--Erbb4	Broad:Smooth muscle;Smooth muscle	True	0.11377161
+P21	Nrg1--Erbb3		False	0
+P21	Nrg1--Erbb4	Broad:Endothelial;EC:Endocardial-like	True	1.4461648
+P21	Nrg2--Erbb3		False	0
+P21	Nrg2--Erbb4	Broad:Immune;Broad:Epicardial;Immune;Epicardial	True	1.1893569
+P21	Nrg1--Itgav_Itgb3		False	0
+P21	Fgf1--Fgfr1		False	0
+P21	Fgf1--Fgfr2	CM;Broad:Smooth muscle;Smooth muscle	True	1.8294213
+P21	Fgf2--Fgfr1		False	0
+P21	Fgf2--Fgfr2	Broad:Fibroblast;Broad:Smooth muscle;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Smooth muscle	True	0.76904318
+P21	Fgf9--Fgfr1		False	0
+P21	Fgf9--Fgfr2		False	0
+P21	Pdgfa--Pdgfra		False	0
+P21	Pdgfa--Pdgfrb		False	0
+P21	Pdgfb--Pdgfra		False	0
+P21	Pdgfb--Pdgfrb		False	0
+P21	Pdgfc--Pdgfra		False	0
+P21	Pdgfd--Pdgfrb		False	0
+P21	Vegfa--Flt1		False	0
+P21	Vegfa--Kdr		False	0
+P21	Vegfb--Flt1		False	0
+P21	Vegfc--Flt4		False	0
+P21	Vegfc--Kdr		False	0
+P21	Vegfd--Flt4		False	0
+P21	Vegfd--Kdr		False	0
+P21	Vegfa--Flt1_Kdr		False	0
+P21	Vegfc--Flt4_Kdr		False	0
+P21	Vegfd--Flt4_Kdr		False	0
+P21	Igf1--Igf1r	Broad:Fibroblast;Broad:Pericyte;Broad:Immune;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Immune	True	0.715946
+P21	Igf2--Igf1r	Broad:Endothelial;EC:Endocardial-like	True	0.46257843
+P21	Igf2--Igf2r	Broad:Endothelial;EC:Endocardial-like	True	0.46257843
+P21	Igf1--Itgav_Itgb3		False	0
+P21	Igf1--Itga6_Itgb4		False	0
+P21	Igf2--Itgav_Itgb3		False	0
+P21	Igf2--Itga6_Itgb4		False	0
+P21	Ccl25--Ackr4		False	0
+P21	Il34--Csf1r		False	0
+P21	Csf1--Csf1r		False	0
+P21	Eda--Edar		False	0
+P21	Tnfsf11--Tnfrsf11a		False	0
+P21	Tnfsf11--Tnfrsf11b		False	0
+P21	Nampt--Insr	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.65774997
+P21	Nampt--Itga5_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.23158996
+P21	Angptl2--Itga5_Itgb1	CM;Broad:Fibroblast;Broad:Pericyte;Broad:Immune;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Immune	True	0.23158996
+P21	Angptl2--Tlr4	CM;Broad:Fibroblast;Broad:Pericyte;Broad:Immune;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Immune	True	0.58872046
+P21	Angptl2--Pirb		False	0
+P21	Angpt1--Tek		False	0
+P21	Angpt2--Tek		False	0
+P21	Angpt2--Itga5_Itgb1	Broad:Smooth muscle;Smooth muscle	True	0.23158996
+P21	Ptn--Ptprz1		False	0
+P21	Ptn--Sdc2	Broad:Fibroblast;FB:Col8a1;FB:Lsamp;FB:Kirrel3	True	0.14996279
+P21	Ptn--Sdc4		False	0
+P21	Ptn--Itgav_Itgb3		False	0
+P21	Ptn--Ncl	Broad:Fibroblast;FB:Col8a1;FB:Lsamp;FB:Kirrel3	True	0.30050904
+P21	Postn--Itgav_Itgb3		False	0
+P21	Postn--Itgav_Itgb5		False	0
+P21	Nppa--Npr1		False	0
+P21	Kitl--Kit		False	0
+P21	Ntf3--Ntrk2		False	0
+P21	Ntf3--Ntrk3		False	0
+P21	Sema3a--Nrp1_Plxna2	CM;Broad:Endothelial;Broad:Epicardial;EC:Endocardial-like;Epicardial	True	0.28313645
+P21	Sema3a--Nrp1_Plxna4	CM;Broad:Endothelial;Broad:Epicardial;EC:Endocardial-like;Epicardial	True	0.28313645
+P21	Sema3c--Nrp1_Plxna2	CM;Broad:Fibroblast;Broad:Epicardial;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Epicardial	True	0.77107858
+P21	Sema3c--Nrp1_Plxna4	CM;Broad:Fibroblast;Broad:Epicardial;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Epicardial	True	0.69009888
+P21	Sema3c--Plxnd1		False	0
+P21	Sema3e--Plxnd1		False	0
+P21	Gas6--Axl		False	0
+P21	Gas6--Mertk		False	0
+P21	Grn--Sort1		False	0
+P21	Lgals9--Ptprc		False	0
+P21	Pros1--Axl		False	0
+P21	Rarres2--Cmklr1		False	0
+P21	Lgals9--Cd44	Broad:Endothelial;Broad:Fibroblast;Broad:Immune;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;Immune	True	0.22078316
+P21	Col1a1--Itga1_Itgb1	Broad:Fibroblast;Broad:Epicardial;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Epicardial	True	0.19453072
+P21	Col1a2--Itga1_Itgb1	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.19453072
+P21	Col4a1--Itga1_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.19453072
+P21	Col4a2--Itga1_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.19453072
+P21	Col4a3--Itga1_Itgb1	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Epicardial	True	0.19453072
+P21	Col4a4--Itga1_Itgb1	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Immune;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Immune;Epicardial	True	0.19453072
+P21	Col4a5--Itga1_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Smooth muscle;Immune;Epicardial	True	0.19453072
+P21	Col4a6--Itga1_Itgb1	Broad:Fibroblast;Broad:Smooth muscle;Broad:Epicardial;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Smooth muscle;Epicardial	True	0.19453072
+P21	Col6a1--Itga1_Itgb1	Broad:Fibroblast;Broad:Pericyte;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;Pericyte;Epicardial	True	0.19453072
+P21	Col6a2--Itga1_Itgb1	Broad:Fibroblast;Broad:Pericyte;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Epicardial	True	0.19453072
+P21	Col6a3--Itga1_Itgb1	Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune	True	0.19453072
+P21	Col6a6--Itga1_Itgb1	Broad:Fibroblast;Broad:Immune;Broad:Epicardial;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Immune;Epicardial	True	0.19453072
+P21	Fn1--Itga3_Itgb1		False	0
+P21	Fn1--Itga4_Itgb1		False	0
+P21	Fn1--Itga5_Itgb1	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Epicardial;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;Pericyte;Smooth muscle;Epicardial	True	0.23158996
+P21	Fn1--Itga8_Itgb1		False	0
+P21	Lama3--Itga1_Itgb1	Broad:Endothelial;Broad:Epicardial;EC:Unresolved;Epicardial	True	0.19453072
+P21	Lama4--Itga1_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.19453072
+P21	Lama5--Itga1_Itgb1	CM;Broad:Smooth muscle;Broad:Epicardial;EC:Unresolved;Smooth muscle;Epicardial	True	0.19453072
+P21	Lamb1--Itga1_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Immune;Epicardial	True	0.19453072
+P21	Lamb2--Itga1_Itgb1	CM;Broad:Smooth muscle;Smooth muscle	True	0.19453072
+P21	Lamb3--Itga1_Itgb1	CM	True	0.13746198
+P21	Lamc1--Itga1_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.19453072
+P21	Lama3--Itga3_Itgb1		False	0
+P21	Lama4--Itga3_Itgb1		False	0
+P21	Lama5--Itga3_Itgb1		False	0
+P21	Lamb1--Itga3_Itgb1		False	0
+P21	Lamb2--Itga3_Itgb1		False	0
+P21	Lamb3--Itga3_Itgb1		False	0
+P21	Lamc1--Itga3_Itgb1		False	0
+P21	Reln--Itga3_Itgb1		False	0
+P21	Thbs1--Itga3_Itgb1		False	0
+P21	Col1a1--Itga3_Itgb1		False	0
+P21	Col1a2--Itga3_Itgb1		False	0
+P21	Col4a1--Itga3_Itgb1		False	0
+P21	Col4a2--Itga3_Itgb1		False	0
+P21	Col4a3--Itga3_Itgb1		False	0
+P21	Col4a4--Itga3_Itgb1		False	0
+P21	Col4a5--Itga3_Itgb1		False	0
+P21	Col4a6--Itga3_Itgb1		False	0
+P21	Col6a1--Itga3_Itgb1		False	0
+P21	Col6a2--Itga3_Itgb1		False	0
+P21	Col6a3--Itga3_Itgb1		False	0
+P21	Col6a6--Itga3_Itgb1		False	0
+P21	Lama3--Itga6_Itgb1		False	0
+P21	Lama4--Itga6_Itgb1		False	0
+P21	Lama5--Itga6_Itgb1		False	0
+P21	Lamb1--Itga6_Itgb1		False	0
+P21	Lamb2--Itga6_Itgb1		False	0
+P21	Lamb3--Itga6_Itgb1		False	0
+P21	Lamc1--Itga6_Itgb1		False	0
+P21	Lama3--Itga7_Itgb1	Broad:Endothelial;Broad:Epicardial;EC:Unresolved;Epicardial	True	0.12566699
+P21	Lama4--Itga7_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.12566699
+P21	Lama5--Itga7_Itgb1	CM;Broad:Smooth muscle;Broad:Epicardial;EC:Unresolved;Smooth muscle;Epicardial	True	0.12566699
+P21	Lamb1--Itga7_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Immune;Epicardial	True	0.12566699
+P21	Lamb2--Itga7_Itgb1	CM;Broad:Smooth muscle;Smooth muscle	True	0.12566699
+P21	Lamb3--Itga7_Itgb1	CM	True	0.12566699
+P21	Lamc1--Itga7_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.12566699
+P21	Vtn--Itga8_Itgb1		False	0
+P21	Tnc--Itga8_Itgb1		False	0
+P21	Tnr--Itga8_Itgb1		False	0
+P21	Tnxb--Itga8_Itgb1		False	0
+P21	Tnc--Itga9_Itgb1	FB:Col8a1;FB:Kirrel3	True	0.09197215
+P21	Tnr--Itga9_Itgb1	CM;FB:Kirrel3	True	0.1219823
+P21	Tnxb--Itga9_Itgb1	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Immune;Broad:Epicardial;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Immune;Epicardial	True	0.52788271
+P21	Col1a1--Itga9_Itgb1	Broad:Fibroblast;Broad:Epicardial;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Epicardial	True	0.52788271
+P21	Col1a2--Itga9_Itgb1	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.52788271
+P21	Col4a1--Itga9_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.52788271
+P21	Col4a2--Itga9_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.52788271
+P21	Col4a3--Itga9_Itgb1	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Epicardial	True	0.52788271
+P21	Col4a4--Itga9_Itgb1	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Immune;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Immune;Epicardial	True	0.52788271
+P21	Col4a5--Itga9_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Smooth muscle;Immune;Epicardial	True	0.52788271
+P21	Col4a6--Itga9_Itgb1	Broad:Fibroblast;Broad:Smooth muscle;Broad:Epicardial;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Smooth muscle;Epicardial	True	0.52788271
+P21	Col6a1--Itga9_Itgb1	Broad:Fibroblast;Broad:Pericyte;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;Pericyte;Epicardial	True	0.38574762
+P21	Col6a2--Itga9_Itgb1	Broad:Fibroblast;Broad:Pericyte;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Epicardial	True	0.52788271
+P21	Col6a3--Itga9_Itgb1	Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune	True	0.52788271
+P21	Col6a6--Itga9_Itgb1	Broad:Fibroblast;Broad:Immune;Broad:Epicardial;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Immune;Epicardial	True	0.52788271
+P21	Lama3--Itga9_Itgb1	Broad:Endothelial;Broad:Epicardial;EC:Unresolved;Epicardial	True	0.42133333
+P21	Lama4--Itga9_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.52788271
+P21	Lama5--Itga9_Itgb1	CM;Broad:Smooth muscle;Broad:Epicardial;EC:Unresolved;Smooth muscle;Epicardial	True	0.45011011
+P21	Lamb1--Itga9_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Immune;Epicardial	True	0.52788271
+P21	Lamb2--Itga9_Itgb1	CM;Broad:Smooth muscle;Smooth muscle	True	0.34037966
+P21	Lamb3--Itga9_Itgb1	CM	True	0.13746198
+P21	Lamc1--Itga9_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.52788271
+P21	Col1a1--Itga10_Itgb1		False	0
+P21	Col1a2--Itga10_Itgb1		False	0
+P21	Col4a1--Itga10_Itgb1		False	0
+P21	Col4a2--Itga10_Itgb1		False	0
+P21	Col4a3--Itga10_Itgb1		False	0
+P21	Col4a4--Itga10_Itgb1		False	0
+P21	Col4a5--Itga10_Itgb1		False	0
+P21	Col4a6--Itga10_Itgb1		False	0
+P21	Col6a1--Itga10_Itgb1		False	0
+P21	Col6a2--Itga10_Itgb1		False	0
+P21	Col6a3--Itga10_Itgb1		False	0
+P21	Col6a6--Itga10_Itgb1		False	0
+P21	Fn1--Itgav_Itgb1	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Epicardial;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;Pericyte;Smooth muscle;Epicardial	True	0.082513272
+P21	Vtn--Itgav_Itgb1	Broad:Pericyte;Pericyte	True	0.082513272
+P21	Fn1--Itgav_Itgb3		False	0
+P21	Vtn--Itgav_Itgb3		False	0
+P21	Vwf--Itgav_Itgb3		False	0
+P21	Tnc--Itgav_Itgb3		False	0
+P21	Tnr--Itgav_Itgb3		False	0
+P21	Tnxb--Itgav_Itgb3		False	0
+P21	Thbs1--Itgav_Itgb3		False	0
+P21	Vtn--Itgav_Itgb5		False	0
+P21	Tnc--Itgav_Itgb6	FB:Col8a1;FB:Kirrel3	True	0.09197215
+P21	Tnr--Itgav_Itgb6	CM;FB:Kirrel3	True	0.10312675
+P21	Tnxb--Itgav_Itgb6	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Immune;Broad:Epicardial;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Immune;Epicardial	True	0.10312675
+P21	Fn1--Itgav_Itgb6	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Epicardial;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;Pericyte;Smooth muscle;Epicardial	True	0.10312675
+P21	Vtn--Itgav_Itgb8		False	0
+P21	Fn1--Itgav_Itgb8		False	0
+P21	Lama3--Itgav_Itgb8		False	0
+P21	Lama4--Itgav_Itgb8		False	0
+P21	Lama5--Itgav_Itgb8		False	0
+P21	Lamb1--Itgav_Itgb8		False	0
+P21	Lamb2--Itgav_Itgb8		False	0
+P21	Lamb3--Itgav_Itgb8		False	0
+P21	Lamc1--Itgav_Itgb8		False	0
+P21	Col1a1--Itgav_Itgb8		False	0
+P21	Col1a2--Itgav_Itgb8		False	0
+P21	Col4a1--Itgav_Itgb8		False	0
+P21	Col4a2--Itgav_Itgb8		False	0
+P21	Col4a3--Itgav_Itgb8		False	0
+P21	Col4a4--Itgav_Itgb8		False	0
+P21	Col4a5--Itgav_Itgb8		False	0
+P21	Col4a6--Itgav_Itgb8		False	0
+P21	Col6a1--Itgav_Itgb8		False	0
+P21	Col6a2--Itgav_Itgb8		False	0
+P21	Col6a3--Itgav_Itgb8		False	0
+P21	Col6a6--Itgav_Itgb8		False	0
+P21	Lama3--Itga6_Itgb4		False	0
+P21	Lama4--Itga6_Itgb4		False	0
+P21	Lama5--Itga6_Itgb4		False	0
+P21	Lamb1--Itga6_Itgb4		False	0
+P21	Lamb2--Itga6_Itgb4		False	0
+P21	Lamb3--Itga6_Itgb4		False	0
+P21	Lamc1--Itga6_Itgb4		False	0
+P21	Fn1--Cd44	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Epicardial;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;Pericyte;Smooth muscle;Epicardial	True	0.22078316
+P21	Col1a1--Cd44	Broad:Fibroblast;Broad:Epicardial;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Epicardial	True	0.22078316
+P21	Col1a2--Cd44	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.22078316
+P21	Col4a1--Cd44	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.22078316
+P21	Col4a2--Cd44	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.22078316
+P21	Col4a3--Cd44	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Epicardial	True	0.22078316
+P21	Col4a4--Cd44	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Immune;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Immune;Epicardial	True	0.22078316
+P21	Col4a5--Cd44	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Smooth muscle;Immune;Epicardial	True	0.22078316
+P21	Col4a6--Cd44	Broad:Fibroblast;Broad:Smooth muscle;Broad:Epicardial;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Smooth muscle;Epicardial	True	0.22078316
+P21	Col6a1--Cd44	Broad:Fibroblast;Broad:Pericyte;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;Pericyte;Epicardial	True	0.22078316
+P21	Col6a2--Cd44	Broad:Fibroblast;Broad:Pericyte;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Epicardial	True	0.22078316
+P21	Col6a3--Cd44	Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune	True	0.22078316
+P21	Col6a6--Cd44	Broad:Fibroblast;Broad:Immune;Broad:Epicardial;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Immune;Epicardial	True	0.22078316
+P21	Lama3--Cd44	Broad:Endothelial;Broad:Epicardial;EC:Unresolved;Epicardial	True	0.22078316
+P21	Lama4--Cd44	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.22078316
+P21	Lama5--Cd44	CM;Broad:Smooth muscle;Broad:Epicardial;EC:Unresolved;Smooth muscle;Epicardial	True	0.22078316
+P21	Lamb1--Cd44	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Immune;Epicardial	True	0.22078316
+P21	Lamb2--Cd44	CM;Broad:Smooth muscle;Smooth muscle	True	0.22078316
+P21	Lamb3--Cd44	CM	True	0.13746198
+P21	Lamc1--Cd44	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	0.22078316
+P21	Col1a1--Sdc4		False	0
+P21	Col1a2--Sdc4		False	0
+P21	Col4a1--Sdc4		False	0
+P21	Col4a2--Sdc4		False	0
+P21	Col4a3--Sdc4		False	0
+P21	Col4a4--Sdc4		False	0
+P21	Col4a5--Sdc4		False	0
+P21	Col4a6--Sdc4		False	0
+P21	Col6a1--Sdc4		False	0
+P21	Col6a2--Sdc4		False	0
+P21	Col6a3--Sdc4		False	0
+P21	Col6a6--Sdc4		False	0
+P21	Fn1--Sdc4		False	0
+P21	Tnc--Sdc4		False	0
+P21	Tnr--Sdc4		False	0
+P21	Tnxb--Sdc4		False	0
+P21	Thbs1--Sdc4		False	0
+P21	Thbs1--Cd36	FB:Kirrel3	True	0.39293415
+P21	Thbs1--Cd47	FB:Kirrel3	True	0.19107432
+P21	Agrn--Dag1	CM;Broad:Endothelial;Broad:Pericyte;EC:Capillary-like;Pericyte	True	0.31150929
+P21	Hspg2--Dag1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	1.5872076
+P21	Lama3--Dag1	Broad:Endothelial;Broad:Epicardial;EC:Unresolved;Epicardial	True	0.42133333
+P21	Lama4--Dag1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	1.5872076
+P21	Lama5--Dag1	CM;Broad:Smooth muscle;Broad:Epicardial;EC:Unresolved;Smooth muscle;Epicardial	True	0.45011011
+P21	Lamb1--Dag1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Immune;Epicardial	True	1.1368201
+P21	Lamb2--Dag1	CM;Broad:Smooth muscle;Smooth muscle	True	0.34037966
+P21	Lamb3--Dag1	CM	True	0.13746198
+P21	Lamc1--Dag1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	1.5872076
+P21	Cadm1--Cadm1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Lsamp;FB:Kirrel3;Immune;Epicardial	True	0.072775175
+P21	Cd200--Cd200r1		False	0
+P21	Cd22--Ptprc		False	0
+P21	Entpd1--Adora1	Broad:Endothelial;Broad:Smooth muscle;Broad:Immune;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;Smooth muscle;Immune	True	0.22917634
+P21	Ptprc--Cd22		False	0
+P21	Ptprc--Mrc1		False	0
+P21	Cd46--Jag1		False	0
+P21	Cd48--Cd244a		False	0
+P21	Cdh4--Cdh4		False	0
+P21	Cdh2--Cdh2	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;EC:Capillary-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune	True	3.0777454
+P21	Cdh1--Cdh1		False	0
+P21	Cdh5--Cdh5		False	0
+P21	Cntn2--L1cam		False	0
+P21	Cntn2--Cntn2		False	0
+P21	Cspg4--Itga3_Itgb1		False	0
+P21	Dsc2--Dsg2	CM	True	0.49569079
+P21	Efnb2--Epha4	Broad:Endothelial;Broad:Smooth muscle;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;Smooth muscle;Epicardial	True	0.37495002
+P21	Efnb2--Ephb1		False	0
+P21	Efnb2--Ephb2		False	0
+P21	Efnb2--Ephb3		False	0
+P21	Efnb2--Ephb4	Broad:Endothelial;Broad:Smooth muscle;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;Smooth muscle;Epicardial	True	0.081317192
+P21	Esam--Esam		False	0
+P21	Jam2--Itga3_Itgb1		False	0
+P21	Jam2--Itgav_Itgb1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Immune;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Immune	True	0.082513272
+P21	Jam2--Jam3		False	0
+P21	F11r--F11r	CM;Broad:Endothelial;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;Epicardial	True	0.08406175
+P21	F11r--Jam2	CM;Broad:Endothelial;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;Epicardial	True	0.39595085
+P21	F11r--Jam3		False	0
+P21	Jam2--F11r	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Immune;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Immune	True	0.08406175
+P21	Jam2--Jam2	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Immune;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Immune	True	0.39595085
+P21	Jam3--F11r	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Epicardial;EC:Capillary-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Epicardial	True	0.08406175
+P21	Jam3--Jam2	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Epicardial;EC:Capillary-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Epicardial	True	0.39595085
+P21	Jam3--Jam3		False	0
+P21	L1cam--Itgav_Itgb3		False	0
+P21	L1cam--L1cam		False	0
+P21	Mpzl1--Mpzl1	CM;Broad:Endothelial;Broad:Fibroblast;EC:Capillary-like;EC:Unresolved;FB:Col8a1;FB:Lsamp;FB:Kirrel3	True	0.086141437
+P21	Ncam1--Fgfr1		False	0
+P21	Ncam1--Ncam1	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Smooth muscle;Broad:Epicardial;EC:Endocardial-like;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Smooth muscle;Epicardial	True	0.16506709
+P21	Ncam1--Ncam2		False	0
+P21	Ncam1--L1cam		False	0
+P21	Ncam2--L1cam		False	0
+P21	Nectin3--Pvr	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Epicardial	True	0.16284711
+P21	Negr1--Negr1		False	0
+P21	Lrrc4c--Ntng1		False	0
+P21	Lrrc4--Ntng2		False	0
+P21	Dll4--Notch1		False	0
+P21	Dll4--Notch2	EC:Capillary-like	True	0.20543836
+P21	Dll4--Notch3		False	0
+P21	Dll4--Notch4		False	0
+P21	Jag1--Notch1		False	0
+P21	Jag1--Notch2	Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle	True	0.56032972
+P21	Jag1--Notch3		False	0
+P21	Jag1--Notch4		False	0
+P21	Nrxn1--Nlgn3		False	0
+P21	Nrxn3--Nlgn3		False	0
+P21	Pecam1--Pecam1		False	0
+P21	Ptprm--Ptprm	CM;Broad:Endothelial;Broad:Fibroblast;Broad:Pericyte;Broad:Smooth muscle;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Pericyte;Smooth muscle;Immune;Epicardial	True	2.6744762
+P21	Sema4a--Nrp1_Plxna2	Broad:Immune;Immune	True	0.29630243
+P21	Sema4a--Nrp1_Plxna4	Broad:Immune;Immune	True	0.29630243
+P21	Sema6a--Plxna2	Broad:Endothelial;Broad:Fibroblast;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Immune;Epicardial	True	0.89010647
+P21	Sema6a--Plxna4	Broad:Endothelial;Broad:Fibroblast;Broad:Immune;Broad:Epicardial;EC:Capillary-like;EC:Endocardial-like;EC:Unresolved;FB:Gfpt2;FB:Col8a1;FB:Lsamp;FB:Kirrel3;Immune;Epicardial	True	0.80075877
+P21	Sema7a--Itga1_Itgb1	Broad:Endothelial;EC:Capillary-like;EC:Unresolved	True	0.19453072
+P21	Sema7a--Plxnc1		False	0
+P21	Itga4_Itgb1--Vcam1		False	0
+P21	Itga9_Itgb1--Vcam1		False	0
+P21	Vsir--Igsf11		False	0

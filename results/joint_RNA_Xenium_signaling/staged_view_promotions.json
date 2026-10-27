@@ -1,0 +1,34 @@
+{
+  "completed": [
+    "P14_core",
+    "P14_native",
+    "P21_core",
+    "P21_native"
+  ],
+  "records": [
+    {
+      "stage": "P14",
+      "view": "core",
+      "source": "primary",
+      "cohort_match": true
+    },
+    {
+      "stage": "P14",
+      "view": "native",
+      "source": "/workspace/genomics/results/joint_RNA_Xenium_signaling/.P14_native_staging/P14",
+      "cohort_match": true
+    },
+    {
+      "stage": "P21",
+      "view": "core",
+      "source": "/workspace/genomics/results/joint_RNA_Xenium_signaling/.P21_staging/P21",
+      "cohort_match": true
+    },
+    {
+      "stage": "P21",
+      "view": "native",
+      "source": "/workspace/genomics/results/joint_RNA_Xenium_signaling/.P21_native_staging/P21",
+      "cohort_match": true
+    }
+  ]
+}

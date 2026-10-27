@@ -1,0 +1,2018 @@
+ligand	receptor	pathway	signaling_type	pair_id	CellPhoneDB_pair_agreement	all_targets_measured	outcome_gene_overlap	selected_for_spatial_analysis
+Tgfb1	Tgfbr1_Tgfbr2	TGFb	Secreted Signaling	Tgfb1--Tgfbr1_Tgfbr2	True	True	False	False
+Tgfb2	Tgfbr1_Tgfbr2	TGFb	Secreted Signaling	Tgfb2--Tgfbr1_Tgfbr2	True	True	False	False
+Tgfb3	Tgfbr1_Tgfbr2	TGFb	Secreted Signaling	Tgfb3--Tgfbr1_Tgfbr2	True	False	False	False
+Tgfb1	Acvr1b_Tgfbr2	TGFb	Secreted Signaling	Tgfb1--Acvr1b_Tgfbr2	False	False	False	False
+Tgfb1	Acvr1c_Tgfbr2	TGFb	Secreted Signaling	Tgfb1--Acvr1c_Tgfbr2	False	False	False	False
+Tgfb2	Acvr1b_Tgfbr2	TGFb	Secreted Signaling	Tgfb2--Acvr1b_Tgfbr2	False	False	False	False
+Tgfb2	Acvr1c_Tgfbr2	TGFb	Secreted Signaling	Tgfb2--Acvr1c_Tgfbr2	False	False	False	False
+Tgfb3	Acvr1b_Tgfbr2	TGFb	Secreted Signaling	Tgfb3--Acvr1b_Tgfbr2	False	False	False	False
+Tgfb3	Acvr1c_Tgfbr2	TGFb	Secreted Signaling	Tgfb3--Acvr1c_Tgfbr2	False	False	False	False
+Tgfb1	Acvr1_Tgfbr1_Tgfbr2	TGFb	Secreted Signaling	Tgfb1--Acvr1_Tgfbr1_Tgfbr2	False	True	False	False
+Tgfb2	Acvr1_Tgfbr1_Tgfbr2	TGFb	Secreted Signaling	Tgfb2--Acvr1_Tgfbr1_Tgfbr2	False	True	False	False
+Tgfb3	Acvr1_Tgfbr1_Tgfbr2	TGFb	Secreted Signaling	Tgfb3--Acvr1_Tgfbr1_Tgfbr2	False	False	False	False
+Bmp2	Bmpr1a_Acvr2a	BMP	Secreted Signaling	Bmp2--Acvr2a_Bmpr1a	True	False	False	False
+Bmp2	Bmpr1a_Acvr2b	BMP	Secreted Signaling	Bmp2--Acvr2b_Bmpr1a	True	False	False	False
+Bmp2	Bmpr1a_Bmpr2	BMP	Secreted Signaling	Bmp2--Bmpr1a_Bmpr2	True	False	False	False
+Bmp2	Bmpr1b_Acvr2a	BMP	Secreted Signaling	Bmp2--Acvr2a_Bmpr1b	True	False	False	False
+Bmp2	Bmpr1b_Acvr2b	BMP	Secreted Signaling	Bmp2--Acvr2b_Bmpr1b	True	False	False	False
+Bmp2	Bmpr1b_Bmpr2	BMP	Secreted Signaling	Bmp2--Bmpr1b_Bmpr2	True	False	False	False
+Bmp4	Bmpr1a_Acvr2a	BMP	Secreted Signaling	Bmp4--Acvr2a_Bmpr1a	True	False	False	False
+Bmp4	Bmpr1a_Acvr2b	BMP	Secreted Signaling	Bmp4--Acvr2b_Bmpr1a	True	False	False	False
+Bmp4	Bmpr1a_Bmpr2	BMP	Secreted Signaling	Bmp4--Bmpr1a_Bmpr2	True	False	False	False
+Bmp4	Bmpr1b_Acvr2a	BMP	Secreted Signaling	Bmp4--Acvr2a_Bmpr1b	True	False	False	False
+Bmp4	Bmpr1b_Acvr2b	BMP	Secreted Signaling	Bmp4--Acvr2b_Bmpr1b	True	False	False	False
+Bmp4	Bmpr1b_Bmpr2	BMP	Secreted Signaling	Bmp4--Bmpr1b_Bmpr2	True	False	False	False
+Gdf5	Bmpr1a_Acvr2a	BMP	Secreted Signaling	Gdf5--Acvr2a_Bmpr1a	True	False	False	False
+Gdf5	Bmpr1a_Acvr2b	BMP	Secreted Signaling	Gdf5--Acvr2b_Bmpr1a	True	False	False	False
+Gdf5	Bmpr1a_Bmpr2	BMP	Secreted Signaling	Gdf5--Bmpr1a_Bmpr2	False	False	False	False
+Gdf5	Bmpr1b_Acvr2a	BMP	Secreted Signaling	Gdf5--Acvr2a_Bmpr1b	True	False	False	False
+Gdf5	Bmpr1b_Acvr2b	BMP	Secreted Signaling	Gdf5--Acvr2b_Bmpr1b	True	False	False	False
+Gdf5	Bmpr1b_Bmpr2	BMP	Secreted Signaling	Gdf5--Bmpr1b_Bmpr2	True	False	False	False
+Gdf6	Bmpr1a_Acvr2a	BMP	Secreted Signaling	Gdf6--Acvr2a_Bmpr1a	True	False	False	False
+Gdf6	Bmpr1a_Acvr2b	BMP	Secreted Signaling	Gdf6--Acvr2b_Bmpr1a	False	False	False	False
+Gdf6	Bmpr1a_Bmpr2	BMP	Secreted Signaling	Gdf6--Bmpr1a_Bmpr2	True	False	False	False
+Gdf6	Bmpr1b_Acvr2a	BMP	Secreted Signaling	Gdf6--Acvr2a_Bmpr1b	True	False	False	False
+Gdf6	Bmpr1b_Acvr2b	BMP	Secreted Signaling	Gdf6--Acvr2b_Bmpr1b	True	False	False	False
+Gdf6	Bmpr1b_Bmpr2	BMP	Secreted Signaling	Gdf6--Bmpr1b_Bmpr2	True	False	False	False
+Gdf7	Bmpr1a_Acvr2a	BMP	Secreted Signaling	Gdf7--Acvr2a_Bmpr1a	True	False	False	False
+Gdf7	Bmpr1a_Acvr2b	BMP	Secreted Signaling	Gdf7--Acvr2b_Bmpr1a	True	False	False	False
+Gdf7	Bmpr1a_Bmpr2	BMP	Secreted Signaling	Gdf7--Bmpr1a_Bmpr2	True	False	False	False
+Gdf7	Bmpr1b_Acvr2a	BMP	Secreted Signaling	Gdf7--Acvr2a_Bmpr1b	True	False	False	False
+Gdf7	Bmpr1b_Acvr2b	BMP	Secreted Signaling	Gdf7--Acvr2b_Bmpr1b	True	False	False	False
+Gdf7	Bmpr1b_Bmpr2	BMP	Secreted Signaling	Gdf7--Bmpr1b_Bmpr2	True	False	False	False
+Bmp15	Bmpr1b_Bmpr2	BMP	Secreted Signaling	Bmp15--Bmpr1b_Bmpr2	True	False	False	False
+Bmp5	Acvr1_Acvr2a	BMP	Secreted Signaling	Bmp5--Acvr1_Acvr2a	True	True	False	False
+Bmp5	Acvr1_Acvr2b	BMP	Secreted Signaling	Bmp5--Acvr1_Acvr2b	True	False	False	False
+Bmp5	Acvr1_Bmpr2	BMP	Secreted Signaling	Bmp5--Acvr1_Bmpr2	True	True	False	False
+Bmp5	Bmpr1a_Acvr2a	BMP	Secreted Signaling	Bmp5--Acvr2a_Bmpr1a	True	True	False	False
+Bmp5	Bmpr1a_Acvr2b	BMP	Secreted Signaling	Bmp5--Acvr2b_Bmpr1a	True	False	False	False
+Bmp5	Bmpr1a_Bmpr2	BMP	Secreted Signaling	Bmp5--Bmpr1a_Bmpr2	True	True	False	True
+Bmp5	Bmpr1b_Acvr2a	BMP	Secreted Signaling	Bmp5--Acvr2a_Bmpr1b	True	True	False	False
+Bmp5	Bmpr1b_Acvr2b	BMP	Secreted Signaling	Bmp5--Acvr2b_Bmpr1b	True	False	False	False
+Bmp5	Bmpr1b_Bmpr2	BMP	Secreted Signaling	Bmp5--Bmpr1b_Bmpr2	True	True	False	False
+Bmp6	Acvr1_Acvr2a	BMP	Secreted Signaling	Bmp6--Acvr1_Acvr2a	True	True	False	False
+Bmp6	Acvr1_Acvr2b	BMP	Secreted Signaling	Bmp6--Acvr1_Acvr2b	True	False	False	False
+Bmp6	Acvr1_Bmpr2	BMP	Secreted Signaling	Bmp6--Acvr1_Bmpr2	True	True	False	False
+Bmp6	Bmpr1a_Acvr2a	BMP	Secreted Signaling	Bmp6--Acvr2a_Bmpr1a	True	True	False	False
+Bmp6	Bmpr1a_Acvr2b	BMP	Secreted Signaling	Bmp6--Acvr2b_Bmpr1a	True	False	False	False
+Bmp6	Bmpr1a_Bmpr2	BMP	Secreted Signaling	Bmp6--Bmpr1a_Bmpr2	True	True	False	True
+Bmp6	Bmpr1b_Acvr2a	BMP	Secreted Signaling	Bmp6--Acvr2a_Bmpr1b	True	True	False	False
+Bmp6	Bmpr1b_Acvr2b	BMP	Secreted Signaling	Bmp6--Acvr2b_Bmpr1b	True	False	False	False
+Bmp6	Bmpr1b_Bmpr2	BMP	Secreted Signaling	Bmp6--Bmpr1b_Bmpr2	True	True	False	False
+Bmp7	Acvr1_Acvr2a	BMP	Secreted Signaling	Bmp7--Acvr1_Acvr2a	True	False	False	False
+Bmp7	Acvr1_Acvr2b	BMP	Secreted Signaling	Bmp7--Acvr1_Acvr2b	True	False	False	False
+Bmp7	Acvr1_Bmpr2	BMP	Secreted Signaling	Bmp7--Acvr1_Bmpr2	True	False	False	False
+Bmp7	Bmpr1a_Acvr2a	BMP	Secreted Signaling	Bmp7--Acvr2a_Bmpr1a	True	False	False	False
+Bmp7	Bmpr1a_Acvr2b	BMP	Secreted Signaling	Bmp7--Acvr2b_Bmpr1a	True	False	False	False
+Bmp7	Bmpr1a_Bmpr2	BMP	Secreted Signaling	Bmp7--Bmpr1a_Bmpr2	True	False	False	False
+Bmp7	Bmpr1b_Acvr2a	BMP	Secreted Signaling	Bmp7--Acvr2a_Bmpr1b	True	False	False	False
+Bmp7	Bmpr1b_Acvr2b	BMP	Secreted Signaling	Bmp7--Acvr2b_Bmpr1b	True	False	False	False
+Bmp7	Bmpr1b_Bmpr2	BMP	Secreted Signaling	Bmp7--Bmpr1b_Bmpr2	True	False	False	False
+Bmp8a	Acvr1_Acvr2a	BMP	Secreted Signaling	Bmp8a--Acvr1_Acvr2a	True	False	False	False
+Bmp8a	Acvr1_Acvr2b	BMP	Secreted Signaling	Bmp8a--Acvr1_Acvr2b	True	False	False	False
+Bmp8a	Acvr1_Bmpr2	BMP	Secreted Signaling	Bmp8a--Acvr1_Bmpr2	True	False	False	False
+Bmp8a	Bmpr1a_Acvr2a	BMP	Secreted Signaling	Bmp8a--Acvr2a_Bmpr1a	True	False	False	False
+Bmp8a	Bmpr1a_Acvr2b	BMP	Secreted Signaling	Bmp8a--Acvr2b_Bmpr1a	True	False	False	False
+Bmp8a	Bmpr1a_Bmpr2	BMP	Secreted Signaling	Bmp8a--Bmpr1a_Bmpr2	True	False	False	False
+Bmp8a	Bmpr1b_Acvr2a	BMP	Secreted Signaling	Bmp8a--Acvr2a_Bmpr1b	True	False	False	False
+Bmp8a	Bmpr1b_Acvr2b	BMP	Secreted Signaling	Bmp8a--Acvr2b_Bmpr1b	True	False	False	False
+Bmp8a	Bmpr1b_Bmpr2	BMP	Secreted Signaling	Bmp8a--Bmpr1b_Bmpr2	True	False	False	False
+Bmp8b	Acvr1_Acvr2a	BMP	Secreted Signaling	Bmp8b--Acvr1_Acvr2a	False	False	False	False
+Bmp8b	Acvr1_Acvr2b	BMP	Secreted Signaling	Bmp8b--Acvr1_Acvr2b	False	False	False	False
+Bmp8b	Acvr1_Bmpr2	BMP	Secreted Signaling	Bmp8b--Acvr1_Bmpr2	False	False	False	False
+Bmp8b	Bmpr1a_Acvr2a	BMP	Secreted Signaling	Bmp8b--Acvr2a_Bmpr1a	False	False	False	False
+Bmp8b	Bmpr1a_Acvr2b	BMP	Secreted Signaling	Bmp8b--Acvr2b_Bmpr1a	False	False	False	False
+Bmp8b	Bmpr1a_Bmpr2	BMP	Secreted Signaling	Bmp8b--Bmpr1a_Bmpr2	False	False	False	False
+Bmp8b	Bmpr1b_Acvr2a	BMP	Secreted Signaling	Bmp8b--Acvr2a_Bmpr1b	False	False	False	False
+Bmp8b	Bmpr1b_Acvr2b	BMP	Secreted Signaling	Bmp8b--Acvr2b_Bmpr1b	False	False	False	False
+Bmp8b	Bmpr1b_Bmpr2	BMP	Secreted Signaling	Bmp8b--Bmpr1b_Bmpr2	False	False	False	False
+Bmp10	Acvrl1_Bmpr2	BMP10	Secreted Signaling	Bmp10--Acvrl1_Bmpr2	True	False	False	False
+Bmp10	Acvrl1_Acvr2a	BMP10	Secreted Signaling	Bmp10--Acvr2a_Acvrl1	True	False	False	False
+Gdf2	Acvrl1_Bmpr2	BMP10	Secreted Signaling	Gdf2--Acvrl1_Bmpr2	True	False	False	False
+Gdf2	Acvrl1_Acvr2a	BMP10	Secreted Signaling	Gdf2--Acvr2a_Acvrl1	True	False	False	False
+Gdf9	Acvr1b_Bmpr2	GDF	Secreted Signaling	Gdf9--Acvr1b_Bmpr2	False	False	False	False
+Gdf10	Acvr1b_Acvr2a	GDF	Secreted Signaling	Gdf10--Acvr1b_Acvr2a	False	False	False	False
+Gdf11	Tgfbr1_Acvr2a	GDF	Secreted Signaling	Gdf11--Acvr2a_Tgfbr1	True	False	False	False
+Gdf11	Tgfbr1_Acvr2b	GDF	Secreted Signaling	Gdf11--Acvr2b_Tgfbr1	True	False	False	False
+Gdf11	Acvr1b_Acvr2b	GDF	Secreted Signaling	Gdf11--Acvr1b_Acvr2b	True	False	False	False
+Gdf15	Tgfbr2	GDF	Secreted Signaling	Gdf15--Tgfbr2	False	False	False	False
+Mstn	Tgfbr1_Acvr2b	MSTN	Secreted Signaling	Mstn--Acvr2b_Tgfbr1	True	False	False	False
+Mstn	Acvr1b_Acvr2b	MSTN	Secreted Signaling	Mstn--Acvr1b_Acvr2b	True	False	False	False
+Mstn	Acvr1b_Acvr2a	MSTN	Secreted Signaling	Mstn--Acvr1b_Acvr2a	False	False	False	False
+Mstn	Tgfbr1_Acvr2a	MSTN	Secreted Signaling	Mstn--Acvr2a_Tgfbr1	True	False	False	False
+Amh	Amhr2_Acvr1	AMH	Secreted Signaling	Amh--Acvr1_Amhr2	True	False	False	False
+Amh	Amhr2_Bmpr1a	AMH	Secreted Signaling	Amh--Amhr2_Bmpr1a	True	False	False	False
+Gdnf	Gfra1_Ret	GDNF	Secreted Signaling	Gdnf--Gfra1_Ret	True	False	False	False
+Nrtn	Gfra2_Ret	GDNF	Secreted Signaling	Nrtn--Gfra2_Ret	True	False	False	False
+Artn	Gfra3_Ret	GDNF	Secreted Signaling	Artn--Gfra3_Ret	True	False	False	False
+Pspn	Gfra4_Ret	GDNF	Secreted Signaling	Pspn--Gfra4_Ret	True	False	False	False
+Artn	Gfra1_Ret	GDNF	Secreted Signaling	Artn--Gfra1_Ret	True	False	False	False
+Nodal	Acvr1b_Acvr2a_Cfc1	NODAL	Secreted Signaling	Nodal--Acvr1b_Acvr2a_Cfc1	True	False	False	False
+Nodal	Acvr1c_Acvr2a_Cfc1	NODAL	Secreted Signaling	Nodal--Acvr1c_Acvr2a_Cfc1	False	False	False	False
+Nodal	Acvr1b_Acvr2b_Cfc1	NODAL	Secreted Signaling	Nodal--Acvr1b_Acvr2b_Cfc1	True	False	False	False
+Nodal	Acvr1c_Acvr2b_Cfc1	NODAL	Secreted Signaling	Nodal--Acvr1c_Acvr2b_Cfc1	True	False	False	False
+Gdf1	Acvr1b_Acvr2a_Cfc1	NODAL	Secreted Signaling	Gdf1--Acvr1b_Acvr2a_Cfc1	False	False	False	False
+Gdf1	Acvr1b_Acvr2b_Cfc1	NODAL	Secreted Signaling	Gdf1--Acvr1b_Acvr2b_Cfc1	False	False	False	False
+Gdf1	Acvr1c_Acvr2a_Cfc1	NODAL	Secreted Signaling	Gdf1--Acvr1c_Acvr2a_Cfc1	False	False	False	False
+Gdf1	Acvr1c_Acvr2b_Cfc1	NODAL	Secreted Signaling	Gdf1--Acvr1c_Acvr2b_Cfc1	False	False	False	False
+Gdf3	Acvr1b_Acvr2a_Cfc1	NODAL	Secreted Signaling	Gdf3--Acvr1b_Acvr2a_Cfc1	False	False	False	False
+Gdf3	Acvr1b_Acvr2b_Cfc1	NODAL	Secreted Signaling	Gdf3--Acvr1b_Acvr2b_Cfc1	False	False	False	False
+Gdf3	Acvr1c_Acvr2a_Cfc1	NODAL	Secreted Signaling	Gdf3--Acvr1c_Acvr2a_Cfc1	False	False	False	False
+Gdf3	Acvr1c_Acvr2b_Cfc1	NODAL	Secreted Signaling	Gdf3--Acvr1c_Acvr2b_Cfc1	False	False	False	False
+Inhba	Acvr1b_Acvr2a	ACTIVIN	Secreted Signaling	Inhba--Acvr1b_Acvr2a	False	False	False	False
+Inhba	Acvr1b_Acvr2b	ACTIVIN	Secreted Signaling	Inhba--Acvr1b_Acvr2b	False	False	False	False
+Inhbb	Acvr1b_Acvr2a	ACTIVIN	Secreted Signaling	Inhbb--Acvr1b_Acvr2a	False	False	False	False
+Inhbb	Acvr1b_Acvr2b	ACTIVIN	Secreted Signaling	Inhbb--Acvr1b_Acvr2b	False	False	False	False
+Inhbb	Acvr1c_Acvr2a	ACTIVIN	Secreted Signaling	Inhbb--Acvr1c_Acvr2a	False	False	False	False
+Inhbb	Acvr1c_Acvr2b	ACTIVIN	Secreted Signaling	Inhbb--Acvr1c_Acvr2b	False	False	False	False
+Inhbc	Acvr1b_Acvr2a	ACTIVIN	Secreted Signaling	Inhbc--Acvr1b_Acvr2a	False	False	False	False
+Inhbc	Acvr1b_Acvr2b	ACTIVIN	Secreted Signaling	Inhbc--Acvr1b_Acvr2b	False	False	False	False
+Inhbc	Acvr1c_Acvr2a	ACTIVIN	Secreted Signaling	Inhbc--Acvr1c_Acvr2a	False	False	False	False
+Inhbc	Acvr1c_Acvr2b	ACTIVIN	Secreted Signaling	Inhbc--Acvr1c_Acvr2b	False	False	False	False
+Inhbe	Acvr1b_Acvr2a	ACTIVIN	Secreted Signaling	Inhbe--Acvr1b_Acvr2a	False	False	False	False
+Inhbe	Acvr1b_Acvr2b	ACTIVIN	Secreted Signaling	Inhbe--Acvr1b_Acvr2b	False	False	False	False
+Inhbe	Acvr1c_Acvr2a	ACTIVIN	Secreted Signaling	Inhbe--Acvr1c_Acvr2a	False	False	False	False
+Inhbe	Acvr1c_Acvr2b	ACTIVIN	Secreted Signaling	Inhbe--Acvr1c_Acvr2b	False	False	False	False
+Inhba_Inhbb	Acvr1b_Acvr2a	ACTIVIN	Secreted Signaling	Inhba_Inhbb--Acvr1b_Acvr2a	True	False	False	False
+Inhba_Inhbb	Acvr1b_Acvr2b	ACTIVIN	Secreted Signaling	Inhba_Inhbb--Acvr1b_Acvr2b	True	False	False	False
+Inhba_Inhbb	Acvr1c_Acvr2a	ACTIVIN	Secreted Signaling	Inhba_Inhbb--Acvr1c_Acvr2a	True	False	False	False
+Inhba_Inhbb	Acvr1c_Acvr2b	ACTIVIN	Secreted Signaling	Inhba_Inhbb--Acvr1c_Acvr2b	True	False	False	False
+Inha_Inhba	Acvr2a	ACTIVIN	Secreted Signaling	Inha_Inhba--Acvr2a	False	False	False	False
+Inha_Inhbb	Acvr2b	ACTIVIN	Secreted Signaling	Inha_Inhbb--Acvr2b	False	False	False	False
+Wnt1	Fzd1_Lrp5	WNT	Secreted Signaling	Wnt1--Fzd1_Lrp5	False	False	False	False
+Wnt1	Fzd10_Lrp5	WNT	Secreted Signaling	Wnt1--Fzd10_Lrp5	False	False	False	False
+Wnt1	Fzd2_Lrp5	WNT	Secreted Signaling	Wnt1--Fzd2_Lrp5	False	False	False	False
+Wnt1	Fzd3_Lrp5	WNT	Secreted Signaling	Wnt1--Fzd3_Lrp5	False	False	False	False
+Wnt1	Fzd4_Lrp5	WNT	Secreted Signaling	Wnt1--Fzd4_Lrp5	False	False	False	False
+Wnt1	Fzd5_Lrp5	WNT	Secreted Signaling	Wnt1--Fzd5_Lrp5	False	False	False	False
+Wnt1	Fzd6_Lrp5	WNT	Secreted Signaling	Wnt1--Fzd6_Lrp5	False	False	False	False
+Wnt1	Fzd7_Lrp5	WNT	Secreted Signaling	Wnt1--Fzd7_Lrp5	False	False	False	False
+Wnt1	Fzd8_Lrp5	WNT	Secreted Signaling	Wnt1--Fzd8_Lrp5	False	False	False	False
+Wnt1	Fzd9_Lrp5	WNT	Secreted Signaling	Wnt1--Fzd9_Lrp5	False	False	False	False
+Wnt10a	Fzd1_Lrp5	WNT	Secreted Signaling	Wnt10a--Fzd1_Lrp5	False	False	False	False
+Wnt10a	Fzd10_Lrp5	WNT	Secreted Signaling	Wnt10a--Fzd10_Lrp5	False	False	False	False
+Wnt10a	Fzd2_Lrp5	WNT	Secreted Signaling	Wnt10a--Fzd2_Lrp5	False	False	False	False
+Wnt10a	Fzd3_Lrp5	WNT	Secreted Signaling	Wnt10a--Fzd3_Lrp5	False	False	False	False
+Wnt10a	Fzd4_Lrp5	WNT	Secreted Signaling	Wnt10a--Fzd4_Lrp5	False	False	False	False
+Wnt10a	Fzd5_Lrp5	WNT	Secreted Signaling	Wnt10a--Fzd5_Lrp5	False	False	False	False
+Wnt10a	Fzd6_Lrp5	WNT	Secreted Signaling	Wnt10a--Fzd6_Lrp5	False	False	False	False
+Wnt10a	Fzd7_Lrp5	WNT	Secreted Signaling	Wnt10a--Fzd7_Lrp5	False	False	False	False
+Wnt10a	Fzd8_Lrp5	WNT	Secreted Signaling	Wnt10a--Fzd8_Lrp5	False	False	False	False
+Wnt10a	Fzd9_Lrp5	WNT	Secreted Signaling	Wnt10a--Fzd9_Lrp5	False	False	False	False
+Wnt10b	Fzd1_Lrp5	WNT	Secreted Signaling	Wnt10b--Fzd1_Lrp5	False	False	False	False
+Wnt10b	Fzd10_Lrp5	WNT	Secreted Signaling	Wnt10b--Fzd10_Lrp5	False	False	False	False
+Wnt10b	Fzd2_Lrp5	WNT	Secreted Signaling	Wnt10b--Fzd2_Lrp5	False	False	False	False
+Wnt10b	Fzd3_Lrp5	WNT	Secreted Signaling	Wnt10b--Fzd3_Lrp5	False	False	False	False
+Wnt10b	Fzd4_Lrp5	WNT	Secreted Signaling	Wnt10b--Fzd4_Lrp5	False	False	False	False
+Wnt10b	Fzd5_Lrp5	WNT	Secreted Signaling	Wnt10b--Fzd5_Lrp5	False	False	False	False
+Wnt10b	Fzd6_Lrp5	WNT	Secreted Signaling	Wnt10b--Fzd6_Lrp5	False	False	False	False
+Wnt10b	Fzd7_Lrp5	WNT	Secreted Signaling	Wnt10b--Fzd7_Lrp5	False	False	False	False
+Wnt10b	Fzd8_Lrp5	WNT	Secreted Signaling	Wnt10b--Fzd8_Lrp5	False	False	False	False
+Wnt10b	Fzd9_Lrp5	WNT	Secreted Signaling	Wnt10b--Fzd9_Lrp5	False	False	False	False
+Wnt16	Fzd1_Lrp5	WNT	Secreted Signaling	Wnt16--Fzd1_Lrp5	False	False	False	False
+Wnt16	Fzd10_Lrp5	WNT	Secreted Signaling	Wnt16--Fzd10_Lrp5	False	False	False	False
+Wnt16	Fzd2_Lrp5	WNT	Secreted Signaling	Wnt16--Fzd2_Lrp5	False	False	False	False
+Wnt16	Fzd3_Lrp5	WNT	Secreted Signaling	Wnt16--Fzd3_Lrp5	False	False	False	False
+Wnt16	Fzd4_Lrp5	WNT	Secreted Signaling	Wnt16--Fzd4_Lrp5	False	False	False	False
+Wnt16	Fzd5_Lrp5	WNT	Secreted Signaling	Wnt16--Fzd5_Lrp5	False	False	False	False
+Wnt16	Fzd6_Lrp5	WNT	Secreted Signaling	Wnt16--Fzd6_Lrp5	False	False	False	False
+Wnt16	Fzd7_Lrp5	WNT	Secreted Signaling	Wnt16--Fzd7_Lrp5	False	False	False	False
+Wnt16	Fzd8_Lrp5	WNT	Secreted Signaling	Wnt16--Fzd8_Lrp5	False	False	False	False
+Wnt16	Fzd9_Lrp5	WNT	Secreted Signaling	Wnt16--Fzd9_Lrp5	False	False	False	False
+Wnt2	Fzd1_Lrp5	WNT	Secreted Signaling	Wnt2--Fzd1_Lrp5	False	False	False	False
+Wnt2	Fzd10_Lrp5	WNT	Secreted Signaling	Wnt2--Fzd10_Lrp5	False	False	False	False
+Wnt2	Fzd2_Lrp5	WNT	Secreted Signaling	Wnt2--Fzd2_Lrp5	False	False	False	False
+Wnt2	Fzd3_Lrp5	WNT	Secreted Signaling	Wnt2--Fzd3_Lrp5	False	False	False	False
+Wnt2	Fzd4_Lrp5	WNT	Secreted Signaling	Wnt2--Fzd4_Lrp5	False	False	False	False
+Wnt2	Fzd5_Lrp5	WNT	Secreted Signaling	Wnt2--Fzd5_Lrp5	False	False	False	False
+Wnt2	Fzd6_Lrp5	WNT	Secreted Signaling	Wnt2--Fzd6_Lrp5	False	False	False	False
+Wnt2	Fzd7_Lrp5	WNT	Secreted Signaling	Wnt2--Fzd7_Lrp5	False	False	False	False
+Wnt2	Fzd8_Lrp5	WNT	Secreted Signaling	Wnt2--Fzd8_Lrp5	False	False	False	False
+Wnt2	Fzd9_Lrp5	WNT	Secreted Signaling	Wnt2--Fzd9_Lrp5	False	False	False	False
+Wnt2b	Fzd1_Lrp5	WNT	Secreted Signaling	Wnt2b--Fzd1_Lrp5	False	False	False	False
+Wnt2b	Fzd10_Lrp5	WNT	Secreted Signaling	Wnt2b--Fzd10_Lrp5	False	False	False	False
+Wnt2b	Fzd2_Lrp5	WNT	Secreted Signaling	Wnt2b--Fzd2_Lrp5	False	False	False	False
+Wnt2b	Fzd3_Lrp5	WNT	Secreted Signaling	Wnt2b--Fzd3_Lrp5	False	False	False	False
+Wnt2b	Fzd4_Lrp5	WNT	Secreted Signaling	Wnt2b--Fzd4_Lrp5	False	False	False	False
+Wnt2b	Fzd5_Lrp5	WNT	Secreted Signaling	Wnt2b--Fzd5_Lrp5	False	False	False	False
+Wnt2b	Fzd6_Lrp5	WNT	Secreted Signaling	Wnt2b--Fzd6_Lrp5	False	False	False	False
+Wnt2b	Fzd7_Lrp5	WNT	Secreted Signaling	Wnt2b--Fzd7_Lrp5	False	False	False	False
+Wnt2b	Fzd8_Lrp5	WNT	Secreted Signaling	Wnt2b--Fzd8_Lrp5	False	False	False	False
+Wnt2b	Fzd9_Lrp5	WNT	Secreted Signaling	Wnt2b--Fzd9_Lrp5	False	False	False	False
+Wnt3	Fzd1_Lrp5	WNT	Secreted Signaling	Wnt3--Fzd1_Lrp5	False	False	False	False
+Wnt3	Fzd10_Lrp5	WNT	Secreted Signaling	Wnt3--Fzd10_Lrp5	False	False	False	False
+Wnt3	Fzd2_Lrp5	WNT	Secreted Signaling	Wnt3--Fzd2_Lrp5	False	False	False	False
+Wnt3	Fzd3_Lrp5	WNT	Secreted Signaling	Wnt3--Fzd3_Lrp5	False	False	False	False
+Wnt3	Fzd4_Lrp5	WNT	Secreted Signaling	Wnt3--Fzd4_Lrp5	False	False	False	False
+Wnt3	Fzd5_Lrp5	WNT	Secreted Signaling	Wnt3--Fzd5_Lrp5	False	False	False	False
+Wnt3	Fzd6_Lrp5	WNT	Secreted Signaling	Wnt3--Fzd6_Lrp5	False	False	False	False
+Wnt3	Fzd7_Lrp5	WNT	Secreted Signaling	Wnt3--Fzd7_Lrp5	False	False	False	False
+Wnt3	Fzd8_Lrp5	WNT	Secreted Signaling	Wnt3--Fzd8_Lrp5	False	False	False	False
+Wnt3	Fzd9_Lrp5	WNT	Secreted Signaling	Wnt3--Fzd9_Lrp5	False	False	False	False
+Wnt3a	Fzd1_Lrp5	WNT	Secreted Signaling	Wnt3a--Fzd1_Lrp5	False	False	False	False
+Wnt3a	Fzd10_Lrp5	WNT	Secreted Signaling	Wnt3a--Fzd10_Lrp5	False	False	False	False
+Wnt3a	Fzd2_Lrp5	WNT	Secreted Signaling	Wnt3a--Fzd2_Lrp5	False	False	False	False
+Wnt3a	Fzd3_Lrp5	WNT	Secreted Signaling	Wnt3a--Fzd3_Lrp5	False	False	False	False
+Wnt3a	Fzd4_Lrp5	WNT	Secreted Signaling	Wnt3a--Fzd4_Lrp5	False	False	False	False
+Wnt3a	Fzd5_Lrp5	WNT	Secreted Signaling	Wnt3a--Fzd5_Lrp5	False	False	False	False
+Wnt3a	Fzd6_Lrp5	WNT	Secreted Signaling	Wnt3a--Fzd6_Lrp5	False	False	False	False
+Wnt3a	Fzd7_Lrp5	WNT	Secreted Signaling	Wnt3a--Fzd7_Lrp5	False	False	False	False
+Wnt3a	Fzd8_Lrp5	WNT	Secreted Signaling	Wnt3a--Fzd8_Lrp5	False	False	False	False
+Wnt3a	Fzd9_Lrp5	WNT	Secreted Signaling	Wnt3a--Fzd9_Lrp5	False	False	False	False
+Wnt4	Fzd1_Lrp5	WNT	Secreted Signaling	Wnt4--Fzd1_Lrp5	False	False	False	False
+Wnt4	Fzd10_Lrp5	WNT	Secreted Signaling	Wnt4--Fzd10_Lrp5	False	False	False	False
+Wnt4	Fzd2_Lrp5	WNT	Secreted Signaling	Wnt4--Fzd2_Lrp5	False	False	False	False
+Wnt4	Fzd3_Lrp5	WNT	Secreted Signaling	Wnt4--Fzd3_Lrp5	False	False	False	False
+Wnt4	Fzd4_Lrp5	WNT	Secreted Signaling	Wnt4--Fzd4_Lrp5	False	False	False	False
+Wnt4	Fzd5_Lrp5	WNT	Secreted Signaling	Wnt4--Fzd5_Lrp5	False	False	False	False
+Wnt4	Fzd6_Lrp5	WNT	Secreted Signaling	Wnt4--Fzd6_Lrp5	False	False	False	False
+Wnt4	Fzd7_Lrp5	WNT	Secreted Signaling	Wnt4--Fzd7_Lrp5	False	False	False	False
+Wnt4	Fzd8_Lrp5	WNT	Secreted Signaling	Wnt4--Fzd8_Lrp5	False	False	False	False
+Wnt4	Fzd9_Lrp5	WNT	Secreted Signaling	Wnt4--Fzd9_Lrp5	False	False	False	False
+Wnt6	Fzd1_Lrp5	WNT	Secreted Signaling	Wnt6--Fzd1_Lrp5	False	False	False	False
+Wnt6	Fzd10_Lrp5	WNT	Secreted Signaling	Wnt6--Fzd10_Lrp5	False	False	False	False
+Wnt6	Fzd2_Lrp5	WNT	Secreted Signaling	Wnt6--Fzd2_Lrp5	False	False	False	False
+Wnt6	Fzd3_Lrp5	WNT	Secreted Signaling	Wnt6--Fzd3_Lrp5	False	False	False	False
+Wnt6	Fzd4_Lrp5	WNT	Secreted Signaling	Wnt6--Fzd4_Lrp5	False	False	False	False
+Wnt6	Fzd5_Lrp5	WNT	Secreted Signaling	Wnt6--Fzd5_Lrp5	False	False	False	False
+Wnt6	Fzd6_Lrp5	WNT	Secreted Signaling	Wnt6--Fzd6_Lrp5	False	False	False	False
+Wnt6	Fzd7_Lrp5	WNT	Secreted Signaling	Wnt6--Fzd7_Lrp5	False	False	False	False
+Wnt6	Fzd8_Lrp5	WNT	Secreted Signaling	Wnt6--Fzd8_Lrp5	False	False	False	False
+Wnt6	Fzd9_Lrp5	WNT	Secreted Signaling	Wnt6--Fzd9_Lrp5	False	False	False	False
+Wnt7a	Fzd1_Lrp5	WNT	Secreted Signaling	Wnt7a--Fzd1_Lrp5	False	False	False	False
+Wnt7a	Fzd10_Lrp5	WNT	Secreted Signaling	Wnt7a--Fzd10_Lrp5	False	False	False	False
+Wnt7a	Fzd2_Lrp5	WNT	Secreted Signaling	Wnt7a--Fzd2_Lrp5	False	False	False	False
+Wnt7a	Fzd3_Lrp5	WNT	Secreted Signaling	Wnt7a--Fzd3_Lrp5	False	False	False	False
+Wnt7a	Fzd4_Lrp5	WNT	Secreted Signaling	Wnt7a--Fzd4_Lrp5	False	False	False	False
+Wnt7a	Fzd5_Lrp5	WNT	Secreted Signaling	Wnt7a--Fzd5_Lrp5	False	False	False	False
+Wnt7a	Fzd6_Lrp5	WNT	Secreted Signaling	Wnt7a--Fzd6_Lrp5	False	False	False	False
+Wnt7a	Fzd7_Lrp5	WNT	Secreted Signaling	Wnt7a--Fzd7_Lrp5	False	False	False	False
+Wnt7a	Fzd8_Lrp5	WNT	Secreted Signaling	Wnt7a--Fzd8_Lrp5	False	False	False	False
+Wnt7a	Fzd9_Lrp5	WNT	Secreted Signaling	Wnt7a--Fzd9_Lrp5	False	False	False	False
+Wnt7b	Fzd1_Lrp5	WNT	Secreted Signaling	Wnt7b--Fzd1_Lrp5	False	False	False	False
+Wnt7b	Fzd10_Lrp5	WNT	Secreted Signaling	Wnt7b--Fzd10_Lrp5	False	False	False	False
+Wnt7b	Fzd2_Lrp5	WNT	Secreted Signaling	Wnt7b--Fzd2_Lrp5	False	False	False	False
+Wnt7b	Fzd3_Lrp5	WNT	Secreted Signaling	Wnt7b--Fzd3_Lrp5	False	False	False	False
+Wnt7b	Fzd4_Lrp5	WNT	Secreted Signaling	Wnt7b--Fzd4_Lrp5	False	False	False	False
+Wnt7b	Fzd5_Lrp5	WNT	Secreted Signaling	Wnt7b--Fzd5_Lrp5	False	False	False	False
+Wnt7b	Fzd6_Lrp5	WNT	Secreted Signaling	Wnt7b--Fzd6_Lrp5	False	False	False	False
+Wnt7b	Fzd7_Lrp5	WNT	Secreted Signaling	Wnt7b--Fzd7_Lrp5	False	False	False	False
+Wnt7b	Fzd8_Lrp5	WNT	Secreted Signaling	Wnt7b--Fzd8_Lrp5	False	False	False	False
+Wnt7b	Fzd9_Lrp5	WNT	Secreted Signaling	Wnt7b--Fzd9_Lrp5	False	False	False	False
+Wnt8a	Fzd1_Lrp5	WNT	Secreted Signaling	Wnt8a--Fzd1_Lrp5	False	False	False	False
+Wnt8a	Fzd10_Lrp5	WNT	Secreted Signaling	Wnt8a--Fzd10_Lrp5	False	False	False	False
+Wnt8a	Fzd2_Lrp5	WNT	Secreted Signaling	Wnt8a--Fzd2_Lrp5	False	False	False	False
+Wnt8a	Fzd3_Lrp5	WNT	Secreted Signaling	Wnt8a--Fzd3_Lrp5	False	False	False	False
+Wnt8a	Fzd4_Lrp5	WNT	Secreted Signaling	Wnt8a--Fzd4_Lrp5	False	False	False	False
+Wnt8a	Fzd5_Lrp5	WNT	Secreted Signaling	Wnt8a--Fzd5_Lrp5	False	False	False	False
+Wnt8a	Fzd6_Lrp5	WNT	Secreted Signaling	Wnt8a--Fzd6_Lrp5	False	False	False	False
+Wnt8a	Fzd7_Lrp5	WNT	Secreted Signaling	Wnt8a--Fzd7_Lrp5	False	False	False	False
+Wnt8a	Fzd8_Lrp5	WNT	Secreted Signaling	Wnt8a--Fzd8_Lrp5	False	False	False	False
+Wnt8a	Fzd9_Lrp5	WNT	Secreted Signaling	Wnt8a--Fzd9_Lrp5	False	False	False	False
+Wnt8b	Fzd1_Lrp5	WNT	Secreted Signaling	Wnt8b--Fzd1_Lrp5	False	False	False	False
+Wnt8b	Fzd10_Lrp5	WNT	Secreted Signaling	Wnt8b--Fzd10_Lrp5	False	False	False	False
+Wnt8b	Fzd2_Lrp5	WNT	Secreted Signaling	Wnt8b--Fzd2_Lrp5	False	False	False	False
+Wnt8b	Fzd3_Lrp5	WNT	Secreted Signaling	Wnt8b--Fzd3_Lrp5	False	False	False	False
+Wnt8b	Fzd4_Lrp5	WNT	Secreted Signaling	Wnt8b--Fzd4_Lrp5	False	False	False	False
+Wnt8b	Fzd5_Lrp5	WNT	Secreted Signaling	Wnt8b--Fzd5_Lrp5	False	False	False	False
+Wnt8b	Fzd6_Lrp5	WNT	Secreted Signaling	Wnt8b--Fzd6_Lrp5	False	False	False	False
+Wnt8b	Fzd7_Lrp5	WNT	Secreted Signaling	Wnt8b--Fzd7_Lrp5	False	False	False	False
+Wnt8b	Fzd8_Lrp5	WNT	Secreted Signaling	Wnt8b--Fzd8_Lrp5	False	False	False	False
+Wnt8b	Fzd9_Lrp5	WNT	Secreted Signaling	Wnt8b--Fzd9_Lrp5	False	False	False	False
+Wnt9a	Fzd1_Lrp5	WNT	Secreted Signaling	Wnt9a--Fzd1_Lrp5	False	False	False	False
+Wnt9a	Fzd10_Lrp5	WNT	Secreted Signaling	Wnt9a--Fzd10_Lrp5	False	False	False	False
+Wnt9a	Fzd2_Lrp5	WNT	Secreted Signaling	Wnt9a--Fzd2_Lrp5	False	False	False	False
+Wnt9a	Fzd3_Lrp5	WNT	Secreted Signaling	Wnt9a--Fzd3_Lrp5	False	False	False	False
+Wnt9a	Fzd4_Lrp5	WNT	Secreted Signaling	Wnt9a--Fzd4_Lrp5	False	True	False	False
+Wnt9a	Fzd5_Lrp5	WNT	Secreted Signaling	Wnt9a--Fzd5_Lrp5	False	False	False	False
+Wnt9a	Fzd6_Lrp5	WNT	Secreted Signaling	Wnt9a--Fzd6_Lrp5	False	True	False	False
+Wnt9a	Fzd7_Lrp5	WNT	Secreted Signaling	Wnt9a--Fzd7_Lrp5	False	False	False	False
+Wnt9a	Fzd8_Lrp5	WNT	Secreted Signaling	Wnt9a--Fzd8_Lrp5	False	False	False	False
+Wnt9a	Fzd9_Lrp5	WNT	Secreted Signaling	Wnt9a--Fzd9_Lrp5	False	False	False	False
+Wnt9b	Fzd1_Lrp5	WNT	Secreted Signaling	Wnt9b--Fzd1_Lrp5	False	False	False	False
+Wnt9b	Fzd10_Lrp5	WNT	Secreted Signaling	Wnt9b--Fzd10_Lrp5	False	False	False	False
+Wnt9b	Fzd2_Lrp5	WNT	Secreted Signaling	Wnt9b--Fzd2_Lrp5	False	False	False	False
+Wnt9b	Fzd3_Lrp5	WNT	Secreted Signaling	Wnt9b--Fzd3_Lrp5	False	False	False	False
+Wnt9b	Fzd4_Lrp5	WNT	Secreted Signaling	Wnt9b--Fzd4_Lrp5	False	False	False	False
+Wnt9b	Fzd5_Lrp5	WNT	Secreted Signaling	Wnt9b--Fzd5_Lrp5	False	False	False	False
+Wnt9b	Fzd6_Lrp5	WNT	Secreted Signaling	Wnt9b--Fzd6_Lrp5	False	False	False	False
+Wnt9b	Fzd7_Lrp5	WNT	Secreted Signaling	Wnt9b--Fzd7_Lrp5	False	False	False	False
+Wnt9b	Fzd8_Lrp5	WNT	Secreted Signaling	Wnt9b--Fzd8_Lrp5	False	False	False	False
+Wnt9b	Fzd9_Lrp5	WNT	Secreted Signaling	Wnt9b--Fzd9_Lrp5	False	False	False	False
+Wnt1	Fzd1_Lrp6	WNT	Secreted Signaling	Wnt1--Fzd1_Lrp6	False	False	False	False
+Wnt1	Fzd10_Lrp6	WNT	Secreted Signaling	Wnt1--Fzd10_Lrp6	False	False	False	False
+Wnt1	Fzd2_Lrp6	WNT	Secreted Signaling	Wnt1--Fzd2_Lrp6	False	False	False	False
+Wnt1	Fzd3_Lrp6	WNT	Secreted Signaling	Wnt1--Fzd3_Lrp6	False	False	False	False
+Wnt1	Fzd4_Lrp6	WNT	Secreted Signaling	Wnt1--Fzd4_Lrp6	False	False	False	False
+Wnt1	Fzd5_Lrp6	WNT	Secreted Signaling	Wnt1--Fzd5_Lrp6	False	False	False	False
+Wnt1	Fzd6_Lrp6	WNT	Secreted Signaling	Wnt1--Fzd6_Lrp6	False	False	False	False
+Wnt1	Fzd7_Lrp6	WNT	Secreted Signaling	Wnt1--Fzd7_Lrp6	False	False	False	False
+Wnt1	Fzd8_Lrp6	WNT	Secreted Signaling	Wnt1--Fzd8_Lrp6	False	False	False	False
+Wnt1	Fzd9_Lrp6	WNT	Secreted Signaling	Wnt1--Fzd9_Lrp6	False	False	False	False
+Wnt10a	Fzd1_Lrp6	WNT	Secreted Signaling	Wnt10a--Fzd1_Lrp6	False	False	False	False
+Wnt10a	Fzd10_Lrp6	WNT	Secreted Signaling	Wnt10a--Fzd10_Lrp6	False	False	False	False
+Wnt10a	Fzd2_Lrp6	WNT	Secreted Signaling	Wnt10a--Fzd2_Lrp6	False	False	False	False
+Wnt10a	Fzd3_Lrp6	WNT	Secreted Signaling	Wnt10a--Fzd3_Lrp6	False	False	False	False
+Wnt10a	Fzd4_Lrp6	WNT	Secreted Signaling	Wnt10a--Fzd4_Lrp6	False	False	False	False
+Wnt10a	Fzd5_Lrp6	WNT	Secreted Signaling	Wnt10a--Fzd5_Lrp6	False	False	False	False
+Wnt10a	Fzd6_Lrp6	WNT	Secreted Signaling	Wnt10a--Fzd6_Lrp6	False	False	False	False
+Wnt10a	Fzd7_Lrp6	WNT	Secreted Signaling	Wnt10a--Fzd7_Lrp6	False	False	False	False
+Wnt10a	Fzd8_Lrp6	WNT	Secreted Signaling	Wnt10a--Fzd8_Lrp6	False	False	False	False
+Wnt10a	Fzd9_Lrp6	WNT	Secreted Signaling	Wnt10a--Fzd9_Lrp6	False	False	False	False
+Wnt10b	Fzd1_Lrp6	WNT	Secreted Signaling	Wnt10b--Fzd1_Lrp6	False	False	False	False
+Wnt10b	Fzd10_Lrp6	WNT	Secreted Signaling	Wnt10b--Fzd10_Lrp6	False	False	False	False
+Wnt10b	Fzd2_Lrp6	WNT	Secreted Signaling	Wnt10b--Fzd2_Lrp6	False	False	False	False
+Wnt10b	Fzd3_Lrp6	WNT	Secreted Signaling	Wnt10b--Fzd3_Lrp6	False	False	False	False
+Wnt10b	Fzd4_Lrp6	WNT	Secreted Signaling	Wnt10b--Fzd4_Lrp6	False	False	False	False
+Wnt10b	Fzd5_Lrp6	WNT	Secreted Signaling	Wnt10b--Fzd5_Lrp6	False	False	False	False
+Wnt10b	Fzd6_Lrp6	WNT	Secreted Signaling	Wnt10b--Fzd6_Lrp6	False	False	False	False
+Wnt10b	Fzd7_Lrp6	WNT	Secreted Signaling	Wnt10b--Fzd7_Lrp6	False	False	False	False
+Wnt10b	Fzd8_Lrp6	WNT	Secreted Signaling	Wnt10b--Fzd8_Lrp6	False	False	False	False
+Wnt10b	Fzd9_Lrp6	WNT	Secreted Signaling	Wnt10b--Fzd9_Lrp6	False	False	False	False
+Wnt16	Fzd1_Lrp6	WNT	Secreted Signaling	Wnt16--Fzd1_Lrp6	False	False	False	False
+Wnt16	Fzd10_Lrp6	WNT	Secreted Signaling	Wnt16--Fzd10_Lrp6	False	False	False	False
+Wnt16	Fzd2_Lrp6	WNT	Secreted Signaling	Wnt16--Fzd2_Lrp6	False	False	False	False
+Wnt16	Fzd3_Lrp6	WNT	Secreted Signaling	Wnt16--Fzd3_Lrp6	False	False	False	False
+Wnt16	Fzd4_Lrp6	WNT	Secreted Signaling	Wnt16--Fzd4_Lrp6	False	False	False	False
+Wnt16	Fzd5_Lrp6	WNT	Secreted Signaling	Wnt16--Fzd5_Lrp6	False	False	False	False
+Wnt16	Fzd6_Lrp6	WNT	Secreted Signaling	Wnt16--Fzd6_Lrp6	False	False	False	False
+Wnt16	Fzd7_Lrp6	WNT	Secreted Signaling	Wnt16--Fzd7_Lrp6	False	False	False	False
+Wnt16	Fzd8_Lrp6	WNT	Secreted Signaling	Wnt16--Fzd8_Lrp6	False	False	False	False
+Wnt16	Fzd9_Lrp6	WNT	Secreted Signaling	Wnt16--Fzd9_Lrp6	False	False	False	False
+Wnt2	Fzd1_Lrp6	WNT	Secreted Signaling	Wnt2--Fzd1_Lrp6	False	False	False	False
+Wnt2	Fzd10_Lrp6	WNT	Secreted Signaling	Wnt2--Fzd10_Lrp6	False	False	False	False
+Wnt2	Fzd2_Lrp6	WNT	Secreted Signaling	Wnt2--Fzd2_Lrp6	False	False	False	False
+Wnt2	Fzd3_Lrp6	WNT	Secreted Signaling	Wnt2--Fzd3_Lrp6	False	False	False	False
+Wnt2	Fzd4_Lrp6	WNT	Secreted Signaling	Wnt2--Fzd4_Lrp6	False	False	False	False
+Wnt2	Fzd5_Lrp6	WNT	Secreted Signaling	Wnt2--Fzd5_Lrp6	False	False	False	False
+Wnt2	Fzd6_Lrp6	WNT	Secreted Signaling	Wnt2--Fzd6_Lrp6	False	False	False	False
+Wnt2	Fzd7_Lrp6	WNT	Secreted Signaling	Wnt2--Fzd7_Lrp6	False	False	False	False
+Wnt2	Fzd8_Lrp6	WNT	Secreted Signaling	Wnt2--Fzd8_Lrp6	False	False	False	False
+Wnt2	Fzd9_Lrp6	WNT	Secreted Signaling	Wnt2--Fzd9_Lrp6	False	False	False	False
+Wnt2b	Fzd1_Lrp6	WNT	Secreted Signaling	Wnt2b--Fzd1_Lrp6	False	False	False	False
+Wnt2b	Fzd10_Lrp6	WNT	Secreted Signaling	Wnt2b--Fzd10_Lrp6	False	False	False	False
+Wnt2b	Fzd2_Lrp6	WNT	Secreted Signaling	Wnt2b--Fzd2_Lrp6	False	False	False	False
+Wnt2b	Fzd3_Lrp6	WNT	Secreted Signaling	Wnt2b--Fzd3_Lrp6	False	False	False	False
+Wnt2b	Fzd4_Lrp6	WNT	Secreted Signaling	Wnt2b--Fzd4_Lrp6	False	False	False	False
+Wnt2b	Fzd5_Lrp6	WNT	Secreted Signaling	Wnt2b--Fzd5_Lrp6	False	False	False	False
+Wnt2b	Fzd6_Lrp6	WNT	Secreted Signaling	Wnt2b--Fzd6_Lrp6	False	False	False	False
+Wnt2b	Fzd7_Lrp6	WNT	Secreted Signaling	Wnt2b--Fzd7_Lrp6	False	False	False	False
+Wnt2b	Fzd8_Lrp6	WNT	Secreted Signaling	Wnt2b--Fzd8_Lrp6	False	False	False	False
+Wnt2b	Fzd9_Lrp6	WNT	Secreted Signaling	Wnt2b--Fzd9_Lrp6	False	False	False	False
+Wnt3	Fzd1_Lrp6	WNT	Secreted Signaling	Wnt3--Fzd1_Lrp6	False	False	False	False
+Wnt3	Fzd10_Lrp6	WNT	Secreted Signaling	Wnt3--Fzd10_Lrp6	False	False	False	False
+Wnt3	Fzd2_Lrp6	WNT	Secreted Signaling	Wnt3--Fzd2_Lrp6	False	False	False	False
+Wnt3	Fzd3_Lrp6	WNT	Secreted Signaling	Wnt3--Fzd3_Lrp6	False	False	False	False
+Wnt3	Fzd4_Lrp6	WNT	Secreted Signaling	Wnt3--Fzd4_Lrp6	False	False	False	False
+Wnt3	Fzd5_Lrp6	WNT	Secreted Signaling	Wnt3--Fzd5_Lrp6	False	False	False	False
+Wnt3	Fzd6_Lrp6	WNT	Secreted Signaling	Wnt3--Fzd6_Lrp6	False	False	False	False
+Wnt3	Fzd7_Lrp6	WNT	Secreted Signaling	Wnt3--Fzd7_Lrp6	False	False	False	False
+Wnt3	Fzd8_Lrp6	WNT	Secreted Signaling	Wnt3--Fzd8_Lrp6	False	False	False	False
+Wnt3	Fzd9_Lrp6	WNT	Secreted Signaling	Wnt3--Fzd9_Lrp6	False	False	False	False
+Wnt3a	Fzd1_Lrp6	WNT	Secreted Signaling	Wnt3a--Fzd1_Lrp6	False	False	False	False
+Wnt3a	Fzd10_Lrp6	WNT	Secreted Signaling	Wnt3a--Fzd10_Lrp6	False	False	False	False
+Wnt3a	Fzd2_Lrp6	WNT	Secreted Signaling	Wnt3a--Fzd2_Lrp6	False	False	False	False
+Wnt3a	Fzd3_Lrp6	WNT	Secreted Signaling	Wnt3a--Fzd3_Lrp6	False	False	False	False
+Wnt3a	Fzd4_Lrp6	WNT	Secreted Signaling	Wnt3a--Fzd4_Lrp6	False	False	False	False
+Wnt3a	Fzd5_Lrp6	WNT	Secreted Signaling	Wnt3a--Fzd5_Lrp6	False	False	False	False
+Wnt3a	Fzd6_Lrp6	WNT	Secreted Signaling	Wnt3a--Fzd6_Lrp6	False	False	False	False
+Wnt3a	Fzd7_Lrp6	WNT	Secreted Signaling	Wnt3a--Fzd7_Lrp6	False	False	False	False
+Wnt3a	Fzd8_Lrp6	WNT	Secreted Signaling	Wnt3a--Fzd8_Lrp6	False	False	False	False
+Wnt3a	Fzd9_Lrp6	WNT	Secreted Signaling	Wnt3a--Fzd9_Lrp6	False	False	False	False
+Wnt4	Fzd1_Lrp6	WNT	Secreted Signaling	Wnt4--Fzd1_Lrp6	False	False	False	False
+Wnt4	Fzd10_Lrp6	WNT	Secreted Signaling	Wnt4--Fzd10_Lrp6	False	False	False	False
+Wnt4	Fzd2_Lrp6	WNT	Secreted Signaling	Wnt4--Fzd2_Lrp6	False	False	False	False
+Wnt4	Fzd3_Lrp6	WNT	Secreted Signaling	Wnt4--Fzd3_Lrp6	False	False	False	False
+Wnt4	Fzd4_Lrp6	WNT	Secreted Signaling	Wnt4--Fzd4_Lrp6	False	False	False	False
+Wnt4	Fzd5_Lrp6	WNT	Secreted Signaling	Wnt4--Fzd5_Lrp6	False	False	False	False
+Wnt4	Fzd6_Lrp6	WNT	Secreted Signaling	Wnt4--Fzd6_Lrp6	False	False	False	False
+Wnt4	Fzd7_Lrp6	WNT	Secreted Signaling	Wnt4--Fzd7_Lrp6	False	False	False	False
+Wnt4	Fzd8_Lrp6	WNT	Secreted Signaling	Wnt4--Fzd8_Lrp6	False	False	False	False
+Wnt4	Fzd9_Lrp6	WNT	Secreted Signaling	Wnt4--Fzd9_Lrp6	False	False	False	False
+Wnt6	Fzd1_Lrp6	WNT	Secreted Signaling	Wnt6--Fzd1_Lrp6	False	False	False	False
+Wnt6	Fzd10_Lrp6	WNT	Secreted Signaling	Wnt6--Fzd10_Lrp6	False	False	False	False
+Wnt6	Fzd2_Lrp6	WNT	Secreted Signaling	Wnt6--Fzd2_Lrp6	False	False	False	False
+Wnt6	Fzd3_Lrp6	WNT	Secreted Signaling	Wnt6--Fzd3_Lrp6	False	False	False	False
+Wnt6	Fzd4_Lrp6	WNT	Secreted Signaling	Wnt6--Fzd4_Lrp6	False	False	False	False
+Wnt6	Fzd5_Lrp6	WNT	Secreted Signaling	Wnt6--Fzd5_Lrp6	False	False	False	False
+Wnt6	Fzd6_Lrp6	WNT	Secreted Signaling	Wnt6--Fzd6_Lrp6	False	False	False	False
+Wnt6	Fzd7_Lrp6	WNT	Secreted Signaling	Wnt6--Fzd7_Lrp6	False	False	False	False
+Wnt6	Fzd8_Lrp6	WNT	Secreted Signaling	Wnt6--Fzd8_Lrp6	False	False	False	False
+Wnt6	Fzd9_Lrp6	WNT	Secreted Signaling	Wnt6--Fzd9_Lrp6	False	False	False	False
+Wnt7a	Fzd1_Lrp6	WNT	Secreted Signaling	Wnt7a--Fzd1_Lrp6	False	False	False	False
+Wnt7a	Fzd10_Lrp6	WNT	Secreted Signaling	Wnt7a--Fzd10_Lrp6	False	False	False	False
+Wnt7a	Fzd2_Lrp6	WNT	Secreted Signaling	Wnt7a--Fzd2_Lrp6	False	False	False	False
+Wnt7a	Fzd3_Lrp6	WNT	Secreted Signaling	Wnt7a--Fzd3_Lrp6	False	False	False	False
+Wnt7a	Fzd4_Lrp6	WNT	Secreted Signaling	Wnt7a--Fzd4_Lrp6	False	False	False	False
+Wnt7a	Fzd5_Lrp6	WNT	Secreted Signaling	Wnt7a--Fzd5_Lrp6	False	False	False	False
+Wnt7a	Fzd6_Lrp6	WNT	Secreted Signaling	Wnt7a--Fzd6_Lrp6	False	False	False	False
+Wnt7a	Fzd7_Lrp6	WNT	Secreted Signaling	Wnt7a--Fzd7_Lrp6	False	False	False	False
+Wnt7a	Fzd8_Lrp6	WNT	Secreted Signaling	Wnt7a--Fzd8_Lrp6	False	False	False	False
+Wnt7a	Fzd9_Lrp6	WNT	Secreted Signaling	Wnt7a--Fzd9_Lrp6	False	False	False	False
+Wnt7b	Fzd1_Lrp6	WNT	Secreted Signaling	Wnt7b--Fzd1_Lrp6	False	False	False	False
+Wnt7b	Fzd10_Lrp6	WNT	Secreted Signaling	Wnt7b--Fzd10_Lrp6	False	False	False	False
+Wnt7b	Fzd2_Lrp6	WNT	Secreted Signaling	Wnt7b--Fzd2_Lrp6	False	False	False	False
+Wnt7b	Fzd3_Lrp6	WNT	Secreted Signaling	Wnt7b--Fzd3_Lrp6	False	False	False	False
+Wnt7b	Fzd4_Lrp6	WNT	Secreted Signaling	Wnt7b--Fzd4_Lrp6	False	False	False	False
+Wnt7b	Fzd5_Lrp6	WNT	Secreted Signaling	Wnt7b--Fzd5_Lrp6	False	False	False	False
+Wnt7b	Fzd6_Lrp6	WNT	Secreted Signaling	Wnt7b--Fzd6_Lrp6	False	False	False	False
+Wnt7b	Fzd7_Lrp6	WNT	Secreted Signaling	Wnt7b--Fzd7_Lrp6	False	False	False	False
+Wnt7b	Fzd8_Lrp6	WNT	Secreted Signaling	Wnt7b--Fzd8_Lrp6	False	False	False	False
+Wnt7b	Fzd9_Lrp6	WNT	Secreted Signaling	Wnt7b--Fzd9_Lrp6	False	False	False	False
+Wnt8a	Fzd1_Lrp6	WNT	Secreted Signaling	Wnt8a--Fzd1_Lrp6	False	False	False	False
+Wnt8a	Fzd10_Lrp6	WNT	Secreted Signaling	Wnt8a--Fzd10_Lrp6	False	False	False	False
+Wnt8a	Fzd2_Lrp6	WNT	Secreted Signaling	Wnt8a--Fzd2_Lrp6	False	False	False	False
+Wnt8a	Fzd3_Lrp6	WNT	Secreted Signaling	Wnt8a--Fzd3_Lrp6	False	False	False	False
+Wnt8a	Fzd4_Lrp6	WNT	Secreted Signaling	Wnt8a--Fzd4_Lrp6	False	False	False	False
+Wnt8a	Fzd5_Lrp6	WNT	Secreted Signaling	Wnt8a--Fzd5_Lrp6	False	False	False	False
+Wnt8a	Fzd6_Lrp6	WNT	Secreted Signaling	Wnt8a--Fzd6_Lrp6	False	False	False	False
+Wnt8a	Fzd7_Lrp6	WNT	Secreted Signaling	Wnt8a--Fzd7_Lrp6	False	False	False	False
+Wnt8a	Fzd8_Lrp6	WNT	Secreted Signaling	Wnt8a--Fzd8_Lrp6	False	False	False	False
+Wnt8a	Fzd9_Lrp6	WNT	Secreted Signaling	Wnt8a--Fzd9_Lrp6	False	False	False	False
+Wnt8b	Fzd1_Lrp6	WNT	Secreted Signaling	Wnt8b--Fzd1_Lrp6	False	False	False	False
+Wnt8b	Fzd10_Lrp6	WNT	Secreted Signaling	Wnt8b--Fzd10_Lrp6	False	False	False	False
+Wnt8b	Fzd2_Lrp6	WNT	Secreted Signaling	Wnt8b--Fzd2_Lrp6	False	False	False	False
+Wnt8b	Fzd3_Lrp6	WNT	Secreted Signaling	Wnt8b--Fzd3_Lrp6	False	False	False	False
+Wnt8b	Fzd4_Lrp6	WNT	Secreted Signaling	Wnt8b--Fzd4_Lrp6	False	False	False	False
+Wnt8b	Fzd5_Lrp6	WNT	Secreted Signaling	Wnt8b--Fzd5_Lrp6	False	False	False	False
+Wnt8b	Fzd6_Lrp6	WNT	Secreted Signaling	Wnt8b--Fzd6_Lrp6	False	False	False	False
+Wnt8b	Fzd7_Lrp6	WNT	Secreted Signaling	Wnt8b--Fzd7_Lrp6	False	False	False	False
+Wnt8b	Fzd8_Lrp6	WNT	Secreted Signaling	Wnt8b--Fzd8_Lrp6	False	False	False	False
+Wnt8b	Fzd9_Lrp6	WNT	Secreted Signaling	Wnt8b--Fzd9_Lrp6	False	False	False	False
+Wnt9a	Fzd1_Lrp6	WNT	Secreted Signaling	Wnt9a--Fzd1_Lrp6	False	False	False	False
+Wnt9a	Fzd10_Lrp6	WNT	Secreted Signaling	Wnt9a--Fzd10_Lrp6	False	False	False	False
+Wnt9a	Fzd2_Lrp6	WNT	Secreted Signaling	Wnt9a--Fzd2_Lrp6	False	False	False	False
+Wnt9a	Fzd3_Lrp6	WNT	Secreted Signaling	Wnt9a--Fzd3_Lrp6	False	False	False	False
+Wnt9a	Fzd4_Lrp6	WNT	Secreted Signaling	Wnt9a--Fzd4_Lrp6	False	True	False	False
+Wnt9a	Fzd5_Lrp6	WNT	Secreted Signaling	Wnt9a--Fzd5_Lrp6	False	False	False	False
+Wnt9a	Fzd6_Lrp6	WNT	Secreted Signaling	Wnt9a--Fzd6_Lrp6	False	True	False	True
+Wnt9a	Fzd7_Lrp6	WNT	Secreted Signaling	Wnt9a--Fzd7_Lrp6	False	False	False	False
+Wnt9a	Fzd8_Lrp6	WNT	Secreted Signaling	Wnt9a--Fzd8_Lrp6	False	False	False	False
+Wnt9a	Fzd9_Lrp6	WNT	Secreted Signaling	Wnt9a--Fzd9_Lrp6	False	False	False	False
+Wnt9b	Fzd1_Lrp6	WNT	Secreted Signaling	Wnt9b--Fzd1_Lrp6	False	False	False	False
+Wnt9b	Fzd10_Lrp6	WNT	Secreted Signaling	Wnt9b--Fzd10_Lrp6	False	False	False	False
+Wnt9b	Fzd2_Lrp6	WNT	Secreted Signaling	Wnt9b--Fzd2_Lrp6	False	False	False	False
+Wnt9b	Fzd3_Lrp6	WNT	Secreted Signaling	Wnt9b--Fzd3_Lrp6	False	False	False	False
+Wnt9b	Fzd4_Lrp6	WNT	Secreted Signaling	Wnt9b--Fzd4_Lrp6	False	False	False	False
+Wnt9b	Fzd5_Lrp6	WNT	Secreted Signaling	Wnt9b--Fzd5_Lrp6	False	False	False	False
+Wnt9b	Fzd6_Lrp6	WNT	Secreted Signaling	Wnt9b--Fzd6_Lrp6	False	False	False	False
+Wnt9b	Fzd7_Lrp6	WNT	Secreted Signaling	Wnt9b--Fzd7_Lrp6	False	False	False	False
+Wnt9b	Fzd8_Lrp6	WNT	Secreted Signaling	Wnt9b--Fzd8_Lrp6	False	False	False	False
+Wnt9b	Fzd9_Lrp6	WNT	Secreted Signaling	Wnt9b--Fzd9_Lrp6	False	False	False	False
+Wnt5a	Fzd1	ncWNT	Secreted Signaling	Wnt5a--Fzd1	False	False	False	False
+Wnt5a	Fzd10	ncWNT	Secreted Signaling	Wnt5a--Fzd10	False	False	False	False
+Wnt5a	Fzd2	ncWNT	Secreted Signaling	Wnt5a--Fzd2	False	False	False	False
+Wnt5a	Fzd3	ncWNT	Secreted Signaling	Wnt5a--Fzd3	False	False	False	False
+Wnt5a	Fzd4	ncWNT	Secreted Signaling	Wnt5a--Fzd4	False	True	False	False
+Wnt5a	Fzd5	ncWNT	Secreted Signaling	Wnt5a--Fzd5	False	False	False	False
+Wnt5a	Fzd6	ncWNT	Secreted Signaling	Wnt5a--Fzd6	False	True	False	True
+Wnt5a	Fzd7	ncWNT	Secreted Signaling	Wnt5a--Fzd7	False	False	False	False
+Wnt5a	Fzd8	ncWNT	Secreted Signaling	Wnt5a--Fzd8	False	False	False	False
+Wnt5a	Fzd9	ncWNT	Secreted Signaling	Wnt5a--Fzd9	False	False	False	False
+Wnt5a	Mcam	ncWNT	Secreted Signaling	Wnt5a--Mcam	False	True	False	False
+Wnt5b	Fzd1	ncWNT	Secreted Signaling	Wnt5b--Fzd1	False	False	False	False
+Wnt5b	Fzd10	ncWNT	Secreted Signaling	Wnt5b--Fzd10	False	False	False	False
+Wnt5b	Fzd2	ncWNT	Secreted Signaling	Wnt5b--Fzd2	False	False	False	False
+Wnt5b	Fzd3	ncWNT	Secreted Signaling	Wnt5b--Fzd3	False	False	False	False
+Wnt5b	Fzd4	ncWNT	Secreted Signaling	Wnt5b--Fzd4	False	True	False	False
+Wnt5b	Fzd5	ncWNT	Secreted Signaling	Wnt5b--Fzd5	False	False	False	False
+Wnt5b	Fzd6	ncWNT	Secreted Signaling	Wnt5b--Fzd6	False	True	False	True
+Wnt5b	Fzd7	ncWNT	Secreted Signaling	Wnt5b--Fzd7	False	False	False	False
+Wnt5b	Fzd8	ncWNT	Secreted Signaling	Wnt5b--Fzd8	False	False	False	False
+Wnt5b	Fzd9	ncWNT	Secreted Signaling	Wnt5b--Fzd9	False	False	False	False
+Wnt11	Fzd1	ncWNT	Secreted Signaling	Wnt11--Fzd1	False	False	False	False
+Wnt11	Fzd10	ncWNT	Secreted Signaling	Wnt11--Fzd10	False	False	False	False
+Wnt11	Fzd2	ncWNT	Secreted Signaling	Wnt11--Fzd2	False	False	False	False
+Wnt11	Fzd3	ncWNT	Secreted Signaling	Wnt11--Fzd3	False	False	False	False
+Wnt11	Fzd4	ncWNT	Secreted Signaling	Wnt11--Fzd4	False	False	False	False
+Wnt11	Fzd5	ncWNT	Secreted Signaling	Wnt11--Fzd5	False	False	False	False
+Wnt11	Fzd6	ncWNT	Secreted Signaling	Wnt11--Fzd6	False	False	False	False
+Wnt11	Fzd7	ncWNT	Secreted Signaling	Wnt11--Fzd7	False	False	False	False
+Wnt11	Fzd8	ncWNT	Secreted Signaling	Wnt11--Fzd8	False	False	False	False
+Wnt11	Fzd9	ncWNT	Secreted Signaling	Wnt11--Fzd9	False	False	False	False
+Egf	Egfr	EGF	Secreted Signaling	Egf--Egfr	True	True	False	False
+Egf	Egfr_Erbb2	EGF	Secreted Signaling	Egf--Egfr_Erbb2	False	False	False	False
+Tgfa	Egfr	EGF	Secreted Signaling	Tgfa--Egfr	True	True	False	False
+Tgfa	Egfr_Erbb2	EGF	Secreted Signaling	Tgfa--Egfr_Erbb2	False	False	False	False
+Areg	Egfr	EGF	Secreted Signaling	Areg--Egfr	True	False	False	False
+Areg	Egfr_Erbb2	EGF	Secreted Signaling	Areg--Egfr_Erbb2	False	False	False	False
+Btc	Egfr	EGF	Secreted Signaling	Btc--Egfr	True	False	False	False
+Btc	Egfr_Erbb2	EGF	Secreted Signaling	Btc--Egfr_Erbb2	False	False	False	False
+Btc	Erbb4	EGF	Secreted Signaling	Btc--Erbb4	True	False	False	False
+Btc	Erbb2_Erbb4	EGF	Secreted Signaling	Btc--Erbb2_Erbb4	False	False	False	False
+Hbegf	Egfr	EGF	Secreted Signaling	Hbegf--Egfr	True	True	False	False
+Hbegf	Egfr_Erbb2	EGF	Secreted Signaling	Hbegf--Egfr_Erbb2	False	False	False	False
+Hbegf	Erbb4	EGF	Secreted Signaling	Hbegf--Erbb4	True	True	False	True
+Hbegf	Erbb2_Erbb4	EGF	Secreted Signaling	Hbegf--Erbb2_Erbb4	False	False	False	False
+Ereg	Egfr	EGF	Secreted Signaling	Ereg--Egfr	True	False	False	False
+Ereg	Egfr_Erbb2	EGF	Secreted Signaling	Ereg--Egfr_Erbb2	False	False	False	False
+Ereg	Erbb4	EGF	Secreted Signaling	Ereg--Erbb4	True	False	False	False
+Ereg	Erbb2_Erbb4	EGF	Secreted Signaling	Ereg--Erbb2_Erbb4	False	False	False	False
+Nrg1	Erbb3	NRG	Secreted Signaling	Nrg1--Erbb3	False	True	False	False
+Nrg1	Erbb2_Erbb3	NRG	Secreted Signaling	Nrg1--Erbb2_Erbb3	False	False	False	False
+Nrg1	Erbb4	NRG	Secreted Signaling	Nrg1--Erbb4	False	True	False	True
+Nrg1	Erbb2_Erbb4	NRG	Secreted Signaling	Nrg1--Erbb2_Erbb4	False	False	False	False
+Nrg2	Erbb3	NRG	Secreted Signaling	Nrg2--Erbb3	True	True	False	False
+Nrg2	Erbb2_Erbb3	NRG	Secreted Signaling	Nrg2--Erbb2_Erbb3	False	False	False	False
+Nrg2	Erbb4	NRG	Secreted Signaling	Nrg2--Erbb4	True	True	False	True
+Nrg2	Erbb2_Erbb4	NRG	Secreted Signaling	Nrg2--Erbb2_Erbb4	False	False	False	False
+Nrg3	Erbb4	NRG	Secreted Signaling	Nrg3--Erbb4	True	False	False	False
+Nrg3	Erbb2_Erbb4	NRG	Secreted Signaling	Nrg3--Erbb2_Erbb4	False	False	False	False
+Nrg4	Erbb4	NRG	Secreted Signaling	Nrg4--Erbb4	True	False	False	False
+Nrg4	Erbb2_Erbb4	NRG	Secreted Signaling	Nrg4--Erbb2_Erbb4	False	False	False	False
+Nrg1	Itgav_Itgb3	NRG	Secreted Signaling	Nrg1--Itgav_Itgb3	False	True	False	False
+Fgf1	Fgfr1	FGF	Secreted Signaling	Fgf1--Fgfr1	True	True	False	False
+Fgf1	Fgfr2	FGF	Secreted Signaling	Fgf1--Fgfr2	True	True	False	True
+Fgf1	Fgfr3	FGF	Secreted Signaling	Fgf1--Fgfr3	True	False	False	False
+Fgf1	Fgfr4	FGF	Secreted Signaling	Fgf1--Fgfr4	True	False	False	False
+Fgf2	Fgfr1	FGF	Secreted Signaling	Fgf2--Fgfr1	True	True	False	False
+Fgf2	Fgfr2	FGF	Secreted Signaling	Fgf2--Fgfr2	True	True	False	True
+Fgf2	Fgfr3	FGF	Secreted Signaling	Fgf2--Fgfr3	True	False	False	False
+Fgf2	Fgfr4	FGF	Secreted Signaling	Fgf2--Fgfr4	True	False	False	False
+Fgf4	Fgfr1	FGF	Secreted Signaling	Fgf4--Fgfr1	True	False	False	False
+Fgf4	Fgfr2	FGF	Secreted Signaling	Fgf4--Fgfr2	True	False	False	False
+Fgf4	Fgfr3	FGF	Secreted Signaling	Fgf4--Fgfr3	True	False	False	False
+Fgf4	Fgfr4	FGF	Secreted Signaling	Fgf4--Fgfr4	False	False	False	False
+Fgf5	Fgfr1	FGF	Secreted Signaling	Fgf5--Fgfr1	True	False	False	False
+Fgf5	Fgfr2	FGF	Secreted Signaling	Fgf5--Fgfr2	True	False	False	False
+Fgf5	Fgfr3	FGF	Secreted Signaling	Fgf5--Fgfr3	True	False	False	False
+Fgf5	Fgfr4	FGF	Secreted Signaling	Fgf5--Fgfr4	False	False	False	False
+Fgf6	Fgfr1	FGF	Secreted Signaling	Fgf6--Fgfr1	True	False	False	False
+Fgf6	Fgfr2	FGF	Secreted Signaling	Fgf6--Fgfr2	True	False	False	False
+Fgf6	Fgfr3	FGF	Secreted Signaling	Fgf6--Fgfr3	True	False	False	False
+Fgf6	Fgfr4	FGF	Secreted Signaling	Fgf6--Fgfr4	False	False	False	False
+Fgf7	Fgfr1	FGF	Secreted Signaling	Fgf7--Fgfr1	False	False	False	False
+Fgf7	Fgfr2	FGF	Secreted Signaling	Fgf7--Fgfr2	True	False	False	False
+Fgf3	Fgfr1	FGF	Secreted Signaling	Fgf3--Fgfr1	False	False	False	False
+Fgf3	Fgfr2	FGF	Secreted Signaling	Fgf3--Fgfr2	True	False	False	False
+Fgf10	Fgfr1	FGF	Secreted Signaling	Fgf10--Fgfr1	False	False	False	False
+Fgf10	Fgfr2	FGF	Secreted Signaling	Fgf10--Fgfr2	True	False	False	False
+Fgf22	Fgfr2	FGF	Secreted Signaling	Fgf22--Fgfr2	True	False	False	False
+Fgf8	Fgfr1	FGF	Secreted Signaling	Fgf8--Fgfr1	False	False	False	False
+Fgf8	Fgfr2	FGF	Secreted Signaling	Fgf8--Fgfr2	True	False	False	False
+Fgf8	Fgfr3	FGF	Secreted Signaling	Fgf8--Fgfr3	True	False	False	False
+Fgf8	Fgfr4	FGF	Secreted Signaling	Fgf8--Fgfr4	False	False	False	False
+Fgf17	Fgfr1	FGF	Secreted Signaling	Fgf17--Fgfr1	False	False	False	False
+Fgf17	Fgfr2	FGF	Secreted Signaling	Fgf17--Fgfr2	True	False	False	False
+Fgf17	Fgfr3	FGF	Secreted Signaling	Fgf17--Fgfr3	True	False	False	False
+Fgf17	Fgfr4	FGF	Secreted Signaling	Fgf17--Fgfr4	False	False	False	False
+Fgf18	Fgfr1	FGF	Secreted Signaling	Fgf18--Fgfr1	False	False	False	False
+Fgf18	Fgfr2	FGF	Secreted Signaling	Fgf18--Fgfr2	True	False	False	False
+Fgf18	Fgfr3	FGF	Secreted Signaling	Fgf18--Fgfr3	True	False	False	False
+Fgf18	Fgfr4	FGF	Secreted Signaling	Fgf18--Fgfr4	False	False	False	False
+Fgf9	Fgfr1	FGF	Secreted Signaling	Fgf9--Fgfr1	False	True	False	False
+Fgf9	Fgfr2	FGF	Secreted Signaling	Fgf9--Fgfr2	True	True	False	False
+Fgf9	Fgfr3	FGF	Secreted Signaling	Fgf9--Fgfr3	True	False	False	False
+Fgf9	Fgfr4	FGF	Secreted Signaling	Fgf9--Fgfr4	False	False	False	False
+Fgf20	Fgfr1	FGF	Secreted Signaling	Fgf20--Fgfr1	False	False	False	False
+Fgf20	Fgfr2	FGF	Secreted Signaling	Fgf20--Fgfr2	False	False	False	False
+Fgf20	Fgfr3	FGF	Secreted Signaling	Fgf20--Fgfr3	True	False	False	False
+Fgf20	Fgfr4	FGF	Secreted Signaling	Fgf20--Fgfr4	False	False	False	False
+Fgf16	Fgfr1	FGF	Secreted Signaling	Fgf16--Fgfr1	False	False	False	False
+Fgf16	Fgfr2	FGF	Secreted Signaling	Fgf16--Fgfr2	False	False	False	False
+Fgf16	Fgfr3	FGF	Secreted Signaling	Fgf16--Fgfr3	False	False	False	False
+Fgf16	Fgfr4	FGF	Secreted Signaling	Fgf16--Fgfr4	False	False	False	False
+Fgf15	Fgfr1	FGF	Secreted Signaling	Fgf15--Fgfr1	False	False	False	False
+Fgf15	Fgfr2	FGF	Secreted Signaling	Fgf15--Fgfr2	False	False	False	False
+Fgf15	Fgfr3	FGF	Secreted Signaling	Fgf15--Fgfr3	False	False	False	False
+Fgf15	Fgfr4	FGF	Secreted Signaling	Fgf15--Fgfr4	False	False	False	False
+Fgf21	Fgfr1	FGF	Secreted Signaling	Fgf21--Fgfr1	False	False	False	False
+Fgf21	Fgfr3	FGF	Secreted Signaling	Fgf21--Fgfr3	False	False	False	False
+Fgf23	Fgfr1	FGF	Secreted Signaling	Fgf23--Fgfr1	False	False	False	False
+Fgf23	Fgfr3	FGF	Secreted Signaling	Fgf23--Fgfr3	True	False	False	False
+Fgf23	Fgfr4	FGF	Secreted Signaling	Fgf23--Fgfr4	False	False	False	False
+Pdgfa	Pdgfra	PDGF	Secreted Signaling	Pdgfa--Pdgfra	True	True	False	False
+Pdgfa	Pdgfrb	PDGF	Secreted Signaling	Pdgfa--Pdgfrb	False	True	False	False
+Pdgfb	Pdgfra	PDGF	Secreted Signaling	Pdgfb--Pdgfra	True	True	False	False
+Pdgfb	Pdgfrb	PDGF	Secreted Signaling	Pdgfb--Pdgfrb	True	True	False	False
+Pdgfc	Pdgfra	PDGF	Secreted Signaling	Pdgfc--Pdgfra	True	True	False	False
+Pdgfd	Pdgfrb	PDGF	Secreted Signaling	Pdgfd--Pdgfrb	True	True	False	False
+Vegfa	Flt1	VEGF	Secreted Signaling	Vegfa--Flt1	True	True	False	False
+Vegfa	Kdr	VEGF	Secreted Signaling	Vegfa--Kdr	True	True	False	False
+Vegfb	Flt1	VEGF	Secreted Signaling	Vegfb--Flt1	True	True	False	False
+Vegfc	Flt4	VEGF	Secreted Signaling	Vegfc--Flt4	True	True	False	False
+Vegfc	Kdr	VEGF	Secreted Signaling	Vegfc--Kdr	True	True	False	False
+Vegfd	Flt4	VEGF	Secreted Signaling	Vegfd--Flt4	True	True	False	False
+Vegfd	Kdr	VEGF	Secreted Signaling	Vegfd--Kdr	True	True	False	False
+Pgf	Flt1	VEGF	Secreted Signaling	Pgf--Flt1	True	False	False	False
+Vegfa	Flt1_Kdr	VEGF	Secreted Signaling	Vegfa--Flt1_Kdr	True	True	False	False
+Vegfc	Flt4_Kdr	VEGF	Secreted Signaling	Vegfc--Flt4_Kdr	False	True	False	False
+Vegfd	Flt4_Kdr	VEGF	Secreted Signaling	Vegfd--Flt4_Kdr	False	True	False	False
+Igf1	Igf1r	IGF	Secreted Signaling	Igf1--Igf1r	True	True	False	True
+Igf2	Igf1r	IGF	Secreted Signaling	Igf2--Igf1r	True	True	False	True
+Igf2	Igf2r	IGF	Secreted Signaling	Igf2--Igf2r	True	True	False	False
+Igf1	Itgav_Itgb3	IGF	Secreted Signaling	Igf1--Itgav_Itgb3	True	True	False	False
+Igf1	Itga6_Itgb4	IGF	Secreted Signaling	Igf1--Itga6_Itgb4	True	True	False	False
+Igf2	Itgav_Itgb3	IGF	Secreted Signaling	Igf2--Itgav_Itgb3	False	True	False	False
+Igf2	Itga6_Itgb4	IGF	Secreted Signaling	Igf2--Itga6_Itgb4	False	True	False	False
+Igfl3	Igflr1	IGF	Secreted Signaling	Igfl3--Igflr1	True	False	False	False
+Ins1	Insr	INSULIN	Secreted Signaling	Ins1--Insr	False	False	False	False
+Ins2	Insr	INSULIN	Secreted Signaling	Ins2--Insr	True	False	False	False
+Apln	Aplnr	APELIN	Secreted Signaling	Apln--Aplnr	True	False	False	False
+Dhh	Ptch1_Smo	HH	Secreted Signaling	Dhh--Ptch1_Smo	False	False	False	False
+Ihh	Ptch1_Smo	HH	Secreted Signaling	Ihh--Ptch1_Smo	False	False	False	False
+Shh	Ptch1_Smo	HH	Secreted Signaling	Shh--Ptch1_Smo	False	False	False	False
+Dhh	Ptch2_Smo	HH	Secreted Signaling	Dhh--Ptch2_Smo	False	False	False	False
+Ihh	Ptch2_Smo	HH	Secreted Signaling	Ihh--Ptch2_Smo	False	False	False	False
+Shh	Ptch2_Smo	HH	Secreted Signaling	Shh--Ptch2_Smo	False	False	False	False
+Ccl5	Ccr1	CCL	Secreted Signaling	Ccl5--Ccr1	True	False	False	False
+Ccl3	Ccr1	CCL	Secreted Signaling	Ccl3--Ccr1	False	False	False	False
+Ccl8	Ccr1	CCL	Secreted Signaling	Ccl8--Ccr1	False	False	False	False
+Ccl9	Ccr1	CCL	Secreted Signaling	Ccl9--Ccr1	False	False	False	False
+Ccl6	Ccr1	CCL	Secreted Signaling	Ccl6--Ccr1	False	False	False	False
+Ccl7	Ccr1	CCL	Secreted Signaling	Ccl7--Ccr1	False	False	False	False
+Ccl5	Ccr1l1	CCL	Secreted Signaling	Ccl5--Ccr1l1	False	False	False	False
+Ccl3	Ccr1l1	CCL	Secreted Signaling	Ccl3--Ccr1l1	False	False	False	False
+Ccl8	Ccr1l1	CCL	Secreted Signaling	Ccl8--Ccr1l1	False	False	False	False
+Ccl9	Ccr1l1	CCL	Secreted Signaling	Ccl9--Ccr1l1	False	False	False	False
+Ccl6	Ccr1l1	CCL	Secreted Signaling	Ccl6--Ccr1l1	False	False	False	False
+Ccl7	Ccr1l1	CCL	Secreted Signaling	Ccl7--Ccr1l1	False	False	False	False
+Ccl8	Ccr2	CCL	Secreted Signaling	Ccl8--Ccr2	False	False	False	False
+Ccl6	Ccr2	CCL	Secreted Signaling	Ccl6--Ccr2	False	False	False	False
+Ccl7	Ccr2	CCL	Secreted Signaling	Ccl7--Ccr2	False	False	False	False
+Ccl2	Ccr2	CCL	Secreted Signaling	Ccl2--Ccr2	True	False	False	False
+Ccl12	Ccr2	CCL	Secreted Signaling	Ccl12--Ccr2	True	False	False	False
+Ccl27a	Ccr2	CCL	Secreted Signaling	Ccl27a--Ccr2	False	False	False	False
+Ccl27b	Ccr2	CCL	Secreted Signaling	Ccl27b--Ccr2	False	False	False	False
+Ccl5	Ccr3	CCL	Secreted Signaling	Ccl5--Ccr3	True	False	False	False
+Ccl6	Ccr3	CCL	Secreted Signaling	Ccl6--Ccr3	False	False	False	False
+Ccl7	Ccr3	CCL	Secreted Signaling	Ccl7--Ccr3	False	False	False	False
+Ccl11	Ccr3	CCL	Secreted Signaling	Ccl11--Ccr3	True	False	False	False
+Ccl24	Ccr3	CCL	Secreted Signaling	Ccl24--Ccr3	True	False	False	False
+Ccl26	Ccr3	CCL	Secreted Signaling	Ccl26--Ccr3	False	False	False	False
+Ccl28	Ccr3	CCL	Secreted Signaling	Ccl28--Ccr3	True	False	False	False
+Ccl27a	Ccr3	CCL	Secreted Signaling	Ccl27a--Ccr3	False	False	False	False
+Ccl27b	Ccr3	CCL	Secreted Signaling	Ccl27b--Ccr3	False	False	False	False
+Ccl17	Ccr4	CCL	Secreted Signaling	Ccl17--Ccr4	True	False	False	False
+Ccl22	Ccr4	CCL	Secreted Signaling	Ccl22--Ccr4	True	False	False	False
+Ccl5	Ccr4	CCL	Secreted Signaling	Ccl5--Ccr4	True	False	False	False
+Ccl4	Ccr5	CCL	Secreted Signaling	Ccl4--Ccr5	True	False	False	False
+Ccl5	Ccr5	CCL	Secreted Signaling	Ccl5--Ccr5	True	False	False	False
+Ccl3	Ccr5	CCL	Secreted Signaling	Ccl3--Ccr5	False	False	False	False
+Ccl8	Ccr5	CCL	Secreted Signaling	Ccl8--Ccr5	False	False	False	False
+Ccl20	Ccr6	CCL	Secreted Signaling	Ccl20--Ccr6	True	False	False	False
+Ccl19	Ccr7	CCL	Secreted Signaling	Ccl19--Ccr7	True	False	False	False
+Ccl21a	Ccr7	CCL	Secreted Signaling	Ccl21a--Ccr7	True	False	False	False
+Ccl21b	Ccr7	CCL	Secreted Signaling	Ccl21b--Ccr7	False	False	False	False
+Ccl21c	Ccr7	CCL	Secreted Signaling	Ccl21c--Ccr7	False	False	False	False
+Ccl19	Ackr4	CCL	Secreted Signaling	Ccl19--Ackr4	True	False	False	False
+Ccl21a	Ackr4	CCL	Secreted Signaling	Ccl21a--Ackr4	True	False	False	False
+Ccl21b	Ackr4	CCL	Secreted Signaling	Ccl21b--Ackr4	False	False	False	False
+Ccl21c	Ackr4	CCL	Secreted Signaling	Ccl21c--Ackr4	False	False	False	False
+Ccl1	Ccr8	CCL	Secreted Signaling	Ccl1--Ccr8	True	False	False	False
+Ccl25	Ccr9	CCL	Secreted Signaling	Ccl25--Ccr9	True	False	False	False
+Ccl25	Ackr4	CCL	Secreted Signaling	Ccl25--Ackr4	True	True	False	True
+Ccl28	Ccr10	CCL	Secreted Signaling	Ccl28--Ccr10	True	False	False	False
+Ccl27a	Ccr10	CCL	Secreted Signaling	Ccl27a--Ccr10	False	False	False	False
+Ccl27b	Ccr10	CCL	Secreted Signaling	Ccl27b--Ccr10	True	False	False	False
+Ccl1	Ackr4	CCL	Secreted Signaling	Ccl1--Ackr4	False	False	False	False
+Ccl8	Ackr4	CCL	Secreted Signaling	Ccl8--Ackr4	False	False	False	False
+Ccl1	Ackr1	CCL	Secreted Signaling	Ccl1--Ackr1	False	False	False	False
+Ccl2	Ackr1	CCL	Secreted Signaling	Ccl2--Ackr1	False	False	False	False
+Ccl2	Ackr2	CCL	Secreted Signaling	Ccl2--Ackr2	True	False	False	False
+Ccl3	Ackr2	CCL	Secreted Signaling	Ccl3--Ackr2	False	False	False	False
+Ccl4	Ackr2	CCL	Secreted Signaling	Ccl4--Ackr2	True	False	False	False
+Ccl5	Ackr1	CCL	Secreted Signaling	Ccl5--Ackr1	True	False	False	False
+Ccl5	Ackr2	CCL	Secreted Signaling	Ccl5--Ackr2	True	False	False	False
+Ccl7	Ackr1	CCL	Secreted Signaling	Ccl7--Ackr1	False	False	False	False
+Ccl8	Ackr1	CCL	Secreted Signaling	Ccl8--Ackr1	False	False	False	False
+Ccl11	Ackr1	CCL	Secreted Signaling	Ccl11--Ackr1	False	False	False	False
+Ccl11	Ackr2	CCL	Secreted Signaling	Ccl11--Ackr2	True	False	False	False
+Ccl22	Ackr2	CCL	Secreted Signaling	Ccl22--Ackr2	False	False	False	False
+Ccl24	Ackr2	CCL	Secreted Signaling	Ccl24--Ackr2	False	False	False	False
+Ccl26	Ackr2	CCL	Secreted Signaling	Ccl26--Ackr2	False	False	False	False
+Ccl17	Ackr1	CCL	Secreted Signaling	Ccl17--Ackr1	True	False	False	False
+Ccl17	Ackr2	CCL	Secreted Signaling	Ccl17--Ackr2	False	False	False	False
+Cxcl1	Cxcr1	CXCL	Secreted Signaling	Cxcl1--Cxcr1	True	False	False	False
+Cxcl5	Cxcr1	CXCL	Secreted Signaling	Cxcl5--Cxcr1	True	False	False	False
+Cxcl2	Cxcr1	CXCL	Secreted Signaling	Cxcl2--Cxcr1	True	False	False	False
+Cxcl3	Cxcr1	CXCL	Secreted Signaling	Cxcl3--Cxcr1	False	False	False	False
+Cxcl1	Cxcr2	CXCL	Secreted Signaling	Cxcl1--Cxcr2	True	False	False	False
+Cxcl5	Cxcr2	CXCL	Secreted Signaling	Cxcl5--Cxcr2	True	False	False	False
+Cxcl2	Cxcr2	CXCL	Secreted Signaling	Cxcl2--Cxcr2	True	False	False	False
+Cxcl3	Cxcr2	CXCL	Secreted Signaling	Cxcl3--Cxcr2	False	False	False	False
+Ppbp	Cxcr2	CXCL	Secreted Signaling	Ppbp--Cxcr2	False	False	False	False
+Pf4	Cxcr3	CXCL	Secreted Signaling	Pf4--Cxcr3	True	False	False	False
+Cxcl9	Cxcr3	CXCL	Secreted Signaling	Cxcl9--Cxcr3	False	False	False	False
+Cxcl10	Cxcr3	CXCL	Secreted Signaling	Cxcl10--Cxcr3	True	False	False	False
+Cxcl11	Cxcr3	CXCL	Secreted Signaling	Cxcl11--Cxcr3	False	False	False	False
+Cxcl13	Cxcr3	CXCL	Secreted Signaling	Cxcl13--Cxcr3	False	False	False	False
+Cxcl12	Cxcr4	CXCL	Secreted Signaling	Cxcl12--Cxcr4	True	False	False	False
+Cxcl12	Ackr3	CXCL	Secreted Signaling	Cxcl12--Ackr3	True	False	False	False
+Cxcl13	Cxcr5	CXCL	Secreted Signaling	Cxcl13--Cxcr5	True	False	False	False
+Cxcl16	Cxcr6	CXCL	Secreted Signaling	Cxcl16--Cxcr6	True	False	False	False
+Cxcl1	Ackr1	CXCL	Secreted Signaling	Cxcl1--Ackr1	False	False	False	False
+Cxcl2	Ackr1	CXCL	Secreted Signaling	Cxcl2--Ackr1	False	False	False	False
+Cxcl3	Ackr1	CXCL	Secreted Signaling	Cxcl3--Ackr1	False	False	False	False
+Cxcl5	Ackr1	CXCL	Secreted Signaling	Cxcl5--Ackr1	False	False	False	False
+Cxcl9	Ackr1	CXCL	Secreted Signaling	Cxcl9--Ackr1	False	False	False	False
+Cxcl10	Ackr1	CXCL	Secreted Signaling	Cxcl10--Ackr1	False	False	False	False
+Cxcl11	Ackr1	CXCL	Secreted Signaling	Cxcl11--Ackr1	False	False	False	False
+Cxcl11	Ackr3	CXCL	Secreted Signaling	Cxcl11--Ackr3	False	False	False	False
+Cxcl13	Ackr1	CXCL	Secreted Signaling	Cxcl13--Ackr1	False	False	False	False
+Mif	Cd74_Cxcr4	MIF	Secreted Signaling	Mif--Cd74_Cxcr4	False	False	False	False
+Mif	Cd74_Cd44	MIF	Secreted Signaling	Mif--Cd44_Cd74	False	False	False	False
+Mif	Cd74_Cxcr2	MIF	Secreted Signaling	Mif--Cd74_Cxcr2	False	False	False	False
+Mif	Ackr3	MIF	Secreted Signaling	Mif--Ackr3	False	False	False	False
+Cx3cl1	Cx3cr1	CX3C	Secreted Signaling	Cx3cl1--Cx3cr1	True	False	False	False
+Xcl1	Xcr1	XCR	Secreted Signaling	Xcl1--Xcr1	True	False	False	False
+Il2	Il2ra_Il2rb_Il2rg	IL2	Secreted Signaling	Il2--Il2ra_Il2rb_Il2rg	True	False	False	False
+Il2	Il2rb_Il2rg	IL2	Secreted Signaling	Il2--Il2rb_Il2rg	True	False	False	False
+Il4	Il4ra_Il2rg	IL2	Secreted Signaling	Il4--Il2rg_Il4ra	True	False	False	False
+Il7	Il7r_Il2rg	IL2	Secreted Signaling	Il7--Il2rg_Il7r	True	False	False	False
+Il9	Il9r_Il2rg	IL2	Secreted Signaling	Il9--Il2rg_Il9r	True	False	False	False
+Il15	Il15ra_Il2rb_Il2rg	IL2	Secreted Signaling	Il15--Il15ra_Il2rb_Il2rg	False	False	False	False
+Il21	Il21r_Il2rg	IL2	Secreted Signaling	Il21--Il21r_Il2rg	True	False	False	False
+Tslp	Il7r_Crlf2	IL2	Secreted Signaling	Tslp--Crlf2_Il7r	True	False	False	False
+Il3	Il3ra_Csf2rb	IL4	Secreted Signaling	Il3--Csf2rb_Il3ra	False	False	False	False
+Il5	Il5ra_Csf2rb	IL4	Secreted Signaling	Il5--Csf2rb_Il5ra	True	False	False	False
+Csf2	Csf2ra_Csf2rb	IL4	Secreted Signaling	Csf2--Csf2ra_Csf2rb	True	False	False	False
+Il4	Il4ra	IL4	Secreted Signaling	Il4--Il4ra	False	False	False	False
+Il4	Il4ra_Il13ra1	IL4	Secreted Signaling	Il4--Il13ra1_Il4ra	True	False	False	False
+Il4	Il4ra_Il13ra2	IL4	Secreted Signaling	Il4--Il13ra2_Il4ra	False	False	False	False
+Il13	Il4ra_Il13ra1	IL4	Secreted Signaling	Il13--Il13ra1_Il4ra	True	False	False	False
+Il13	Il4ra_Il13ra2	IL4	Secreted Signaling	Il13--Il13ra2_Il4ra	False	False	False	False
+Il13	Il13ra1	IL4	Secreted Signaling	Il13--Il13ra1	False	False	False	False
+Il13	Il13ra2	IL4	Secreted Signaling	Il13--Il13ra2	True	False	False	False
+Il6	Il6ra_Il6st	IL6	Secreted Signaling	Il6--Il6ra_Il6st	True	False	False	False
+Il11	Il11ra1_Il6st	IL6	Secreted Signaling	Il11--Il11ra1_Il6st	False	False	False	False
+Il11	Il11ra2_Il6st	IL6	Secreted Signaling	Il11--Il11ra2_Il6st	False	False	False	False
+Il12a_Il12b	Il12rb1_Il12rb2	IL12	Secreted Signaling	Il12a_Il12b--Il12rb1_Il12rb2	True	False	False	False
+Il12b_Il23a	Il23r_Il12rb1	IL12	Secreted Signaling	Il12b_Il23a--Il12rb1_Il23r	True	False	False	False
+Il27_Ebi3	Il27ra_Il6st	IL12	Secreted Signaling	Ebi3_Il27--Il27ra_Il6st	True	False	False	False
+Il31	Il31ra_Osmr	IL6	Secreted Signaling	Il31--Il31ra_Osmr	False	False	False	False
+Cntf	Cntfr_Lifr_Il6st	LIFR	Secreted Signaling	Cntf--Cntfr_Il6st_Lifr	True	False	False	False
+Clcf1	Cntfr_Lifr_Il6st	LIFR	Secreted Signaling	Clcf1--Cntfr_Il6st_Lifr	True	False	False	False
+Ctf1	Lifr_Il6st	LIFR	Secreted Signaling	Ctf1--Il6st_Lifr	False	False	False	False
+Lif	Lifr_Il6st	LIFR	Secreted Signaling	Lif--Il6st_Lifr	True	False	False	False
+Osm	Lifr_Il6st	OSM	Secreted Signaling	Osm--Il6st_Lifr	True	False	False	False
+Osm	Osmr_Il6st	OSM	Secreted Signaling	Osm--Il6st_Osmr	True	False	False	False
+Il10	Il10ra_Il10rb	IL10	Secreted Signaling	Il10--Il10ra_Il10rb	True	False	False	False
+Il19	Il20ra_Il20rb	IL10	Secreted Signaling	Il19--Il20ra_Il20rb	True	False	False	False
+Il20	Il20ra_Il20rb	IL10	Secreted Signaling	Il20--Il20ra_Il20rb	True	False	False	False
+Il24	Il20ra_Il20rb	IL10	Secreted Signaling	Il24--Il20ra_Il20rb	True	False	False	False
+Il20	Il22ra1_Il20rb	IL10	Secreted Signaling	Il20--Il20rb_Il22ra1	True	False	False	False
+Il24	Il22ra1_Il20rb	IL10	Secreted Signaling	Il24--Il20rb_Il22ra1	True	False	False	False
+Il22	Il22ra1_Il10rb	IL10	Secreted Signaling	Il22--Il10rb_Il22ra1	True	False	False	False
+Il1a	Il1r1_Il1rap	IL1	Secreted Signaling	Il1a--Il1r1_Il1rap	True	False	False	False
+Il1b	Il1r1_Il1rap	IL1	Secreted Signaling	Il1b--Il1r1_Il1rap	True	False	False	False
+Il1f5	Il1rl2_Il1rap	IL1	Secreted Signaling	Il1f5--Il1rap_Il1rl2	True	False	False	False
+Il1f6	Il1rl2_Il1rap	IL1	Secreted Signaling	Il1f6--Il1rap_Il1rl2	True	False	False	False
+Il1f8	Il1rl2_Il1rap	IL1	Secreted Signaling	Il1f8--Il1rap_Il1rl2	True	False	False	False
+Il1f9	Il1rl2_Il1rap	IL1	Secreted Signaling	Il1f9--Il1rap_Il1rl2	True	False	False	False
+Il1f10	Il1rl2_Il1rap	IL1	Secreted Signaling	Il1f10--Il1rap_Il1rl2	True	False	False	False
+Il18	Il18r1_Il18rap	IL1	Secreted Signaling	Il18--Il18r1_Il18rap	True	False	False	False
+Il33	Il1rl1_Il1rap	IL1	Secreted Signaling	Il33--Il1rap_Il1rl1	True	False	False	False
+Il17a	Il17ra_Il17rc	IL17	Secreted Signaling	Il17a--Il17ra_Il17rc	False	False	False	False
+Il17f	Il17ra_Il17rc	IL17	Secreted Signaling	Il17f--Il17ra_Il17rc	True	False	False	False
+Il17a_Il17f	Il17ra_Il17rc	IL17	Secreted Signaling	Il17a_Il17f--Il17ra_Il17rc	True	False	False	False
+Il17b	Il17rb	IL17	Secreted Signaling	Il17b--Il17rb	False	False	False	False
+Il17c	Il17ra_Il17re	IL17	Secreted Signaling	Il17c--Il17ra_Il17re	True	False	False	False
+Il25	Il17ra_Il17rb	IL17	Secreted Signaling	Il25--Il17ra_Il17rb	True	False	False	False
+Il34	Csf1r	CSF	Secreted Signaling	Il34--Csf1r	True	True	False	False
+Csf1	Csf1r	CSF	Secreted Signaling	Csf1--Csf1r	True	True	False	False
+Il16	Cd4	IL16	Secreted Signaling	Il16--Cd4	False	False	False	False
+Epo	Epor	EPO	Secreted Signaling	Epo--Epor	True	False	False	False
+Gh	Ghr	GH	Secreted Signaling	Gh--Ghr	False	False	False	False
+Prl	Prlr	PRL	Secreted Signaling	Prl--Prlr	True	False	False	False
+Thpo	Mpl	THPO	Secreted Signaling	Thpo--Mpl	True	False	False	False
+Csf3	Csf3r	CSF3	Secreted Signaling	Csf3--Csf3r	True	False	False	False
+Ifna	Ifnar1_Ifnar2	IFN-I	Secreted Signaling	Ifna--Ifnar1_Ifnar2	False	False	False	False
+Ifnb1	Ifnar1_Ifnar2	IFN-I	Secreted Signaling	Ifnb1--Ifnar1_Ifnar2	True	False	False	False
+Ifnk	Ifnar1_Ifnar2	IFN-I	Secreted Signaling	Ifnk--Ifnar1_Ifnar2	True	False	False	False
+Ifne	Ifnar1_Ifnar2	IFN-I	Secreted Signaling	Ifne--Ifnar1_Ifnar2	True	False	False	False
+Ifna11	Ifnar1_Ifnar2	IFN-I	Secreted Signaling	Ifna11--Ifnar1_Ifnar2	False	False	False	False
+Ifna1	Ifnar1_Ifnar2	IFN-I	Secreted Signaling	Ifna1--Ifnar1_Ifnar2	True	False	False	False
+Ifna2	Ifnar1_Ifnar2	IFN-I	Secreted Signaling	Ifna2--Ifnar1_Ifnar2	False	False	False	False
+Ifna4	Ifnar1_Ifnar2	IFN-I	Secreted Signaling	Ifna4--Ifnar1_Ifnar2	False	False	False	False
+Ifna5	Ifnar1_Ifnar2	IFN-I	Secreted Signaling	Ifna5--Ifnar1_Ifnar2	False	False	False	False
+Ifna6	Ifnar1_Ifnar2	IFN-I	Secreted Signaling	Ifna6--Ifnar1_Ifnar2	False	False	False	False
+Ifna7	Ifnar1_Ifnar2	IFN-I	Secreted Signaling	Ifna7--Ifnar1_Ifnar2	False	False	False	False
+Ifna9	Ifnar1_Ifnar2	IFN-I	Secreted Signaling	Ifna9--Ifnar1_Ifnar2	False	False	False	False
+Ifnab	Ifnar1_Ifnar2	IFN-I	Secreted Signaling	Ifnab--Ifnar1_Ifnar2	False	False	False	False
+Ifna12	Ifnar1_Ifnar2	IFN-I	Secreted Signaling	Ifna12--Ifnar1_Ifnar2	False	False	False	False
+Ifna13	Ifnar1_Ifnar2	IFN-I	Secreted Signaling	Ifna13--Ifnar1_Ifnar2	False	False	False	False
+Ifna14	Ifnar1_Ifnar2	IFN-I	Secreted Signaling	Ifna14--Ifnar1_Ifnar2	False	False	False	False
+Ifna15	Ifnar1_Ifnar2	IFN-I	Secreted Signaling	Ifna15--Ifnar1_Ifnar2	False	False	False	False
+Ifng	Ifngr1_Ifngr2	IFN-II	Secreted Signaling	Ifng--Ifngr1_Ifngr2	True	False	False	False
+Ifnl2	Ifnlr1_Il10rb	IFN-lII	Secreted Signaling	Ifnl2--Ifnlr1_Il10rb	True	False	False	False
+Ifnl3	Ifnlr1_Il10rb	IFN-lII	Secreted Signaling	Ifnl3--Ifnlr1_Il10rb	False	False	False	False
+Tnf	Tnfrsf1a	TNF	Secreted Signaling	Tnf--Tnfrsf1a	True	False	False	False
+Tnf	Tnfrsf1b	TNF	Secreted Signaling	Tnf--Tnfrsf1b	True	False	False	False
+Lta	Tnfrsf1a	LT	Secreted Signaling	Lta--Tnfrsf1a	True	False	False	False
+Lta	Tnfrsf1b	LT	Secreted Signaling	Lta--Tnfrsf1b	True	False	False	False
+Lta	Tnfrsf14	LT	Secreted Signaling	Lta--Tnfrsf14	True	False	False	False
+Lta_Ltb	Ltbr	LT	Secreted Signaling	Lta_Ltb--Ltbr	False	False	False	False
+Tnfsf14	Ltbr	LIGHT	Secreted Signaling	Tnfsf14--Ltbr	True	False	False	False
+Tnfsf14	Tnfrsf14	LIGHT	Secreted Signaling	Tnfsf14--Tnfrsf14	True	False	False	False
+Fasl	Fas	FASLG	Secreted Signaling	Fasl--Fas	True	False	False	False
+Tnfsf15	Tnfrsf25	VEGI	Secreted Signaling	Tnfsf15--Tnfrsf25	True	False	False	False
+Tnfsf10	Tnfrsf10b	TRAIL	Secreted Signaling	Tnfsf10--Tnfrsf10b	True	False	False	False
+Eda	Edar	EDA	Secreted Signaling	Eda--Edar	False	True	False	False
+Eda	Eda2r	EDA	Secreted Signaling	Eda--Eda2r	False	False	False	False
+Ngf	Ngfr	NGF	Secreted Signaling	Ngf--Ngfr	True	False	False	False
+Klk1b4	Ngfr	NGF	Secreted Signaling	Klk1b4--Ngfr	False	False	False	False
+Tnfsf11	Tnfrsf11a	RANKL	Secreted Signaling	Tnfsf11--Tnfrsf11a	True	True	False	False
+Tnfsf11	Tnfrsf11b	RANKL	Secreted Signaling	Tnfsf11--Tnfrsf11b	False	True	False	False
+Tnfsf12	Tnfrsf12a	TWEAK	Secreted Signaling	Tnfsf12--Tnfrsf12a	True	False	False	False
+Cd70	Cd27	CD70	Secreted Signaling	Cd70--Cd27	True	False	False	False
+Tnfsf8	Tnfrsf8	CD30	Secreted Signaling	Tnfsf8--Tnfrsf8	False	False	False	False
+Tnfsf9	Tnfrsf9	CD137	Secreted Signaling	Tnfsf9--Tnfrsf9	False	False	False	False
+Tnfsf4	Tnfrsf4	OX40	Secreted Signaling	Tnfsf4--Tnfrsf4	True	False	False	False
+Tnfsf18	Tnfrsf18	GITRL	Secreted Signaling	Tnfsf18--Tnfrsf18	True	False	False	False
+Tnfsf13	Tnfrsf17	APRIL	Secreted Signaling	Tnfsf13--Tnfrsf17	True	False	False	False
+Tnfsf13	Tnfrsf13b	APRIL	Secreted Signaling	Tnfsf13--Tnfrsf13b	True	False	False	False
+Tnfsf13b	Tnfrsf17	BAFF	Secreted Signaling	Tnfsf13b--Tnfrsf17	True	False	False	False
+Tnfsf13b	Tnfrsf13b	BAFF	Secreted Signaling	Tnfsf13b--Tnfrsf13b	True	False	False	False
+Tnfsf13b	Tnfrsf13c	BAFF	Secreted Signaling	Tnfsf13b--Tnfrsf13c	True	False	False	False
+Cd40lg	Itga2b_Itgb3	CD40	Secreted Signaling	Cd40lg--Itga2b_Itgb3	True	False	False	False
+Cd40lg	Itga5_Itgb1	CD40	Secreted Signaling	Cd40lg--Itga5_Itgb1	True	False	False	False
+Cd40lg	Itgam_Itgb2	CD40	Secreted Signaling	Cd40lg--Itgam_Itgb2	False	False	False	False
+Spp1	Cd44	SPP1	Secreted Signaling	Spp1--Cd44	True	False	False	False
+Spp1	Itgav_Itgb3	SPP1	Secreted Signaling	Spp1--Itgav_Itgb3	True	False	False	False
+Spp1	Itgav_Itgb1	SPP1	Secreted Signaling	Spp1--Itgav_Itgb1	False	False	False	False
+Spp1	Itgav_Itgb5	SPP1	Secreted Signaling	Spp1--Itgav_Itgb5	False	False	False	False
+Spp1	Itgav_Itgb6	SPP1	Secreted Signaling	Spp1--Itgav_Itgb6	False	False	False	False
+Spp1	Itga4_Itgb1	SPP1	Secreted Signaling	Spp1--Itga4_Itgb1	True	False	False	False
+Spp1	Itga9_Itgb1	SPP1	Secreted Signaling	Spp1--Itga9_Itgb1	True	False	False	False
+Spp1	Itga8_Itgb1	SPP1	Secreted Signaling	Spp1--Itga8_Itgb1	False	False	False	False
+Spp1	Itga5_Itgb1	SPP1	Secreted Signaling	Spp1--Itga5_Itgb1	False	False	False	False
+Adipoq	Adipor1	ADIPONECTIN	Secreted Signaling	Adipoq--Adipor1	False	False	False	False
+Adipoq	Adipor2	ADIPONECTIN	Secreted Signaling	Adipoq--Adipor2	False	False	False	False
+Retn	Tlr4	RESISTIN	Secreted Signaling	Retn--Tlr4	False	False	False	False
+Retn	Cap1	RESISTIN	Secreted Signaling	Retn--Cap1	False	False	False	False
+Nampt	Insr	VISFATIN	Secreted Signaling	Nampt--Insr	False	True	False	True
+Nampt	Itga5_Itgb1	VISFATIN	Secreted Signaling	Nampt--Itga5_Itgb1	False	True	False	True
+Angptl1	Itga1_Itgb1	ANGPTL	Secreted Signaling	Angptl1--Itga1_Itgb1	False	False	False	False
+Angptl2	Itga5_Itgb1	ANGPTL	Secreted Signaling	Angptl2--Itga5_Itgb1	False	True	False	True
+Angptl2	Tlr4	ANGPTL	Secreted Signaling	Angptl2--Tlr4	False	True	False	True
+Angptl2	Pirb	ANGPTL	Secreted Signaling	Angptl2--Pirb	False	True	False	False
+Angptl1	Pirb	ANGPTL	Secreted Signaling	Angptl1--Pirb	False	False	False	False
+Angptl7	Pirb	ANGPTL	Secreted Signaling	Angptl7--Pirb	False	False	False	False
+Angptl4	Itga5_Itgb1	ANGPTL	Secreted Signaling	Angptl4--Itga5_Itgb1	False	False	False	False
+Angptl4	Itgav_Itgb3	ANGPTL	Secreted Signaling	Angptl4--Itgav_Itgb3	False	False	False	False
+Angptl4	Cdh5	ANGPTL	Secreted Signaling	Angptl4--Cdh5	False	False	False	False
+Angptl4	Cdh11	ANGPTL	Secreted Signaling	Angptl4--Cdh11	False	False	False	False
+Angptl4	Sdc1	ANGPTL	Secreted Signaling	Angptl4--Sdc1	False	False	False	False
+Angptl4	Sdc2	ANGPTL	Secreted Signaling	Angptl4--Sdc2	False	False	False	False
+Angptl4	Sdc3	ANGPTL	Secreted Signaling	Angptl4--Sdc3	False	False	False	False
+Angptl4	Sdc4	ANGPTL	Secreted Signaling	Angptl4--Sdc4	False	False	False	False
+Angptl3	Itgav_Itgb3	ANGPTL	Secreted Signaling	Angptl3--Itgav_Itgb3	False	False	False	False
+Angpt1	Tek	ANGPT	Secreted Signaling	Angpt1--Tek	True	True	False	False
+Angpt2	Tek	ANGPT	Secreted Signaling	Angpt2--Tek	True	True	False	False
+Angpt2	Itga5_Itgb1	ANGPT	Secreted Signaling	Angpt2--Itga5_Itgb1	False	True	False	True
+Mdk	Sdc1	MK	Secreted Signaling	Mdk--Sdc1	False	False	False	False
+Mdk	Sdc2	MK	Secreted Signaling	Mdk--Sdc2	False	False	False	False
+Mdk	Sdc4	MK	Secreted Signaling	Mdk--Sdc4	False	False	False	False
+Mdk	Ptprz1	MK	Secreted Signaling	Mdk--Ptprz1	False	False	False	False
+Mdk	Itga4_Itgb1	MK	Secreted Signaling	Mdk--Itga4_Itgb1	False	False	False	False
+Mdk	Itga6_Itgb1	MK	Secreted Signaling	Mdk--Itga6_Itgb1	False	False	False	False
+Mdk	Lrp1	MK	Secreted Signaling	Mdk--Lrp1	True	False	False	False
+Mdk	Ncl	MK	Secreted Signaling	Mdk--Ncl	False	False	False	False
+Mdk	Alk	MK	Secreted Signaling	Mdk--Alk	True	False	False	False
+Ptn	Ptprz1	PTN	Secreted Signaling	Ptn--Ptprz1	False	True	False	False
+Ptn	Sdc1	PTN	Secreted Signaling	Ptn--Sdc1	False	False	False	False
+Ptn	Sdc2	PTN	Secreted Signaling	Ptn--Sdc2	False	True	False	True
+Ptn	Sdc3	PTN	Secreted Signaling	Ptn--Sdc3	False	False	False	False
+Ptn	Sdc4	PTN	Secreted Signaling	Ptn--Sdc4	False	True	False	False
+Ptn	Itgav_Itgb3	PTN	Secreted Signaling	Ptn--Itgav_Itgb3	False	True	False	False
+Ptn	Ncl	PTN	Secreted Signaling	Ptn--Ncl	False	True	False	True
+Ptn	Alk	PTN	Secreted Signaling	Ptn--Alk	True	False	False	False
+Postn	Itgav_Itgb3	PERIOSTIN	Secreted Signaling	Postn--Itgav_Itgb3	False	True	False	False
+Postn	Itgav_Itgb5	PERIOSTIN	Secreted Signaling	Postn--Itgav_Itgb5	False	True	False	False
+Agt	Agtr1a	AGT	Secreted Signaling	Agt--Agtr1a	True	False	False	False
+Agt	Agtr1b	AGT	Secreted Signaling	Agt--Agtr1b	False	False	False	False
+Grp	Grpr	GPR	Secreted Signaling	Grp--Grpr	True	False	False	False
+Nmb	Nmbr	GPR	Secreted Signaling	Nmb--Nmbr	True	False	False	False
+Kng1	Bdkrb1	BRADYKININ	Secreted Signaling	Kng1--Bdkrb1	True	False	False	False
+Kng1	Bdkrb2	BRADYKININ	Secreted Signaling	Kng1--Bdkrb2	True	False	False	False
+Kng2	Bdkrb1	BRADYKININ	Secreted Signaling	Kng2--Bdkrb1	False	False	False	False
+Kng2	Bdkrb2	BRADYKININ	Secreted Signaling	Kng2--Bdkrb2	False	False	False	False
+C3	C3ar1	COMPLEMENT	Secreted Signaling	C3--C3ar1	True	False	False	False
+C3	Cr2	COMPLEMENT	Secreted Signaling	C3--Cr2	False	False	False	False
+C3	Itgam_Itgb2	COMPLEMENT	Secreted Signaling	C3--Itgam_Itgb2	True	False	False	False
+C3	Itgax_Itgb2	COMPLEMENT	Secreted Signaling	C3--Itgax_Itgb2	False	False	False	False
+C4a	C3ar1	COMPLEMENT	Secreted Signaling	C4a--C3ar1	False	False	False	False
+C4b	Cr2	COMPLEMENT	Secreted Signaling	C4b--Cr2	False	False	False	False
+Hc	C5ar1	COMPLEMENT	Secreted Signaling	Hc--C5ar1	True	False	False	False
+Cck	Cckar	CCK	Secreted Signaling	Cck--Cckar	True	False	False	False
+Cck	Cckbr	CCK	Secreted Signaling	Cck--Cckbr	True	False	False	False
+Edn1	Ednra	EDN	Secreted Signaling	Edn1--Ednra	False	False	False	False
+Edn2	Ednra	EDN	Secreted Signaling	Edn2--Ednra	True	False	False	False
+Edn3	Ednra	EDN	Secreted Signaling	Edn3--Ednra	False	False	False	False
+Edn1	Ednrb	EDN	Secreted Signaling	Edn1--Ednrb	False	False	False	False
+Edn2	Ednrb	EDN	Secreted Signaling	Edn2--Ednrb	False	False	False	False
+Edn3	Ednrb	EDN	Secreted Signaling	Edn3--Ednrb	False	False	False	False
+Gal	Galr1	GALANIN	Secreted Signaling	Gal--Galr1	False	False	False	False
+Gal	Galr2	GALANIN	Secreted Signaling	Gal--Galr2	False	False	False	False
+Gal	Galr3	GALANIN	Secreted Signaling	Gal--Galr3	False	False	False	False
+Galp	Galr1	GALANIN	Secreted Signaling	Galp--Galr1	False	False	False	False
+Galp	Galr2	GALANIN	Secreted Signaling	Galp--Galr2	False	False	False	False
+Ghrl	Ghsr	GHRELIN	Secreted Signaling	Ghrl--Ghsr	True	False	False	False
+Kiss1	Kiss1r	KISS1	Secreted Signaling	Kiss1--Kiss1r	True	False	False	False
+Pomc	Mc1r	MELANOCORTIN	Secreted Signaling	Pomc--Mc1r	True	False	False	False
+Pomc	Mc2r	MELANOCORTIN	Secreted Signaling	Pomc--Mc2r	True	False	False	False
+Pomc	Mc3r	MELANOCORTIN	Secreted Signaling	Pomc--Mc3r	True	False	False	False
+Pomc	Mc4r	MELANOCORTIN	Secreted Signaling	Pomc--Mc4r	True	False	False	False
+Pomc	Mc5r	MELANOCORTIN	Secreted Signaling	Pomc--Mc5r	True	False	False	False
+Nmu	Nmur1	NMU	Secreted Signaling	Nmu--Nmur1	True	False	False	False
+Nmu	Nmur2	NMU	Secreted Signaling	Nmu--Nmur2	True	False	False	False
+Nms	Nmur1	NMU	Secreted Signaling	Nms--Nmur1	True	False	False	False
+Nms	Nmur2	NMU	Secreted Signaling	Nms--Nmur2	True	False	False	False
+Npff	Npffr1	NPFF	Secreted Signaling	Npff--Npffr1	False	False	False	False
+Npff	Npffr2	NPFF	Secreted Signaling	Npff--Npffr2	False	False	False	False
+Npy	Npy1r	NPY	Secreted Signaling	Npy--Npy1r	False	False	False	False
+Npy	Npy2r	NPY	Secreted Signaling	Npy--Npy2r	False	False	False	False
+Npy	Npy4r	NPY	Secreted Signaling	Npy--Npy4r	False	False	False	False
+Npy	Npy5r	NPY	Secreted Signaling	Npy--Npy5r	False	False	False	False
+Npy	Npy6r	NPY	Secreted Signaling	Npy--Npy6r	False	False	False	False
+Npy	Gpr83	NPY	Secreted Signaling	Npy--Gpr83	False	False	False	False
+Npy	Pgr15l	NPY	Secreted Signaling	Npy--Pgr15l	False	False	False	False
+Ppy	Npy1r	NPY	Secreted Signaling	Ppy--Npy1r	False	False	False	False
+Ppy	Npy2r	NPY	Secreted Signaling	Ppy--Npy2r	False	False	False	False
+Ppy	Npy4r	NPY	Secreted Signaling	Ppy--Npy4r	False	False	False	False
+Ppy	Npy5r	NPY	Secreted Signaling	Ppy--Npy5r	True	False	False	False
+Ppy	Npy6r	NPY	Secreted Signaling	Ppy--Npy6r	False	False	False	False
+Ppy	Gpr83	NPY	Secreted Signaling	Ppy--Gpr83	False	False	False	False
+Ppy	Pgr15l	NPY	Secreted Signaling	Ppy--Pgr15l	False	False	False	False
+Pyy	Npy1r	NPY	Secreted Signaling	Pyy--Npy1r	True	False	False	False
+Pyy	Npy2r	NPY	Secreted Signaling	Pyy--Npy2r	True	False	False	False
+Pyy	Npy4r	NPY	Secreted Signaling	Pyy--Npy4r	False	False	False	False
+Pyy	Npy5r	NPY	Secreted Signaling	Pyy--Npy5r	True	False	False	False
+Pyy	Npy6r	NPY	Secreted Signaling	Pyy--Npy6r	False	False	False	False
+Pyy	Gpr83	NPY	Secreted Signaling	Pyy--Gpr83	False	False	False	False
+Pyy	Pgr15l	NPY	Secreted Signaling	Pyy--Pgr15l	False	False	False	False
+Npb	Npbwr1	NPW-B	Secreted Signaling	Npb--Npbwr1	True	False	False	False
+Npw	Npbwr1	NPW-B	Secreted Signaling	Npw--Npbwr1	True	False	False	False
+Nts	Ntsr1	NTS	Secreted Signaling	Nts--Ntsr1	True	False	False	False
+Nts	Ntsr2	NTS	Secreted Signaling	Nts--Ntsr2	False	False	False	False
+Pdyn	Oprd1	OPIOID	Secreted Signaling	Pdyn--Oprd1	True	False	False	False
+Pdyn	Oprk1	OPIOID	Secreted Signaling	Pdyn--Oprk1	True	False	False	False
+Pdyn	Oprl1	OPIOID	Secreted Signaling	Pdyn--Oprl1	False	False	False	False
+Pdyn	Oprm1	OPIOID	Secreted Signaling	Pdyn--Oprm1	True	False	False	False
+Penk	Oprd1	OPIOID	Secreted Signaling	Penk--Oprd1	True	False	False	False
+Penk	Oprk1	OPIOID	Secreted Signaling	Penk--Oprk1	True	False	False	False
+Penk	Oprl1	OPIOID	Secreted Signaling	Penk--Oprl1	False	False	False	False
+Penk	Oprm1	OPIOID	Secreted Signaling	Penk--Oprm1	True	False	False	False
+Pomc	Oprd1	OPIOID	Secreted Signaling	Pomc--Oprd1	True	False	False	False
+Pomc	Oprk1	OPIOID	Secreted Signaling	Pomc--Oprk1	True	False	False	False
+Pomc	Oprl1	OPIOID	Secreted Signaling	Pomc--Oprl1	False	False	False	False
+Pomc	Oprm1	OPIOID	Secreted Signaling	Pomc--Oprm1	True	False	False	False
+Hcrt	Hcrtr1	HCRT	Secreted Signaling	Hcrt--Hcrtr1	True	False	False	False
+Hcrt	Hcrtr2	HCRT	Secreted Signaling	Hcrt--Hcrtr2	True	False	False	False
+Oxt	Oxtr	OXT	Secreted Signaling	Oxt--Oxtr	True	False	False	False
+Sst	Sstr1	SEMATOSTATIN	Secreted Signaling	Sst--Sstr1	True	False	False	False
+Sst	Sstr2	SEMATOSTATIN	Secreted Signaling	Sst--Sstr2	True	False	False	False
+Sst	Sstr3	SEMATOSTATIN	Secreted Signaling	Sst--Sstr3	True	False	False	False
+Sst	Sstr4	SEMATOSTATIN	Secreted Signaling	Sst--Sstr4	True	False	False	False
+Sst	Sstr5	SEMATOSTATIN	Secreted Signaling	Sst--Sstr5	True	False	False	False
+Cort	Sstr1	SEMATOSTATIN	Secreted Signaling	Cort--Sstr1	True	False	False	False
+Cort	Sstr2	SEMATOSTATIN	Secreted Signaling	Cort--Sstr2	True	False	False	False
+Cort	Sstr3	SEMATOSTATIN	Secreted Signaling	Cort--Sstr3	True	False	False	False
+Cort	Sstr4	SEMATOSTATIN	Secreted Signaling	Cort--Sstr4	True	False	False	False
+Cort	Sstr5	SEMATOSTATIN	Secreted Signaling	Cort--Sstr5	True	False	False	False
+Tac1	Tacr1	TAC	Secreted Signaling	Tac1--Tacr1	True	False	False	False
+Tac4	Tacr1	TAC	Secreted Signaling	Tac4--Tacr1	False	False	False	False
+Tac1	Tacr2	TAC	Secreted Signaling	Tac1--Tacr2	True	False	False	False
+Tac2	Tacr3	TAC	Secreted Signaling	Tac2--Tacr3	True	False	False	False
+Uts2	Uts2r	UTS2	Secreted Signaling	Uts2--Uts2r	True	False	False	False
+Avp	Avpr2	AVP	Secreted Signaling	Avp--Avpr2	True	False	False	False
+Avp	Avpr1a	AVP	Secreted Signaling	Avp--Avpr1a	True	False	False	False
+Avp	Avpr1b	AVP	Secreted Signaling	Avp--Avpr1b	True	False	False	False
+Prlh	Prlhr	PRLH	Secreted Signaling	Prlh--Prlhr	True	False	False	False
+Gm10334	F2r	PARs	Secreted Signaling	Gm10334--F2r	False	False	False	False
+Try5	F2r	PARs	Secreted Signaling	Try5--F2r	False	False	False	False
+Ctsg	F2r	PARs	Secreted Signaling	Ctsg--F2r	False	False	False	False
+F2	F2r	PARs	Secreted Signaling	F2--F2r	False	False	False	False
+Gzma	F2r	PARs	Secreted Signaling	Gzma--F2r	False	False	False	False
+Prss2	F2r	PARs	Secreted Signaling	Prss2--F2r	False	False	False	False
+Try4	F2r	PARs	Secreted Signaling	Try4--F2r	False	False	False	False
+Try10	F2r	PARs	Secreted Signaling	Try10--F2r	False	False	False	False
+Gm10334	F2rl1	PARs	Secreted Signaling	Gm10334--F2rl1	False	False	False	False
+Try5	F2rl1	PARs	Secreted Signaling	Try5--F2rl1	False	False	False	False
+Ctsg	F2rl1	PARs	Secreted Signaling	Ctsg--F2rl1	False	False	False	False
+F2	F2rl1	PARs	Secreted Signaling	F2--F2rl1	False	False	False	False
+Gzma	F2rl1	PARs	Secreted Signaling	Gzma--F2rl1	False	False	False	False
+Prss2	F2rl1	PARs	Secreted Signaling	Prss2--F2rl1	False	False	False	False
+Try4	F2rl1	PARs	Secreted Signaling	Try4--F2rl1	False	False	False	False
+Try10	F2rl1	PARs	Secreted Signaling	Try10--F2rl1	False	False	False	False
+Gm10334	F2rl2	PARs	Secreted Signaling	Gm10334--F2rl2	False	False	False	False
+Try5	F2rl2	PARs	Secreted Signaling	Try5--F2rl2	False	False	False	False
+Ctsg	F2rl2	PARs	Secreted Signaling	Ctsg--F2rl2	False	False	False	False
+F2	F2rl2	PARs	Secreted Signaling	F2--F2rl2	False	False	False	False
+Gzma	F2rl2	PARs	Secreted Signaling	Gzma--F2rl2	False	False	False	False
+Prss2	F2rl2	PARs	Secreted Signaling	Prss2--F2rl2	False	False	False	False
+Try4	F2rl2	PARs	Secreted Signaling	Try4--F2rl2	False	False	False	False
+Try10	F2rl2	PARs	Secreted Signaling	Try10--F2rl2	False	False	False	False
+Gm10334	F2rl3	PARs	Secreted Signaling	Gm10334--F2rl3	False	False	False	False
+Try5	F2rl3	PARs	Secreted Signaling	Try5--F2rl3	False	False	False	False
+Ctsg	F2rl3	PARs	Secreted Signaling	Ctsg--F2rl3	False	False	False	False
+F2	F2rl3	PARs	Secreted Signaling	F2--F2rl3	False	False	False	False
+Gzma	F2rl3	PARs	Secreted Signaling	Gzma--F2rl3	False	False	False	False
+Plg	F2rl3	PARs	Secreted Signaling	Plg--F2rl3	False	False	False	False
+Prss2	F2rl3	PARs	Secreted Signaling	Prss2--F2rl3	False	False	False	False
+Try4	F2rl3	PARs	Secreted Signaling	Try4--F2rl3	False	False	False	False
+Try10	F2rl3	PARs	Secreted Signaling	Try10--F2rl3	False	False	False	False
+Gm10334	Pard3	PARs	Secreted Signaling	Gm10334--Pard3	False	False	False	False
+Try5	Pard3	PARs	Secreted Signaling	Try5--Pard3	False	False	False	False
+Ctsg	Pard3	PARs	Secreted Signaling	Ctsg--Pard3	False	False	False	False
+F2	Pard3	PARs	Secreted Signaling	F2--Pard3	False	False	False	False
+Gzma	Pard3	PARs	Secreted Signaling	Gzma--Pard3	False	False	False	False
+Plg	Pard3	PARs	Secreted Signaling	Plg--Pard3	False	False	False	False
+Prss2	Pard3	PARs	Secreted Signaling	Prss2--Pard3	False	False	False	False
+Try4	Pard3	PARs	Secreted Signaling	Try4--Pard3	False	False	False	False
+Try10	Pard3	PARs	Secreted Signaling	Try10--Pard3	False	False	False	False
+Pmch	Mchr1	PMCH	Secreted Signaling	Pmch--Mchr1	True	False	False	False
+Prok1	Prokr2	PROK	Secreted Signaling	Prok1--Prokr2	True	False	False	False
+Prok1	Prokr1	PROK	Secreted Signaling	Prok1--Prokr1	True	False	False	False
+Prok2	Prokr1	PROK	Secreted Signaling	Prok2--Prokr1	True	False	False	False
+Prok2	Prokr2	PROK	Secreted Signaling	Prok2--Prokr2	True	False	False	False
+Adcyap1	Adcyap1r1	PACAP	Secreted Signaling	Adcyap1--Adcyap1r1	True	False	False	False
+Vip	Vipr1	VIP	Secreted Signaling	Vip--Vipr1	True	False	False	False
+Vip	Vipr2	VIP	Secreted Signaling	Vip--Vipr2	True	False	False	False
+Nppa	Npr1	NPR1	Secreted Signaling	Nppa--Npr1	True	True	False	False
+Nppb	Npr1	NPR1	Secreted Signaling	Nppb--Npr1	False	False	False	False
+Nppc	Npr2	NPR2	Secreted Signaling	Nppc--Npr2	True	False	False	False
+Kitl	Kit	KIT	Secreted Signaling	Kitl--Kit	True	True	False	False
+Gcg	Gipr	GIPR	Secreted Signaling	Gcg--Gipr	False	False	False	False
+Gip	Gipr	GIPR	Secreted Signaling	Gip--Gipr	True	False	False	False
+Fshb	Fshr	FSH	Secreted Signaling	Fshb--Fshr	False	False	False	False
+Cga	Fshr	FSH	Secreted Signaling	Cga--Fshr	False	False	False	False
+Lhb	Lhcgr	LHB	Secreted Signaling	Lhb--Lhcgr	False	False	False	False
+Cga	Lhcgr	LHB	Secreted Signaling	Cga--Lhcgr	False	False	False	False
+Tshb	Tshr	TSH	Secreted Signaling	Tshb--Tshr	False	False	False	False
+Cga	Tshr	TSH	Secreted Signaling	Cga--Tshr	False	False	False	False
+Bdnf	Ntrk2	NT	Secreted Signaling	Bdnf--Ntrk2	True	False	False	False
+Ngf	Ntrk1	NT	Secreted Signaling	Ngf--Ntrk1	True	False	False	False
+Flt3l	Flt3	FLT3	Secreted Signaling	Flt3l--Flt3	True	False	False	False
+Hgf	Met	HGF	Secreted Signaling	Hgf--Met	True	False	False	False
+Klk1b4	Ntrk1	NT	Secreted Signaling	Klk1b4--Ntrk1	False	False	False	False
+Ntf3	Ntrk1	NT	Secreted Signaling	Ntf3--Ntrk1	True	False	False	False
+Ntf3	Ntrk2	NT	Secreted Signaling	Ntf3--Ntrk2	True	True	False	False
+Ntf3	Ntrk3	NT	Secreted Signaling	Ntf3--Ntrk3	True	True	False	False
+Ntf5	Ntrk2	NT	Secreted Signaling	Ntf5--Ntrk2	True	False	False	False
+Sema3a	Nrp1_Plxna1	SEMA3	Secreted Signaling	Sema3a--Nrp1_Plxna1	True	False	False	False
+Sema3a	Nrp1_Plxna2	SEMA3	Secreted Signaling	Sema3a--Nrp1_Plxna2	True	True	False	False
+Sema3a	Nrp1_Plxna3	SEMA3	Secreted Signaling	Sema3a--Nrp1_Plxna3	True	False	False	False
+Sema3a	Nrp1_Plxna4	SEMA3	Secreted Signaling	Sema3a--Nrp1_Plxna4	True	True	False	False
+Sema3b	Nrp1_Plxna1	SEMA3	Secreted Signaling	Sema3b--Nrp1_Plxna1	False	False	False	False
+Sema3b	Nrp1_Plxna2	SEMA3	Secreted Signaling	Sema3b--Nrp1_Plxna2	False	False	False	False
+Sema3b	Nrp1_Plxna3	SEMA3	Secreted Signaling	Sema3b--Nrp1_Plxna3	False	False	False	False
+Sema3b	Nrp1_Plxna4	SEMA3	Secreted Signaling	Sema3b--Nrp1_Plxna4	False	False	False	False
+Sema3c	Nrp1_Plxna1	SEMA3	Secreted Signaling	Sema3c--Nrp1_Plxna1	False	False	False	False
+Sema3c	Nrp1_Plxna2	SEMA3	Secreted Signaling	Sema3c--Nrp1_Plxna2	False	True	False	True
+Sema3c	Nrp1_Plxna3	SEMA3	Secreted Signaling	Sema3c--Nrp1_Plxna3	False	False	False	False
+Sema3c	Nrp1_Plxna4	SEMA3	Secreted Signaling	Sema3c--Nrp1_Plxna4	False	True	False	True
+Sema3d	Nrp1_Plxna1	SEMA3	Secreted Signaling	Sema3d--Nrp1_Plxna1	False	False	False	False
+Sema3d	Nrp1_Plxna2	SEMA3	Secreted Signaling	Sema3d--Nrp1_Plxna2	False	False	False	False
+Sema3d	Nrp1_Plxna3	SEMA3	Secreted Signaling	Sema3d--Nrp1_Plxna3	False	False	False	False
+Sema3d	Nrp1_Plxna4	SEMA3	Secreted Signaling	Sema3d--Nrp1_Plxna4	False	False	False	False
+Sema3b	Nrp2_Plxna1	SEMA3	Secreted Signaling	Sema3b--Nrp2_Plxna1	False	False	False	False
+Sema3b	Nrp2_Plxna2	SEMA3	Secreted Signaling	Sema3b--Nrp2_Plxna2	False	False	False	False
+Sema3b	Nrp2_Plxna3	SEMA3	Secreted Signaling	Sema3b--Nrp2_Plxna3	False	False	False	False
+Sema3b	Nrp2_Plxna4	SEMA3	Secreted Signaling	Sema3b--Nrp2_Plxna4	False	False	False	False
+Sema3c	Nrp2_Plxna1	SEMA3	Secreted Signaling	Sema3c--Nrp2_Plxna1	False	False	False	False
+Sema3c	Nrp2_Plxna2	SEMA3	Secreted Signaling	Sema3c--Nrp2_Plxna2	False	False	False	False
+Sema3c	Nrp2_Plxna3	SEMA3	Secreted Signaling	Sema3c--Nrp2_Plxna3	False	False	False	False
+Sema3c	Nrp2_Plxna4	SEMA3	Secreted Signaling	Sema3c--Nrp2_Plxna4	False	False	False	False
+Sema3d	Nrp2_Plxna1	SEMA3	Secreted Signaling	Sema3d--Nrp2_Plxna1	False	False	False	False
+Sema3d	Nrp2_Plxna2	SEMA3	Secreted Signaling	Sema3d--Nrp2_Plxna2	False	False	False	False
+Sema3d	Nrp2_Plxna3	SEMA3	Secreted Signaling	Sema3d--Nrp2_Plxna3	False	False	False	False
+Sema3d	Nrp2_Plxna4	SEMA3	Secreted Signaling	Sema3d--Nrp2_Plxna4	False	False	False	False
+Sema3f	Nrp2_Plxna1	SEMA3	Secreted Signaling	Sema3f--Nrp2_Plxna1	False	False	False	False
+Sema3f	Nrp2_Plxna2	SEMA3	Secreted Signaling	Sema3f--Nrp2_Plxna2	False	False	False	False
+Sema3f	Nrp2_Plxna3	SEMA3	Secreted Signaling	Sema3f--Nrp2_Plxna3	False	False	False	False
+Sema3f	Nrp2_Plxna4	SEMA3	Secreted Signaling	Sema3f--Nrp2_Plxna4	False	False	False	False
+Sema3g	Nrp2_Plxna1	SEMA3	Secreted Signaling	Sema3g--Nrp2_Plxna1	False	False	False	False
+Sema3g	Nrp2_Plxna2	SEMA3	Secreted Signaling	Sema3g--Nrp2_Plxna2	False	False	False	False
+Sema3g	Nrp2_Plxna3	SEMA3	Secreted Signaling	Sema3g--Nrp2_Plxna3	False	False	False	False
+Sema3g	Nrp2_Plxna4	SEMA3	Secreted Signaling	Sema3g--Nrp2_Plxna4	False	False	False	False
+Sema3c	Nrp1_Nrp2_Plxnd1	SEMA3	Secreted Signaling	Sema3c--Nrp1_Nrp2_Plxnd1	False	False	False	False
+Sema3c	Plxnd1	SEMA3	Secreted Signaling	Sema3c--Plxnd1	False	True	False	False
+Sema3e	Plxnd1	SEMA3	Secreted Signaling	Sema3e--Plxnd1	True	True	False	False
+Adm	Calcr	CALCR	Secreted Signaling	Adm--Calcr	False	False	False	False
+Adm	Calcrl	CALCR	Secreted Signaling	Adm--Calcrl	False	False	False	False
+Agt	Mas1	AGT	Secreted Signaling	Agt--Mas1	False	False	False	False
+Anxa1	Fpr2	ANNEXIN	Secreted Signaling	Anxa1--Fpr2	True	False	False	False
+Anxa1	Fpr1	ANNEXIN	Secreted Signaling	Anxa1--Fpr1	True	False	False	False
+Apela	Aplnr	APJ	Secreted Signaling	Apela--Aplnr	False	False	False	False
+Calca	Calcr	CALCR	Secreted Signaling	Calca--Calcr	False	False	False	False
+Calca	Calcrl	CALCR	Secreted Signaling	Calca--Calcrl	False	False	False	False
+Calcb	Calcr	CALCR	Secreted Signaling	Calcb--Calcr	False	False	False	False
+Calcb	Calcrl	CALCR	Secreted Signaling	Calcb--Calcrl	False	False	False	False
+Crh	Crhr1	CRH	Secreted Signaling	Crh--Crhr1	True	False	False	False
+Crh	Crhr2	CRH	Secreted Signaling	Crh--Crhr2	True	False	False	False
+Enho	Gpr19	ENHO	Secreted Signaling	Enho--Gpr19	True	False	False	False
+Gas6	Axl	GAS	Secreted Signaling	Gas6--Axl	True	True	False	False
+Gas6	Mertk	GAS	Secreted Signaling	Gas6--Mertk	True	True	False	True
+Gas6	Tyro3	GAS	Secreted Signaling	Gas6--Tyro3	True	False	False	False
+Gcg	Gcgr	GCG	Secreted Signaling	Gcg--Gcgr	False	False	False	False
+Gcg	Glp1r	GCG	Secreted Signaling	Gcg--Glp1r	False	False	False	False
+Gcg	Glp2r	GCG	Secreted Signaling	Gcg--Glp2r	False	False	False	False
+Gh	Prlr	GH	Secreted Signaling	Gh--Prlr	True	False	False	False
+Ghrh	Vipr1	GHRH	Secreted Signaling	Ghrh--Vipr1	True	False	False	False
+Ghrh	Vipr2	GHRH	Secreted Signaling	Ghrh--Vipr2	False	False	False	False
+Ghrh	Ghsr	GHRH	Secreted Signaling	Ghrh--Ghsr	False	False	False	False
+Ghrh	Ghrhr	GHRH	Secreted Signaling	Ghrh--Ghrhr	True	False	False	False
+Gnrh1	Gnrhr	GNRH	Secreted Signaling	Gnrh1--Gnrhr	True	False	False	False
+Grn	Sort1	GRN	Secreted Signaling	Grn--Sort1	True	True	False	True
+Guca2a	Gucy2c	GUCA	Secreted Signaling	Guca2a--Gucy2c	True	False	False	False
+Guca2b	Gucy2c	GUCA	Secreted Signaling	Guca2b--Gucy2c	True	False	False	False
+Iapp	Calcr	CALCR	Secreted Signaling	Iapp--Calcr	False	False	False	False
+Iapp	Calcrl	CALCR	Secreted Signaling	Iapp--Calcrl	False	False	False	False
+Insl3	Rxfp2	RLN	Secreted Signaling	Insl3--Rxfp2	True	False	False	False
+Insl3	Rxfp1	RLN	Secreted Signaling	Insl3--Rxfp1	True	False	False	False
+Insl3	Rxfp4	RLN	Secreted Signaling	Insl3--Rxfp4	False	False	False	False
+Insl3	Rxfp3	RLN	Secreted Signaling	Insl3--Rxfp3	False	False	False	False
+Insl5	Rxfp4	RLN	Secreted Signaling	Insl5--Rxfp4	True	False	False	False
+Insl5	Rxfp3	RLN	Secreted Signaling	Insl5--Rxfp3	True	False	False	False
+Insl5	Rxfp2	RLN	Secreted Signaling	Insl5--Rxfp2	False	False	False	False
+Insl5	Rxfp1	RLN	Secreted Signaling	Insl5--Rxfp1	False	False	False	False
+Lep	Lepr	LEP	Secreted Signaling	Lep--Lepr	True	False	False	False
+Lgals9	Ptprc	GALECTIN	Secreted Signaling	Lgals9--Ptprc	False	True	False	False
+Lgals9	Ighm	GALECTIN	Secreted Signaling	Lgals9--Ighm	False	False	False	False
+Nps	Npsr1	NPS	Secreted Signaling	Nps--Npsr1	True	False	False	False
+Npvf	Npffr1	NPVF	Secreted Signaling	Npvf--Npffr1	True	False	False	False
+Npvf	Npffr2	NPVF	Secreted Signaling	Npvf--Npffr2	False	False	False	False
+Ostn	Npr3	OSTN	Secreted Signaling	Ostn--Npr3	True	False	False	False
+Pmch	Mertk	PMCH	Secreted Signaling	Pmch--Mertk	False	False	False	False
+Pros1	Axl	PROS	Secreted Signaling	Pros1--Axl	True	True	False	False
+Pros1	Tyro3	PROS	Secreted Signaling	Pros1--Tyro3	True	False	False	False
+Psap	Gpr37l1	PSAP	Secreted Signaling	Psap--Gpr37l1	True	False	False	False
+Psap	Gpr37	PSAP	Secreted Signaling	Psap--Gpr37	True	False	False	False
+Pth	Pth1r	PTH	Secreted Signaling	Pth--Pth1r	True	False	False	False
+Pth	Pth2r	PTH	Secreted Signaling	Pth--Pth2r	True	False	False	False
+Pth2	Pth1r	PTH	Secreted Signaling	Pth2--Pth1r	True	False	False	False
+Pth2	Pth2r	PTH	Secreted Signaling	Pth2--Pth2r	True	False	False	False
+Pthlh	Pth1r	PTH	Secreted Signaling	Pthlh--Pth1r	True	False	False	False
+Qrfp	Qrfpr	QRFP	Secreted Signaling	Qrfp--Qrfpr	True	False	False	False
+Rarres2	Gpr1	CHEMERIN	Secreted Signaling	Rarres2--Gpr1	True	False	False	False
+Rarres2	Cmklr1	CHEMERIN	Secreted Signaling	Rarres2--Cmklr1	True	True	False	False
+Rln1	Rxfp2	RLN	Secreted Signaling	Rln1--Rxfp2	True	False	False	False
+Rln1	Rxfp1	RLN	Secreted Signaling	Rln1--Rxfp1	True	False	False	False
+Rln1	Rxfp3	RLN	Secreted Signaling	Rln1--Rxfp3	False	False	False	False
+Rln1	Rxfp4	RLN	Secreted Signaling	Rln1--Rxfp4	False	False	False	False
+Rln3	Rxfp3	RLN	Secreted Signaling	Rln3--Rxfp3	True	False	False	False
+Rln3	Rxfp1	RLN	Secreted Signaling	Rln3--Rxfp1	True	False	False	False
+Rln3	Rxfp4	RLN	Secreted Signaling	Rln3--Rxfp4	True	False	False	False
+Rln3	Rxfp2	RLN	Secreted Signaling	Rln3--Rxfp2	True	False	False	False
+Saa2	Fpr2	SAA	Secreted Signaling	Saa2--Fpr2	False	False	False	False
+Scgb3a2	Marco	UGRP1	Secreted Signaling	Scgb3a2--Marco	False	False	False	False
+Sct	Sctr	SCT	Secreted Signaling	Sct--Sctr	False	False	False	False
+Slurp1	Chrnb1	SLURP	Secreted Signaling	Slurp1--Chrnb1	False	False	False	False
+Slurp1	Chrnb2	SLURP	Secreted Signaling	Slurp1--Chrnb2	False	False	False	False
+Slurp1	Chrnb3	SLURP	Secreted Signaling	Slurp1--Chrnb3	False	False	False	False
+Slurp1	Chrnb4	SLURP	Secreted Signaling	Slurp1--Chrnb4	False	False	False	False
+Slurp1	Chrna1	SLURP	Secreted Signaling	Slurp1--Chrna1	False	False	False	False
+Slurp1	Chrna2	SLURP	Secreted Signaling	Slurp1--Chrna2	False	False	False	False
+Slurp1	Chrna3	SLURP	Secreted Signaling	Slurp1--Chrna3	False	False	False	False
+Slurp1	Chrna4	SLURP	Secreted Signaling	Slurp1--Chrna4	False	False	False	False
+Slurp1	Chrna5	SLURP	Secreted Signaling	Slurp1--Chrna5	False	False	False	False
+Slurp1	Chrna6	SLURP	Secreted Signaling	Slurp1--Chrna6	False	False	False	False
+Slurp1	Chrna9	SLURP	Secreted Signaling	Slurp1--Chrna9	False	False	False	False
+Slurp1	Chrna10	SLURP	Secreted Signaling	Slurp1--Chrna10	False	False	False	False
+Slurp1	Chrnd	SLURP	Secreted Signaling	Slurp1--Chrnd	False	False	False	False
+Slurp1	Chrne	SLURP	Secreted Signaling	Slurp1--Chrne	False	False	False	False
+Slurp1	Chrng	SLURP	Secreted Signaling	Slurp1--Chrng	False	False	False	False
+Slurp1	Chrna7	SLURP	Secreted Signaling	Slurp1--Chrna7	True	False	False	False
+Slurp2	Chrnb1	SLURP	Secreted Signaling	Slurp2--Chrnb1	False	False	False	False
+Slurp2	Chrnb2	SLURP	Secreted Signaling	Slurp2--Chrnb2	False	False	False	False
+Slurp2	Chrnb3	SLURP	Secreted Signaling	Slurp2--Chrnb3	False	False	False	False
+Slurp2	Chrnb4	SLURP	Secreted Signaling	Slurp2--Chrnb4	False	False	False	False
+Slurp2	Chrna1	SLURP	Secreted Signaling	Slurp2--Chrna1	False	False	False	False
+Slurp2	Chrna2	SLURP	Secreted Signaling	Slurp2--Chrna2	False	False	False	False
+Slurp2	Chrna3	SLURP	Secreted Signaling	Slurp2--Chrna3	False	False	False	False
+Slurp2	Chrna4	SLURP	Secreted Signaling	Slurp2--Chrna4	False	False	False	False
+Slurp2	Chrna5	SLURP	Secreted Signaling	Slurp2--Chrna5	False	False	False	False
+Slurp2	Chrna6	SLURP	Secreted Signaling	Slurp2--Chrna6	False	False	False	False
+Slurp2	Chrna7	SLURP	Secreted Signaling	Slurp2--Chrna7	False	False	False	False
+Slurp2	Chrna9	SLURP	Secreted Signaling	Slurp2--Chrna9	False	False	False	False
+Slurp2	Chrna10	SLURP	Secreted Signaling	Slurp2--Chrna10	False	False	False	False
+Slurp2	Chrnd	SLURP	Secreted Signaling	Slurp2--Chrnd	False	False	False	False
+Slurp2	Chrne	SLURP	Secreted Signaling	Slurp2--Chrne	False	False	False	False
+Slurp2	Chrng	SLURP	Secreted Signaling	Slurp2--Chrng	False	False	False	False
+Btla	Tnfrsf14	BTLA	Secreted Signaling	Btla--Tnfrsf14	True	False	False	False
+Trh	Trhr	TRH	Secreted Signaling	Trh--Trhr	True	False	False	False
+Trh	Trhr2	TRH	Secreted Signaling	Trh--Trhr2	False	False	False	False
+Ucn	Crhr1	UCN	Secreted Signaling	Ucn--Crhr1	True	False	False	False
+Ucn	Crhr2	UCN	Secreted Signaling	Ucn--Crhr2	True	False	False	False
+Ucn2	Crhr1	UCN	Secreted Signaling	Ucn2--Crhr1	False	False	False	False
+Ucn2	Crhr2	UCN	Secreted Signaling	Ucn2--Crhr2	True	False	False	False
+Ucn3	Crhr1	UCN	Secreted Signaling	Ucn3--Crhr1	False	False	False	False
+Ucn3	Crhr2	UCN	Secreted Signaling	Ucn3--Crhr2	True	False	False	False
+Uts2b	Uts2r	UROTENSIN	Secreted Signaling	Uts2b--Uts2r	True	False	False	False
+Uts2b	Sstr5	UROTENSIN	Secreted Signaling	Uts2b--Sstr5	False	False	False	False
+Bag6	Ncr3-ps	BAG	Secreted Signaling	Bag6--Ncr3-ps	False	False	False	False
+Lgals9	Havcr2	GALECTIN	Secreted Signaling	Lgals9--Havcr2	False	False	False	False
+Lgals9	Cd44	GALECTIN	Secreted Signaling	Lgals9--Cd44	False	True	False	True
+Col1a1	Itga1_Itgb1	COLLAGEN	ECM-Receptor	Col1a1--Itga1_Itgb1	True	True	False	False
+Col1a2	Itga1_Itgb1	COLLAGEN	ECM-Receptor	Col1a2--Itga1_Itgb1	True	True	False	False
+Col2a1	Itga1_Itgb1	COLLAGEN	ECM-Receptor	Col2a1--Itga1_Itgb1	True	False	False	False
+Col4a1	Itga1_Itgb1	COLLAGEN	ECM-Receptor	Col4a1--Itga1_Itgb1	True	True	False	False
+Col4a2	Itga1_Itgb1	COLLAGEN	ECM-Receptor	Col4a2--Itga1_Itgb1	True	True	False	False
+Col4a3	Itga1_Itgb1	COLLAGEN	ECM-Receptor	Col4a3--Itga1_Itgb1	True	True	False	False
+Col4a4	Itga1_Itgb1	COLLAGEN	ECM-Receptor	Col4a4--Itga1_Itgb1	True	True	False	False
+Col4a5	Itga1_Itgb1	COLLAGEN	ECM-Receptor	Col4a5--Itga1_Itgb1	True	True	False	False
+Col4a6	Itga1_Itgb1	COLLAGEN	ECM-Receptor	Col4a6--Itga1_Itgb1	True	True	False	False
+Col6a1	Itga1_Itgb1	COLLAGEN	ECM-Receptor	Col6a1--Itga1_Itgb1	True	True	False	False
+Col6a2	Itga1_Itgb1	COLLAGEN	ECM-Receptor	Col6a2--Itga1_Itgb1	True	True	False	False
+Col6a3	Itga1_Itgb1	COLLAGEN	ECM-Receptor	Col6a3--Itga1_Itgb1	True	True	False	False
+Col6a4	Itga1_Itgb1	COLLAGEN	ECM-Receptor	Col6a4--Itga1_Itgb1	False	False	False	False
+Col6a5	Itga1_Itgb1	COLLAGEN	ECM-Receptor	Col6a5--Itga1_Itgb1	True	False	False	False
+Col6a6	Itga1_Itgb1	COLLAGEN	ECM-Receptor	Col6a6--Itga1_Itgb1	True	True	False	False
+Col9a1	Itga1_Itgb1	COLLAGEN	ECM-Receptor	Col9a1--Itga1_Itgb1	True	False	False	False
+Col9a2	Itga1_Itgb1	COLLAGEN	ECM-Receptor	Col9a2--Itga1_Itgb1	True	False	False	False
+Col9a3	Itga1_Itgb1	COLLAGEN	ECM-Receptor	Col9a3--Itga1_Itgb1	True	False	False	False
+Col1a1	Itga2_Itgb1	COLLAGEN	ECM-Receptor	Col1a1--Itga2_Itgb1	True	False	False	False
+Col1a2	Itga2_Itgb1	COLLAGEN	ECM-Receptor	Col1a2--Itga2_Itgb1	True	False	False	False
+Col2a1	Itga2_Itgb1	COLLAGEN	ECM-Receptor	Col2a1--Itga2_Itgb1	True	False	False	False
+Col4a1	Itga2_Itgb1	COLLAGEN	ECM-Receptor	Col4a1--Itga2_Itgb1	True	False	False	False
+Col4a2	Itga2_Itgb1	COLLAGEN	ECM-Receptor	Col4a2--Itga2_Itgb1	True	False	False	False
+Col4a3	Itga2_Itgb1	COLLAGEN	ECM-Receptor	Col4a3--Itga2_Itgb1	True	False	False	False
+Col4a4	Itga2_Itgb1	COLLAGEN	ECM-Receptor	Col4a4--Itga2_Itgb1	True	False	False	False
+Col4a5	Itga2_Itgb1	COLLAGEN	ECM-Receptor	Col4a5--Itga2_Itgb1	True	False	False	False
+Col4a6	Itga2_Itgb1	COLLAGEN	ECM-Receptor	Col4a6--Itga2_Itgb1	True	False	False	False
+Col6a1	Itga2_Itgb1	COLLAGEN	ECM-Receptor	Col6a1--Itga2_Itgb1	True	False	False	False
+Col6a2	Itga2_Itgb1	COLLAGEN	ECM-Receptor	Col6a2--Itga2_Itgb1	True	False	False	False
+Col6a3	Itga2_Itgb1	COLLAGEN	ECM-Receptor	Col6a3--Itga2_Itgb1	True	False	False	False
+Col6a4	Itga2_Itgb1	COLLAGEN	ECM-Receptor	Col6a4--Itga2_Itgb1	False	False	False	False
+Col6a5	Itga2_Itgb1	COLLAGEN	ECM-Receptor	Col6a5--Itga2_Itgb1	True	False	False	False
+Col6a6	Itga2_Itgb1	COLLAGEN	ECM-Receptor	Col6a6--Itga2_Itgb1	True	False	False	False
+Col9a1	Itga2_Itgb1	COLLAGEN	ECM-Receptor	Col9a1--Itga2_Itgb1	True	False	False	False
+Col9a2	Itga2_Itgb1	COLLAGEN	ECM-Receptor	Col9a2--Itga2_Itgb1	True	False	False	False
+Col9a3	Itga2_Itgb1	COLLAGEN	ECM-Receptor	Col9a3--Itga2_Itgb1	True	False	False	False
+Fn1	Itga3_Itgb1	FN1	ECM-Receptor	Fn1--Itga3_Itgb1	True	True	False	False
+Fn1	Itga4_Itgb1	FN1	ECM-Receptor	Fn1--Itga4_Itgb1	True	True	False	False
+Fn1	Itga5_Itgb1	FN1	ECM-Receptor	Fn1--Itga5_Itgb1	True	True	False	True
+Fn1	Itga8_Itgb1	FN1	ECM-Receptor	Fn1--Itga8_Itgb1	True	True	False	False
+Lama1	Itga1_Itgb1	LAMININ	ECM-Receptor	Lama1--Itga1_Itgb1	False	False	False	False
+Lama2	Itga1_Itgb1	LAMININ	ECM-Receptor	Lama2--Itga1_Itgb1	False	False	False	False
+Lama3	Itga1_Itgb1	LAMININ	ECM-Receptor	Lama3--Itga1_Itgb1	False	True	False	False
+Lama4	Itga1_Itgb1	LAMININ	ECM-Receptor	Lama4--Itga1_Itgb1	False	True	False	False
+Lama5	Itga1_Itgb1	LAMININ	ECM-Receptor	Lama5--Itga1_Itgb1	False	True	False	False
+Lamb1	Itga1_Itgb1	LAMININ	ECM-Receptor	Lamb1--Itga1_Itgb1	False	True	False	False
+Lamb2	Itga1_Itgb1	LAMININ	ECM-Receptor	Lamb2--Itga1_Itgb1	False	True	False	False
+Lamb3	Itga1_Itgb1	LAMININ	ECM-Receptor	Lamb3--Itga1_Itgb1	False	True	False	False
+Lamc1	Itga1_Itgb1	LAMININ	ECM-Receptor	Lamc1--Itga1_Itgb1	False	True	False	False
+Lamc2	Itga1_Itgb1	LAMININ	ECM-Receptor	Lamc2--Itga1_Itgb1	False	False	False	False
+Lamc3	Itga1_Itgb1	LAMININ	ECM-Receptor	Lamc3--Itga1_Itgb1	False	False	False	False
+Lama1	Itga2_Itgb1	LAMININ	ECM-Receptor	Lama1--Itga2_Itgb1	False	False	False	False
+Lama2	Itga2_Itgb1	LAMININ	ECM-Receptor	Lama2--Itga2_Itgb1	False	False	False	False
+Lama3	Itga2_Itgb1	LAMININ	ECM-Receptor	Lama3--Itga2_Itgb1	False	False	False	False
+Lama4	Itga2_Itgb1	LAMININ	ECM-Receptor	Lama4--Itga2_Itgb1	False	False	False	False
+Lama5	Itga2_Itgb1	LAMININ	ECM-Receptor	Lama5--Itga2_Itgb1	False	False	False	False
+Lamb1	Itga2_Itgb1	LAMININ	ECM-Receptor	Lamb1--Itga2_Itgb1	False	False	False	False
+Lamb2	Itga2_Itgb1	LAMININ	ECM-Receptor	Lamb2--Itga2_Itgb1	False	False	False	False
+Lamb3	Itga2_Itgb1	LAMININ	ECM-Receptor	Lamb3--Itga2_Itgb1	False	False	False	False
+Lamc1	Itga2_Itgb1	LAMININ	ECM-Receptor	Lamc1--Itga2_Itgb1	True	False	False	False
+Lamc2	Itga2_Itgb1	LAMININ	ECM-Receptor	Lamc2--Itga2_Itgb1	False	False	False	False
+Lamc3	Itga2_Itgb1	LAMININ	ECM-Receptor	Lamc3--Itga2_Itgb1	False	False	False	False
+Chad	Itga2_Itgb1	CHAD	ECM-Receptor	Chad--Itga2_Itgb1	False	False	False	False
+Lama1	Itga3_Itgb1	LAMININ	ECM-Receptor	Lama1--Itga3_Itgb1	False	False	False	False
+Lama2	Itga3_Itgb1	LAMININ	ECM-Receptor	Lama2--Itga3_Itgb1	False	False	False	False
+Lama3	Itga3_Itgb1	LAMININ	ECM-Receptor	Lama3--Itga3_Itgb1	True	True	False	False
+Lama4	Itga3_Itgb1	LAMININ	ECM-Receptor	Lama4--Itga3_Itgb1	False	True	False	False
+Lama5	Itga3_Itgb1	LAMININ	ECM-Receptor	Lama5--Itga3_Itgb1	False	True	False	False
+Lamb1	Itga3_Itgb1	LAMININ	ECM-Receptor	Lamb1--Itga3_Itgb1	False	True	False	False
+Lamb2	Itga3_Itgb1	LAMININ	ECM-Receptor	Lamb2--Itga3_Itgb1	False	True	False	False
+Lamb3	Itga3_Itgb1	LAMININ	ECM-Receptor	Lamb3--Itga3_Itgb1	False	True	False	False
+Lamc1	Itga3_Itgb1	LAMININ	ECM-Receptor	Lamc1--Itga3_Itgb1	False	True	False	False
+Lamc2	Itga3_Itgb1	LAMININ	ECM-Receptor	Lamc2--Itga3_Itgb1	False	False	False	False
+Lamc3	Itga3_Itgb1	LAMININ	ECM-Receptor	Lamc3--Itga3_Itgb1	False	False	False	False
+Reln	Itga3_Itgb1	RELN	ECM-Receptor	Reln--Itga3_Itgb1	False	True	False	False
+Thbs1	Itga3_Itgb1	THBS	ECM-Receptor	Thbs1--Itga3_Itgb1	False	True	False	False
+Thbs2	Itga3_Itgb1	THBS	ECM-Receptor	Thbs2--Itga3_Itgb1	False	False	False	False
+Thbs3	Itga3_Itgb1	THBS	ECM-Receptor	Thbs3--Itga3_Itgb1	False	False	False	False
+Thbs4	Itga3_Itgb1	THBS	ECM-Receptor	Thbs4--Itga3_Itgb1	False	False	False	False
+Comp	Itga3_Itgb1	THBS	ECM-Receptor	Comp--Itga3_Itgb1	False	False	False	False
+Col1a1	Itga3_Itgb1	COLLAGEN	ECM-Receptor	Col1a1--Itga3_Itgb1	False	True	False	False
+Col1a2	Itga3_Itgb1	COLLAGEN	ECM-Receptor	Col1a2--Itga3_Itgb1	False	True	False	False
+Col2a1	Itga3_Itgb1	COLLAGEN	ECM-Receptor	Col2a1--Itga3_Itgb1	False	False	False	False
+Col4a1	Itga3_Itgb1	COLLAGEN	ECM-Receptor	Col4a1--Itga3_Itgb1	False	True	False	False
+Col4a2	Itga3_Itgb1	COLLAGEN	ECM-Receptor	Col4a2--Itga3_Itgb1	False	True	False	False
+Col4a3	Itga3_Itgb1	COLLAGEN	ECM-Receptor	Col4a3--Itga3_Itgb1	False	True	False	False
+Col4a4	Itga3_Itgb1	COLLAGEN	ECM-Receptor	Col4a4--Itga3_Itgb1	False	True	False	False
+Col4a5	Itga3_Itgb1	COLLAGEN	ECM-Receptor	Col4a5--Itga3_Itgb1	False	True	False	False
+Col4a6	Itga3_Itgb1	COLLAGEN	ECM-Receptor	Col4a6--Itga3_Itgb1	False	True	False	False
+Col6a1	Itga3_Itgb1	COLLAGEN	ECM-Receptor	Col6a1--Itga3_Itgb1	False	True	False	False
+Col6a2	Itga3_Itgb1	COLLAGEN	ECM-Receptor	Col6a2--Itga3_Itgb1	False	True	False	False
+Col6a3	Itga3_Itgb1	COLLAGEN	ECM-Receptor	Col6a3--Itga3_Itgb1	False	True	False	False
+Col6a4	Itga3_Itgb1	COLLAGEN	ECM-Receptor	Col6a4--Itga3_Itgb1	False	False	False	False
+Col6a5	Itga3_Itgb1	COLLAGEN	ECM-Receptor	Col6a5--Itga3_Itgb1	False	False	False	False
+Col6a6	Itga3_Itgb1	COLLAGEN	ECM-Receptor	Col6a6--Itga3_Itgb1	False	True	False	False
+Col9a1	Itga3_Itgb1	COLLAGEN	ECM-Receptor	Col9a1--Itga3_Itgb1	False	False	False	False
+Col9a2	Itga3_Itgb1	COLLAGEN	ECM-Receptor	Col9a2--Itga3_Itgb1	False	False	False	False
+Col9a3	Itga3_Itgb1	COLLAGEN	ECM-Receptor	Col9a3--Itga3_Itgb1	False	False	False	False
+Lama1	Itga6_Itgb1	LAMININ	ECM-Receptor	Lama1--Itga6_Itgb1	False	False	False	False
+Lama2	Itga6_Itgb1	LAMININ	ECM-Receptor	Lama2--Itga6_Itgb1	False	False	False	False
+Lama3	Itga6_Itgb1	LAMININ	ECM-Receptor	Lama3--Itga6_Itgb1	False	True	False	False
+Lama4	Itga6_Itgb1	LAMININ	ECM-Receptor	Lama4--Itga6_Itgb1	False	True	False	False
+Lama5	Itga6_Itgb1	LAMININ	ECM-Receptor	Lama5--Itga6_Itgb1	False	True	False	False
+Lamb1	Itga6_Itgb1	LAMININ	ECM-Receptor	Lamb1--Itga6_Itgb1	False	True	False	False
+Lamb2	Itga6_Itgb1	LAMININ	ECM-Receptor	Lamb2--Itga6_Itgb1	False	True	False	False
+Lamb3	Itga6_Itgb1	LAMININ	ECM-Receptor	Lamb3--Itga6_Itgb1	False	True	False	False
+Lamc1	Itga6_Itgb1	LAMININ	ECM-Receptor	Lamc1--Itga6_Itgb1	True	True	False	False
+Lamc2	Itga6_Itgb1	LAMININ	ECM-Receptor	Lamc2--Itga6_Itgb1	False	False	False	False
+Lamc3	Itga6_Itgb1	LAMININ	ECM-Receptor	Lamc3--Itga6_Itgb1	False	False	False	False
+Lama1	Itga7_Itgb1	LAMININ	ECM-Receptor	Lama1--Itga7_Itgb1	False	False	False	False
+Lama2	Itga7_Itgb1	LAMININ	ECM-Receptor	Lama2--Itga7_Itgb1	False	False	False	False
+Lama3	Itga7_Itgb1	LAMININ	ECM-Receptor	Lama3--Itga7_Itgb1	False	True	False	False
+Lama4	Itga7_Itgb1	LAMININ	ECM-Receptor	Lama4--Itga7_Itgb1	False	True	False	False
+Lama5	Itga7_Itgb1	LAMININ	ECM-Receptor	Lama5--Itga7_Itgb1	False	True	False	False
+Lamb1	Itga7_Itgb1	LAMININ	ECM-Receptor	Lamb1--Itga7_Itgb1	False	True	False	False
+Lamb2	Itga7_Itgb1	LAMININ	ECM-Receptor	Lamb2--Itga7_Itgb1	False	True	False	False
+Lamb3	Itga7_Itgb1	LAMININ	ECM-Receptor	Lamb3--Itga7_Itgb1	False	True	False	False
+Lamc1	Itga7_Itgb1	LAMININ	ECM-Receptor	Lamc1--Itga7_Itgb1	True	True	False	False
+Lamc2	Itga7_Itgb1	LAMININ	ECM-Receptor	Lamc2--Itga7_Itgb1	False	False	False	False
+Lamc3	Itga7_Itgb1	LAMININ	ECM-Receptor	Lamc3--Itga7_Itgb1	False	False	False	False
+Vtn	Itga8_Itgb1	VTN	ECM-Receptor	Vtn--Itga8_Itgb1	False	True	False	False
+Tnc	Itga8_Itgb1	TENASCIN	ECM-Receptor	Tnc--Itga8_Itgb1	True	True	False	False
+Tnr	Itga8_Itgb1	TENASCIN	ECM-Receptor	Tnr--Itga8_Itgb1	False	True	False	False
+Tnn	Itga8_Itgb1	TENASCIN	ECM-Receptor	Tnn--Itga8_Itgb1	False	False	False	False
+Tnxb	Itga8_Itgb1	TENASCIN	ECM-Receptor	Tnxb--Itga8_Itgb1	False	True	False	False
+Npnt_Fras1_Frem1	Itga8_Itgb1	NPNT	ECM-Receptor	Fras1_Frem1_Npnt--Itga8_Itgb1	False	False	False	False
+Npnt_Fras1_Frem2	Itga8_Itgb1	NPNT	ECM-Receptor	Fras1_Frem2_Npnt--Itga8_Itgb1	False	False	False	False
+Tnc	Itga9_Itgb1	TENASCIN	ECM-Receptor	Tnc--Itga9_Itgb1	True	True	False	True
+Tnr	Itga9_Itgb1	TENASCIN	ECM-Receptor	Tnr--Itga9_Itgb1	False	True	False	False
+Tnn	Itga9_Itgb1	TENASCIN	ECM-Receptor	Tnn--Itga9_Itgb1	False	False	False	False
+Tnxb	Itga9_Itgb1	TENASCIN	ECM-Receptor	Tnxb--Itga9_Itgb1	False	True	False	True
+Col1a1	Itga9_Itgb1	COLLAGEN	ECM-Receptor	Col1a1--Itga9_Itgb1	False	True	False	True
+Col1a2	Itga9_Itgb1	COLLAGEN	ECM-Receptor	Col1a2--Itga9_Itgb1	False	True	False	True
+Col2a1	Itga9_Itgb1	COLLAGEN	ECM-Receptor	Col2a1--Itga9_Itgb1	False	False	False	False
+Col4a1	Itga9_Itgb1	COLLAGEN	ECM-Receptor	Col4a1--Itga9_Itgb1	False	True	False	False
+Col4a2	Itga9_Itgb1	COLLAGEN	ECM-Receptor	Col4a2--Itga9_Itgb1	False	True	False	False
+Col4a3	Itga9_Itgb1	COLLAGEN	ECM-Receptor	Col4a3--Itga9_Itgb1	False	True	False	False
+Col4a4	Itga9_Itgb1	COLLAGEN	ECM-Receptor	Col4a4--Itga9_Itgb1	False	True	False	False
+Col4a5	Itga9_Itgb1	COLLAGEN	ECM-Receptor	Col4a5--Itga9_Itgb1	False	True	False	False
+Col4a6	Itga9_Itgb1	COLLAGEN	ECM-Receptor	Col4a6--Itga9_Itgb1	False	True	False	False
+Col6a1	Itga9_Itgb1	COLLAGEN	ECM-Receptor	Col6a1--Itga9_Itgb1	False	True	False	False
+Col6a2	Itga9_Itgb1	COLLAGEN	ECM-Receptor	Col6a2--Itga9_Itgb1	False	True	False	False
+Col6a3	Itga9_Itgb1	COLLAGEN	ECM-Receptor	Col6a3--Itga9_Itgb1	False	True	False	False
+Col6a4	Itga9_Itgb1	COLLAGEN	ECM-Receptor	Col6a4--Itga9_Itgb1	False	False	False	False
+Col6a5	Itga9_Itgb1	COLLAGEN	ECM-Receptor	Col6a5--Itga9_Itgb1	False	False	False	False
+Col6a6	Itga9_Itgb1	COLLAGEN	ECM-Receptor	Col6a6--Itga9_Itgb1	False	True	False	False
+Col9a1	Itga9_Itgb1	COLLAGEN	ECM-Receptor	Col9a1--Itga9_Itgb1	False	False	False	False
+Col9a2	Itga9_Itgb1	COLLAGEN	ECM-Receptor	Col9a2--Itga9_Itgb1	False	False	False	False
+Col9a3	Itga9_Itgb1	COLLAGEN	ECM-Receptor	Col9a3--Itga9_Itgb1	False	False	False	False
+Lama1	Itga9_Itgb1	LAMININ	ECM-Receptor	Lama1--Itga9_Itgb1	False	False	False	False
+Lama2	Itga9_Itgb1	LAMININ	ECM-Receptor	Lama2--Itga9_Itgb1	False	False	False	False
+Lama3	Itga9_Itgb1	LAMININ	ECM-Receptor	Lama3--Itga9_Itgb1	False	True	False	False
+Lama4	Itga9_Itgb1	LAMININ	ECM-Receptor	Lama4--Itga9_Itgb1	False	True	False	False
+Lama5	Itga9_Itgb1	LAMININ	ECM-Receptor	Lama5--Itga9_Itgb1	False	True	False	False
+Lamb1	Itga9_Itgb1	LAMININ	ECM-Receptor	Lamb1--Itga9_Itgb1	False	True	False	False
+Lamb2	Itga9_Itgb1	LAMININ	ECM-Receptor	Lamb2--Itga9_Itgb1	False	True	False	False
+Lamb3	Itga9_Itgb1	LAMININ	ECM-Receptor	Lamb3--Itga9_Itgb1	False	True	False	False
+Lamc1	Itga9_Itgb1	LAMININ	ECM-Receptor	Lamc1--Itga9_Itgb1	False	True	False	False
+Lamc2	Itga9_Itgb1	LAMININ	ECM-Receptor	Lamc2--Itga9_Itgb1	False	False	False	False
+Lamc3	Itga9_Itgb1	LAMININ	ECM-Receptor	Lamc3--Itga9_Itgb1	False	False	False	False
+Col1a1	Itga10_Itgb1	COLLAGEN	ECM-Receptor	Col1a1--Itga10_Itgb1	True	True	False	False
+Col1a2	Itga10_Itgb1	COLLAGEN	ECM-Receptor	Col1a2--Itga10_Itgb1	True	True	False	False
+Col2a1	Itga10_Itgb1	COLLAGEN	ECM-Receptor	Col2a1--Itga10_Itgb1	True	False	False	False
+Col4a1	Itga10_Itgb1	COLLAGEN	ECM-Receptor	Col4a1--Itga10_Itgb1	True	True	False	False
+Col4a2	Itga10_Itgb1	COLLAGEN	ECM-Receptor	Col4a2--Itga10_Itgb1	True	True	False	False
+Col4a3	Itga10_Itgb1	COLLAGEN	ECM-Receptor	Col4a3--Itga10_Itgb1	True	True	False	False
+Col4a4	Itga10_Itgb1	COLLAGEN	ECM-Receptor	Col4a4--Itga10_Itgb1	True	True	False	False
+Col4a5	Itga10_Itgb1	COLLAGEN	ECM-Receptor	Col4a5--Itga10_Itgb1	True	True	False	False
+Col4a6	Itga10_Itgb1	COLLAGEN	ECM-Receptor	Col4a6--Itga10_Itgb1	True	True	False	False
+Col6a1	Itga10_Itgb1	COLLAGEN	ECM-Receptor	Col6a1--Itga10_Itgb1	True	True	False	False
+Col6a2	Itga10_Itgb1	COLLAGEN	ECM-Receptor	Col6a2--Itga10_Itgb1	True	True	False	False
+Col6a3	Itga10_Itgb1	COLLAGEN	ECM-Receptor	Col6a3--Itga10_Itgb1	True	True	False	False
+Col6a4	Itga10_Itgb1	COLLAGEN	ECM-Receptor	Col6a4--Itga10_Itgb1	False	False	False	False
+Col6a5	Itga10_Itgb1	COLLAGEN	ECM-Receptor	Col6a5--Itga10_Itgb1	True	False	False	False
+Col6a6	Itga10_Itgb1	COLLAGEN	ECM-Receptor	Col6a6--Itga10_Itgb1	True	True	False	False
+Col9a1	Itga10_Itgb1	COLLAGEN	ECM-Receptor	Col9a1--Itga10_Itgb1	True	False	False	False
+Col9a2	Itga10_Itgb1	COLLAGEN	ECM-Receptor	Col9a2--Itga10_Itgb1	True	False	False	False
+Col9a3	Itga10_Itgb1	COLLAGEN	ECM-Receptor	Col9a3--Itga10_Itgb1	True	False	False	False
+Col1a1	Itga11_Itgb1	COLLAGEN	ECM-Receptor	Col1a1--Itga11_Itgb1	True	False	False	False
+Col1a2	Itga11_Itgb1	COLLAGEN	ECM-Receptor	Col1a2--Itga11_Itgb1	True	False	False	False
+Col2a1	Itga11_Itgb1	COLLAGEN	ECM-Receptor	Col2a1--Itga11_Itgb1	True	False	False	False
+Col4a1	Itga11_Itgb1	COLLAGEN	ECM-Receptor	Col4a1--Itga11_Itgb1	True	False	False	False
+Col4a2	Itga11_Itgb1	COLLAGEN	ECM-Receptor	Col4a2--Itga11_Itgb1	True	False	False	False
+Col4a3	Itga11_Itgb1	COLLAGEN	ECM-Receptor	Col4a3--Itga11_Itgb1	True	False	False	False
+Col4a4	Itga11_Itgb1	COLLAGEN	ECM-Receptor	Col4a4--Itga11_Itgb1	True	False	False	False
+Col4a5	Itga11_Itgb1	COLLAGEN	ECM-Receptor	Col4a5--Itga11_Itgb1	True	False	False	False
+Col4a6	Itga11_Itgb1	COLLAGEN	ECM-Receptor	Col4a6--Itga11_Itgb1	True	False	False	False
+Col6a1	Itga11_Itgb1	COLLAGEN	ECM-Receptor	Col6a1--Itga11_Itgb1	True	False	False	False
+Col6a2	Itga11_Itgb1	COLLAGEN	ECM-Receptor	Col6a2--Itga11_Itgb1	True	False	False	False
+Col6a3	Itga11_Itgb1	COLLAGEN	ECM-Receptor	Col6a3--Itga11_Itgb1	True	False	False	False
+Col6a4	Itga11_Itgb1	COLLAGEN	ECM-Receptor	Col6a4--Itga11_Itgb1	False	False	False	False
+Col6a5	Itga11_Itgb1	COLLAGEN	ECM-Receptor	Col6a5--Itga11_Itgb1	True	False	False	False
+Col6a6	Itga11_Itgb1	COLLAGEN	ECM-Receptor	Col6a6--Itga11_Itgb1	True	False	False	False
+Col9a1	Itga11_Itgb1	COLLAGEN	ECM-Receptor	Col9a1--Itga11_Itgb1	True	False	False	False
+Col9a2	Itga11_Itgb1	COLLAGEN	ECM-Receptor	Col9a2--Itga11_Itgb1	True	False	False	False
+Col9a3	Itga11_Itgb1	COLLAGEN	ECM-Receptor	Col9a3--Itga11_Itgb1	True	False	False	False
+Fn1	Itgav_Itgb1	FN1	ECM-Receptor	Fn1--Itgav_Itgb1	True	True	False	False
+Vtn	Itgav_Itgb1	VTN	ECM-Receptor	Vtn--Itgav_Itgb1	True	True	False	True
+Dspp	Itgav_Itgb1	DSPP	ECM-Receptor	Dspp--Itgav_Itgb1	False	False	False	False
+Fn1	Itga4_Itgb7	FN1	ECM-Receptor	Fn1--Itga4_Itgb7	True	False	False	False
+Fn1	Itgav_Itgb3	FN1	ECM-Receptor	Fn1--Itgav_Itgb3	True	True	False	False
+Vtn	Itgav_Itgb3	VTN	ECM-Receptor	Vtn--Itgav_Itgb3	True	True	False	False
+Vwf	Itgav_Itgb3	VWF	ECM-Receptor	Vwf--Itgav_Itgb3	True	True	False	False
+Tnc	Itgav_Itgb3	TENASCIN	ECM-Receptor	Tnc--Itgav_Itgb3	True	True	False	False
+Tnr	Itgav_Itgb3	TENASCIN	ECM-Receptor	Tnr--Itgav_Itgb3	False	True	False	False
+Tnn	Itgav_Itgb3	TENASCIN	ECM-Receptor	Tnn--Itgav_Itgb3	False	False	False	False
+Tnxb	Itgav_Itgb3	TENASCIN	ECM-Receptor	Tnxb--Itgav_Itgb3	False	True	False	False
+Ibsp	Itgav_Itgb3	BSP	ECM-Receptor	Ibsp--Itgav_Itgb3	False	False	False	False
+Thbs1	Itgav_Itgb3	THBS	ECM-Receptor	Thbs1--Itgav_Itgb3	False	True	False	False
+Thbs2	Itgav_Itgb3	THBS	ECM-Receptor	Thbs2--Itgav_Itgb3	False	False	False	False
+Thbs3	Itgav_Itgb3	THBS	ECM-Receptor	Thbs3--Itgav_Itgb3	False	False	False	False
+Thbs4	Itgav_Itgb3	THBS	ECM-Receptor	Thbs4--Itgav_Itgb3	False	False	False	False
+Comp	Itgav_Itgb3	THBS	ECM-Receptor	Comp--Itgav_Itgb3	False	False	False	False
+Dmp1	Itgav_Itgb3	DMP1	ECM-Receptor	Dmp1--Itgav_Itgb3	False	False	False	False
+Fn1	Itga2b_Itgb3	FN1	ECM-Receptor	Fn1--Itga2b_Itgb3	True	False	False	False
+Vtn	Itga2b_Itgb3	VTN	ECM-Receptor	Vtn--Itga2b_Itgb3	True	False	False	False
+Vwf	Itga2b_Itgb3	VWF	ECM-Receptor	Vwf--Itga2b_Itgb3	False	False	False	False
+Tnc	Itga2b_Itgb3	TENASCIN	ECM-Receptor	Tnc--Itga2b_Itgb3	False	False	False	False
+Tnr	Itga2b_Itgb3	TENASCIN	ECM-Receptor	Tnr--Itga2b_Itgb3	False	False	False	False
+Tnn	Itga2b_Itgb3	TENASCIN	ECM-Receptor	Tnn--Itga2b_Itgb3	False	False	False	False
+Tnxb	Itga2b_Itgb3	TENASCIN	ECM-Receptor	Tnxb--Itga2b_Itgb3	False	False	False	False
+Vtn	Itgav_Itgb5	VTN	ECM-Receptor	Vtn--Itgav_Itgb5	False	True	False	False
+Ibsp	Itgav_Itgb5	BSP	ECM-Receptor	Ibsp--Itgav_Itgb5	False	False	False	False
+Tnc	Itgav_Itgb6	TENASCIN	ECM-Receptor	Tnc--Itgav_Itgb6	True	True	False	False
+Tnr	Itgav_Itgb6	TENASCIN	ECM-Receptor	Tnr--Itgav_Itgb6	False	True	False	False
+Tnn	Itgav_Itgb6	TENASCIN	ECM-Receptor	Tnn--Itgav_Itgb6	False	False	False	False
+Tnxb	Itgav_Itgb6	TENASCIN	ECM-Receptor	Tnxb--Itgav_Itgb6	False	True	False	False
+Fn1	Itgav_Itgb6	FN1	ECM-Receptor	Fn1--Itgav_Itgb6	False	True	False	False
+Dspp	Itgav_Itgb6	DSPP	ECM-Receptor	Dspp--Itgav_Itgb6	False	False	False	False
+Vtn	Itgav_Itgb8	VTN	ECM-Receptor	Vtn--Itgav_Itgb8	False	True	False	False
+Fn1	Itgav_Itgb8	FN1	ECM-Receptor	Fn1--Itgav_Itgb8	False	True	False	False
+Lama1	Itgav_Itgb8	LAMININ	ECM-Receptor	Lama1--Itgav_Itgb8	False	False	False	False
+Lama2	Itgav_Itgb8	LAMININ	ECM-Receptor	Lama2--Itgav_Itgb8	False	False	False	False
+Lama3	Itgav_Itgb8	LAMININ	ECM-Receptor	Lama3--Itgav_Itgb8	False	True	False	False
+Lama4	Itgav_Itgb8	LAMININ	ECM-Receptor	Lama4--Itgav_Itgb8	False	True	False	False
+Lama5	Itgav_Itgb8	LAMININ	ECM-Receptor	Lama5--Itgav_Itgb8	False	True	False	False
+Lamb1	Itgav_Itgb8	LAMININ	ECM-Receptor	Lamb1--Itgav_Itgb8	False	True	False	False
+Lamb2	Itgav_Itgb8	LAMININ	ECM-Receptor	Lamb2--Itgav_Itgb8	False	True	False	False
+Lamb3	Itgav_Itgb8	LAMININ	ECM-Receptor	Lamb3--Itgav_Itgb8	False	True	False	False
+Lamc1	Itgav_Itgb8	LAMININ	ECM-Receptor	Lamc1--Itgav_Itgb8	False	True	False	False
+Lamc2	Itgav_Itgb8	LAMININ	ECM-Receptor	Lamc2--Itgav_Itgb8	False	False	False	False
+Lamc3	Itgav_Itgb8	LAMININ	ECM-Receptor	Lamc3--Itgav_Itgb8	False	False	False	False
+Col1a1	Itgav_Itgb8	COLLAGEN	ECM-Receptor	Col1a1--Itgav_Itgb8	False	True	False	False
+Col1a2	Itgav_Itgb8	COLLAGEN	ECM-Receptor	Col1a2--Itgav_Itgb8	False	True	False	False
+Col2a1	Itgav_Itgb8	COLLAGEN	ECM-Receptor	Col2a1--Itgav_Itgb8	False	False	False	False
+Col4a1	Itgav_Itgb8	COLLAGEN	ECM-Receptor	Col4a1--Itgav_Itgb8	False	True	False	False
+Col4a2	Itgav_Itgb8	COLLAGEN	ECM-Receptor	Col4a2--Itgav_Itgb8	False	True	False	False
+Col4a3	Itgav_Itgb8	COLLAGEN	ECM-Receptor	Col4a3--Itgav_Itgb8	False	True	False	False
+Col4a4	Itgav_Itgb8	COLLAGEN	ECM-Receptor	Col4a4--Itgav_Itgb8	False	True	False	False
+Col4a5	Itgav_Itgb8	COLLAGEN	ECM-Receptor	Col4a5--Itgav_Itgb8	False	True	False	False
+Col4a6	Itgav_Itgb8	COLLAGEN	ECM-Receptor	Col4a6--Itgav_Itgb8	False	True	False	False
+Col6a1	Itgav_Itgb8	COLLAGEN	ECM-Receptor	Col6a1--Itgav_Itgb8	False	True	False	False
+Col6a2	Itgav_Itgb8	COLLAGEN	ECM-Receptor	Col6a2--Itgav_Itgb8	False	True	False	False
+Col6a3	Itgav_Itgb8	COLLAGEN	ECM-Receptor	Col6a3--Itgav_Itgb8	False	True	False	False
+Col6a4	Itgav_Itgb8	COLLAGEN	ECM-Receptor	Col6a4--Itgav_Itgb8	False	False	False	False
+Col6a5	Itgav_Itgb8	COLLAGEN	ECM-Receptor	Col6a5--Itgav_Itgb8	False	False	False	False
+Col6a6	Itgav_Itgb8	COLLAGEN	ECM-Receptor	Col6a6--Itgav_Itgb8	False	True	False	False
+Col9a1	Itgav_Itgb8	COLLAGEN	ECM-Receptor	Col9a1--Itgav_Itgb8	False	False	False	False
+Col9a2	Itgav_Itgb8	COLLAGEN	ECM-Receptor	Col9a2--Itgav_Itgb8	False	False	False	False
+Col9a3	Itgav_Itgb8	COLLAGEN	ECM-Receptor	Col9a3--Itgav_Itgb8	False	False	False	False
+Lama1	Itga6_Itgb4	LAMININ	ECM-Receptor	Lama1--Itga6_Itgb4	False	False	False	False
+Lama2	Itga6_Itgb4	LAMININ	ECM-Receptor	Lama2--Itga6_Itgb4	False	False	False	False
+Lama3	Itga6_Itgb4	LAMININ	ECM-Receptor	Lama3--Itga6_Itgb4	False	True	False	False
+Lama4	Itga6_Itgb4	LAMININ	ECM-Receptor	Lama4--Itga6_Itgb4	False	True	False	False
+Lama5	Itga6_Itgb4	LAMININ	ECM-Receptor	Lama5--Itga6_Itgb4	False	True	False	False
+Lamb1	Itga6_Itgb4	LAMININ	ECM-Receptor	Lamb1--Itga6_Itgb4	False	True	False	False
+Lamb2	Itga6_Itgb4	LAMININ	ECM-Receptor	Lamb2--Itga6_Itgb4	False	True	False	False
+Lamb3	Itga6_Itgb4	LAMININ	ECM-Receptor	Lamb3--Itga6_Itgb4	False	True	False	False
+Lamc1	Itga6_Itgb4	LAMININ	ECM-Receptor	Lamc1--Itga6_Itgb4	False	True	False	False
+Lamc2	Itga6_Itgb4	LAMININ	ECM-Receptor	Lamc2--Itga6_Itgb4	False	False	False	False
+Lamc3	Itga6_Itgb4	LAMININ	ECM-Receptor	Lamc3--Itga6_Itgb4	False	False	False	False
+Fn1	Cd44	FN1	ECM-Receptor	Fn1--Cd44	False	True	False	True
+Col1a1	Cd44	COLLAGEN	ECM-Receptor	Col1a1--Cd44	False	True	False	False
+Col1a2	Cd44	COLLAGEN	ECM-Receptor	Col1a2--Cd44	False	True	False	False
+Col2a1	Cd44	COLLAGEN	ECM-Receptor	Col2a1--Cd44	False	False	False	False
+Col4a1	Cd44	COLLAGEN	ECM-Receptor	Col4a1--Cd44	False	True	False	False
+Col4a2	Cd44	COLLAGEN	ECM-Receptor	Col4a2--Cd44	False	True	False	False
+Col4a3	Cd44	COLLAGEN	ECM-Receptor	Col4a3--Cd44	False	True	False	False
+Col4a4	Cd44	COLLAGEN	ECM-Receptor	Col4a4--Cd44	False	True	False	False
+Col4a5	Cd44	COLLAGEN	ECM-Receptor	Col4a5--Cd44	False	True	False	False
+Col4a6	Cd44	COLLAGEN	ECM-Receptor	Col4a6--Cd44	False	True	False	False
+Col6a1	Cd44	COLLAGEN	ECM-Receptor	Col6a1--Cd44	False	True	False	False
+Col6a2	Cd44	COLLAGEN	ECM-Receptor	Col6a2--Cd44	False	True	False	False
+Col6a3	Cd44	COLLAGEN	ECM-Receptor	Col6a3--Cd44	False	True	False	False
+Col6a4	Cd44	COLLAGEN	ECM-Receptor	Col6a4--Cd44	False	False	False	False
+Col6a5	Cd44	COLLAGEN	ECM-Receptor	Col6a5--Cd44	False	False	False	False
+Col6a6	Cd44	COLLAGEN	ECM-Receptor	Col6a6--Cd44	False	True	False	False
+Col9a1	Cd44	COLLAGEN	ECM-Receptor	Col9a1--Cd44	False	False	False	False
+Col9a2	Cd44	COLLAGEN	ECM-Receptor	Col9a2--Cd44	False	False	False	False
+Col9a3	Cd44	COLLAGEN	ECM-Receptor	Col9a3--Cd44	False	False	False	False
+Lama1	Cd44	LAMININ	ECM-Receptor	Lama1--Cd44	False	False	False	False
+Lama2	Cd44	LAMININ	ECM-Receptor	Lama2--Cd44	False	False	False	False
+Lama3	Cd44	LAMININ	ECM-Receptor	Lama3--Cd44	False	True	False	False
+Lama4	Cd44	LAMININ	ECM-Receptor	Lama4--Cd44	False	True	False	False
+Lama5	Cd44	LAMININ	ECM-Receptor	Lama5--Cd44	False	True	False	False
+Lamb1	Cd44	LAMININ	ECM-Receptor	Lamb1--Cd44	False	True	False	False
+Lamb2	Cd44	LAMININ	ECM-Receptor	Lamb2--Cd44	False	True	False	False
+Lamb3	Cd44	LAMININ	ECM-Receptor	Lamb3--Cd44	False	True	False	False
+Lamc1	Cd44	LAMININ	ECM-Receptor	Lamc1--Cd44	False	True	False	False
+Lamc2	Cd44	LAMININ	ECM-Receptor	Lamc2--Cd44	False	False	False	False
+Lamc3	Cd44	LAMININ	ECM-Receptor	Lamc3--Cd44	False	False	False	False
+Col1a1	Sdc1	COLLAGEN	ECM-Receptor	Col1a1--Sdc1	False	False	False	False
+Col1a2	Sdc1	COLLAGEN	ECM-Receptor	Col1a2--Sdc1	False	False	False	False
+Col2a1	Sdc1	COLLAGEN	ECM-Receptor	Col2a1--Sdc1	False	False	False	False
+Col4a1	Sdc1	COLLAGEN	ECM-Receptor	Col4a1--Sdc1	False	False	False	False
+Col4a2	Sdc1	COLLAGEN	ECM-Receptor	Col4a2--Sdc1	False	False	False	False
+Col4a3	Sdc1	COLLAGEN	ECM-Receptor	Col4a3--Sdc1	False	False	False	False
+Col4a4	Sdc1	COLLAGEN	ECM-Receptor	Col4a4--Sdc1	False	False	False	False
+Col4a5	Sdc1	COLLAGEN	ECM-Receptor	Col4a5--Sdc1	False	False	False	False
+Col4a6	Sdc1	COLLAGEN	ECM-Receptor	Col4a6--Sdc1	False	False	False	False
+Col6a1	Sdc1	COLLAGEN	ECM-Receptor	Col6a1--Sdc1	False	False	False	False
+Col6a2	Sdc1	COLLAGEN	ECM-Receptor	Col6a2--Sdc1	False	False	False	False
+Col6a3	Sdc1	COLLAGEN	ECM-Receptor	Col6a3--Sdc1	False	False	False	False
+Col6a4	Sdc1	COLLAGEN	ECM-Receptor	Col6a4--Sdc1	False	False	False	False
+Col6a5	Sdc1	COLLAGEN	ECM-Receptor	Col6a5--Sdc1	False	False	False	False
+Col6a6	Sdc1	COLLAGEN	ECM-Receptor	Col6a6--Sdc1	False	False	False	False
+Col9a1	Sdc1	COLLAGEN	ECM-Receptor	Col9a1--Sdc1	False	False	False	False
+Col9a2	Sdc1	COLLAGEN	ECM-Receptor	Col9a2--Sdc1	False	False	False	False
+Col9a3	Sdc1	COLLAGEN	ECM-Receptor	Col9a3--Sdc1	False	False	False	False
+Fn1	Sdc1	FN1	ECM-Receptor	Fn1--Sdc1	False	False	False	False
+Tnc	Sdc1	TENASCIN	ECM-Receptor	Tnc--Sdc1	False	False	False	False
+Tnr	Sdc1	TENASCIN	ECM-Receptor	Tnr--Sdc1	False	False	False	False
+Tnn	Sdc1	TENASCIN	ECM-Receptor	Tnn--Sdc1	False	False	False	False
+Tnxb	Sdc1	TENASCIN	ECM-Receptor	Tnxb--Sdc1	False	False	False	False
+Thbs1	Sdc1	THBS	ECM-Receptor	Thbs1--Sdc1	False	False	False	False
+Thbs2	Sdc1	THBS	ECM-Receptor	Thbs2--Sdc1	False	False	False	False
+Thbs3	Sdc1	THBS	ECM-Receptor	Thbs3--Sdc1	False	False	False	False
+Thbs4	Sdc1	THBS	ECM-Receptor	Thbs4--Sdc1	False	False	False	False
+Comp	Sdc1	THBS	ECM-Receptor	Comp--Sdc1	False	False	False	False
+Col1a1	Sdc4	COLLAGEN	ECM-Receptor	Col1a1--Sdc4	False	True	False	False
+Col1a2	Sdc4	COLLAGEN	ECM-Receptor	Col1a2--Sdc4	False	True	False	False
+Col2a1	Sdc4	COLLAGEN	ECM-Receptor	Col2a1--Sdc4	False	False	False	False
+Col4a1	Sdc4	COLLAGEN	ECM-Receptor	Col4a1--Sdc4	False	True	False	False
+Col4a2	Sdc4	COLLAGEN	ECM-Receptor	Col4a2--Sdc4	False	True	False	False
+Col4a3	Sdc4	COLLAGEN	ECM-Receptor	Col4a3--Sdc4	False	True	False	False
+Col4a4	Sdc4	COLLAGEN	ECM-Receptor	Col4a4--Sdc4	False	True	False	False
+Col4a5	Sdc4	COLLAGEN	ECM-Receptor	Col4a5--Sdc4	False	True	False	False
+Col4a6	Sdc4	COLLAGEN	ECM-Receptor	Col4a6--Sdc4	False	True	False	False
+Col6a1	Sdc4	COLLAGEN	ECM-Receptor	Col6a1--Sdc4	False	True	False	False
+Col6a2	Sdc4	COLLAGEN	ECM-Receptor	Col6a2--Sdc4	False	True	False	False
+Col6a3	Sdc4	COLLAGEN	ECM-Receptor	Col6a3--Sdc4	False	True	False	False
+Col6a4	Sdc4	COLLAGEN	ECM-Receptor	Col6a4--Sdc4	False	False	False	False
+Col6a5	Sdc4	COLLAGEN	ECM-Receptor	Col6a5--Sdc4	False	False	False	False
+Col6a6	Sdc4	COLLAGEN	ECM-Receptor	Col6a6--Sdc4	False	True	False	False
+Col9a1	Sdc4	COLLAGEN	ECM-Receptor	Col9a1--Sdc4	False	False	False	False
+Col9a2	Sdc4	COLLAGEN	ECM-Receptor	Col9a2--Sdc4	False	False	False	False
+Col9a3	Sdc4	COLLAGEN	ECM-Receptor	Col9a3--Sdc4	False	False	False	False
+Fn1	Sdc4	FN1	ECM-Receptor	Fn1--Sdc4	False	True	False	False
+Tnc	Sdc4	TENASCIN	ECM-Receptor	Tnc--Sdc4	False	True	False	False
+Tnr	Sdc4	TENASCIN	ECM-Receptor	Tnr--Sdc4	False	True	False	False
+Tnn	Sdc4	TENASCIN	ECM-Receptor	Tnn--Sdc4	False	False	False	False
+Tnxb	Sdc4	TENASCIN	ECM-Receptor	Tnxb--Sdc4	False	True	False	False
+Thbs1	Sdc4	THBS	ECM-Receptor	Thbs1--Sdc4	False	True	False	False
+Thbs2	Sdc4	THBS	ECM-Receptor	Thbs2--Sdc4	False	False	False	False
+Thbs3	Sdc4	THBS	ECM-Receptor	Thbs3--Sdc4	False	False	False	False
+Thbs4	Sdc4	THBS	ECM-Receptor	Thbs4--Sdc4	False	False	False	False
+Comp	Sdc4	THBS	ECM-Receptor	Comp--Sdc4	False	False	False	False
+Lama1	Sv2a	LAMININ	ECM-Receptor	Lama1--Sv2a	False	False	False	False
+Lama2	Sv2a	LAMININ	ECM-Receptor	Lama2--Sv2a	False	False	False	False
+Lama3	Sv2a	LAMININ	ECM-Receptor	Lama3--Sv2a	False	False	False	False
+Lama4	Sv2a	LAMININ	ECM-Receptor	Lama4--Sv2a	False	False	False	False
+Lama5	Sv2a	LAMININ	ECM-Receptor	Lama5--Sv2a	False	False	False	False
+Lamb1	Sv2a	LAMININ	ECM-Receptor	Lamb1--Sv2a	False	False	False	False
+Lamb2	Sv2a	LAMININ	ECM-Receptor	Lamb2--Sv2a	False	False	False	False
+Lamb3	Sv2a	LAMININ	ECM-Receptor	Lamb3--Sv2a	False	False	False	False
+Lamc1	Sv2a	LAMININ	ECM-Receptor	Lamc1--Sv2a	False	False	False	False
+Lamc2	Sv2a	LAMININ	ECM-Receptor	Lamc2--Sv2a	False	False	False	False
+Lamc3	Sv2a	LAMININ	ECM-Receptor	Lamc3--Sv2a	False	False	False	False
+Lama1	Sv2b	LAMININ	ECM-Receptor	Lama1--Sv2b	False	False	False	False
+Lama2	Sv2b	LAMININ	ECM-Receptor	Lama2--Sv2b	False	False	False	False
+Lama3	Sv2b	LAMININ	ECM-Receptor	Lama3--Sv2b	False	False	False	False
+Lama4	Sv2b	LAMININ	ECM-Receptor	Lama4--Sv2b	False	False	False	False
+Lama5	Sv2b	LAMININ	ECM-Receptor	Lama5--Sv2b	False	False	False	False
+Lamb1	Sv2b	LAMININ	ECM-Receptor	Lamb1--Sv2b	False	False	False	False
+Lamb2	Sv2b	LAMININ	ECM-Receptor	Lamb2--Sv2b	False	False	False	False
+Lamb3	Sv2b	LAMININ	ECM-Receptor	Lamb3--Sv2b	False	False	False	False
+Lamc1	Sv2b	LAMININ	ECM-Receptor	Lamc1--Sv2b	False	False	False	False
+Lamc2	Sv2b	LAMININ	ECM-Receptor	Lamc2--Sv2b	False	False	False	False
+Lamc3	Sv2b	LAMININ	ECM-Receptor	Lamc3--Sv2b	False	False	False	False
+Lama1	Sv2c	LAMININ	ECM-Receptor	Lama1--Sv2c	False	False	False	False
+Lama2	Sv2c	LAMININ	ECM-Receptor	Lama2--Sv2c	False	False	False	False
+Lama3	Sv2c	LAMININ	ECM-Receptor	Lama3--Sv2c	False	False	False	False
+Lama4	Sv2c	LAMININ	ECM-Receptor	Lama4--Sv2c	False	False	False	False
+Lama5	Sv2c	LAMININ	ECM-Receptor	Lama5--Sv2c	False	False	False	False
+Lamb1	Sv2c	LAMININ	ECM-Receptor	Lamb1--Sv2c	False	False	False	False
+Lamb2	Sv2c	LAMININ	ECM-Receptor	Lamb2--Sv2c	False	False	False	False
+Lamb3	Sv2c	LAMININ	ECM-Receptor	Lamb3--Sv2c	False	False	False	False
+Lamc1	Sv2c	LAMININ	ECM-Receptor	Lamc1--Sv2c	False	False	False	False
+Lamc2	Sv2c	LAMININ	ECM-Receptor	Lamc2--Sv2c	False	False	False	False
+Lamc3	Sv2c	LAMININ	ECM-Receptor	Lamc3--Sv2c	False	False	False	False
+Thbs1	Cd36	THBS	ECM-Receptor	Thbs1--Cd36	False	True	False	True
+Thbs2	Cd36	THBS	ECM-Receptor	Thbs2--Cd36	False	False	False	False
+Thbs3	Cd36	THBS	ECM-Receptor	Thbs3--Cd36	False	False	False	False
+Thbs4	Cd36	THBS	ECM-Receptor	Thbs4--Cd36	False	False	False	False
+Comp	Cd36	THBS	ECM-Receptor	Comp--Cd36	False	False	False	False
+Vwf	Gp1ba_Gp1bb_Gp5_Gp9	VWF	ECM-Receptor	Vwf--Gp1ba_Gp1bb_Gp5_Gp9	False	False	False	False
+Col1a1	Gp6	COLLAGEN	ECM-Receptor	Col1a1--Gp6	False	False	False	False
+Col1a2	Gp6	COLLAGEN	ECM-Receptor	Col1a2--Gp6	False	False	False	False
+Col2a1	Gp6	COLLAGEN	ECM-Receptor	Col2a1--Gp6	False	False	False	False
+Col4a1	Gp6	COLLAGEN	ECM-Receptor	Col4a1--Gp6	False	False	False	False
+Col4a2	Gp6	COLLAGEN	ECM-Receptor	Col4a2--Gp6	False	False	False	False
+Col4a3	Gp6	COLLAGEN	ECM-Receptor	Col4a3--Gp6	False	False	False	False
+Col4a4	Gp6	COLLAGEN	ECM-Receptor	Col4a4--Gp6	False	False	False	False
+Col4a5	Gp6	COLLAGEN	ECM-Receptor	Col4a5--Gp6	False	False	False	False
+Col4a6	Gp6	COLLAGEN	ECM-Receptor	Col4a6--Gp6	False	False	False	False
+Col6a1	Gp6	COLLAGEN	ECM-Receptor	Col6a1--Gp6	False	False	False	False
+Col6a2	Gp6	COLLAGEN	ECM-Receptor	Col6a2--Gp6	False	False	False	False
+Col6a3	Gp6	COLLAGEN	ECM-Receptor	Col6a3--Gp6	False	False	False	False
+Col6a4	Gp6	COLLAGEN	ECM-Receptor	Col6a4--Gp6	False	False	False	False
+Col6a5	Gp6	COLLAGEN	ECM-Receptor	Col6a5--Gp6	False	False	False	False
+Col6a6	Gp6	COLLAGEN	ECM-Receptor	Col6a6--Gp6	False	False	False	False
+Col9a1	Gp6	COLLAGEN	ECM-Receptor	Col9a1--Gp6	False	False	False	False
+Col9a2	Gp6	COLLAGEN	ECM-Receptor	Col9a2--Gp6	False	False	False	False
+Col9a3	Gp6	COLLAGEN	ECM-Receptor	Col9a3--Gp6	False	False	False	False
+Thbs1	Cd47	THBS	ECM-Receptor	Thbs1--Cd47	False	True	False	True
+Thbs2	Cd47	THBS	ECM-Receptor	Thbs2--Cd47	False	False	False	False
+Thbs3	Cd47	THBS	ECM-Receptor	Thbs3--Cd47	False	False	False	False
+Thbs4	Cd47	THBS	ECM-Receptor	Thbs4--Cd47	False	False	False	False
+Comp	Cd47	THBS	ECM-Receptor	Comp--Cd47	False	False	False	False
+Agrn	Dag1	AGRN	ECM-Receptor	Agrn--Dag1	False	True	False	True
+Hspg2	Dag1	HSPG	ECM-Receptor	Hspg2--Dag1	False	True	False	True
+Lama1	Dag1	LAMININ	ECM-Receptor	Lama1--Dag1	False	False	False	False
+Lama2	Dag1	LAMININ	ECM-Receptor	Lama2--Dag1	False	False	False	False
+Lama3	Dag1	LAMININ	ECM-Receptor	Lama3--Dag1	False	True	False	False
+Lama4	Dag1	LAMININ	ECM-Receptor	Lama4--Dag1	False	True	False	True
+Lama5	Dag1	LAMININ	ECM-Receptor	Lama5--Dag1	False	True	False	False
+Lamb1	Dag1	LAMININ	ECM-Receptor	Lamb1--Dag1	False	True	False	False
+Lamb2	Dag1	LAMININ	ECM-Receptor	Lamb2--Dag1	False	True	False	False
+Lamb3	Dag1	LAMININ	ECM-Receptor	Lamb3--Dag1	False	True	False	False
+Lamc1	Dag1	LAMININ	ECM-Receptor	Lamc1--Dag1	False	True	False	True
+Lamc2	Dag1	LAMININ	ECM-Receptor	Lamc2--Dag1	False	False	False	False
+Lamc3	Dag1	LAMININ	ECM-Receptor	Lamc3--Dag1	False	False	False	False
+Adgre5	Cd55b	ADGRE5	Cell-Cell Contact	Adgre5--Cd55b	False	False	False	False
+Alcam	Cd6	ALCAM	Cell-Cell Contact	Alcam--Cd6	False	False	False	False
+Anxa1	Fpr2_Fpr3	ANXA1	Cell-Cell Contact	Anxa1--Fpr2_Fpr3	False	False	False	False
+App	Cd74	APP	Cell-Cell Contact	App--Cd74	False	False	False	False
+Bst2	Pira2	BST2	Cell-Cell Contact	Bst2--Pira2	False	False	False	False
+Cadm1	Cadm1	CADM	Cell-Cell Contact	Cadm1--Cadm1	True	True	False	True
+Cadm3	Cadm3	CADM	Cell-Cell Contact	Cadm3--Cadm3	False	False	False	False
+Cd1d2	Pira2	CD1D2	Cell-Cell Contact	Cd1d2--Pira2	False	False	False	False
+Cd200	Cd200r1	CD200	Cell-Cell Contact	Cd200--Cd200r1	True	True	False	False
+Cd200	Cd200r2	CD200	Cell-Cell Contact	Cd200--Cd200r2	False	False	False	False
+Cd200	Cd200r3	CD200	Cell-Cell Contact	Cd200--Cd200r3	False	False	False	False
+Cd200	Cd200r4	CD200	Cell-Cell Contact	Cd200--Cd200r4	False	False	False	False
+Cd22	Ptprc	CD22	Cell-Cell Contact	Cd22--Ptprc	False	True	False	False
+Cd226	Nectin2	CD226	Cell-Cell Contact	Cd226--Nectin2	True	False	False	False
+Cd226	Pvr	CD226	Cell-Cell Contact	Cd226--Pvr	False	False	False	False
+Fcer2a	Itgam_Itgb2	CD23	Cell-Cell Contact	Fcer2a--Itgam_Itgb2	True	False	False	False
+Fcer2a	Itgax_Itgb2	CD23	Cell-Cell Contact	Fcer2a--Itgax_Itgb2	True	False	False	False
+Fcer2a	Itgav_Itgb3	CD23	Cell-Cell Contact	Fcer2a--Itgav_Itgb3	True	False	False	False
+Fcer2a	Cr2	CD23	Cell-Cell Contact	Fcer2a--Cr2	True	False	False	False
+Cd34	Selp	CD34	Cell-Cell Contact	Cd34--Selp	False	False	False	False
+Entpd1	Adora1	CD39	Cell-Cell Contact	Entpd1--Adora1	False	True	False	True
+Entpd1	Adora2a	CD39	Cell-Cell Contact	Entpd1--Adora2a	False	False	False	False
+Entpd1	Adora2b	CD39	Cell-Cell Contact	Entpd1--Adora2b	False	False	False	False
+Entpd1	Tmigd3	CD39	Cell-Cell Contact	Entpd1--Tmigd3	False	False	False	False
+Cd40lg	Cd40	CD40	Cell-Cell Contact	Cd40lg--Cd40	True	False	False	False
+Ptprc	Cd22	CD45	Cell-Cell Contact	Ptprc--Cd22	True	True	False	False
+Ptprc	Mrc1	CD45	Cell-Cell Contact	Ptprc--Mrc1	True	True	False	False
+Cd46	Jag1	CD46	Cell-Cell Contact	Cd46--Jag1	True	True	False	False
+Cd48	Cd244a	CD48	Cell-Cell Contact	Cd48--Cd244a	True	True	False	False
+Cd52	Siglecg	CD52	Cell-Cell Contact	Cd52--Siglecg	False	False	False	False
+Cd6	Alcam	CD6	Cell-Cell Contact	Cd6--Alcam	True	False	False	False
+Cd80	Cd274	CD80	Cell-Cell Contact	Cd80--Cd274	True	False	False	False
+Cd80	Cd28	CD80	Cell-Cell Contact	Cd80--Cd28	False	False	False	False
+Cd80	Ctla4	CD80	Cell-Cell Contact	Cd80--Ctla4	False	False	False	False
+Cd86	Cd28	CD86	Cell-Cell Contact	Cd86--Cd28	False	False	False	False
+Cd86	Ctla4	CD86	Cell-Cell Contact	Cd86--Ctla4	False	False	False	False
+Cd96	Nectin1	CD96	Cell-Cell Contact	Cd96--Nectin1	False	False	False	False
+Cd96	Pvr	CD96	Cell-Cell Contact	Cd96--Pvr	False	False	False	False
+Cd99	Pilra	CD99	Cell-Cell Contact	Cd99--Pilra	False	False	False	False
+Cd99	Cd99	CD99	Cell-Cell Contact	Cd99--Cd99	False	False	False	False
+Cdh15	Cdh15	CDH	Cell-Cell Contact	Cdh15--Cdh15	False	False	False	False
+Cdh4	Cdh4	CDH	Cell-Cell Contact	Cdh4--Cdh4	False	True	False	False
+Cdh2	Cdh2	CDH	Cell-Cell Contact	Cdh2--Cdh2	True	True	False	True
+Cdh1	Cdh1	CDH	Cell-Cell Contact	Cdh1--Cdh1	False	True	False	False
+Cdh1	Itga2_Itgb1	CDH1	Cell-Cell Contact	Cdh1--Itga2_Itgb1	True	False	False	False
+Cdh1	Itgae_Itgb7	CDH1	Cell-Cell Contact	Cdh1--Itgae_Itgb7	True	False	False	False
+Cdh1	Klrg1	CDH1	Cell-Cell Contact	Cdh1--Klrg1	True	False	False	False
+Cdh5	Cdh5	CDH5	Cell-Cell Contact	Cdh5--Cdh5	True	True	False	False
+Cd1d1	Ceacam5	CEACAM	Cell-Cell Contact	Cd1d1--Ceacam5	False	False	False	False
+Cd209a	Ceacam1	CEACAM	Cell-Cell Contact	Cd209a--Ceacam1	False	False	False	False
+Cd8a	Ceacam5	CEACAM	Cell-Cell Contact	Cd8a--Ceacam5	False	False	False	False
+Ceacam1	Ceacam5	CEACAM	Cell-Cell Contact	Ceacam1--Ceacam5	False	False	False	False
+Sele	Ceacam1	CEACAM	Cell-Cell Contact	Sele--Ceacam1	False	False	False	False
+Cldn11	Cldn11	CLDN	Cell-Cell Contact	Cldn11--Cldn11	False	False	False	False
+Clec2d	Klrb1b	CLEC	Cell-Cell Contact	Clec2d--Klrb1b	False	False	False	False
+Clec2g	Klrb1	CLEC	Cell-Cell Contact	Clec2g--Klrb1	False	False	False	False
+Clec2h	Klrb1	CLEC	Cell-Cell Contact	Clec2h--Klrb1	False	False	False	False
+Clec2i	Klrb1	CLEC	Cell-Cell Contact	Clec2i--Klrb1	False	False	False	False
+Clec2f	Klrb1f	CLEC	Cell-Cell Contact	Clec2f--Klrb1f	False	False	False	False
+Clec2g	Klrb1f	CLEC	Cell-Cell Contact	Clec2g--Klrb1f	False	False	False	False
+Clec2i	Klrb1f	CLEC	Cell-Cell Contact	Clec2i--Klrb1f	False	False	False	False
+Nfasc	Cntn1_Cntnap1	CNTN	Cell-Cell Contact	Nfasc--Cntn1_Cntnap1	False	False	False	False
+Cntn2	Cntn2_Cntnap2	CNTN	Cell-Cell Contact	Cntn2--Cntn2_Cntnap2	False	False	False	False
+Cntn2	L1cam	CNTN	Cell-Cell Contact	Cntn2--L1cam	False	True	False	False
+Cntn2	Cntn2	CNTN	Cell-Cell Contact	Cntn2--Cntn2	False	True	False	False
+Cntn1	Nrcam	CNTN	Cell-Cell Contact	Cntn1--Nrcam	False	False	False	False
+Cspg4	Itga3_Itgb1	CSPG4	Cell-Cell Contact	Cspg4--Itga3_Itgb1	True	True	False	False
+Dsc1	Dsg1c	DESMOSOME	Cell-Cell Contact	Dsc1--Dsg1c	False	False	False	False
+Dsc1	Dsg2	DESMOSOME	Cell-Cell Contact	Dsc1--Dsg2	True	False	False	False
+Dsc2	Dsg1c	DESMOSOME	Cell-Cell Contact	Dsc2--Dsg1c	False	False	False	False
+Dsc2	Dsg2	DESMOSOME	Cell-Cell Contact	Dsc2--Dsg2	True	True	False	True
+Dsg1c	Dsc3	DESMOSOME	Cell-Cell Contact	Dsg1c--Dsc3	False	False	False	False
+Dsg2	Dsc3	DESMOSOME	Cell-Cell Contact	Dsg2--Dsc3	True	False	False	False
+Epgn	Egfr	EPGN	Cell-Cell Contact	Epgn--Egfr	True	False	False	False
+Efna1	Epha1	EPHA	Cell-Cell Contact	Efna1--Epha1	True	False	False	False
+Efna1	Epha2	EPHA	Cell-Cell Contact	Efna1--Epha2	True	False	False	False
+Efna1	Epha3	EPHA	Cell-Cell Contact	Efna1--Epha3	True	False	False	False
+Efna1	Epha4	EPHA	Cell-Cell Contact	Efna1--Epha4	True	False	False	False
+Efna1	Epha5	EPHA	Cell-Cell Contact	Efna1--Epha5	True	False	False	False
+Efna1	Epha7	EPHA	Cell-Cell Contact	Efna1--Epha7	True	False	False	False
+Efna1	Epha8	EPHA	Cell-Cell Contact	Efna1--Epha8	True	False	False	False
+Efna2	Epha1	EPHA	Cell-Cell Contact	Efna2--Epha1	True	False	False	False
+Efna2	Epha2	EPHA	Cell-Cell Contact	Efna2--Epha2	True	False	False	False
+Efna2	Epha3	EPHA	Cell-Cell Contact	Efna2--Epha3	True	False	False	False
+Efna2	Epha4	EPHA	Cell-Cell Contact	Efna2--Epha4	True	False	False	False
+Efna2	Epha5	EPHA	Cell-Cell Contact	Efna2--Epha5	True	False	False	False
+Efna2	Epha7	EPHA	Cell-Cell Contact	Efna2--Epha7	True	False	False	False
+Efna2	Epha8	EPHA	Cell-Cell Contact	Efna2--Epha8	True	False	False	False
+Efna3	Epha1	EPHA	Cell-Cell Contact	Efna3--Epha1	False	False	False	False
+Efna3	Epha2	EPHA	Cell-Cell Contact	Efna3--Epha2	False	False	False	False
+Efna3	Epha3	EPHA	Cell-Cell Contact	Efna3--Epha3	False	False	False	False
+Efna3	Epha4	EPHA	Cell-Cell Contact	Efna3--Epha4	True	False	False	False
+Efna3	Epha5	EPHA	Cell-Cell Contact	Efna3--Epha5	True	False	False	False
+Efna3	Epha7	EPHA	Cell-Cell Contact	Efna3--Epha7	True	False	False	False
+Efna3	Epha8	EPHA	Cell-Cell Contact	Efna3--Epha8	False	False	False	False
+Efna4	Epha1	EPHA	Cell-Cell Contact	Efna4--Epha1	True	False	False	False
+Efna4	Epha2	EPHA	Cell-Cell Contact	Efna4--Epha2	True	False	False	False
+Efna4	Epha3	EPHA	Cell-Cell Contact	Efna4--Epha3	True	False	False	False
+Efna4	Epha4	EPHA	Cell-Cell Contact	Efna4--Epha4	True	False	False	False
+Efna4	Epha5	EPHA	Cell-Cell Contact	Efna4--Epha5	True	False	False	False
+Efna4	Epha7	EPHA	Cell-Cell Contact	Efna4--Epha7	True	False	False	False
+Efna4	Epha8	EPHA	Cell-Cell Contact	Efna4--Epha8	True	False	False	False
+Efna5	Epha1	EPHA	Cell-Cell Contact	Efna5--Epha1	False	False	False	False
+Efna5	Epha2	EPHA	Cell-Cell Contact	Efna5--Epha2	False	False	False	False
+Efna5	Epha3	EPHA	Cell-Cell Contact	Efna5--Epha3	False	False	False	False
+Efna5	Epha4	EPHA	Cell-Cell Contact	Efna5--Epha4	True	False	False	False
+Efna5	Epha5	EPHA	Cell-Cell Contact	Efna5--Epha5	True	False	False	False
+Efna5	Epha7	EPHA	Cell-Cell Contact	Efna5--Epha7	True	False	False	False
+Efna5	Epha8	EPHA	Cell-Cell Contact	Efna5--Epha8	False	False	False	False
+Efna5	Ephb2	EPHA	Cell-Cell Contact	Efna5--Ephb2	False	False	False	False
+Efnb1	Epha4	EPHB	Cell-Cell Contact	Efnb1--Epha4	False	False	False	False
+Efnb1	Ephb1	EPHB	Cell-Cell Contact	Efnb1--Ephb1	False	False	False	False
+Efnb1	Ephb2	EPHB	Cell-Cell Contact	Efnb1--Ephb2	False	False	False	False
+Efnb1	Ephb3	EPHB	Cell-Cell Contact	Efnb1--Ephb3	False	False	False	False
+Efnb1	Ephb4	EPHB	Cell-Cell Contact	Efnb1--Ephb4	False	False	False	False
+Efnb2	Epha4	EPHB	Cell-Cell Contact	Efnb2--Epha4	True	True	False	True
+Efnb2	Ephb1	EPHB	Cell-Cell Contact	Efnb2--Ephb1	True	True	False	False
+Efnb2	Ephb2	EPHB	Cell-Cell Contact	Efnb2--Ephb2	False	True	False	False
+Efnb2	Ephb3	EPHB	Cell-Cell Contact	Efnb2--Ephb3	True	True	False	False
+Efnb2	Ephb4	EPHB	Cell-Cell Contact	Efnb2--Ephb4	True	True	False	True
+Efnb3	Epha4	EPHB	Cell-Cell Contact	Efnb3--Epha4	False	False	False	False
+Efnb3	Ephb1	EPHB	Cell-Cell Contact	Efnb3--Ephb1	False	False	False	False
+Efnb3	Ephb2	EPHB	Cell-Cell Contact	Efnb3--Ephb2	False	False	False	False
+Efnb3	Ephb3	EPHB	Cell-Cell Contact	Efnb3--Ephb3	False	False	False	False
+Efnb3	Ephb4	EPHB	Cell-Cell Contact	Efnb3--Ephb4	False	False	False	False
+Efnb3	Ephb6	EPHB	Cell-Cell Contact	Efnb3--Ephb6	False	False	False	False
+Esam	Esam	ESAM	Cell-Cell Contact	Esam--Esam	True	True	False	False
+Gp1ba	Itgam_Itgb2	GP1BA	Cell-Cell Contact	Gp1ba--Itgam_Itgb2	True	False	False	False
+Icam1	Itgax_Itgb2	ICAM	Cell-Cell Contact	Icam1--Itgax_Itgb2	True	False	False	False
+Icam1	Itgal_Itgb2	ICAM	Cell-Cell Contact	Icam1--Itgal_Itgb2	True	False	False	False
+Icam2	Itgal_Itgb2	ICAM	Cell-Cell Contact	Icam2--Itgal_Itgb2	True	False	False	False
+Icam1	Itgam_Itgb2	ICAM	Cell-Cell Contact	Icam1--Itgam_Itgb2	True	False	False	False
+Icam2	Itgam_Itgb2	ICAM	Cell-Cell Contact	Icam2--Itgam_Itgb2	False	False	False	False
+Icam1	Itgal_Itgb2l	ICAM	Cell-Cell Contact	Icam1--Itgal_Itgb2l	False	False	False	False
+Icam2	Itgal_Itgb2l	ICAM	Cell-Cell Contact	Icam2--Itgal_Itgb2l	False	False	False	False
+Icam1	Itgam_Itgb2l	ICAM	Cell-Cell Contact	Icam1--Itgam_Itgb2l	False	False	False	False
+Icam2	Itgam_Itgb2l	ICAM	Cell-Cell Contact	Icam2--Itgam_Itgb2l	False	False	False	False
+Icam1	Itgal	ICAM	Cell-Cell Contact	Icam1--Itgal	True	False	False	False
+Icam1	Spn	ICAM	Cell-Cell Contact	Icam1--Spn	True	False	False	False
+Icam5	Cd209a	ICAM	Cell-Cell Contact	Icam5--Cd209a	False	False	False	False
+Icam5	Cd209f	ICAM	Cell-Cell Contact	Icam5--Cd209f	False	False	False	False
+Icosl	Icos	ICOS	Cell-Cell Contact	Icosl--Icos	True	False	False	False
+Icosl	Cd28	ICOS	Cell-Cell Contact	Icosl--Cd28	False	False	False	False
+Icosl	Ctla4	ICOS	Cell-Cell Contact	Icosl--Ctla4	False	False	False	False
+Itgal_Itgb2	Cd226	ITGAL-ITGB2	Cell-Cell Contact	Itgal_Itgb2--Cd226	False	False	False	False
+Itgal_Itgb2	Icam1	ITGAL-ITGB2	Cell-Cell Contact	Itgal_Itgb2--Icam1	False	False	False	False
+Itgal_Itgb2	Icam2	ITGAL-ITGB2	Cell-Cell Contact	Itgal_Itgb2--Icam2	False	False	False	False
+Itgal_Itgb2l	Cd226	ITGAL-ITGB2	Cell-Cell Contact	Itgal_Itgb2l--Cd226	False	False	False	False
+Itgal_Itgb2l	Icam1	ITGAL-ITGB2	Cell-Cell Contact	Itgal_Itgb2l--Icam1	False	False	False	False
+Itgal_Itgb2l	Icam2	ITGAL-ITGB2	Cell-Cell Contact	Itgal_Itgb2l--Icam2	False	False	False	False
+Jam2	Itga3_Itgb1	JAM	Cell-Cell Contact	Jam2--Itga3_Itgb1	False	True	False	False
+Jam2	Itgav_Itgb1	JAM	Cell-Cell Contact	Jam2--Itgav_Itgb1	False	True	False	False
+Jam3	Itgam_Itgb2	JAM	Cell-Cell Contact	Jam3--Itgam_Itgb2	True	False	False	False
+F11r	Itgal_Itgb2	JAM	Cell-Cell Contact	F11r--Itgal_Itgb2	True	False	False	False
+Jam3	Itgam_Itgb2l	JAM	Cell-Cell Contact	Jam3--Itgam_Itgb2l	False	False	False	False
+Jam2	Jam3	JAM	Cell-Cell Contact	Jam2--Jam3	True	True	False	False
+F11r	F11r	JAM	Cell-Cell Contact	F11r--F11r	False	True	False	True
+F11r	Jam2	JAM	Cell-Cell Contact	F11r--Jam2	False	True	False	False
+F11r	Jam3	JAM	Cell-Cell Contact	F11r--Jam3	False	True	False	False
+Jam2	F11r	JAM	Cell-Cell Contact	Jam2--F11r	False	True	False	True
+Jam2	Jam2	JAM	Cell-Cell Contact	Jam2--Jam2	False	True	False	False
+Jam3	F11r	JAM	Cell-Cell Contact	Jam3--F11r	False	True	False	False
+Jam3	Jam2	JAM	Cell-Cell Contact	Jam3--Jam2	False	True	False	False
+Jam3	Jam3	JAM	Cell-Cell Contact	Jam3--Jam3	True	True	False	False
+L1cam	Itgav_Itgb3	L1CAM	Cell-Cell Contact	L1cam--Itgav_Itgb3	True	True	False	False
+L1cam	Itga4_Itgb7	L1CAM	Cell-Cell Contact	L1cam--Itga4_Itgb7	False	False	False	False
+L1cam	L1cam	L1CAM	Cell-Cell Contact	L1cam--L1cam	True	True	False	False
+Lair1	Pira2	LAIR1	Cell-Cell Contact	Lair1--Pira2	False	False	False	False
+Lck	Cd8a_Cd8b1	LCK	Cell-Cell Contact	Lck--Cd8a_Cd8b1	False	False	False	False
+Madcam1	Itga4_Itgb7	MADCAM	Cell-Cell Contact	Madcam1--Itga4_Itgb7	False	False	False	False
+Mag	Mag	MAG	Cell-Cell Contact	Mag--Mag	False	False	False	False
+H2-T23	Klrd1_Klrc1	MHC-I	Cell-Cell Contact	H2-T23--Klrc1_Klrd1	False	False	False	False
+H2-T23	Klrd1_Klrc2	MHC-I	Cell-Cell Contact	H2-T23--Klrc2_Klrd1	False	False	False	False
+H2-M2	Cd8a	MHC-I	Cell-Cell Contact	H2-M2--Cd8a	False	False	False	False
+H2-M3	Cd8a	MHC-I	Cell-Cell Contact	H2-M3--Cd8a	False	False	False	False
+H2-M9	Cd8a	MHC-I	Cell-Cell Contact	H2-M9--Cd8a	False	False	False	False
+H2-Q1	Cd8a	MHC-I	Cell-Cell Contact	H2-Q1--Cd8a	False	False	False	False
+H2-Q10	Cd8a	MHC-I	Cell-Cell Contact	H2-Q10--Cd8a	False	False	False	False
+H2-Q2	Cd8a	MHC-I	Cell-Cell Contact	H2-Q2--Cd8a	False	False	False	False
+H2-Q7	Cd8a	MHC-I	Cell-Cell Contact	H2-Q7--Cd8a	False	False	False	False
+H2-Q8	Cd8a	MHC-I	Cell-Cell Contact	H2-Q8--Cd8a	False	False	False	False
+H2-T22	Cd8a	MHC-I	Cell-Cell Contact	H2-T22--Cd8a	False	False	False	False
+H2-T23	Cd8a	MHC-I	Cell-Cell Contact	H2-T23--Cd8a	False	False	False	False
+H2-T24	Cd8a	MHC-I	Cell-Cell Contact	H2-T24--Cd8a	False	False	False	False
+H2-T3	Cd8a	MHC-I	Cell-Cell Contact	H2-T3--Cd8a	False	False	False	False
+H2-T9	Cd8a	MHC-I	Cell-Cell Contact	H2-T9--Cd8a	False	False	False	False
+H2-M10.4	Cd8a	MHC-I	Cell-Cell Contact	H2-M10.4--Cd8a	False	False	False	False
+H2-M11	Cd8a	MHC-I	Cell-Cell Contact	H2-M11--Cd8a	False	False	False	False
+H2-M1	Cd8a	MHC-I	Cell-Cell Contact	H2-M1--Cd8a	False	False	False	False
+H2-M10.5	Cd8a	MHC-I	Cell-Cell Contact	H2-M10.5--Cd8a	False	False	False	False
+H2-M10.2	Cd8a	MHC-I	Cell-Cell Contact	H2-M10.2--Cd8a	False	False	False	False
+H2-M10.6	Cd8a	MHC-I	Cell-Cell Contact	H2-M10.6--Cd8a	False	False	False	False
+H2-T10	Cd8a	MHC-I	Cell-Cell Contact	H2-T10--Cd8a	False	False	False	False
+H2-Q6	Cd8a	MHC-I	Cell-Cell Contact	H2-Q6--Cd8a	False	False	False	False
+H2-M10.3	Cd8a	MHC-I	Cell-Cell Contact	H2-M10.3--Cd8a	False	False	False	False
+H2-Bl	Cd8a	MHC-I	Cell-Cell Contact	H2-Bl--Cd8a	False	False	False	False
+H2-D1	Cd8a	MHC-I	Cell-Cell Contact	H2-D1--Cd8a	False	False	False	False
+H2-K1	Cd8a	MHC-I	Cell-Cell Contact	H2-K1--Cd8a	False	False	False	False
+H2-M10.1	Cd8a	MHC-I	Cell-Cell Contact	H2-M10.1--Cd8a	False	False	False	False
+H2-T18	Cd8a	MHC-I	Cell-Cell Contact	H2-T18--Cd8a	False	False	False	False
+H2-Q9	Cd8a	MHC-I	Cell-Cell Contact	H2-Q9--Cd8a	False	False	False	False
+Gm8909	Cd8a	MHC-I	Cell-Cell Contact	Gm8909--Cd8a	False	False	False	False
+H2-L	Cd8a	MHC-I	Cell-Cell Contact	H2-L--Cd8a	False	False	False	False
+Gm10499	Cd8a	MHC-I	Cell-Cell Contact	Gm10499--Cd8a	False	False	False	False
+H2-Q4	Cd8a	MHC-I	Cell-Cell Contact	H2-Q4--Cd8a	False	False	False	False
+H2-T-ps	Cd8a	MHC-I	Cell-Cell Contact	H2-T-ps--Cd8a	False	False	False	False
+Gm11127	Cd8a	MHC-I	Cell-Cell Contact	Gm11127--Cd8a	False	False	False	False
+H2-M5	Cd8a	MHC-I	Cell-Cell Contact	H2-M5--Cd8a	False	False	False	False
+Gm7030	Cd8a	MHC-I	Cell-Cell Contact	Gm7030--Cd8a	False	False	False	False
+H2-M2	Cd8b1	MHC-I	Cell-Cell Contact	H2-M2--Cd8b1	False	False	False	False
+H2-M3	Cd8b1	MHC-I	Cell-Cell Contact	H2-M3--Cd8b1	False	False	False	False
+H2-M9	Cd8b1	MHC-I	Cell-Cell Contact	H2-M9--Cd8b1	False	False	False	False
+H2-Q1	Cd8b1	MHC-I	Cell-Cell Contact	H2-Q1--Cd8b1	False	False	False	False
+H2-Q10	Cd8b1	MHC-I	Cell-Cell Contact	H2-Q10--Cd8b1	False	False	False	False
+H2-Q2	Cd8b1	MHC-I	Cell-Cell Contact	H2-Q2--Cd8b1	False	False	False	False
+H2-Q7	Cd8b1	MHC-I	Cell-Cell Contact	H2-Q7--Cd8b1	False	False	False	False
+H2-Q8	Cd8b1	MHC-I	Cell-Cell Contact	H2-Q8--Cd8b1	False	False	False	False
+H2-T22	Cd8b1	MHC-I	Cell-Cell Contact	H2-T22--Cd8b1	False	False	False	False
+H2-T23	Cd8b1	MHC-I	Cell-Cell Contact	H2-T23--Cd8b1	False	False	False	False
+H2-T24	Cd8b1	MHC-I	Cell-Cell Contact	H2-T24--Cd8b1	False	False	False	False
+H2-T3	Cd8b1	MHC-I	Cell-Cell Contact	H2-T3--Cd8b1	False	False	False	False
+H2-T9	Cd8b1	MHC-I	Cell-Cell Contact	H2-T9--Cd8b1	False	False	False	False
+H2-M10.4	Cd8b1	MHC-I	Cell-Cell Contact	H2-M10.4--Cd8b1	False	False	False	False
+H2-M11	Cd8b1	MHC-I	Cell-Cell Contact	H2-M11--Cd8b1	False	False	False	False
+H2-M1	Cd8b1	MHC-I	Cell-Cell Contact	H2-M1--Cd8b1	False	False	False	False
+H2-M10.5	Cd8b1	MHC-I	Cell-Cell Contact	H2-M10.5--Cd8b1	False	False	False	False
+H2-M10.2	Cd8b1	MHC-I	Cell-Cell Contact	H2-M10.2--Cd8b1	False	False	False	False
+H2-M10.6	Cd8b1	MHC-I	Cell-Cell Contact	H2-M10.6--Cd8b1	False	False	False	False
+H2-T10	Cd8b1	MHC-I	Cell-Cell Contact	H2-T10--Cd8b1	False	False	False	False
+H2-Q6	Cd8b1	MHC-I	Cell-Cell Contact	H2-Q6--Cd8b1	False	False	False	False
+H2-M10.3	Cd8b1	MHC-I	Cell-Cell Contact	H2-M10.3--Cd8b1	False	False	False	False
+H2-Bl	Cd8b1	MHC-I	Cell-Cell Contact	H2-Bl--Cd8b1	False	False	False	False
+H2-D1	Cd8b1	MHC-I	Cell-Cell Contact	H2-D1--Cd8b1	False	False	False	False
+H2-K1	Cd8b1	MHC-I	Cell-Cell Contact	H2-K1--Cd8b1	False	False	False	False
+H2-M10.1	Cd8b1	MHC-I	Cell-Cell Contact	H2-M10.1--Cd8b1	False	False	False	False
+H2-T18	Cd8b1	MHC-I	Cell-Cell Contact	H2-T18--Cd8b1	False	False	False	False
+H2-Q9	Cd8b1	MHC-I	Cell-Cell Contact	H2-Q9--Cd8b1	False	False	False	False
+Gm8909	Cd8b1	MHC-I	Cell-Cell Contact	Gm8909--Cd8b1	False	False	False	False
+H2-L	Cd8b1	MHC-I	Cell-Cell Contact	H2-L--Cd8b1	False	False	False	False
+Gm10499	Cd8b1	MHC-I	Cell-Cell Contact	Gm10499--Cd8b1	False	False	False	False
+H2-Q4	Cd8b1	MHC-I	Cell-Cell Contact	H2-Q4--Cd8b1	False	False	False	False
+H2-T-ps	Cd8b1	MHC-I	Cell-Cell Contact	H2-T-ps--Cd8b1	False	False	False	False
+Gm11127	Cd8b1	MHC-I	Cell-Cell Contact	Gm11127--Cd8b1	False	False	False	False
+H2-M5	Cd8b1	MHC-I	Cell-Cell Contact	H2-M5--Cd8b1	False	False	False	False
+Gm7030	Cd8b1	MHC-I	Cell-Cell Contact	Gm7030--Cd8b1	False	False	False	False
+H2-Bl	Kir3dl1	MHC-I	Cell-Cell Contact	H2-Bl--Kir3dl1	False	False	False	False
+H2-D1	Kir3dl1	MHC-I	Cell-Cell Contact	H2-D1--Kir3dl1	False	False	False	False
+H2-K1	Kir3dl1	MHC-I	Cell-Cell Contact	H2-K1--Kir3dl1	False	False	False	False
+H2-Q1	Kir3dl1	MHC-I	Cell-Cell Contact	H2-Q1--Kir3dl1	False	False	False	False
+H2-Q10	Kir3dl1	MHC-I	Cell-Cell Contact	H2-Q10--Kir3dl1	False	False	False	False
+H2-Q2	Kir3dl1	MHC-I	Cell-Cell Contact	H2-Q2--Kir3dl1	False	False	False	False
+H2-Q4	Kir3dl1	MHC-I	Cell-Cell Contact	H2-Q4--Kir3dl1	False	False	False	False
+H2-Q6	Kir3dl1	MHC-I	Cell-Cell Contact	H2-Q6--Kir3dl1	False	False	False	False
+H2-Q7	Kir3dl1	MHC-I	Cell-Cell Contact	H2-Q7--Kir3dl1	False	False	False	False
+H2-D	Klra	MHC-I	Cell-Cell Contact	H2-D--Klra	False	False	False	False
+H2-K1	Klra	MHC-I	Cell-Cell Contact	H2-K1--Klra	False	False	False	False
+Ulbp1	Klrk1	MHC-I	Cell-Cell Contact	Ulbp1--Klrk1	False	False	False	False
+Raet1a	Klrk1	MHC-I	Cell-Cell Contact	Raet1a--Klrk1	False	False	False	False
+H60a	Klrk1	MHC-I	Cell-Cell Contact	H60a--Klrk1	False	False	False	False
+H2-Ea	Cd4	MHC-II	Cell-Cell Contact	H2-Ea--Cd4	False	False	False	False
+H2-Aa	Cd4	MHC-II	Cell-Cell Contact	H2-Aa--Cd4	False	False	False	False
+H2-Ab1	Cd4	MHC-II	Cell-Cell Contact	H2-Ab1--Cd4	False	False	False	False
+H2-Eb1	Cd4	MHC-II	Cell-Cell Contact	H2-Eb1--Cd4	False	False	False	False
+H2-DMa	Cd4	MHC-II	Cell-Cell Contact	H2-DMa--Cd4	False	False	False	False
+H2-DMb1	Cd4	MHC-II	Cell-Cell Contact	H2-DMb1--Cd4	False	False	False	False
+H2-DMb2	Cd4	MHC-II	Cell-Cell Contact	H2-DMb2--Cd4	False	False	False	False
+H2-Oa	Cd4	MHC-II	Cell-Cell Contact	H2-Oa--Cd4	False	False	False	False
+H2-Ob	Cd4	MHC-II	Cell-Cell Contact	H2-Ob--Cd4	False	False	False	False
+Mpz	Mpzl1	MPZ	Cell-Cell Contact	Mpz--Mpzl1	False	False	False	False
+Mpz	Mpz	MPZ	Cell-Cell Contact	Mpz--Mpz	False	False	False	False
+Mpzl1	Mpzl1	MPZ	Cell-Cell Contact	Mpzl1--Mpzl1	False	True	False	True
+Ncam1	Fgfr1	NCAM	Cell-Cell Contact	Ncam1--Fgfr1	True	True	False	True
+Ncam1	Ncam1	NCAM	Cell-Cell Contact	Ncam1--Ncam1	False	True	False	True
+Ncam1	Ncam2	NCAM	Cell-Cell Contact	Ncam1--Ncam2	False	True	False	False
+Ncam1	L1cam	NCAM	Cell-Cell Contact	Ncam1--L1cam	False	True	False	False
+Ncam2	L1cam	NCAM	Cell-Cell Contact	Ncam2--L1cam	False	True	False	False
+Nectin1	Cadm3	NECTIN	Cell-Cell Contact	Nectin1--Cadm3	True	False	False	False
+Nectin1	Cd96	NECTIN	Cell-Cell Contact	Nectin1--Cd96	True	False	False	False
+Nectin1	Nectin4	NECTIN	Cell-Cell Contact	Nectin1--Nectin4	False	False	False	False
+Nectin3	Nectin1	NECTIN	Cell-Cell Contact	Nectin3--Nectin1	False	False	False	False
+Nectin3	Nectin2	NECTIN	Cell-Cell Contact	Nectin3--Nectin2	False	False	False	False
+Nectin3	Pvr	NECTIN	Cell-Cell Contact	Nectin3--Pvr	False	True	False	True
+Nectin3	Tigit	NECTIN	Cell-Cell Contact	Nectin3--Tigit	False	False	False	False
+Nectin2	Cd226	NECTIN	Cell-Cell Contact	Nectin2--Cd226	False	False	False	False
+Nectin2	Tigit	NECTIN	Cell-Cell Contact	Nectin2--Tigit	False	False	False	False
+Nectin1	Nectin3	NECTIN	Cell-Cell Contact	Nectin1--Nectin3	True	False	False	False
+Negr1	Negr1	NEGR	Cell-Cell Contact	Negr1--Negr1	False	True	False	False
+Lrrc4c	Ntng1	NGL	Cell-Cell Contact	Lrrc4c--Ntng1	False	True	False	False
+Lrrc4	Ntng2	NGL	Cell-Cell Contact	Lrrc4--Ntng2	False	True	False	False
+Lrrc4b	Ptprf	NGL	Cell-Cell Contact	Lrrc4b--Ptprf	False	False	False	False
+Ulbp1	Klrk1_Hcst	NKG2D	Cell-Cell Contact	Ulbp1--Hcst_Klrk1	False	False	False	False
+Dlk1	Notch1	NOTCH	Cell-Cell Contact	Dlk1--Notch1	False	False	False	False
+Dlk1	Notch2	NOTCH	Cell-Cell Contact	Dlk1--Notch2	True	False	False	False
+Dlk1	Notch3	NOTCH	Cell-Cell Contact	Dlk1--Notch3	True	False	False	False
+Dlk1	Notch4	NOTCH	Cell-Cell Contact	Dlk1--Notch4	True	False	False	False
+Dll1	Notch1	NOTCH	Cell-Cell Contact	Dll1--Notch1	True	False	False	False
+Dll1	Notch3	NOTCH	Cell-Cell Contact	Dll1--Notch3	True	False	False	False
+Dll1	Notch4	NOTCH	Cell-Cell Contact	Dll1--Notch4	True	False	False	False
+Dll3	Notch1	NOTCH	Cell-Cell Contact	Dll3--Notch1	False	False	False	False
+Dll3	Notch2	NOTCH	Cell-Cell Contact	Dll3--Notch2	False	False	False	False
+Dll3	Notch3	NOTCH	Cell-Cell Contact	Dll3--Notch3	True	False	False	False
+Dll3	Notch4	NOTCH	Cell-Cell Contact	Dll3--Notch4	False	False	False	False
+Dll4	Notch1	NOTCH	Cell-Cell Contact	Dll4--Notch1	False	True	False	False
+Dll4	Notch2	NOTCH	Cell-Cell Contact	Dll4--Notch2	False	True	False	True
+Dll4	Notch3	NOTCH	Cell-Cell Contact	Dll4--Notch3	True	True	False	False
+Dll4	Notch4	NOTCH	Cell-Cell Contact	Dll4--Notch4	False	True	False	False
+Jag1	Notch1	NOTCH	Cell-Cell Contact	Jag1--Notch1	False	True	False	False
+Jag1	Notch2	NOTCH	Cell-Cell Contact	Jag1--Notch2	True	True	False	True
+Jag1	Notch3	NOTCH	Cell-Cell Contact	Jag1--Notch3	True	True	False	False
+Jag1	Notch4	NOTCH	Cell-Cell Contact	Jag1--Notch4	True	True	False	False
+Jag2	Notch1	NOTCH	Cell-Cell Contact	Jag2--Notch1	False	False	False	False
+Jag2	Notch2	NOTCH	Cell-Cell Contact	Jag2--Notch2	False	False	False	False
+Jag2	Notch3	NOTCH	Cell-Cell Contact	Jag2--Notch3	False	False	False	False
+Jag2	Notch4	NOTCH	Cell-Cell Contact	Jag2--Notch4	False	False	False	False
+Dll1	Notch2	NOTCH	Cell-Cell Contact	Dll1--Notch2	True	False	False	False
+Nrxn1	Nlgn1	NRXN	Cell-Cell Contact	Nrxn1--Nlgn1	False	False	False	False
+Nrxn1	Nlgn2	NRXN	Cell-Cell Contact	Nrxn1--Nlgn2	False	False	False	False
+Nrxn1	Nlgn3	NRXN	Cell-Cell Contact	Nrxn1--Nlgn3	False	True	False	False
+Nrxn2	Nlgn1	NRXN	Cell-Cell Contact	Nrxn2--Nlgn1	False	False	False	False
+Nrxn2	Nlgn2	NRXN	Cell-Cell Contact	Nrxn2--Nlgn2	False	False	False	False
+Nrxn2	Nlgn3	NRXN	Cell-Cell Contact	Nrxn2--Nlgn3	False	False	False	False
+Nrxn3	Nlgn1	NRXN	Cell-Cell Contact	Nrxn3--Nlgn1	False	False	False	False
+Nrxn3	Nlgn2	NRXN	Cell-Cell Contact	Nrxn3--Nlgn2	False	False	False	False
+Nrxn3	Nlgn3	NRXN	Cell-Cell Contact	Nrxn3--Nlgn3	False	True	False	False
+Ocln	Ocln	OCLN	Cell-Cell Contact	Ocln--Ocln	False	False	False	False
+Cd274	Pdcd1	PD-L1	Cell-Cell Contact	Cd274--Pdcd1	False	False	False	False
+Pdcd1lg2	Pdcd1	PDL2	Cell-Cell Contact	Pdcd1lg2--Pdcd1	True	False	False	False
+Pecam1	Pecam1	PECAM1	Cell-Cell Contact	Pecam1--Pecam1	False	True	False	False
+Ptprm	Ptprm	PTPRM	Cell-Cell Contact	Ptprm--Ptprm	False	True	False	True
+Pvr	Cd226	PVR	Cell-Cell Contact	Pvr--Cd226	False	False	False	False
+Pvr	Tigit	PVR	Cell-Cell Contact	Pvr--Tigit	False	False	False	False
+Sele	Cd44	SELE	Cell-Cell Contact	Sele--Cd44	False	False	False	False
+Sele	Glg1	SELE	Cell-Cell Contact	Sele--Glg1	True	False	False	False
+Sell	Cd34	SELL	Cell-Cell Contact	Sell--Cd34	True	False	False	False
+Sell	Podxl	SELL	Cell-Cell Contact	Sell--Podxl	False	False	False	False
+Sell	Glycam1	SELL	Cell-Cell Contact	Sell--Glycam1	False	False	False	False
+Sell	Madcam1	SELL	Cell-Cell Contact	Sell--Madcam1	False	False	False	False
+Selplg	Sele	SELPLG	Cell-Cell Contact	Selplg--Sele	False	False	False	False
+Selplg	Sell	SELPLG	Cell-Cell Contact	Selplg--Sell	False	False	False	False
+Selplg	Selp	SELPLG	Cell-Cell Contact	Selplg--Selp	False	False	False	False
+Sema4a	Nrp1_Plxna1	SEMA4	Cell-Cell Contact	Sema4a--Nrp1_Plxna1	False	False	False	False
+Sema4a	Nrp1_Plxna2	SEMA4	Cell-Cell Contact	Sema4a--Nrp1_Plxna2	False	True	False	True
+Sema4a	Nrp1_Plxna3	SEMA4	Cell-Cell Contact	Sema4a--Nrp1_Plxna3	False	False	False	False
+Sema4a	Nrp1_Plxna4	SEMA4	Cell-Cell Contact	Sema4a--Nrp1_Plxna4	False	True	False	True
+Sema4a	Plxnb1	SEMA4	Cell-Cell Contact	Sema4a--Plxnb1	False	False	False	False
+Sema4a	Plxnb2	SEMA4	Cell-Cell Contact	Sema4a--Plxnb2	False	False	False	False
+Sema4a	Plxnb3	SEMA4	Cell-Cell Contact	Sema4a--Plxnb3	False	False	False	False
+Sema4d	Plxnb1	SEMA4	Cell-Cell Contact	Sema4d--Plxnb1	False	False	False	False
+Sema4d	Plxnb2	SEMA4	Cell-Cell Contact	Sema4d--Plxnb2	False	False	False	False
+Sema4d	Plxnb3	SEMA4	Cell-Cell Contact	Sema4d--Plxnb3	False	False	False	False
+Sema4c	Plxnb2	SEMA4	Cell-Cell Contact	Sema4c--Plxnb2	False	False	False	False
+Sema4g	Plxnb2	SEMA4	Cell-Cell Contact	Sema4g--Plxnb2	False	False	False	False
+Sema4a	Timd2	SEMA4	Cell-Cell Contact	Sema4a--Timd2	False	False	False	False
+Sema4d	Cd72	SEMA4	Cell-Cell Contact	Sema4d--Cd72	False	False	False	False
+Sema5a	Plxna1	SEMA5	Cell-Cell Contact	Sema5a--Plxna1	False	False	False	False
+Sema5b	Plxna1	SEMA5	Cell-Cell Contact	Sema5b--Plxna1	False	False	False	False
+Sema5a	Plxna3	SEMA5	Cell-Cell Contact	Sema5a--Plxna3	False	False	False	False
+Sema5b	Plxna3	SEMA5	Cell-Cell Contact	Sema5b--Plxna3	False	False	False	False
+Sema5a	Plxnb3	SEMA5	Cell-Cell Contact	Sema5a--Plxnb3	True	False	False	False
+Sema6d	Plxna1_Kdr	SEMA6	Cell-Cell Contact	Sema6d--Kdr_Plxna1	False	False	False	False
+Sema6d	Plxna1_Trem2_Tyrobp	SEMA6	Cell-Cell Contact	Sema6d--Plxna1_Trem2_Tyrobp	False	False	False	False
+Sema6d	Plxna1	SEMA6	Cell-Cell Contact	Sema6d--Plxna1	False	False	False	False
+Sema6a	Plxna2	SEMA6	Cell-Cell Contact	Sema6a--Plxna2	False	True	False	True
+Sema6b	Plxna2	SEMA6	Cell-Cell Contact	Sema6b--Plxna2	False	False	False	False
+Sema6a	Plxna4	SEMA6	Cell-Cell Contact	Sema6a--Plxna4	False	True	False	True
+Sema6b	Plxna4	SEMA6	Cell-Cell Contact	Sema6b--Plxna4	False	False	False	False
+Sema7a	Itgb1_Itga1	SEMA7	Cell-Cell Contact	Sema7a--Itga1_Itgb1	True	True	False	True
+Sema7a	Plxnc1	SEMA7	Cell-Cell Contact	Sema7a--Plxnc1	False	True	False	False
+Siglec1	Spn	SN	Cell-Cell Contact	Siglec1--Spn	False	False	False	False
+Thy1	Itgam_Itgb2	THY1	Cell-Cell Contact	Thy1--Itgam_Itgb2	True	False	False	False
+Thy1	Itgax_Itgb2	THY1	Cell-Cell Contact	Thy1--Itgax_Itgb2	True	False	False	False
+Thy1	Itgav_Itgb3	THY1	Cell-Cell Contact	Thy1--Itgav_Itgb3	True	False	False	False
+Tigit	Nectin2	TIGIT	Cell-Cell Contact	Tigit--Nectin2	True	False	False	False
+Tigit	Pvr	TIGIT	Cell-Cell Contact	Tigit--Pvr	False	False	False	False
+Itga4_Itgb1	Vcam1	VCAM	Cell-Cell Contact	Itga4_Itgb1--Vcam1	False	True	False	False
+Itga9_Itgb1	Vcam1	VCAM	Cell-Cell Contact	Itga9_Itgb1--Vcam1	False	True	False	False
+Itga4_Itgb7	Vcam1	VCAM	Cell-Cell Contact	Itga4_Itgb7--Vcam1	False	False	False	False
+Vsir	Igsf11	VISTA	Cell-Cell Contact	Vsir--Igsf11	False	True	False	False

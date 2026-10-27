@@ -1,0 +1,21 @@
+{
+  "test": "Sparse collective solver versus original COMMOT cot_sparse",
+  "maximum_absolute_error": 3.9405079199639204e-08,
+  "converged": true,
+  "iterations": 158,
+  "warmup_sinkhorn_iterations": 100,
+  "polish_sinkhorn_iterations": 93,
+  "maximum_relative_KKT_residual": 9.728374984266411e-09,
+  "optimizer_success": true,
+  "optimizer_message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+  "edges": 627,
+  "solver": "Mass-preconditioned L-BFGS on original joint-COT dual, with Sinkhorn polish",
+  "transported_mass": 79.99434353995022,
+  "supply_mass": 90.68617104752192,
+  "demand_mass": 106.41511312917135,
+  "maximum_supply_excess": 2.7299275888868775e-10,
+  "maximum_demand_excess": 6.2095980390352674e-15,
+  "maximum_relative_supply_excess": 4.0052213035896325e-10,
+  "maximum_relative_demand_excess": 1.657828432511416e-14,
+  "seconds": 0.02760683698579669
+}

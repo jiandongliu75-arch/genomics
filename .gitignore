@@ -1,2 +1,9 @@
 __pycache__/
 *.py[cod]
+# Regenerable joint-signaling design matrices; released map values and OOF
+# predictions are retained alongside the code and source tables.
+results/joint_RNA_Xenium_signaling/*/*_predictor_features.npz
+results/joint_RNA_Xenium_signaling/*/*_domain*_checkpoint.npz
+results/joint_RNA_Xenium_signaling/*/*_model_fold*_checkpoint.npz
+results/joint_RNA_Xenium_signaling/.*_staging/
+results/joint_RNA_Xenium_signaling/*.log

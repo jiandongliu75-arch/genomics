@@ -1,0 +1,22 @@
+[
+  {
+    "stem": "Figure_1_joint_assay_design",
+    "title": "CM development and fibroblast matrix programs follow different schedules",
+    "legend": "a, Roles of the assays and spatial validation. b, Candidate pairs that pass the two-library RNA screen at each age, after outcome-independent pathway reduction. Counts reflect eligibility, not signaling activity. c, Canonical CM RNA programs, excluding candidate ligand/receptor and spatial outcome genes; lines show the two-library mean and points the libraries, scaled to each program’s own P0 mean. These are RNA programs, not flux measurements. d, Broad-fibroblast matrix transcripts on the same full-genome normalization; ratios describe changes in mean log-expression, not molecule fold changes or deposited protein. e, Endothelial Nrg1 and ventricular-CM Erbb4 detection in both RNA libraries; availability does not establish signaling or a particular ERBB receptor assembly. f, Eligible P7 ventricular CMs in the four source-disjoint test domains; gray marks excluded boundary-buffer CMs. All other ages use the same design."
+  },
+  {
+    "stem": "Figure_2_observed_CM_and_source_maps",
+    "title": "CM development alongside source-specific molecular candidates",
+    "legend": "a–d, Directly observed core-RNA 21-gene score, ranked within age. e–h, FB-associated Lamc1–Dag1 collective-transport input. i–l, EC-associated Nrg1–Erbb4 input. Candidates were chosen on biological grounds before inspecting prediction gains. Candidate colors rank inputs above 10⁻¹² within each age; gray CMs have no allocation above that numerical threshold. Insets show the positive fraction, not active signaling. Ranks do not establish a common inter-age magnitude. Only eligible buffered ventricular CMs are shown as foreground, and all resolved cardiac source types compete within the same domain-specific solve. Light tissue and excluded buffers retain context. A 50-µm matrix range does not establish deposition or physical contact; a 200-µm secreted range does not establish diffusion or receptor activation. Scale bars, 500 µm."
+  },
+  {
+    "stem": "Figure_3_spatial_prediction",
+    "title": "Testing additional predictive information in unseen regions",
+    "legend": "a–c, Pooled out-of-fold R² across four source-disjoint spatial domains for the same CMs and fixed forest complexity. A: capture, anatomy, CM identity and broad context; B: add CM receptors; C: add CM-to-CM inputs; C + types (C_fine_context): add fine source counts and capture; D: add non-CM ligand exposure; E: add non-CM joint ligand–receptor transport. A negative R² means worse prediction than the held-out cohort mean. d,e, Incremental prediction over C_fine_context; asterisks mark BH q<0.05 in the supported primary 40-test family, including negative contrasts. f, Added transport over ligand-only features; 95% intervals use paired 800-µm block resampling conditional on fitted models, rather than independent hearts or causal effects. All components, learners, RNA views and folds are supplied in tables."
+  },
+  {
+    "stem": "Figure_4_source_feature_sensitivity",
+    "title": "Source-feature sensitivity across spatial scales",
+    "legend": "a–c, Held-out prediction change after jointly permuting the named source’s molecular features within CM state. d–f, Permutation additionally restricted to the same 200-µm spatial square. Values are test-CM-weighted averages of error changes normalized by each fold’s test variance; one fixed permutation is used per fold and scale. Positive values indicate that the fitted model uses these features, not that the source promotes maturation. Broad source perturbations include both broad and fine molecular descriptors; fine-source perturbations leave correlated pooled descriptors intact. Geometry, source counts and CM receptors remain fixed. Gray indicates no source-specific RNA-supported features, rather than absence of the cell type. This exploratory sensitivity analysis does not supply independent source-effect tests."
+  }
+]

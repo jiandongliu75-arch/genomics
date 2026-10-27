@@ -4,6 +4,7 @@ Independent QC and exploratory clustering of the mouse-heart dataset [GSE290989]
 
 Spatial analyses map candidate ventricular programs onto the four deposited Xenium sections, with measured-marker evidence and comparisons between assay-aligned transfer and CytoSPACE.
 
+- [Combined snRNA-seq–Xenium analysis: CM development, changing fibroblast matrix programs, candidate vascular inputs and spatially held-out predictions](results/joint_RNA_Xenium_signaling/README.md)
 - [Atlas method review: source-resolved signaling, receiver-state controls, random-forest validation and measured-gene feasibility](results/atlas_nonCM_signaling_review/README.md)
 - [Latest measured-score follow-up: direct 21-gene CM maturation maps, updated non-CM neighborhoods, capillary-source sensitivity and fibroblast developmental questions](results/CM_maturation21_nonCM_context/README.md)
 - [Unified biological report: muscle, matrix and vascular development, nine main figures and current fibroblast refits](results/heart_atlas_unified_report/README.md)

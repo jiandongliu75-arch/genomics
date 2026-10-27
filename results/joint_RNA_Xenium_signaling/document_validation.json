@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "report_pages": 12,
+  "figure_pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "figure_plates": 4,
+  "tables": 2,
+  "Word_embeds_current_PNG_hashes": true,
+  "PDF_uses_same_narrative_tables_and_assets": true,
+  "minimum_standalone_raster_DPI": 299.9999284744433,
+  "PDF_bounds_and_short_pages_checked": true
+}
