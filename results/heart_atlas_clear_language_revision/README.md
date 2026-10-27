@@ -2,6 +2,8 @@
 
 This is the consolidated rewrite of the biological synthesis and alternative fibroblast identity reports. It uses the clearer biological language discussed in chat, integrates the fibroblast findings into the developmental story, and keeps detailed analysis rules in Methods.
 
+The full report has now been revised throughout using the preferred coronary–cardiomyocyte passage as its model. The abstract, introduction, results, discussion, figure legends, evidence tables and cell-boundary explanation describe the observation, its possible biological meaning and the remaining uncertainty. Methods retain the parameters needed to reproduce the work. “Lower/higher expression” describes changes in gene-expression scores without implying that fewer/more distinct genes were detected.
+
 - [Rewritten combined Word report](Postnatal_heart_integrated_clear_language_report.docx)
 - [Full report PDF](Postnatal_heart_integrated_clear_language_report.pdf)
 - [All seven main and two supporting figure plates](Heart_atlas_integrated_figure_plates.pdf)
