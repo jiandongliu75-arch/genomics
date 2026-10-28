@@ -32,7 +32,9 @@ def main():
     doc.add_page_break();story.append(PageBreak())
     doc.add_heading('Integrated figure',1);doc.add_picture(str(OUT/'Capillary_maturation_integrated_figure.png'),width=Inches(7))
     legend=(OUT/'figure_legend.txt').read_text();doc.add_paragraph(legend)
-    story.extend([pp('Integrated figure','HeadD'),Image(str(OUT/'Capillary_maturation_integrated_figure.png'),width=490,height=490),pp(legend)])
+    with PILImage.open(OUT/'Capillary_maturation_integrated_figure.png') as im:w,h=im.size
+    width=min(490,490*w/h)
+    story.extend([pp('Integrated figure','HeadD'),Image(str(OUT/'Capillary_maturation_integrated_figure.png'),width=width,height=width*h/w),pp(legend)])
     doc.add_page_break();story.append(PageBreak())
    doc.add_heading(block[3:],1);story.append(pp(block[3:],'HeadD'))
   elif block.startswith('|'):

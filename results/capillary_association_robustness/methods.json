@@ -1,0 +1,16 @@
+{
+  "primary_tests": 3,
+  "stage": "P7",
+  "original_strict_CMs": 30485,
+  "tissue_path_reachable_CMs": 30484,
+  "wild_cluster_draws": 9999,
+  "cluster_um": 400,
+  "spatial_null": "Rademacher sign flips of null-imposed clustered partial-regression scores; not spatial relocation of vessels",
+  "matching": "<=25 versus >=50um nearest capillary centroid; within100um, same200um grid, sameCMstate/morphology; logcapture and logarea differences <=.25 global SD; unique cells; no outcome matching",
+  "graph_path": "Shortest sum of centroid edge lengths on frozen tissue-screened Delaunay graph; not true tissue geodesic or perfusion",
+  "boundary": "Previous native CM boundary sampled at64points versus QC-supported capillary polygons; approximate2D distance",
+  "regional_influence": "Leave one400um cluster out of fitted partial-regression sums; nuisance residuals fixed, not independent held-out validation",
+  "new_segmentation": false,
+  "new_biological_replicates": 0,
+  "causality_claimed": false
+}

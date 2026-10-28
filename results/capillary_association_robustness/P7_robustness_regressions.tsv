@@ -1,0 +1,111 @@
+analysis	exposure	outcome	grid_um	offset_x	offset_y	CMs	spatial_blocks	beta_SD	CI_low	CI_high	within_section_p	wild_cluster_null_p	exposure_residual_SD	extra_controls	CM_subtype	primary_analysis	primary_BH_q
+geometry	near_QC_capillary	core_maturation21	200	0	0	30485	74	0.0210426938	0.0122965106	0.0297888771	8.35627109e-06	0.0001	0.773003071		NA	True	0.0001
+geometry	near_QC_capillary	native_maturation21	200	0	0	30485	74	0.0246666346	0.0132410389	0.0360922303	5.15827268e-05	0.0001	0.773003071		NA	False	NA
+geometry	near_QC_capillary	core_metabolic	200	0	0	30485	74	0.0182073331	0.00686034581	0.0295543204	0.00204743094	0.0021	0.773003071		NA	False	NA
+geometry	near_QC_capillary	core_sarcomere	200	0	0	30485	74	0.00551236817	-0.0109576554	0.0219823917	0.506850782	0.5193	0.773003071		NA	False	NA
+geometry	near_QC_capillary	core_excitation_contraction	200	0	0	30485	74	0.0191838075	0.00843937045	0.0299282446	0.000660214969	0.001	0.773003071		NA	False	NA
+geometry	near_QC_capillary	core_cycling	200	0	0	30485	74	-0.00488556183	-0.0175717026	0.00780057892	0.445245825	0.447	0.773003071		NA	False	NA
+geometry	near_boundary	core_maturation21	200	0	0	30485	74	0.018777265	0.0115805535	0.0259739764	1.75118259e-06	0.0001	0.844296122		NA	True	0.0001
+geometry	near_boundary	native_maturation21	200	0	0	30485	74	0.0192880193	0.00990242992	0.0286736086	0.000107588345	0.0003	0.844296122		NA	False	NA
+geometry	near_boundary	core_metabolic	200	0	0	30485	74	0.0153509279	0.0065127088	0.024189147	0.000901177552	0.0009	0.844296122		NA	False	NA
+geometry	near_boundary	core_sarcomere	200	0	0	30485	74	0.00406257308	-0.0113429713	0.0194681175	0.600779672	0.6129	0.844296122		NA	False	NA
+geometry	near_boundary	core_excitation_contraction	200	0	0	30485	74	0.0199040164	0.010016465	0.0297915678	0.000144085561	0.0005	0.844296122		NA	False	NA
+geometry	near_boundary	core_cycling	200	0	0	30485	74	-0.00525425364	-0.0174504469	0.00694193963	0.393369003	0.3919	0.844296122		NA	False	NA
+geometry	near_tissue_path	core_maturation21	200	0	0	30484	74	0.0203607574	0.0118451903	0.0288763246	9.35203644e-06	0.0001	0.776967806		NA	True	0.0001
+geometry	near_tissue_path	native_maturation21	200	0	0	30484	74	0.0238811141	0.0127831572	0.0349790711	5.42530792e-05	0.0001	0.776967806		NA	False	NA
+geometry	near_tissue_path	core_metabolic	200	0	0	30484	74	0.017204739	0.00636313607	0.0280463418	0.00227781183	0.0024	0.776967806		NA	False	NA
+geometry	near_tissue_path	core_sarcomere	200	0	0	30484	74	0.00620740616	-0.0101026201	0.0225174325	0.450586862	0.4682	0.776967806		NA	False	NA
+geometry	near_tissue_path	core_excitation_contraction	200	0	0	30484	74	0.0182233348	0.0075206378	0.0289260318	0.00111833802	0.0013	0.776967806		NA	False	NA
+geometry	near_tissue_path	core_cycling	200	0	0	30484	74	-0.00410324666	-0.0165452764	0.00833878313	0.513075091	0.5176	0.776967806		NA	False	NA
+geometry	near_cell_supported_capillary	core_maturation21	200	0	0	30485	74	0.0238381422	0.0163780972	0.0312981872	1.50778905e-08	NA	0.849770301		NA	False	NA
+geometry	near_cell_supported_capillary	native_maturation21	200	0	0	30485	74	0.0344992284	0.0248073853	0.0441910715	6.96251074e-10	NA	0.849770301		NA	False	NA
+geometry	near_cell_supported_capillary	core_metabolic	200	0	0	30485	74	0.0227353695	0.0132247425	0.0322459966	9.38602411e-06	NA	0.849770301		NA	False	NA
+geometry	near_cell_supported_capillary	core_sarcomere	200	0	0	30485	74	-0.00445160082	-0.017922382	0.00901918034	0.512216483	NA	0.849770301		NA	False	NA
+geometry	near_cell_supported_capillary	core_excitation_contraction	200	0	0	30485	74	0.0129035344	0.000533244415	0.0252738243	0.0411399385	NA	0.849770301		NA	False	NA
+geometry	near_cell_supported_capillary	core_cycling	200	0	0	30485	74	-0.0143667896	-0.0270798083	-0.00165377095	0.0273134741	NA	0.849770301		NA	False	NA
+grid_sensitivity	near_QC_capillary	core_maturation21	100	0	0	30485	74	0.0231012263	0.0126813882	0.0335210643	3.38993627e-05	NA	0.639783309		NA	False	NA
+grid_sensitivity	near_QC_capillary	core_maturation21	100	50	0	30485	74	0.0264528586	0.0177947258	0.0351109914	4.8264209e-08	NA	0.638794527		NA	False	NA
+grid_sensitivity	near_QC_capillary	core_maturation21	100	0	50	30485	74	0.0226582407	0.0113052617	0.0340112196	0.000162273057	NA	0.637223389		NA	False	NA
+grid_sensitivity	near_QC_capillary	core_maturation21	100	50	50	30485	74	0.0198258957	0.010867125	0.0287846665	3.49057451e-05	NA	0.640147376		NA	False	NA
+grid_sensitivity	near_QC_capillary	core_maturation21	200	0	0	30485	74	0.0210426938	0.0122965106	0.0297888771	8.35627109e-06	NA	0.773003071		NA	False	NA
+grid_sensitivity	near_QC_capillary	core_maturation21	200	100	0	30485	74	0.0252093074	0.0162292326	0.0341893822	3.64006015e-07	NA	0.766750446		NA	False	NA
+grid_sensitivity	near_QC_capillary	core_maturation21	200	0	100	30485	74	0.0220947859	0.0128876741	0.0313018977	8.75516552e-06	NA	0.786971603		NA	False	NA
+grid_sensitivity	near_QC_capillary	core_maturation21	200	100	100	30485	74	0.0259206083	0.0169954706	0.034845746	1.66261904e-07	NA	0.781436602		NA	False	NA
+grid_sensitivity	near_QC_capillary	core_maturation21	400	0	0	30485	74	0.0309624603	0.0220275604	0.0398973601	1.55271768e-09	NA	0.86776095		NA	False	NA
+grid_sensitivity	near_QC_capillary	core_maturation21	400	200	0	30485	74	0.0288083275	0.0205089334	0.0371077216	1.47815095e-09	NA	0.862184927		NA	False	NA
+grid_sensitivity	near_QC_capillary	core_maturation21	400	0	200	30485	74	0.028919777	0.0204050517	0.0374345023	2.78377276e-09	NA	0.848667707		NA	False	NA
+grid_sensitivity	near_QC_capillary	core_maturation21	400	200	200	30485	74	0.0296471486	0.0213167617	0.0379775356	7.00410574e-10	NA	0.852598404		NA	False	NA
+CM_subtype	near_QC_capillary	core_maturation21	200	0	0	9170	72	0.0129089047	-0.00178811016	0.0276059196	0.0842041659	NA	0.778501148		Ankrd1.CM	False	NA
+CM_subtype	near_QC_capillary	native_maturation21	200	0	0	9170	72	0.0120601437	-0.0075186602	0.0316389476	0.223417225	NA	0.778501148		Ankrd1.CM	False	NA
+CM_subtype	near_QC_capillary	core_maturation21	200	0	0	6024	71	0.0339615756	0.016632031	0.0512911201	0.000211950852	NA	0.789578886		Ddc.CM	False	NA
+CM_subtype	near_QC_capillary	native_maturation21	200	0	0	6024	71	0.0331703275	0.0120947877	0.0542458673	0.00248195307	NA	0.789578886		Ddc.CM	False	NA
+CM_subtype	near_QC_capillary	core_maturation21	200	0	0	1039	60	0.0661433561	-0.0172627378	0.14954945	0.117893178	NA	0.563228586		Slit2.CM	False	NA
+CM_subtype	near_QC_capillary	native_maturation21	200	0	0	1039	60	0.0992501118	0.0118774626	0.186622761	0.0266821758	NA	0.563228586		Slit2.CM	False	NA
+CM_subtype	near_QC_capillary	core_maturation21	200	0	0	4931	68	0.0217491111	-0.00783925871	0.0513374809	0.147006205	NA	0.77842583		p.CM	False	NA
+CM_subtype	near_QC_capillary	native_maturation21	200	0	0	4931	68	0.0155030376	-0.0166375464	0.0476436216	0.339121826	NA	0.77842583		p.CM	False	NA
+CM_subtype	near_QC_capillary	core_maturation21	200	0	0	9321	71	0.0186795977	0.00234598238	0.035013213	0.0256014994	NA	0.807623155		v.CM	False	NA
+CM_subtype	near_QC_capillary	native_maturation21	200	0	0	9321	71	0.0325088779	0.0129512123	0.0520665436	0.00145350477	NA	0.807623155		v.CM	False	NA
+grid_sensitivity	near_boundary	core_maturation21	100	0	0	30485	74	0.0193752761	0.0111445999	0.0276059522	1.23432808e-05	NA	0.733919999		NA	False	NA
+grid_sensitivity	near_boundary	core_maturation21	100	50	0	30485	74	0.0215383794	0.0143218809	0.028754878	8.62860262e-08	NA	0.732647156		NA	False	NA
+grid_sensitivity	near_boundary	core_maturation21	100	0	50	30485	74	0.0195177348	0.0103964619	0.0286390077	5.91308337e-05	NA	0.732799115		NA	False	NA
+grid_sensitivity	near_boundary	core_maturation21	100	50	50	30485	74	0.0180049404	0.0108138615	0.0251960192	3.96374547e-06	NA	0.734251607		NA	False	NA
+grid_sensitivity	near_boundary	core_maturation21	200	0	0	30485	74	0.018777265	0.0115805535	0.0259739764	1.75118259e-06	NA	0.844296122		NA	False	NA
+grid_sensitivity	near_boundary	core_maturation21	200	100	0	30485	74	0.0217108963	0.0142492404	0.0291725522	1.59074803e-07	NA	0.839209173		NA	False	NA
+grid_sensitivity	near_boundary	core_maturation21	200	0	100	30485	74	0.0200428351	0.0125515809	0.0275340893	1.03971849e-06	NA	0.85385741		NA	False	NA
+grid_sensitivity	near_boundary	core_maturation21	200	100	100	30485	74	0.022830196	0.015397229	0.0302631631	4.2216361e-08	NA	0.849609104		NA	False	NA
+grid_sensitivity	near_boundary	core_maturation21	400	0	0	30485	74	0.0276057164	0.019833748	0.0353776848	7.4319956e-10	NA	0.913042611		NA	False	NA
+grid_sensitivity	near_boundary	core_maturation21	400	200	0	30485	74	0.0257162027	0.0186026779	0.0328297276	4.33562189e-10	NA	0.910663796		NA	False	NA
+grid_sensitivity	near_boundary	core_maturation21	400	0	200	30485	74	0.0257683434	0.0185309238	0.0330057629	6.91414608e-10	NA	0.900148931		NA	False	NA
+grid_sensitivity	near_boundary	core_maturation21	400	200	200	30485	74	0.0262279048	0.0193403108	0.0331154987	8.30096934e-11	NA	0.903653311		NA	False	NA
+CM_subtype	near_boundary	core_maturation21	200	0	0	9170	72	0.0125789044	-0.0007310287	0.0258888374	0.0636007896	NA	0.852695754		Ankrd1.CM	False	NA
+CM_subtype	near_boundary	native_maturation21	200	0	0	9170	72	0.00807797394	-0.00854182185	0.0246977697	0.335761859	NA	0.852695754		Ankrd1.CM	False	NA
+CM_subtype	near_boundary	core_maturation21	200	0	0	6024	71	0.02998989	0.0146364663	0.0453433137	0.000221393563	NA	0.853151575		Ddc.CM	False	NA
+CM_subtype	near_boundary	native_maturation21	200	0	0	6024	71	0.0292290758	0.0119538503	0.0465043013	0.00120896399	NA	0.853151575		Ddc.CM	False	NA
+CM_subtype	near_boundary	core_maturation21	200	0	0	1039	60	0.0621750332	-0.0242663834	0.14861645	0.155360545	NA	0.608266507		Slit2.CM	False	NA
+CM_subtype	near_boundary	native_maturation21	200	0	0	1039	60	0.0843421661	-0.00155345247	0.170237785	0.0541511999	NA	0.608266507		Slit2.CM	False	NA
+CM_subtype	near_boundary	core_maturation21	200	0	0	4931	68	0.0161879373	-0.0107456137	0.0431214883	0.23449436	NA	0.842324317		p.CM	False	NA
+CM_subtype	near_boundary	native_maturation21	200	0	0	4931	68	0.0103506705	-0.0187107793	0.0394121203	0.479608659	NA	0.842324317		p.CM	False	NA
+CM_subtype	near_boundary	core_maturation21	200	0	0	9321	71	0.0185394984	0.005098412	0.0319805848	0.00755823281	NA	0.869735563		v.CM	False	NA
+CM_subtype	near_boundary	native_maturation21	200	0	0	9321	71	0.0271626495	0.010364798	0.0439605011	0.00191525935	NA	0.869735563		v.CM	False	NA
+grid_sensitivity	near_tissue_path	core_maturation21	100	0	0	30484	74	0.0220547948	0.0118481383	0.0322614513	5.0872904e-05	NA	0.646141723		NA	False	NA
+grid_sensitivity	near_tissue_path	core_maturation21	100	50	0	30484	74	0.0253263955	0.0166124168	0.0340403742	1.63335774e-07	NA	0.645507061		NA	False	NA
+grid_sensitivity	near_tissue_path	core_maturation21	100	0	50	30484	74	0.0215419838	0.0102700206	0.0328139471	0.000288563846	NA	0.643680479		NA	False	NA
+grid_sensitivity	near_tissue_path	core_maturation21	100	50	50	30484	74	0.0185940262	0.00977593873	0.0274121137	7.3808586e-05	NA	0.646906126		NA	False	NA
+grid_sensitivity	near_tissue_path	core_maturation21	200	0	0	30484	74	0.0203607574	0.0118451903	0.0288763246	9.35203644e-06	NA	0.776967806		NA	False	NA
+grid_sensitivity	near_tissue_path	core_maturation21	200	100	0	30484	74	0.0244094816	0.0155356957	0.0332832674	5.72238389e-07	NA	0.771131413		NA	False	NA
+grid_sensitivity	near_tissue_path	core_maturation21	200	0	100	30484	74	0.0213921902	0.0124132735	0.0303711069	9.97088528e-06	NA	0.790737181		NA	False	NA
+grid_sensitivity	near_tissue_path	core_maturation21	200	100	100	30484	74	0.0251933818	0.0164161033	0.0339706603	2.1892554e-07	NA	0.785831399		NA	False	NA
+grid_sensitivity	near_tissue_path	core_maturation21	400	0	0	30484	74	0.0303129378	0.0216041388	0.0390217368	1.36253918e-09	NA	0.870335637		NA	False	NA
+grid_sensitivity	near_tissue_path	core_maturation21	400	200	0	30484	74	0.0282244092	0.0201323033	0.0363165151	1.28202349e-09	NA	0.864586355		NA	False	NA
+grid_sensitivity	near_tissue_path	core_maturation21	400	0	200	30484	74	0.0283299295	0.0200076291	0.0366522299	2.60919808e-09	NA	0.851414103		NA	False	NA
+grid_sensitivity	near_tissue_path	core_maturation21	400	200	200	30484	74	0.0290090631	0.0208944584	0.0371236677	6.11054986e-10	NA	0.854984522		NA	False	NA
+CM_subtype	near_tissue_path	core_maturation21	200	0	0	9170	72	0.0119806145	-0.00258041275	0.0265416418	0.105305875	NA	0.783588861		Ankrd1.CM	False	NA
+CM_subtype	near_tissue_path	native_maturation21	200	0	0	9170	72	0.0116037157	-0.00786451999	0.0310719514	0.238613672	NA	0.783588861		Ankrd1.CM	False	NA
+CM_subtype	near_tissue_path	core_maturation21	200	0	0	6023	71	0.0329851049	0.0159070799	0.0500631299	0.000256519215	NA	0.793371505		Ddc.CM	False	NA
+CM_subtype	near_tissue_path	native_maturation21	200	0	0	6023	71	0.0321835021	0.0114759956	0.0528910087	0.00278942919	NA	0.793371505		Ddc.CM	False	NA
+CM_subtype	near_tissue_path	core_maturation21	200	0	0	1039	60	0.0689685818	-0.0125907447	0.150527908	0.0959040855	NA	0.557516191		Slit2.CM	False	NA
+CM_subtype	near_tissue_path	native_maturation21	200	0	0	1039	60	0.0993705564	0.0148738153	0.183867297	0.0219636146	NA	0.557516191		Slit2.CM	False	NA
+CM_subtype	near_tissue_path	core_maturation21	200	0	0	4931	68	0.0206967551	-0.00875249442	0.0501460047	0.165298682	NA	0.782115526		p.CM	False	NA
+CM_subtype	near_tissue_path	native_maturation21	200	0	0	4931	68	0.0146721697	-0.0175879328	0.0469322723	0.367236731	NA	0.782115526		p.CM	False	NA
+CM_subtype	near_tissue_path	core_maturation21	200	0	0	9321	71	0.0183981851	0.00220711791	0.0345892522	0.0265257977	NA	0.811808874		v.CM	False	NA
+CM_subtype	near_tissue_path	native_maturation21	200	0	0	9321	71	0.0315780687	0.0125992257	0.0505569117	0.00143880876	NA	0.811808874		v.CM	False	NA
+specificity_or_density	near_QC_capillary	core_maturation21	200	0	0	30485	74	0.0141114409	0.00246867871	0.025754203	0.0182135128	NA	0.600965195	log_local_cells;log_EC_capture	NA	False	NA
+specificity_or_density	near_QC_capillary	native_maturation21	200	0	0	30485	74	0.0123360168	-0.00278531673	0.0274573502	0.108282445	NA	0.600965195	log_local_cells;log_EC_capture	NA	False	NA
+specificity_or_density	near_QC_capillary	core_metabolic	200	0	0	30485	74	0.00946789944	-0.0020295248	0.0209653237	0.105059138	NA	0.600965195	log_local_cells;log_EC_capture	NA	False	NA
+specificity_or_density	near_QC_capillary	core_sarcomere	200	0	0	30485	74	0.00753122607	-0.01663502	0.0316974722	0.53646691	NA	0.600965195	log_local_cells;log_EC_capture	NA	False	NA
+specificity_or_density	near_QC_capillary	core_excitation_contraction	200	0	0	30485	74	0.0218077061	0.00638547062	0.0372299416	0.00621084639	NA	0.600965195	log_local_cells;log_EC_capture	NA	False	NA
+specificity_or_density	near_QC_capillary	core_cycling	200	0	0	30485	74	-0.00690353133	-0.0246205186	0.010813456	0.439913673	NA	0.600965195	log_local_cells;log_EC_capture	NA	False	NA
+specificity_or_density	near_QC_capillary	core_maturation21	200	0	0	30485	74	0.0165018202	0.00533339505	0.0276702453	0.00433348755	NA	0.560204617	log_local_cells;log_EC_capture;log_capillary_count	NA	False	NA
+specificity_or_density	near_QC_capillary	native_maturation21	200	0	0	30485	74	0.016411897	0.0011457255	0.0316780686	0.0354822126	NA	0.560204617	log_local_cells;log_EC_capture;log_capillary_count	NA	False	NA
+specificity_or_density	near_QC_capillary	core_metabolic	200	0	0	30485	74	0.00998364149	-0.00150036952	0.0214676525	0.087387121	NA	0.560204617	log_local_cells;log_EC_capture;log_capillary_count	NA	False	NA
+specificity_or_density	near_QC_capillary	core_sarcomere	200	0	0	30485	74	0.0126312563	-0.0109641047	0.0362266173	0.289529588	NA	0.560204617	log_local_cells;log_EC_capture;log_capillary_count	NA	False	NA
+specificity_or_density	near_QC_capillary	core_excitation_contraction	200	0	0	30485	74	0.0183569694	0.0021225429	0.0345913959	0.0272267013	NA	0.560204617	log_local_cells;log_EC_capture;log_capillary_count	NA	False	NA
+specificity_or_density	near_QC_capillary	core_cycling	200	0	0	30485	74	-0.00992627882	-0.0285117695	0.0086592119	0.290639967	NA	0.560204617	log_local_cells;log_EC_capture;log_capillary_count	NA	False	NA
+specificity_or_density	near_QC_capillary	core_maturation21	200	0	0	30485	74	0.0172619839	0.0079472544	0.0265767134	0.000424311757	NA	0.756926706	log_local_cells;near_Fibroblast;near_noncapillary_EC;near_Pericyte	NA	False	NA
+specificity_or_density	near_QC_capillary	native_maturation21	200	0	0	30485	74	0.0164032086	0.00483958542	0.0279668318	0.00605729906	NA	0.756926706	log_local_cells;near_Fibroblast;near_noncapillary_EC;near_Pericyte	NA	False	NA
+specificity_or_density	near_QC_capillary	core_metabolic	200	0	0	30485	74	0.0137203042	0.00204927343	0.025391335	0.021860357	NA	0.756926706	log_local_cells;near_Fibroblast;near_noncapillary_EC;near_Pericyte	NA	False	NA
+specificity_or_density	near_QC_capillary	core_sarcomere	200	0	0	30485	74	0.00434785441	-0.0124963505	0.0211920593	0.608501345	NA	0.756926706	log_local_cells;near_Fibroblast;near_noncapillary_EC;near_Pericyte	NA	False	NA
+specificity_or_density	near_QC_capillary	core_excitation_contraction	200	0	0	30485	74	0.0179737176	0.00614067506	0.0298067602	0.00340868577	NA	0.756926706	log_local_cells;near_Fibroblast;near_noncapillary_EC;near_Pericyte	NA	False	NA
+specificity_or_density	near_QC_capillary	core_cycling	200	0	0	30485	74	-0.00186270636	-0.0153394406	0.0116140279	0.783737256	NA	0.756926706	log_local_cells;near_Fibroblast;near_noncapillary_EC;near_Pericyte	NA	False	NA
+equal_depth_boundary	near_boundary	core_maturation21	200	0	0	29051	74	0.0194713347	0.0118964057	0.0270462636	2.36683721e-06	NA	0.843251094		NA	False	NA
+equal_depth_boundary	near_boundary	core_depth50	200	0	0	29051	74	0.0313627997	0.0171191573	0.0456064421	3.78409804e-05	NA	0.843251094		NA	False	NA

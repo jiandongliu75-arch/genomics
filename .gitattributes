@@ -5,3 +5,4 @@ results/ventricular_alignment_improvement/**/upstream_log.txt -whitespace
 results/joint_RNA_Xenium_signaling/*.pdf binary
 results/joint_RNA_Xenium_signaling/figures/*.pdf binary
 results/capillary_maturation_retest/*.pdf binary
+results/capillary_association_robustness/*.pdf binary
