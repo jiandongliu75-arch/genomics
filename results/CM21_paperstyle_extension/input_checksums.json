@@ -1,0 +1,142 @@
+[
+  {
+    "path": "/workspace/genomics/results/cardiac_spatial_reconstruction/score_reference_calibration.tsv",
+    "bytes": 73911,
+    "sha256": "08337e5a5579799559e56f1d93ea5a2e4f7219758b68208a55e347ce30465dc8"
+  },
+  {
+    "path": "/workspace/genomics/results/fibroblast_reassessment/CM_maturation_Figure4b_panel.tsv",
+    "bytes": 599,
+    "sha256": "481bb5e594d58b4868517fabe9ce82fbb91e18c92188d3f0ef97b9d3f46276e4"
+  },
+  {
+    "path": "/workspace/heart-atlas/metadata/paper.xml",
+    "bytes": 261021,
+    "sha256": "13a7b394c77c77a1d984fe036a3820464cfadccac6b74479ee49727dfa2b418d"
+  },
+  {
+    "path": "/workspace/heart-atlas/reference/PIP_seq/Figure4/4.2_main_figure_generation.R",
+    "bytes": 14190,
+    "sha256": "04a70ea80ebfddb5572cdac80ec58fc6a192ac9cdb78122fcfcb93a0b0f24fee"
+  },
+  {
+    "path": "/workspace/genomics/results/CM21_primary_spatial/P0_CM21_scores_and_neighborhoods.tsv.gz",
+    "bytes": 2418500,
+    "sha256": "5a533863e35b3530e94fdaa4647e37bbbd564f4b233aba46559b52fe98acbe7a"
+  },
+  {
+    "path": "/workspace/genomics/results/cardiac_spatial_pipeline/P0/atlas_annotations.tsv.gz",
+    "bytes": 3810227,
+    "sha256": "4d6ea2a7dbe02b99289ca267d346c750ea922bf66db5d9360b302ee4c63a10ba"
+  },
+  {
+    "path": "/workspace/genomics/results/cardiac_spatial_pipeline/P0/proximity50_graph.npz",
+    "bytes": 1918691,
+    "sha256": "2de4b784b5c4438e2aaa00fa81c09bd6ebd7b995470b5589de7e53d8aebe6a71"
+  },
+  {
+    "path": "/workspace/genomics/results/cardiac_spatial_reconstruction/P0/vascular_interface_and_matrix_context.tsv.gz",
+    "bytes": 3606237,
+    "sha256": "63debe23d8a0342e5dd1449e84a0df1f2599ea08c8e89f8a6d2ac24da851311b"
+  },
+  {
+    "path": "/workspace/genomics/results/cardiac_spatial_reconstruction/P0/tissue_screened_Delaunay_graph.npz",
+    "bytes": 480748,
+    "sha256": "20066ba4ee7a7d64094b0afebb02d71f271cbacbe4f396c3f5ae13ef48a2ff01"
+  },
+  {
+    "path": "/workspace/genomics/results/fibroblast_multimethod_identity/P0_multimethod_FB_annotations.tsv.gz",
+    "bytes": 63925,
+    "sha256": "53bbb89952c4f3490729c0e53c6eaf918df8230e98d9af71e8356db9ece2572f"
+  },
+  {
+    "path": "/workspace/genomics/results/CM21_primary_spatial/P7_CM21_scores_and_neighborhoods.tsv.gz",
+    "bytes": 4761590,
+    "sha256": "c263e62403be75862c8ed3d50f85882415c95703c920e00f8147af5f3935ab97"
+  },
+  {
+    "path": "/workspace/genomics/results/cardiac_spatial_pipeline/P7/atlas_annotations.tsv.gz",
+    "bytes": 7884825,
+    "sha256": "aa6f6cfffa4307d4648b1ff38793ba28f2ba2626b7fb1e4c7e07d65f1a799fbb"
+  },
+  {
+    "path": "/workspace/genomics/results/cardiac_spatial_pipeline/P7/proximity50_graph.npz",
+    "bytes": 4009078,
+    "sha256": "223a1fb73eeefc09a4c0986d706672a3a240640dc335da0af2f09d061eb58ca0"
+  },
+  {
+    "path": "/workspace/genomics/results/cardiac_spatial_reconstruction/P7/vascular_interface_and_matrix_context.tsv.gz",
+    "bytes": 7517821,
+    "sha256": "fd0217bf8f4a378b81818bd3e1a90227418876d2087d64b8d86cde03912cb30d"
+  },
+  {
+    "path": "/workspace/genomics/results/cardiac_spatial_reconstruction/P7/tissue_screened_Delaunay_graph.npz",
+    "bytes": 1017400,
+    "sha256": "4a449b14a817bdb1124843b96651cd1e620e55dd453072b061d9684682aad82e"
+  },
+  {
+    "path": "/workspace/genomics/results/fibroblast_multimethod_identity/P7_multimethod_FB_annotations.tsv.gz",
+    "bytes": 277436,
+    "sha256": "111601e804aa557fe12c02e7d6a314ccf0347a032957d8ea2bed60758079a70c"
+  },
+  {
+    "path": "/workspace/genomics/results/CM21_primary_spatial/P14_CM21_scores_and_neighborhoods.tsv.gz",
+    "bytes": 5811969,
+    "sha256": "84250b58ab67994ca4dab0473c0e35c02154ef70ae6e936af4a04725ff1684ea"
+  },
+  {
+    "path": "/workspace/genomics/results/cardiac_spatial_pipeline/P14/atlas_annotations.tsv.gz",
+    "bytes": 9088935,
+    "sha256": "0af2bea726a9201f2fe13371d78f0707654594e1368ed83dfbed1f331e7bf872"
+  },
+  {
+    "path": "/workspace/genomics/results/cardiac_spatial_pipeline/P14/proximity50_graph.npz",
+    "bytes": 3984271,
+    "sha256": "f19bf6f66812ecaf4781e176aa638e6f1da1662577faa706f53405c1953c39e7"
+  },
+  {
+    "path": "/workspace/genomics/results/cardiac_spatial_reconstruction/P14/vascular_interface_and_matrix_context.tsv.gz",
+    "bytes": 7956506,
+    "sha256": "ebc9d19e4cae026ab0652150206501882506d0e17fc74b3f81e08f0301511338"
+  },
+  {
+    "path": "/workspace/genomics/results/cardiac_spatial_reconstruction/P14/tissue_screened_Delaunay_graph.npz",
+    "bytes": 1144526,
+    "sha256": "c2dd4994c057380ba89987c308fb6c6315c4638fd16e1e97ae974d39ee9da67a"
+  },
+  {
+    "path": "/workspace/genomics/results/fibroblast_multimethod_identity/P14_multimethod_FB_annotations.tsv.gz",
+    "bytes": 398917,
+    "sha256": "9b486fc6aaab33d4a29f9482669342e9e3d410ec0e216eee5bfaaca5e221d215"
+  },
+  {
+    "path": "/workspace/genomics/results/CM21_primary_spatial/P21_CM21_scores_and_neighborhoods.tsv.gz",
+    "bytes": 6050617,
+    "sha256": "81c39d3a57860162133b5bf2dd7dc5b36d9db3e8be419f11051b84d3152d38ea"
+  },
+  {
+    "path": "/workspace/genomics/results/cardiac_spatial_pipeline/P21/atlas_annotations.tsv.gz",
+    "bytes": 10687486,
+    "sha256": "bb9ac664409047999eae0034cc5f3facd7e39b415d21308d593ad59ccf566b2e"
+  },
+  {
+    "path": "/workspace/genomics/results/cardiac_spatial_pipeline/P21/proximity50_graph.npz",
+    "bytes": 4911294,
+    "sha256": "cb0afef7ccc11efb0f2b511f212606964d1a5fc0d99b1f1b032163a2864dc6bd"
+  },
+  {
+    "path": "/workspace/genomics/results/cardiac_spatial_reconstruction/P21/vascular_interface_and_matrix_context.tsv.gz",
+    "bytes": 9873859,
+    "sha256": "6bb3662ebfdf6aa7998da28c086c44618e72631f6ac802f84b1f08bf9ba44d7c"
+  },
+  {
+    "path": "/workspace/genomics/results/cardiac_spatial_reconstruction/P21/tissue_screened_Delaunay_graph.npz",
+    "bytes": 1445378,
+    "sha256": "1c1217043d33ba1afcc308615d73d88aef50d0044725275fcad1371b3b109c30"
+  },
+  {
+    "path": "/workspace/genomics/results/fibroblast_multimethod_identity/P21_multimethod_FB_annotations.tsv.gz",
+    "bytes": 556726,
+    "sha256": "c2e63875c25bbc46bd058130244c0a7b07a3fc6dcabd2f5eba4c27210c19bd85"
+  }
+]

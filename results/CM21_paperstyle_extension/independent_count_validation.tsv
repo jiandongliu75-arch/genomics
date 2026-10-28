@@ -1,0 +1,9 @@
+stage	view	random_count_profiles	max_independent_score_error	all50_control_draws_reconstructed	all21_omissions_remove_gene_from_both_module_and_controls
+P0	native	384	5.4481753997137616e-08	True	True
+P0	core	384	5.6558132399686656e-08	True	True
+P7	native	384	5.430394378613812e-08	True	True
+P7	core	384	5.6574453122237855e-08	True	True
+P14	native	384	5.565984140254443e-08	True	True
+P14	core	384	5.627083887738138e-08	True	True
+P21	native	384	5.8802417379766325e-08	True	True
+P21	core	384	5.787760826159172e-08	True	True

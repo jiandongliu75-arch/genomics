@@ -1,0 +1,80 @@
+{
+  "genes": [
+    "Rxrg",
+    "Ppargc1a",
+    "Ppargc1b",
+    "Cebpa",
+    "Cebpb",
+    "Esrra",
+    "Esrrb",
+    "Esrrg",
+    "Mitf",
+    "Myh6",
+    "Tnni3",
+    "Myl2",
+    "Kcnq1",
+    "Jph1",
+    "Jph2",
+    "Bin1",
+    "Lpin1",
+    "Pln",
+    "Ppara",
+    "Ppard",
+    "Cpt1b"
+  ],
+  "cohort": "Unchanged all-QC ventricular CM cohort; no anatomical exclusion",
+  "primary_score": "Mean of 50 AddModuleScore-style draws: 8 expression bins, 20 controls per module gene, all 403 measured genes eligible, unique union per draw",
+  "score_reference": "Frozen pooled all-profile log1p CP10k means; fixed expression-rank bins across stages within each segmentation view",
+  "score_implementation": "Rank-balanced expression bins (not exact Seurat cut_number); equal module-gene weights minus mean of unique control union; controls may include module genes, as in default Seurat pool",
+  "main_view": "Deposited whole-cell Xenium counts; confidence-supported core counts are a segmentation sensitivity, not nuclear-only truth",
+  "settings": [
+    {
+      "name": "primary_8bins_20controls",
+      "bins": 8,
+      "controls": 20,
+      "exclude_panel": false
+    },
+    {
+      "name": "literal100_3bins",
+      "bins": 3,
+      "controls": 100,
+      "exclude_panel": false
+    },
+    {
+      "name": "fine24_5controls",
+      "bins": 24,
+      "controls": 5,
+      "exclude_panel": false
+    },
+    {
+      "name": "exclude21_8bins_20controls",
+      "bins": 8,
+      "controls": 20,
+      "exclude_panel": true
+    }
+  ],
+  "draws": 50,
+  "seed": 20261028,
+  "primary_radius_um": 50,
+  "boundary_apposition_um": 2,
+  "primary_vascular_metrics": [
+    "capillary_nearness",
+    "capillary_count50",
+    "capillary_apposition2"
+  ],
+  "primary_uncertainty": "400um clustered t; null-imposed Rademacher clustered-score test, 9999 draws, for vascular tests; not vessel relocation",
+  "primary_vascular_correction": "BH across all supported stage x metric tests, native primary score, within-local model; wild-score p",
+  "nonCM_correction": "Separate BH family: all supported native primary-score subtype/broad source nearness tests",
+  "context_correction": "Separate BH family: native capillary-nearness x fibroblast count50 interaction tests",
+  "adjustments": "View-specific non-panel molecule count and cell area cubic splines; missing nuclear area; available CM state; 200um grid x CM-state fixed effects",
+  "context_model": "Standardized capillary nearness, log1p FB-family count50, their product; local total resolved neighbor count included",
+  "anatomy": "Existing candidate morphology labels sensitivity only; unknown anatomy retained; no exact author masks",
+  "score_sensitivity": "Every one-gene omission, all 50 control draws, alternative bin/control pools, unchanged earlier gene-Z score",
+  "limitations": [
+    "One section per stage; no independent-heart replication",
+    "No exact author score, graph or mask recovery",
+    "No perfusion, oxygen, fate or causal effect inferred",
+    "No additional CM outcome genes or imputation",
+    "Existing native boundaries; no new segmentation claimed"
+  ]
+}

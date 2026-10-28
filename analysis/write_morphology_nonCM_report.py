@@ -42,7 +42,7 @@ def main():
    for row in rows:
     cells=tb.add_row().cells
     for cell,value in zip(cells,row):cell.text=value
-   widths=[45,145,145,145] if len(rows[0])==4 else [40,130,130,100,80]
+   widths={3:[50,215,215],4:[45,145,145,145],5:[40,130,130,100,80]}[len(rows[0])]
    pdf=Table([[pp(x) for x in row] for row in rows],colWidths=widths,repeatRows=1)
    pdf.setStyle(TableStyle([('BACKGROUND',(0,0),(-1,0),colors.HexColor('#e6edf2')),('VALIGN',(0,0),(-1,-1),'TOP'),('BOX',(0,0),(-1,-1),.3,colors.gray),('TOPPADDING',(0,0),(-1,-1),5),('BOTTOMPADDING',(0,0),(-1,-1),5)]));story.extend([pdf,Spacer(1,10)])
   else:

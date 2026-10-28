@@ -1,0 +1,17 @@
+[
+  {
+    "stem": "Figure_1_CM21_score_landscape_and_stability",
+    "title": "The 21-gene score is heterogeneous within stages and stable to gene omission",
+    "legend": "All 131,605 previously QC-eligible ventricular CM profiles are retained. Four maps use the same pooled color scale for the paper-style whole-cell module score; colors are clipped at the pooled second and 98th percentiles for display only. Right panels show rank agreement across scoring challenges and the range of capillary-nearness coefficients after omitting each of the 21 genes; points mark primary coefficients. Agreement is summarized across all stages and both RNA views. The earlier gene-Z score differs in weighting and yields less similar cell rankings. No new CM outcome genes are introduced."
+  },
+  {
+    "stem": "Figure_2_CM21_capillary_geometry",
+    "title": "Capillary nearness and boundary apposition support a local vascular relationship",
+    "legend": "Panels a\u2013c show locally adjusted standardized associations with the same 21-gene outcome, with 95% within-section clustered intervals. Blue is whole-cell RNA; orange is boundary-supported RNA using the same native geometry. Stars apply only to primary whole-cell tests after correction across 12 vascular comparisons using clustered-score null tests. Panel d displays raw individual-CM Spearman correlations, not correlations between ring means; its units differ from the adjusted coefficients. Counts measure segmented profiles within 50 \u00b5m, not perfused vessel length. Boundary apposition is the fraction of 64 native CM boundary samples within 2 \u00b5m of eligible capillary polygons. Associations are small; no causal or functional inference is made."
+  },
+  {
+    "stem": "Figure_3_CM21_nonCM_subtypes_and_FB_context",
+    "title": "Neighbor identities and fibroblast-context tests narrow the biological conclusions",
+    "legend": "Panel a shows the whole-cell module-score nearness screen, with BH correction across 48 supported source comparisons. Panel b shows capillary-nearness-by-fibroblast-count interactions, with correction across 12 supported comparisons; no interaction passes correction. Positive interaction coefficients indicate a stronger positive capillary relationship with increasing fibroblast-family context, conditional on the fitted main effects and covariates. Each panel has its own color scale. Gray crosses denote insufficient or unavailable source evidence rather than biological absence. Significant primary source associations can remain sensitive to score definition and transcript assignment; all such comparisons are provided in the robustness table. Parent lineages overlap with their subtypes. Colors saturate at \u00b10.10 SD in panel a and \u00b10.03 SD in panel b; full coefficients are retained in the tables."
+  }
+]
