@@ -1,0 +1,3122 @@
+{
+  "type": "FeatureCollection",
+  "coordinate_system": "Xenium micrometers; y increases downward",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P0",
+        "ROI_id": "P0_C1",
+        "region": "Compact wall",
+        "image_territory": "Main ventricular mass",
+        "confidence": "high",
+        "anatomical_chamber": "Unresolved",
+        "histological_trabecular_verified": false,
+        "papillary_verified": false,
+        "primary_eligible": true,
+        "annotation_basis": "DAPI architecture only; no expression or cell labels viewed during ROI construction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1746.852,
+              617.52075
+            ],
+            [
+              2329.136,
+              544.8712499999999
+            ],
+            [
+              2765.849,
+              653.8455
+            ],
+            [
+              2911.42,
+              944.4435
+            ],
+            [
+              2656.67075,
+              1089.7424999999998
+            ],
+            [
+              2147.17225,
+              944.4435
+            ],
+            [
+              1674.0665000000001,
+              944.4435
+            ],
+            [
+              1746.852,
+              617.52075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P0",
+        "ROI_id": "P0_C2",
+        "region": "Compact wall",
+        "image_territory": "Main ventricular mass",
+        "confidence": "high",
+        "anatomical_chamber": "Unresolved",
+        "histological_trabecular_verified": false,
+        "papillary_verified": false,
+        "primary_eligible": true,
+        "annotation_basis": "DAPI architecture only; no expression or cell labels viewed during ROI construction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              691.46225,
+              1416.66525
+            ],
+            [
+              982.6042500000001,
+              1162.392
+            ],
+            [
+              1164.568,
+              1344.01575
+            ],
+            [
+              909.81875,
+              1816.2375
+            ],
+            [
+              909.81875,
+              2179.4849999999997
+            ],
+            [
+              727.855,
+              2324.784
+            ],
+            [
+              582.284,
+              1997.8612500000002
+            ],
+            [
+              691.46225,
+              1416.66525
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P0",
+        "ROI_id": "P0_C3",
+        "region": "Compact wall",
+        "image_territory": "Main ventricular mass",
+        "confidence": "high",
+        "anatomical_chamber": "Unresolved",
+        "histological_trabecular_verified": false,
+        "papillary_verified": false,
+        "primary_eligible": true,
+        "annotation_basis": "DAPI architecture only; no expression or cell labels viewed during ROI construction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2802.24175,
+              1089.7424999999998
+            ],
+            [
+              2984.2055,
+              1198.71675
+            ],
+            [
+              2984.2055,
+              1743.588
+            ],
+            [
+              2765.849,
+              2143.16025
+            ],
+            [
+              2511.09975,
+              2252.1345
+            ],
+            [
+              2474.7070000000003,
+              1997.8612500000002
+            ],
+            [
+              2729.45625,
+              1670.9385
+            ],
+            [
+              2802.24175,
+              1089.7424999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P0",
+        "ROI_id": "P0_C4",
+        "region": "Compact wall",
+        "image_territory": "Main ventricular mass",
+        "confidence": "high",
+        "anatomical_chamber": "Unresolved",
+        "histological_trabecular_verified": false,
+        "papillary_verified": false,
+        "primary_eligible": true,
+        "annotation_basis": "DAPI architecture only; no expression or cell labels viewed during ROI construction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1055.38975,
+              2361.10875
+            ],
+            [
+              1419.31725,
+              2470.083
+            ],
+            [
+              1928.8157500000002,
+              2542.7324999999996
+            ],
+            [
+              2219.95775,
+              2397.4335
+            ],
+            [
+              2401.9215000000004,
+              2506.40775
+            ],
+            [
+              2147.17225,
+              2760.681
+            ],
+            [
+              1601.281,
+              2797.00575
+            ],
+            [
+              1128.17525,
+              2651.70675
+            ],
+            [
+              1055.38975,
+              2361.10875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P7",
+        "ROI_id": "P7_C1",
+        "region": "Compact wall",
+        "image_territory": "Main ventricular mass",
+        "confidence": "high",
+        "anatomical_chamber": "Unresolved",
+        "histological_trabecular_verified": false,
+        "papillary_verified": false,
+        "primary_eligible": true,
+        "annotation_basis": "DAPI architecture only; no expression or cell labels viewed during ROI construction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2505.3325,
+              913.4865
+            ],
+            [
+              2995.5062500000004,
+              761.23875
+            ],
+            [
+              3485.6800000000003,
+              862.7372500000001
+            ],
+            [
+              3866.92625,
+              1116.4835
+            ],
+            [
+              3757.9987499999997,
+              1370.2297500000002
+            ],
+            [
+              3213.36125,
+              1268.73125
+            ],
+            [
+              2723.1875,
+              1217.982
+            ],
+            [
+              2505.3325,
+              913.4865
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P7",
+        "ROI_id": "P7_C2",
+        "region": "Compact wall",
+        "image_territory": "Main ventricular mass",
+        "confidence": "high",
+        "anatomical_chamber": "Unresolved",
+        "histological_trabecular_verified": false,
+        "papillary_verified": false,
+        "primary_eligible": true,
+        "annotation_basis": "DAPI architecture only; no expression or cell labels viewed during ROI construction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3975.8537499999998,
+              1573.22675
+            ],
+            [
+              4411.56375,
+              2029.9700000000003
+            ],
+            [
+              4738.34625,
+              2588.21175
+            ],
+            [
+              4901.7375,
+              3197.20275
+            ],
+            [
+              4738.34625,
+              3653.946
+            ],
+            [
+              4357.1,
+              3653.946
+            ],
+            [
+              4302.6362500000005,
+              3044.955
+            ],
+            [
+              4030.3175,
+              2385.21475
+            ],
+            [
+              3757.9987499999997,
+              1928.4715
+            ],
+            [
+              3975.8537499999998,
+              1573.22675
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P7",
+        "ROI_id": "P7_C3",
+        "region": "Compact wall",
+        "image_territory": "Main ventricular mass",
+        "confidence": "high",
+        "anatomical_chamber": "Unresolved",
+        "histological_trabecular_verified": false,
+        "papillary_verified": false,
+        "primary_eligible": true,
+        "annotation_basis": "DAPI architecture only; no expression or cell labels viewed during ROI construction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2341.94125,
+              3704.69525
+            ],
+            [
+              2995.5062500000004,
+              3907.69225
+            ],
+            [
+              3812.4624999999996,
+              4009.19075
+            ],
+            [
+              4357.1,
+              3856.943
+            ],
+            [
+              4520.49125,
+              4161.4385
+            ],
+            [
+              3866.92625,
+              4364.4355000000005
+            ],
+            [
+              2886.57875,
+              4364.4355000000005
+            ],
+            [
+              2341.94125,
+              4110.68925
+            ],
+            [
+              2341.94125,
+              3704.69525
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P7",
+        "ROI_id": "P7_C4",
+        "region": "Compact wall",
+        "image_territory": "Main ventricular mass",
+        "confidence": "high",
+        "anatomical_chamber": "Unresolved",
+        "histological_trabecular_verified": false,
+        "papillary_verified": false,
+        "primary_eligible": true,
+        "annotation_basis": "DAPI architecture only; no expression or cell labels viewed during ROI construction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1742.8400000000001,
+              2334.4655000000002
+            ],
+            [
+              2069.6225,
+              2334.4655000000002
+            ],
+            [
+              2124.0862500000003,
+              2943.4565
+            ],
+            [
+              2287.4775,
+              3450.9490000000005
+            ],
+            [
+              2178.55,
+              3806.1937500000004
+            ],
+            [
+              1851.7675000000002,
+              3450.9490000000005
+            ],
+            [
+              1688.37625,
+              2841.9580000000005
+            ],
+            [
+              1742.8400000000001,
+              2334.4655000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P7",
+        "ROI_id": "P7_T1",
+        "region": "Cavity-facing myocardium",
+        "image_territory": "Main cavity margin",
+        "confidence": "moderate",
+        "anatomical_chamber": "Unresolved",
+        "histological_trabecular_verified": false,
+        "papillary_verified": false,
+        "primary_eligible": true,
+        "annotation_basis": "DAPI architecture only; no expression or cell labels viewed during ROI construction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2287.4775,
+              1370.2297500000002
+            ],
+            [
+              2559.79625,
+              1268.73125
+            ],
+            [
+              2832.1150000000002,
+              1268.73125
+            ],
+            [
+              2886.57875,
+              1420.9790000000003
+            ],
+            [
+              2668.72375,
+              1623.976
+            ],
+            [
+              2450.86875,
+              1776.2237499999999
+            ],
+            [
+              2233.01375,
+              1725.4745000000003
+            ],
+            [
+              2287.4775,
+              1370.2297500000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P7",
+        "ROI_id": "P7_T2",
+        "region": "Cavity-facing myocardium",
+        "image_territory": "Main cavity margin",
+        "confidence": "moderate",
+        "anatomical_chamber": "Unresolved",
+        "histological_trabecular_verified": false,
+        "papillary_verified": false,
+        "primary_eligible": true,
+        "annotation_basis": "DAPI architecture only; no expression or cell labels viewed during ROI construction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2614.2599999999998,
+              1725.4745000000003
+            ],
+            [
+              2941.0425,
+              1623.976
+            ],
+            [
+              3213.36125,
+              1725.4745000000003
+            ],
+            [
+              3431.21625,
+              1826.973
+            ],
+            [
+              3594.6075,
+              1776.2237499999999
+            ],
+            [
+              3703.5350000000003,
+              1979.2207500000002
+            ],
+            [
+              3213.36125,
+              2080.71925
+            ],
+            [
+              2832.1150000000002,
+              1979.2207500000002
+            ],
+            [
+              2614.2599999999998,
+              1725.4745000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P7",
+        "ROI_id": "P7_P1",
+        "region": "Papillary/trabecular projection candidate",
+        "image_territory": "Main cavity margin",
+        "confidence": "low",
+        "anatomical_chamber": "Unresolved",
+        "histological_trabecular_verified": false,
+        "papillary_verified": false,
+        "primary_eligible": false,
+        "annotation_basis": "DAPI architecture only; no expression or cell labels viewed during ROI construction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3077.2018749999997,
+              1547.8521250000001
+            ],
+            [
+              3267.825,
+              1522.4775
+            ],
+            [
+              3376.7525,
+              1649.350625
+            ],
+            [
+              3311.3959999999997,
+              1766.0738999999999
+            ],
+            [
+              3153.4511249999996,
+              1705.1748000000002
+            ],
+            [
+              3077.2018749999997,
+              1547.8521250000001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P7",
+        "ROI_id": "P7_V1",
+        "region": "Large-vessel-like surroundings",
+        "image_territory": "Image-defined vessel-like lumen",
+        "confidence": "low",
+        "anatomical_chamber": "Unresolved",
+        "primary_eligible": false,
+        "lumen_center_um": [
+          2995.5062500000004,
+          867.8121750000001
+        ],
+        "lumen_radius_um": 45,
+        "outer_radius_um": 95,
+        "vessel_identity_verified": false,
+        "annotation_basis": "Closed DAPI-poor lumen and surrounding tissue; cannot establish artery/vein or exclude nonvascular void"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3090.5062500000004,
+              867.8121750000001
+            ],
+            [
+              3090.0487990338593,
+              877.1238033313084
+            ],
+            [
+              3088.680851638307,
+              886.3457555915323
+            ],
+            [
+              3086.41558189456,
+              895.389219339174
+            ],
+            [
+              3083.2748055885727,
+              904.1671010746836
+            ],
+            [
+              3079.288770113094,
+              912.5948649984699
+            ],
+            [
+              3074.4958631687423,
+              920.5913471368624
+            ],
+            [
+              3068.9422430694603,
+              928.0795369955465
+            ],
+            [
+              3062.6813942127224,
+              934.9873192127221
+            ],
+            [
+              3055.7736119955466,
+              941.2481680694601
+            ],
+            [
+              3048.2854221368625,
+              946.801788168742
+            ],
+            [
+              3040.28893999847,
+              951.5946951130938
+            ],
+            [
+              3031.861176074684,
+              955.5807305885724
+            ],
+            [
+              3023.0832943391742,
+              958.72150689456
+            ],
+            [
+              3014.0398305915323,
+              960.986776638307
+            ],
+            [
+              3004.8178783313087,
+              962.3547240338588
+            ],
+            [
+              2995.5062500000004,
+              962.8121750000001
+            ],
+            [
+              2986.194621668692,
+              962.3547240338588
+            ],
+            [
+              2976.9726694084684,
+              960.986776638307
+            ],
+            [
+              2967.9292056608265,
+              958.72150689456
+            ],
+            [
+              2959.151323925317,
+              955.5807305885724
+            ],
+            [
+              2950.7235600015306,
+              951.5946951130938
+            ],
+            [
+              2942.727077863138,
+              946.801788168742
+            ],
+            [
+              2935.238888004454,
+              941.2481680694601
+            ],
+            [
+              2928.3311057872784,
+              934.9873192127221
+            ],
+            [
+              2922.0702569305404,
+              928.0795369955465
+            ],
+            [
+              2916.5166368312584,
+              920.5913471368624
+            ],
+            [
+              2911.7237298869068,
+              912.5948649984699
+            ],
+            [
+              2907.737694411428,
+              904.1671010746837
+            ],
+            [
+              2904.5969181054406,
+              895.389219339174
+            ],
+            [
+              2902.3316483616936,
+              886.3457555915323
+            ],
+            [
+              2900.9637009661415,
+              877.1238033313084
+            ],
+            [
+              2900.5062500000004,
+              867.8121750000001
+            ],
+            [
+              2900.9637009661415,
+              858.5005466686919
+            ],
+            [
+              2902.3316483616936,
+              849.2785944084679
+            ],
+            [
+              2904.5969181054406,
+              840.2351306608263
+            ],
+            [
+              2907.737694411428,
+              831.4572489253167
+            ],
+            [
+              2911.7237298869068,
+              823.0294850015304
+            ],
+            [
+              2916.5166368312584,
+              815.033002863138
+            ],
+            [
+              2922.0702569305404,
+              807.5448130044539
+            ],
+            [
+              2928.3311057872784,
+              800.6370307872781
+            ],
+            [
+              2935.238888004454,
+              794.3761819305402
+            ],
+            [
+              2942.727077863138,
+              788.8225618312583
+            ],
+            [
+              2950.7235600015306,
+              784.0296548869064
+            ],
+            [
+              2959.151323925317,
+              780.0436194114279
+            ],
+            [
+              2967.9292056608265,
+              776.9028431054403
+            ],
+            [
+              2976.972669408468,
+              774.6375733616933
+            ],
+            [
+              2986.194621668692,
+              773.2696259661415
+            ],
+            [
+              2995.5062500000004,
+              772.8121750000001
+            ],
+            [
+              3004.8178783313087,
+              773.2696259661415
+            ],
+            [
+              3014.0398305915323,
+              774.6375733616933
+            ],
+            [
+              3023.0832943391742,
+              776.9028431054403
+            ],
+            [
+              3031.861176074684,
+              780.0436194114279
+            ],
+            [
+              3040.28893999847,
+              784.0296548869064
+            ],
+            [
+              3048.2854221368625,
+              788.8225618312583
+            ],
+            [
+              3055.7736119955466,
+              794.3761819305402
+            ],
+            [
+              3062.6813942127224,
+              800.6370307872781
+            ],
+            [
+              3068.9422430694603,
+              807.5448130044538
+            ],
+            [
+              3074.4958631687423,
+              815.0330028631379
+            ],
+            [
+              3079.288770113094,
+              823.0294850015304
+            ],
+            [
+              3083.2748055885727,
+              831.4572489253165
+            ],
+            [
+              3086.41558189456,
+              840.2351306608261
+            ],
+            [
+              3088.680851638307,
+              849.2785944084679
+            ],
+            [
+              3090.0487990338593,
+              858.5005466686919
+            ],
+            [
+              3090.5062500000004,
+              867.8121750000001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P7",
+        "ROI_id": "P7_V2",
+        "region": "Large-vessel-like surroundings",
+        "image_territory": "Image-defined vessel-like lumen",
+        "confidence": "low",
+        "anatomical_chamber": "Unresolved",
+        "primary_eligible": false,
+        "lumen_center_um": [
+          4112.013125,
+          1720.3995750000001
+        ],
+        "lumen_radius_um": 25,
+        "outer_radius_um": 75,
+        "vessel_identity_verified": false,
+        "annotation_basis": "Closed DAPI-poor lumen and surrounding tissue; cannot establish artery/vein or exclude nonvascular void"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4187.013125,
+              1720.3995750000001
+            ],
+            [
+              4186.651979500415,
+              1727.7508605247172
+            ],
+            [
+              4185.5720210302425,
+              1735.0313491512097
+            ],
+            [
+              4183.783650179916,
+              1742.1709257940847
+            ],
+            [
+              4181.304089938347,
+              1749.1008324273819
+            ],
+            [
+              4178.157219826127,
+              1755.75433026195
+            ],
+            [
+              4174.373345922691,
+              1762.0673424764702
+            ],
+            [
+              4169.988909002206,
+              1767.9790713122736
+            ],
+            [
+              4165.046133588991,
+              1773.4325835889913
+            ],
+            [
+              4159.592621312274,
+              1778.3753590022054
+            ],
+            [
+              4153.680892476471,
+              1782.759795922691
+            ],
+            [
+              4147.367880261951,
+              1786.5436698261267
+            ],
+            [
+              4140.714382427383,
+              1789.6905399383465
+            ],
+            [
+              4133.784475794085,
+              1792.1701001799158
+            ],
+            [
+              4126.64489915121,
+              1793.9584710302424
+            ],
+            [
+              4119.364410524718,
+              1795.0384295004148
+            ],
+            [
+              4112.013125,
+              1795.3995750000001
+            ],
+            [
+              4104.661839475283,
+              1795.0384295004148
+            ],
+            [
+              4097.381350848791,
+              1793.9584710302424
+            ],
+            [
+              4090.2417742059156,
+              1792.1701001799158
+            ],
+            [
+              4083.3118675726187,
+              1789.6905399383465
+            ],
+            [
+              4076.6583697380506,
+              1786.5436698261267
+            ],
+            [
+              4070.3453575235303,
+              1782.759795922691
+            ],
+            [
+              4064.433628687727,
+              1778.3753590022054
+            ],
+            [
+              4058.9801164110095,
+              1773.4325835889913
+            ],
+            [
+              4054.037340997795,
+              1767.9790713122736
+            ],
+            [
+              4049.6529040773094,
+              1762.0673424764702
+            ],
+            [
+              4045.869030173874,
+              1755.75433026195
+            ],
+            [
+              4042.722160061654,
+              1749.1008324273819
+            ],
+            [
+              4040.2425998200847,
+              1742.1709257940847
+            ],
+            [
+              4038.4542289697583,
+              1735.0313491512097
+            ],
+            [
+              4037.3742704995857,
+              1727.7508605247172
+            ],
+            [
+              4037.0131250000004,
+              1720.3995750000001
+            ],
+            [
+              4037.3742704995857,
+              1713.0482894752831
+            ],
+            [
+              4038.4542289697583,
+              1705.7678008487906
+            ],
+            [
+              4040.2425998200847,
+              1698.6282242059156
+            ],
+            [
+              4042.722160061654,
+              1691.6983175726184
+            ],
+            [
+              4045.869030173874,
+              1685.0448197380504
+            ],
+            [
+              4049.6529040773094,
+              1678.73180752353
+            ],
+            [
+              4054.037340997795,
+              1672.8200786877267
+            ],
+            [
+              4058.9801164110095,
+              1667.366566411009
+            ],
+            [
+              4064.433628687727,
+              1662.4237909977949
+            ],
+            [
+              4070.3453575235303,
+              1658.0393540773093
+            ],
+            [
+              4076.6583697380506,
+              1654.2554801738736
+            ],
+            [
+              4083.3118675726187,
+              1651.1086100616537
+            ],
+            [
+              4090.2417742059156,
+              1648.6290498200844
+            ],
+            [
+              4097.381350848791,
+              1646.8406789697578
+            ],
+            [
+              4104.661839475283,
+              1645.7607204995854
+            ],
+            [
+              4112.013125,
+              1645.3995750000001
+            ],
+            [
+              4119.364410524718,
+              1645.7607204995854
+            ],
+            [
+              4126.64489915121,
+              1646.8406789697578
+            ],
+            [
+              4133.784475794085,
+              1648.6290498200844
+            ],
+            [
+              4140.714382427383,
+              1651.1086100616537
+            ],
+            [
+              4147.367880261951,
+              1654.2554801738736
+            ],
+            [
+              4153.680892476471,
+              1658.0393540773093
+            ],
+            [
+              4159.592621312274,
+              1662.4237909977949
+            ],
+            [
+              4165.046133588991,
+              1667.366566411009
+            ],
+            [
+              4169.988909002205,
+              1672.8200786877267
+            ],
+            [
+              4174.373345922691,
+              1678.73180752353
+            ],
+            [
+              4178.157219826127,
+              1685.0448197380504
+            ],
+            [
+              4181.304089938347,
+              1691.6983175726184
+            ],
+            [
+              4183.783650179916,
+              1698.6282242059156
+            ],
+            [
+              4185.5720210302425,
+              1705.7678008487906
+            ],
+            [
+              4186.651979500415,
+              1713.0482894752831
+            ],
+            [
+              4187.013125,
+              1720.3995750000001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P14",
+        "ROI_id": "P14_C1",
+        "region": "Compact wall",
+        "image_territory": "Image-left ventricular wall",
+        "confidence": "high",
+        "anatomical_chamber": "Unresolved",
+        "histological_trabecular_verified": false,
+        "papillary_verified": false,
+        "primary_eligible": true,
+        "annotation_basis": "DAPI architecture only; no expression or cell labels viewed during ROI construction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1088.6332499999999,
+              2822.22525
+            ],
+            [
+              1391.031375,
+              2243.30725
+            ],
+            [
+              1693.4295,
+              2026.213
+            ],
+            [
+              1753.9091249999997,
+              2315.672
+            ],
+            [
+              1511.990625,
+              3111.68425
+            ],
+            [
+              1511.990625,
+              3690.60225
+            ],
+            [
+              1270.072125,
+              3762.9669999999996
+            ],
+            [
+              1028.153625,
+              3401.1432499999996
+            ],
+            [
+              1088.6332499999999,
+              2822.22525
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P14",
+        "ROI_id": "P14_C2",
+        "region": "Compact wall",
+        "image_territory": "Image-right ventricular wall",
+        "confidence": "high",
+        "anatomical_chamber": "Unresolved",
+        "histological_trabecular_verified": false,
+        "papillary_verified": false,
+        "primary_eligible": true,
+        "annotation_basis": "DAPI architecture only; no expression or cell labels viewed during ROI construction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3023.98125,
+              796.01225
+            ],
+            [
+              3931.175625,
+              578.918
+            ],
+            [
+              4656.931125,
+              723.6475
+            ],
+            [
+              5140.768125,
+              1013.1065
+            ],
+            [
+              5080.2885,
+              1374.93025
+            ],
+            [
+              4415.012624999999,
+              1230.20075
+            ],
+            [
+              3689.2571249999996,
+              1157.836
+            ],
+            [
+              3144.9404999999997,
+              1374.93025
+            ],
+            [
+              3023.98125,
+              796.01225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P14",
+        "ROI_id": "P14_C3",
+        "region": "Compact wall",
+        "image_territory": "Image-right ventricular wall",
+        "confidence": "high",
+        "anatomical_chamber": "Unresolved",
+        "histological_trabecular_verified": false,
+        "papillary_verified": false,
+        "primary_eligible": true,
+        "annotation_basis": "DAPI architecture only; no expression or cell labels viewed during ROI construction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4838.37,
+              1736.754
+            ],
+            [
+              5322.206999999999,
+              1736.754
+            ],
+            [
+              5443.16625,
+              2749.8605
+            ],
+            [
+              5322.206999999999,
+              3690.60225
+            ],
+            [
+              5019.808875,
+              4197.1555
+            ],
+            [
+              4596.4515,
+              4269.52025
+            ],
+            [
+              4717.41075,
+              3473.508
+            ],
+            [
+              4777.890375,
+              2605.131
+            ],
+            [
+              4838.37,
+              1736.754
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P14",
+        "ROI_id": "P14_C4",
+        "region": "Compact wall",
+        "image_territory": "Image-right ventricular wall",
+        "confidence": "high",
+        "anatomical_chamber": "Unresolved",
+        "histological_trabecular_verified": false,
+        "papillary_verified": false,
+        "primary_eligible": true,
+        "annotation_basis": "DAPI architecture only; no expression or cell labels viewed during ROI construction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3507.8182499999994,
+              4341.884999999999
+            ],
+            [
+              4052.134875,
+              4558.979249999999
+            ],
+            [
+              4656.931125,
+              4341.884999999999
+            ],
+            [
+              4959.32925,
+              4124.790749999999
+            ],
+            [
+              5019.808875,
+              4558.979249999999
+            ],
+            [
+              4475.492249999999,
+              4920.803
+            ],
+            [
+              3749.7367499999996,
+              5065.532499999999
+            ],
+            [
+              3326.379375,
+              4848.43825
+            ],
+            [
+              3507.8182499999994,
+              4341.884999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P14",
+        "ROI_id": "P14_T1",
+        "region": "Cavity-facing myocardium",
+        "image_territory": "Image-left cavity margin",
+        "confidence": "moderate",
+        "anatomical_chamber": "Unresolved",
+        "histological_trabecular_verified": false,
+        "papillary_verified": false,
+        "primary_eligible": true,
+        "annotation_basis": "DAPI architecture only; no expression or cell labels viewed during ROI construction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1814.3887499999998,
+              2460.4015
+            ],
+            [
+              2056.30725,
+              2388.0367499999998
+            ],
+            [
+              2237.7461249999997,
+              2894.59
+            ],
+            [
+              2177.2664999999997,
+              3401.1432499999996
+            ],
+            [
+              1995.827625,
+              3762.9669999999996
+            ],
+            [
+              1814.3887499999998,
+              3545.8727499999995
+            ],
+            [
+              1874.8683749999998,
+              3039.3194999999996
+            ],
+            [
+              1814.3887499999998,
+              2460.4015
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P14",
+        "ROI_id": "P14_T2",
+        "region": "Cavity-facing myocardium",
+        "image_territory": "Image-right cavity margin",
+        "confidence": "moderate",
+        "anatomical_chamber": "Unresolved",
+        "histological_trabecular_verified": false,
+        "papillary_verified": false,
+        "primary_eligible": true,
+        "annotation_basis": "DAPI architecture only; no expression or cell labels viewed during ROI construction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3144.9404999999997,
+              2894.59
+            ],
+            [
+              3326.379375,
+              2532.7662499999997
+            ],
+            [
+              3507.8182499999994,
+              2460.4015
+            ],
+            [
+              3628.7774999999997,
+              2822.22525
+            ],
+            [
+              3447.3386249999994,
+              3184.049
+            ],
+            [
+              3326.379375,
+              3545.8727499999995
+            ],
+            [
+              3084.4608749999998,
+              3835.33175
+            ],
+            [
+              2903.022,
+              3690.60225
+            ],
+            [
+              3144.9404999999997,
+              2894.59
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P14",
+        "ROI_id": "P14_T3",
+        "region": "Cavity-facing myocardium",
+        "image_territory": "Image-right cavity margin",
+        "confidence": "moderate",
+        "anatomical_chamber": "Unresolved",
+        "histological_trabecular_verified": false,
+        "papillary_verified": false,
+        "primary_eligible": true,
+        "annotation_basis": "DAPI architecture only; no expression or cell labels viewed during ROI construction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3931.175625,
+              1664.38925
+            ],
+            [
+              4233.57375,
+              1447.295
+            ],
+            [
+              4415.012624999999,
+              1592.0245
+            ],
+            [
+              4112.6145,
+              2026.213
+            ],
+            [
+              3870.696,
+              2388.0367499999998
+            ],
+            [
+              3689.2571249999996,
+              2460.4015
+            ],
+            [
+              3749.7367499999996,
+              2026.213
+            ],
+            [
+              3931.175625,
+              1664.38925
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P14",
+        "ROI_id": "P14_P1",
+        "region": "Papillary/trabecular projection candidate",
+        "image_territory": "Image-right cavity margin",
+        "confidence": "low",
+        "anatomical_chamber": "Unresolved",
+        "histological_trabecular_verified": false,
+        "papillary_verified": false,
+        "primary_eligible": false,
+        "annotation_basis": "DAPI architecture only; no expression or cell labels viewed during ROI construction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3235.6599375,
+              3220.231375
+            ],
+            [
+              3417.0988124999994,
+              3184.049
+            ],
+            [
+              3483.6263999999996,
+              3379.433825
+            ],
+            [
+              3380.8110375,
+              3567.5821749999996
+            ],
+            [
+              3235.6599375,
+              3487.9809499999997
+            ],
+            [
+              3235.6599375,
+              3220.231375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P14",
+        "ROI_id": "P14_V1",
+        "region": "Large-vessel-like surroundings",
+        "image_territory": "Image-defined vessel-like lumen",
+        "confidence": "low",
+        "anatomical_chamber": "Unresolved",
+        "primary_eligible": false,
+        "lumen_center_um": [
+          3023.98125,
+          4450.432124999999
+        ],
+        "lumen_radius_um": 27,
+        "outer_radius_um": 77,
+        "vessel_identity_verified": false,
+        "annotation_basis": "Closed DAPI-poor lumen and surrounding tissue; cannot establish artery/vein or exclude nonvascular void"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3100.98125,
+              4450.432124999999
+            ],
+            [
+              3100.610473953759,
+              4457.979444805375
+            ],
+            [
+              3099.5017165910485,
+              4465.454079795241
+            ],
+            [
+              3097.66565585138,
+              4472.784045148593
+            ],
+            [
+              3095.119974003369,
+              4479.8987492921115
+            ],
+            [
+              3091.889187354823,
+              4486.729673735601
+            ],
+            [
+              3088.004410147296,
+              4493.211032942509
+            ],
+            [
+              3083.5030549089306,
+              4499.2804078806
+            ],
+            [
+              3078.428472151364,
+              4504.879347151364
+            ],
+            [
+              3072.8295328806007,
+              4509.95392990893
+            ],
+            [
+              3066.760157942509,
+              4514.455285147295
+            ],
+            [
+              3060.278798735602,
+              4518.340062354822
+            ],
+            [
+              3053.447874292112,
+              4521.5708490033685
+            ],
+            [
+              3046.3331701485936,
+              4524.116530851379
+            ],
+            [
+              3039.003204795242,
+              4525.952591591048
+            ],
+            [
+              3031.528569805376,
+              4527.061348953758
+            ],
+            [
+              3023.98125,
+              4527.432124999999
+            ],
+            [
+              3016.433930194624,
+              4527.061348953758
+            ],
+            [
+              3008.959295204758,
+              4525.952591591048
+            ],
+            [
+              3001.629329851406,
+              4524.116530851379
+            ],
+            [
+              2994.5146257078877,
+              4521.5708490033685
+            ],
+            [
+              2987.683701264398,
+              4518.340062354822
+            ],
+            [
+              2981.2023420574906,
+              4514.455285147295
+            ],
+            [
+              2975.132967119399,
+              4509.95392990893
+            ],
+            [
+              2969.5340278486356,
+              4504.879347151364
+            ],
+            [
+              2964.459445091069,
+              4499.2804078806
+            ],
+            [
+              2959.958089852704,
+              4493.211032942509
+            ],
+            [
+              2956.0733126451764,
+              4486.729673735601
+            ],
+            [
+              2952.8425259966307,
+              4479.8987492921115
+            ],
+            [
+              2950.2968441486196,
+              4472.784045148593
+            ],
+            [
+              2948.460783408951,
+              4465.454079795241
+            ],
+            [
+              2947.3520260462406,
+              4457.979444805375
+            ],
+            [
+              2946.98125,
+              4450.432124999999
+            ],
+            [
+              2947.3520260462406,
+              4442.884805194623
+            ],
+            [
+              2948.460783408951,
+              4435.410170204757
+            ],
+            [
+              2950.2968441486196,
+              4428.080204851406
+            ],
+            [
+              2952.8425259966307,
+              4420.965500707887
+            ],
+            [
+              2956.0733126451764,
+              4414.134576264398
+            ],
+            [
+              2959.958089852704,
+              4407.65321705749
+            ],
+            [
+              2964.459445091069,
+              4401.5838421193985
+            ],
+            [
+              2969.5340278486356,
+              4395.984902848635
+            ],
+            [
+              2975.132967119399,
+              4390.910320091069
+            ],
+            [
+              2981.2023420574906,
+              4386.408964852703
+            ],
+            [
+              2987.6837012643978,
+              4382.524187645176
+            ],
+            [
+              2994.5146257078877,
+              4379.29340099663
+            ],
+            [
+              3001.629329851406,
+              4376.74771914862
+            ],
+            [
+              3008.959295204758,
+              4374.911658408951
+            ],
+            [
+              3016.433930194624,
+              4373.802901046241
+            ],
+            [
+              3023.98125,
+              4373.432124999999
+            ],
+            [
+              3031.528569805376,
+              4373.802901046241
+            ],
+            [
+              3039.003204795242,
+              4374.911658408951
+            ],
+            [
+              3046.3331701485936,
+              4376.74771914862
+            ],
+            [
+              3053.447874292112,
+              4379.29340099663
+            ],
+            [
+              3060.2787987356014,
+              4382.524187645176
+            ],
+            [
+              3066.760157942509,
+              4386.408964852703
+            ],
+            [
+              3072.8295328806007,
+              4390.910320091069
+            ],
+            [
+              3078.428472151364,
+              4395.984902848635
+            ],
+            [
+              3083.5030549089306,
+              4401.5838421193985
+            ],
+            [
+              3088.004410147296,
+              4407.65321705749
+            ],
+            [
+              3091.889187354823,
+              4414.134576264398
+            ],
+            [
+              3095.119974003369,
+              4420.965500707887
+            ],
+            [
+              3097.66565585138,
+              4428.080204851406
+            ],
+            [
+              3099.5017165910485,
+              4435.410170204757
+            ],
+            [
+              3100.610473953759,
+              4442.884805194623
+            ],
+            [
+              3100.98125,
+              4450.432124999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P14",
+        "ROI_id": "P14_V2",
+        "region": "Large-vessel-like surroundings",
+        "image_territory": "Image-defined vessel-like lumen",
+        "confidence": "low",
+        "anatomical_chamber": "Unresolved",
+        "primary_eligible": false,
+        "lumen_center_um": [
+          2509.9044375,
+          1628.2068749999999
+        ],
+        "lumen_radius_um": 25,
+        "outer_radius_um": 75,
+        "vessel_identity_verified": false,
+        "annotation_basis": "Closed DAPI-poor lumen and surrounding tissue; cannot establish artery/vein or exclude nonvascular void"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2584.9044375,
+              1628.2068749999999
+            ],
+            [
+              2584.5432920004146,
+              1635.5581605247169
+            ],
+            [
+              2583.463333530242,
+              1642.8386491512094
+            ],
+            [
+              2581.6749626799156,
+              1649.9782257940844
+            ],
+            [
+              2579.1954024383463,
+              1656.9081324273816
+            ],
+            [
+              2576.0485323261264,
+              1663.5616302619496
+            ],
+            [
+              2572.264658422691,
+              1669.87464247647
+            ],
+            [
+              2567.880221502205,
+              1675.7863713122733
+            ],
+            [
+              2562.937446088991,
+              1681.239883588991
+            ],
+            [
+              2557.4839338122733,
+              1686.1826590022051
+            ],
+            [
+              2551.57220497647,
+              1690.5670959226907
+            ],
+            [
+              2545.2591927619496,
+              1694.3509698261264
+            ],
+            [
+              2538.6056949273816,
+              1697.4978399383463
+            ],
+            [
+              2531.6757882940847,
+              1699.9774001799155
+            ],
+            [
+              2524.5362116512097,
+              1701.7657710302421
+            ],
+            [
+              2517.255723024717,
+              1702.8457295004146
+            ],
+            [
+              2509.9044375,
+              1703.2068749999999
+            ],
+            [
+              2502.5531519752826,
+              1702.8457295004146
+            ],
+            [
+              2495.27266334879,
+              1701.7657710302421
+            ],
+            [
+              2488.133086705915,
+              1699.9774001799155
+            ],
+            [
+              2481.203180072618,
+              1697.4978399383463
+            ],
+            [
+              2474.54968223805,
+              1694.3509698261264
+            ],
+            [
+              2468.2366700235298,
+              1690.5670959226907
+            ],
+            [
+              2462.3249411877264,
+              1686.1826590022051
+            ],
+            [
+              2456.871428911009,
+              1681.239883588991
+            ],
+            [
+              2451.9286534977946,
+              1675.7863713122733
+            ],
+            [
+              2447.544216577309,
+              1669.87464247647
+            ],
+            [
+              2443.7603426738733,
+              1663.5616302619496
+            ],
+            [
+              2440.6134725616535,
+              1656.9081324273816
+            ],
+            [
+              2438.133912320084,
+              1649.9782257940844
+            ],
+            [
+              2436.345541469758,
+              1642.8386491512094
+            ],
+            [
+              2435.265582999585,
+              1635.5581605247169
+            ],
+            [
+              2434.9044375,
+              1628.2068749999999
+            ],
+            [
+              2435.265582999585,
+              1620.8555894752828
+            ],
+            [
+              2436.345541469758,
+              1613.5751008487903
+            ],
+            [
+              2438.133912320084,
+              1606.4355242059153
+            ],
+            [
+              2440.6134725616535,
+              1599.5056175726181
+            ],
+            [
+              2443.7603426738733,
+              1592.85211973805
+            ],
+            [
+              2447.544216577309,
+              1586.5391075235298
+            ],
+            [
+              2451.9286534977946,
+              1580.6273786877264
+            ],
+            [
+              2456.871428911009,
+              1575.1738664110087
+            ],
+            [
+              2462.3249411877264,
+              1570.2310909977946
+            ],
+            [
+              2468.2366700235298,
+              1565.846654077309
+            ],
+            [
+              2474.54968223805,
+              1562.0627801738733
+            ],
+            [
+              2481.203180072618,
+              1558.9159100616534
+            ],
+            [
+              2488.133086705915,
+              1556.4363498200842
+            ],
+            [
+              2495.27266334879,
+              1554.6479789697576
+            ],
+            [
+              2502.5531519752826,
+              1553.5680204995851
+            ],
+            [
+              2509.9044375,
+              1553.2068749999999
+            ],
+            [
+              2517.2557230247166,
+              1553.5680204995851
+            ],
+            [
+              2524.5362116512097,
+              1554.6479789697576
+            ],
+            [
+              2531.6757882940847,
+              1556.4363498200842
+            ],
+            [
+              2538.6056949273816,
+              1558.9159100616534
+            ],
+            [
+              2545.2591927619496,
+              1562.0627801738733
+            ],
+            [
+              2551.57220497647,
+              1565.846654077309
+            ],
+            [
+              2557.4839338122733,
+              1570.2310909977946
+            ],
+            [
+              2562.937446088991,
+              1575.1738664110087
+            ],
+            [
+              2567.880221502205,
+              1580.6273786877264
+            ],
+            [
+              2572.264658422691,
+              1586.5391075235298
+            ],
+            [
+              2576.0485323261264,
+              1592.85211973805
+            ],
+            [
+              2579.1954024383463,
+              1599.5056175726181
+            ],
+            [
+              2581.6749626799156,
+              1606.4355242059153
+            ],
+            [
+              2583.463333530242,
+              1613.5751008487903
+            ],
+            [
+              2584.5432920004146,
+              1620.8555894752828
+            ],
+            [
+              2584.9044375,
+              1628.2068749999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P21",
+        "ROI_id": "P21_C1",
+        "region": "Compact wall",
+        "image_territory": "Image-left ventricular mass",
+        "confidence": "high",
+        "anatomical_chamber": "Unresolved",
+        "histological_trabecular_verified": false,
+        "papillary_verified": false,
+        "primary_eligible": true,
+        "annotation_basis": "DAPI architecture only; no expression or cell labels viewed during ROI construction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              786.04175,
+              1759.404375
+            ],
+            [
+              1209.2949999999998,
+              1303.2625
+            ],
+            [
+              1451.1539999999998,
+              1563.915
+            ],
+            [
+              1209.2949999999998,
+              2476.19875
+            ],
+            [
+              1209.2949999999998,
+              3323.319375
+            ],
+            [
+              1451.1539999999998,
+              3909.7875
+            ],
+            [
+              1209.2949999999998,
+              4170.4400000000005
+            ],
+            [
+              846.5065,
+              3714.298125
+            ],
+            [
+              544.1827499999999,
+              2802.0143749999997
+            ],
+            [
+              786.04175,
+              1759.404375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P21",
+        "ROI_id": "P21_C2",
+        "region": "Compact wall",
+        "image_territory": "Superior ventricular wall",
+        "confidence": "high",
+        "anatomical_chamber": "Unresolved",
+        "histological_trabecular_verified": false,
+        "papillary_verified": false,
+        "primary_eligible": true,
+        "annotation_basis": "DAPI architecture only; no expression or cell labels viewed during ROI construction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1995.33675,
+              586.468125
+            ],
+            [
+              2841.8432499999994,
+              358.39718750000003
+            ],
+            [
+              3567.4202499999997,
+              358.39718750000003
+            ],
+            [
+              4232.532499999999,
+              651.63125
+            ],
+            [
+              4353.4619999999995,
+              1042.6100000000001
+            ],
+            [
+              3748.8144999999995,
+              912.28375
+            ],
+            [
+              2962.7727499999996,
+              781.9575
+            ],
+            [
+              2176.7309999999998,
+              1042.6100000000001
+            ],
+            [
+              1995.33675,
+              586.468125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P21",
+        "ROI_id": "P21_C3",
+        "region": "Compact wall",
+        "image_territory": "Image-right ventricular mass",
+        "confidence": "high",
+        "anatomical_chamber": "Unresolved",
+        "histological_trabecular_verified": false,
+        "papillary_verified": false,
+        "primary_eligible": true,
+        "annotation_basis": "DAPI architecture only; no expression or cell labels viewed during ROI construction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4958.1095,
+              1824.5675
+            ],
+            [
+              5320.897999999999,
+              2085.2200000000003
+            ],
+            [
+              5502.2922499999995,
+              2802.0143749999997
+            ],
+            [
+              5623.22175,
+              3714.298125
+            ],
+            [
+              5441.827499999999,
+              4170.4400000000005
+            ],
+            [
+              5199.968499999999,
+              4235.603125000001
+            ],
+            [
+              5199.968499999999,
+              3583.971875
+            ],
+            [
+              5079.039,
+              2802.0143749999997
+            ],
+            [
+              4776.71525,
+              2345.8725
+            ],
+            [
+              4958.1095,
+              1824.5675
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P21",
+        "ROI_id": "P21_C4",
+        "region": "Compact wall",
+        "image_territory": "Image-left ventricular mass",
+        "confidence": "high",
+        "anatomical_chamber": "Unresolved",
+        "histological_trabecular_verified": false,
+        "papillary_verified": false,
+        "primary_eligible": true,
+        "annotation_basis": "DAPI architecture only; no expression or cell labels viewed during ROI construction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1511.6187499999999,
+              4235.603125000001
+            ],
+            [
+              2055.8015,
+              4496.255625
+            ],
+            [
+              2539.5195,
+              4431.092500000001
+            ],
+            [
+              2902.3079999999995,
+              4300.766250000001
+            ],
+            [
+              2902.3079999999995,
+              4691.745
+            ],
+            [
+              2418.5899999999997,
+              4952.3975
+            ],
+            [
+              1813.9424999999999,
+              4887.234375
+            ],
+            [
+              1390.68925,
+              4561.41875
+            ],
+            [
+              1511.6187499999999,
+              4235.603125000001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P21",
+        "ROI_id": "P21_T1",
+        "region": "Cavity-facing myocardium",
+        "image_territory": "Image-right cavity margin",
+        "confidence": "moderate",
+        "anatomical_chamber": "Unresolved",
+        "histological_trabecular_verified": false,
+        "papillary_verified": false,
+        "primary_eligible": true,
+        "annotation_basis": "DAPI architecture only; no expression or cell labels viewed during ROI construction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4474.3915,
+              3518.80875
+            ],
+            [
+              4776.71525,
+              3453.645625
+            ],
+            [
+              4958.1095,
+              3779.46125
+            ],
+            [
+              4897.6447499999995,
+              4105.2768750000005
+            ],
+            [
+              4655.78575,
+              4300.766250000001
+            ],
+            [
+              4353.4619999999995,
+              4170.4400000000005
+            ],
+            [
+              4474.3915,
+              3844.624375
+            ],
+            [
+              4474.3915,
+              3518.80875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P21",
+        "ROI_id": "P21_T2",
+        "region": "Cavity-facing myocardium",
+        "image_territory": "Central basal cavity margin",
+        "confidence": "moderate",
+        "anatomical_chamber": "Unresolved",
+        "histological_trabecular_verified": false,
+        "papillary_verified": false,
+        "primary_eligible": true,
+        "annotation_basis": "DAPI architecture only; no expression or cell labels viewed during ROI construction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3083.70225,
+              4235.603125000001
+            ],
+            [
+              3325.5612499999997,
+              4170.4400000000005
+            ],
+            [
+              3506.9554999999996,
+              4365.929375000001
+            ],
+            [
+              3567.4202499999997,
+              4691.745
+            ],
+            [
+              3325.5612499999997,
+              4887.234375
+            ],
+            [
+              3144.167,
+              4626.581875
+            ],
+            [
+              3083.70225,
+              4235.603125000001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P21",
+        "ROI_id": "P21_V1",
+        "region": "Large-vessel-like surroundings",
+        "image_territory": "Image-defined vessel-like lumen",
+        "confidence": "low",
+        "anatomical_chamber": "Unresolved",
+        "primary_eligible": false,
+        "lumen_center_um": [
+          2630.2166249999996,
+          2704.2696874999997
+        ],
+        "lumen_radius_um": 35,
+        "outer_radius_um": 85,
+        "vessel_identity_verified": false,
+        "annotation_basis": "Closed DAPI-poor lumen and surrounding tissue; cannot establish artery/vein or exclude nonvascular void"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2715.2166249999996,
+              2704.2696874999997
+            ],
+            [
+              2714.807326767136,
+              2712.6011444280125
+            ],
+            [
+              2713.583373834274,
+              2720.852364871371
+            ],
+            [
+              2711.5565535372375,
+              2728.943885066629
+            ],
+            [
+              2708.746385263459,
+              2736.7977792510324
+            ],
+            [
+              2705.17993246961,
+              2744.3384101302095
+            ],
+            [
+              2700.891542045716,
+              2751.493157306666
+            ],
+            [
+              2695.9225135358324,
+              2758.19311665391
+            ],
+            [
+              2690.3207014008563,
+              2764.3737639008564
+            ],
+            [
+              2684.1400541539097,
+              2769.9755760358325
+            ],
+            [
+              2677.440094806666,
+              2774.944604545716
+            ],
+            [
+              2670.2853476302093,
+              2779.23299496961
+            ],
+            [
+              2662.7447167510322,
+              2782.7994477634593
+            ],
+            [
+              2654.8908225666287,
+              2785.6096160372376
+            ],
+            [
+              2646.7993023713707,
+              2787.636436334274
+            ],
+            [
+              2638.5480819280124,
+              2788.8603892671363
+            ],
+            [
+              2630.2166249999996,
+              2789.2696874999997
+            ],
+            [
+              2621.8851680719868,
+              2788.8603892671363
+            ],
+            [
+              2613.6339476286284,
+              2787.636436334274
+            ],
+            [
+              2605.5424274333704,
+              2785.6096160372376
+            ],
+            [
+              2597.688533248967,
+              2782.7994477634593
+            ],
+            [
+              2590.14790236979,
+              2779.23299496961
+            ],
+            [
+              2582.993155193333,
+              2774.944604545716
+            ],
+            [
+              2576.29319584609,
+              2769.9755760358325
+            ],
+            [
+              2570.112548599143,
+              2764.3737639008564
+            ],
+            [
+              2564.5107364641667,
+              2758.19311665391
+            ],
+            [
+              2559.541707954283,
+              2751.493157306666
+            ],
+            [
+              2555.2533175303893,
+              2744.3384101302095
+            ],
+            [
+              2551.68686473654,
+              2736.7977792510324
+            ],
+            [
+              2548.8766964627616,
+              2728.943885066629
+            ],
+            [
+              2546.849876165725,
+              2720.852364871371
+            ],
+            [
+              2545.625923232863,
+              2712.6011444280125
+            ],
+            [
+              2545.2166249999996,
+              2704.2696874999997
+            ],
+            [
+              2545.625923232863,
+              2695.938230571987
+            ],
+            [
+              2546.849876165725,
+              2687.6870101286286
+            ],
+            [
+              2548.8766964627616,
+              2679.5954899333706
+            ],
+            [
+              2551.68686473654,
+              2671.741595748967
+            ],
+            [
+              2555.2533175303893,
+              2664.20096486979
+            ],
+            [
+              2559.541707954283,
+              2657.0462176933333
+            ],
+            [
+              2564.5107364641667,
+              2650.34625834609
+            ],
+            [
+              2570.112548599143,
+              2644.165611099143
+            ],
+            [
+              2576.2931958460895,
+              2638.5637989641673
+            ],
+            [
+              2582.993155193333,
+              2633.594770454283
+            ],
+            [
+              2590.14790236979,
+              2629.3063800303894
+            ],
+            [
+              2597.688533248967,
+              2625.7399272365406
+            ],
+            [
+              2605.5424274333704,
+              2622.9297589627618
+            ],
+            [
+              2613.6339476286284,
+              2620.9029386657253
+            ],
+            [
+              2621.8851680719868,
+              2619.678985732863
+            ],
+            [
+              2630.2166249999996,
+              2619.2696874999997
+            ],
+            [
+              2638.5480819280124,
+              2619.678985732863
+            ],
+            [
+              2646.7993023713707,
+              2620.9029386657253
+            ],
+            [
+              2654.8908225666287,
+              2622.9297589627618
+            ],
+            [
+              2662.7447167510322,
+              2625.73992723654
+            ],
+            [
+              2670.2853476302093,
+              2629.3063800303894
+            ],
+            [
+              2677.440094806666,
+              2633.594770454283
+            ],
+            [
+              2684.1400541539097,
+              2638.5637989641673
+            ],
+            [
+              2690.3207014008563,
+              2644.165611099143
+            ],
+            [
+              2695.922513535832,
+              2650.3462583460896
+            ],
+            [
+              2700.891542045716,
+              2657.0462176933333
+            ],
+            [
+              2705.17993246961,
+              2664.20096486979
+            ],
+            [
+              2708.7463852634587,
+              2671.741595748967
+            ],
+            [
+              2711.5565535372375,
+              2679.5954899333706
+            ],
+            [
+              2713.583373834274,
+              2687.6870101286286
+            ],
+            [
+              2714.807326767136,
+              2695.938230571987
+            ],
+            [
+              2715.2166249999996,
+              2704.2696874999997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stage": "P21",
+        "ROI_id": "P21_V2",
+        "region": "Large-vessel-like surroundings",
+        "image_territory": "Image-defined vessel-like lumen",
+        "confidence": "low",
+        "anatomical_chamber": "Unresolved",
+        "primary_eligible": false,
+        "lumen_center_um": [
+          2932.5403749999996,
+          2313.2909375
+        ],
+        "lumen_radius_um": 35,
+        "outer_radius_um": 85,
+        "vessel_identity_verified": false,
+        "annotation_basis": "Closed DAPI-poor lumen and surrounding tissue; cannot establish artery/vein or exclude nonvascular void"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3017.5403749999996,
+              2313.2909375
+            ],
+            [
+              3017.131076767136,
+              2321.6223944280127
+            ],
+            [
+              3015.907123834274,
+              2329.873614871371
+            ],
+            [
+              3013.8803035372375,
+              2337.965135066629
+            ],
+            [
+              3011.0701352634587,
+              2345.8190292510326
+            ],
+            [
+              3007.50368246961,
+              2353.3596601302097
+            ],
+            [
+              3003.215292045716,
+              2360.5144073066663
+            ],
+            [
+              2998.2462635358324,
+              2367.2143666539096
+            ],
+            [
+              2992.6444514008563,
+              2373.3950139008566
+            ],
+            [
+              2986.463804153909,
+              2378.996826035833
+            ],
+            [
+              2979.763844806666,
+              2383.9658545457164
+            ],
+            [
+              2972.6090976302094,
+              2388.25424496961
+            ],
+            [
+              2965.0684667510322,
+              2391.820697763459
+            ],
+            [
+              2957.2145725666287,
+              2394.630866037238
+            ],
+            [
+              2949.1230523713707,
+              2396.6576863342743
+            ],
+            [
+              2940.8718319280124,
+              2397.8816392671365
+            ],
+            [
+              2932.5403749999996,
+              2398.2909375
+            ],
+            [
+              2924.208918071987,
+              2397.8816392671365
+            ],
+            [
+              2915.9576976286285,
+              2396.6576863342743
+            ],
+            [
+              2907.8661774333705,
+              2394.630866037238
+            ],
+            [
+              2900.012283248967,
+              2391.820697763459
+            ],
+            [
+              2892.47165236979,
+              2388.25424496961
+            ],
+            [
+              2885.3169051933332,
+              2383.9658545457164
+            ],
+            [
+              2878.61694584609,
+              2378.996826035833
+            ],
+            [
+              2872.436298599143,
+              2373.3950139008566
+            ],
+            [
+              2866.8344864641667,
+              2367.2143666539096
+            ],
+            [
+              2861.865457954283,
+              2360.5144073066663
+            ],
+            [
+              2857.5770675303893,
+              2353.3596601302097
+            ],
+            [
+              2854.0106147365404,
+              2345.8190292510326
+            ],
+            [
+              2851.2004464627616,
+              2337.965135066629
+            ],
+            [
+              2849.173626165725,
+              2329.873614871371
+            ],
+            [
+              2847.949673232863,
+              2321.6223944280127
+            ],
+            [
+              2847.5403749999996,
+              2313.2909375
+            ],
+            [
+              2847.949673232863,
+              2304.959480571987
+            ],
+            [
+              2849.173626165725,
+              2296.708260128629
+            ],
+            [
+              2851.2004464627616,
+              2288.616739933371
+            ],
+            [
+              2854.01061473654,
+              2280.7628457489673
+            ],
+            [
+              2857.5770675303893,
+              2273.22221486979
+            ],
+            [
+              2861.865457954283,
+              2266.0674676933336
+            ],
+            [
+              2866.8344864641667,
+              2259.3675083460903
+            ],
+            [
+              2872.436298599143,
+              2253.1868610991432
+            ],
+            [
+              2878.6169458460895,
+              2247.5850489641675
+            ],
+            [
+              2885.3169051933332,
+              2242.6160204542834
+            ],
+            [
+              2892.47165236979,
+              2238.3276300303896
+            ],
+            [
+              2900.012283248967,
+              2234.761177236541
+            ],
+            [
+              2907.8661774333705,
+              2231.951008962762
+            ],
+            [
+              2915.9576976286285,
+              2229.9241886657255
+            ],
+            [
+              2924.208918071987,
+              2228.7002357328633
+            ],
+            [
+              2932.5403749999996,
+              2228.2909375
+            ],
+            [
+              2940.8718319280124,
+              2228.7002357328633
+            ],
+            [
+              2949.1230523713707,
+              2229.9241886657255
+            ],
+            [
+              2957.2145725666287,
+              2231.951008962762
+            ],
+            [
+              2965.0684667510322,
+              2234.761177236541
+            ],
+            [
+              2972.6090976302094,
+              2238.3276300303896
+            ],
+            [
+              2979.763844806666,
+              2242.6160204542834
+            ],
+            [
+              2986.4638041539097,
+              2247.585048964167
+            ],
+            [
+              2992.6444514008563,
+              2253.1868610991432
+            ],
+            [
+              2998.246263535832,
+              2259.36750834609
+            ],
+            [
+              3003.215292045716,
+              2266.0674676933336
+            ],
+            [
+              3007.50368246961,
+              2273.22221486979
+            ],
+            [
+              3011.0701352634587,
+              2280.7628457489673
+            ],
+            [
+              3013.8803035372375,
+              2288.616739933371
+            ],
+            [
+              3015.907123834274,
+              2296.708260128629
+            ],
+            [
+              3017.131076767136,
+              2304.959480571987
+            ],
+            [
+              3017.5403749999996,
+              2313.2909375
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

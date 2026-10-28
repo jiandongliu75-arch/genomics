@@ -1,0 +1,11 @@
+stage	source	scope	exposure	outcome	beta_SD	CI_low	CI_high	within_section_p	CMs	spatial_blocks	residual_exposure_SD	context_ROI_conditioned	extra_controls	score_sensitivity_BH_q
+P0	FB:Postn	Score_omissions	E	Y__core_maturation21	0.048164895	0.0260051035	0.0703246866	0.000174593153	5529	23	0.744259442	True		0.000448708545
+P0	FB:Postn	Score_omissions	E	S__no_Myl2	0.0503728948	0.0283112142	0.0724345755	0.000100219509	5529	23	0.744259442	True		0.000448708545
+P0	FB:Postn	Score_omissions	E	S__without_three_dominant_genes	0.0463163782	0.0249534439	0.0676793125	0.000179483418	5529	23	0.744259442	True		0.000448708545
+P0	FB:Postn	Same_depth_eligible_CMs	E	Y__core_maturation21	0.050952995	0.0282316694	0.0736743206	0.000123139347	5238	23	0.741216488	True		0.000448708545
+P0	FB:Postn	Same_depth_eligible_CMs	E	S__equal_50_molecules	0.0339506953	0.0134421029	0.0544592877	0.00237545663	5238	23	0.741216488	True		0.00475091326
+P7	EC:Capillary-like	Score_omissions	E	Y__core_maturation21	0.0202620403	0.00412582127	0.0363982593	0.0149162559	11971	50	0.755941846	True		0.0219284411
+P7	EC:Capillary-like	Score_omissions	E	S__no_Myl2	0.0202417981	0.00371364043	0.0367699558	0.0174207497	11971	50	0.755941846	True		0.0219284411
+P7	EC:Capillary-like	Score_omissions	E	S__without_three_dominant_genes	0.0189455368	0.00345805921	0.0344330143	0.0175427529	11971	50	0.755941846	True		0.0219284411
+P7	EC:Capillary-like	Same_depth_eligible_CMs	E	Y__core_maturation21	0.0196703073	0.00266964991	0.0366709646	0.0242493269	11388	50	0.7528321	True		0.0269436966
+P7	EC:Capillary-like	Same_depth_eligible_CMs	E	S__equal_50_molecules	0.0164954272	-0.00937003702	0.0423608915	0.206019576	11388	50	0.7528321	True		0.206019576

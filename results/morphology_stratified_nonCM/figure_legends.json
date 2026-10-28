@@ -1,0 +1,12 @@
+[
+  {
+    "stem": "Figure_1_morphology_regions",
+    "title": "Conservative morphology-only regions",
+    "legend": "Green polygons mark compact-wall patches; orange marks cavity-facing myocardium; purple marks low-confidence papillary/trabecular projections; pink circles mark vessel-like lumens and surroundings. Uncolored tissue remains unclassified. All polygons were drawn from DAPI without displaying RNA or maturation maps during construction. These are candidate ROIs, not verified LV/RV, trabecular, papillary or arterial masks. Only green and orange patches enter the primary models."
+  },
+  {
+    "stem": "Figure_2_nonCM_relationships",
+    "title": "Anatomy-conditioned non-CM relationships with CM development",
+    "legend": "(a) All 48 primary comparisons are shown. Gray entries lack adequate reference/source/local support; stars mark primary BH q<0.05. Broad fibroblasts and Postn fibroblasts overlap almost completely at P0, so the two stars are not independent biological evidence. (b) Conservative usable anatomical patches cover about 31% of the strict CM cohort; unclassified regions and low-confidence candidates are retained outside primary tests. (c) Selected primary estimates and deposited-RNA sensitivity intervals are shown without implying all pass correction. Core is a confidence-supported RNA-assignment layer, not nuclear-only truth. Intervals describe within-section clustered uncertainty; there is one observed section per age."
+  }
+]

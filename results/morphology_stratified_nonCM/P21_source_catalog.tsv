@@ -1,0 +1,22 @@
+stage	source	eligible_source_profiles	reference_assessable	source_layer	subtype_status
+P21	Broad:Endothelial	8601	True	Current reviewed source definitions	Broad lineage
+P21	Broad:Fibroblast	10867	True	Current reviewed source definitions	Broad lineage
+P21	Broad:Pericyte	4444	True	Current reviewed source definitions	Broad lineage
+P21	Broad:Smooth muscle	1822	True	Current reviewed source definitions	Broad lineage
+P21	Broad:Immune	3260	True	Current reviewed source definitions	Broad lineage
+P21	Broad:Epicardial	289	True	Current reviewed source definitions	Broad lineage
+P21	EC:Capillary-like	2147	True	Current reviewed source definitions	RNA-supported candidate
+P21	EC:Endocardial-like	799	True	Current reviewed source definitions	RNA-supported candidate
+P21	EC:Arterial-like	73	True	Current reviewed source definitions	RNA-supported candidate
+P21	EC:Venous-like	0	True	Current reviewed source definitions	RNA-supported candidate
+P21	EC:Lymphatic-like	2	True	Current reviewed source definitions	RNA-supported candidate
+P21	FB:Postn	0	False	Current reviewed source definitions	RNA-supported candidate
+P21	FB:Gfpt2	85	True	Current reviewed source definitions	RNA-supported candidate
+P21	FB:Col8a1	3702	True	Current reviewed source definitions	RNA-supported candidate
+P21	FB:Lsamp	3454	True	Current reviewed source definitions	RNA-supported candidate
+P21	FB:Kirrel3	751	True	Current reviewed source definitions	RNA-supported candidate
+P21	EC:Cycling-associated	0	True	Current reviewed source definitions	RNA-supported candidate
+P21	EC_public:Capillary-like	5493	True	Public label plus reviewed broad EC	Alternative candidate
+P21	EC_public:Endocardial-like	2172	True	Public label plus reviewed broad EC	Alternative candidate
+P21	EC_public:Arterial-like	402	True	Public label plus reviewed broad EC	Alternative candidate
+P21	EC_public:Lymphatic-like	42	True	Public label plus reviewed broad EC	Alternative candidate

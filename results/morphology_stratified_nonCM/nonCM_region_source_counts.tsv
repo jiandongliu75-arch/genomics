@@ -1,0 +1,174 @@
+stage	region	source_subtype	source_profiles
+P0	Compact wall	EC:Arterial-like	47
+P0	Compact wall	EC:Capillary-like	339
+P0	Compact wall	EC:Endocardial-like	84
+P0	Compact wall	EC:Unresolved	504
+P0	Compact wall	Epicardial	23
+P0	Compact wall	FB:Kirrel3-associated	48
+P0	Compact wall	FB:Postn-associated	734
+P0	Compact wall	FB:Unresolved	19
+P0	Compact wall	Immune	66
+P0	Compact wall	Pericyte	153
+P0	Compact wall	Smooth muscle	121
+P0	Unclassified	EC:Arterial-like	42
+P0	Unclassified	EC:Capillary-like	507
+P0	Unclassified	EC:Endocardial-like	505
+P0	Unclassified	EC:Unresolved	1704
+P0	Unclassified	Epicardial	206
+P0	Unclassified	FB:Kirrel3-associated	6
+P0	Unclassified	FB:Postn-associated	1212
+P0	Unclassified	FB:Unresolved	1
+P0	Unclassified	Immune	219
+P0	Unclassified	Pericyte	295
+P0	Unclassified	Smooth muscle	462
+P7	Cavity-facing myocardium	EC:Capillary-like	68
+P7	Cavity-facing myocardium	EC:Endocardial-like	3
+P7	Cavity-facing myocardium	EC:Unresolved	341
+P7	Cavity-facing myocardium	FB:Gfpt2-associated	12
+P7	Cavity-facing myocardium	FB:Kirrel3-associated	46
+P7	Cavity-facing myocardium	FB:Postn-associated	326
+P7	Cavity-facing myocardium	FB:Unresolved	60
+P7	Cavity-facing myocardium	Immune	41
+P7	Cavity-facing myocardium	Pericyte	81
+P7	Cavity-facing myocardium	Smooth muscle	41
+P7	Compact wall	EC:Capillary-like	509
+P7	Compact wall	EC:Endocardial-like	17
+P7	Compact wall	EC:Unresolved	1785
+P7	Compact wall	Epicardial	25
+P7	Compact wall	FB:Gfpt2-associated	88
+P7	Compact wall	FB:Kirrel3-associated	1
+P7	Compact wall	FB:Postn-associated	770
+P7	Compact wall	FB:Unresolved	80
+P7	Compact wall	Immune	286
+P7	Compact wall	Pericyte	592
+P7	Compact wall	Smooth muscle	128
+P7	Large-vessel-like surroundings	EC:Capillary-like	2
+P7	Large-vessel-like surroundings	EC:Unresolved	15
+P7	Large-vessel-like surroundings	Epicardial	3
+P7	Large-vessel-like surroundings	FB:Postn-associated	12
+P7	Large-vessel-like surroundings	FB:Unresolved	2
+P7	Large-vessel-like surroundings	Immune	2
+P7	Large-vessel-like surroundings	Pericyte	4
+P7	Large-vessel-like surroundings	Smooth muscle	1
+P7	Papillary/trabecular projection candidate	EC:Capillary-like	3
+P7	Papillary/trabecular projection candidate	EC:Unresolved	14
+P7	Papillary/trabecular projection candidate	FB:Postn-associated	30
+P7	Papillary/trabecular projection candidate	FB:Unresolved	2
+P7	Papillary/trabecular projection candidate	Immune	3
+P7	Papillary/trabecular projection candidate	Pericyte	6
+P7	Unclassified	EC:Capillary-like	882
+P7	Unclassified	EC:Endocardial-like	238
+P7	Unclassified	EC:Unresolved	5067
+P7	Unclassified	Epicardial	334
+P7	Unclassified	FB:Gfpt2-associated	530
+P7	Unclassified	FB:Kirrel3-associated	180
+P7	Unclassified	FB:Postn-associated	4706
+P7	Unclassified	FB:Unresolved	520
+P7	Unclassified	Immune	905
+P7	Unclassified	Pericyte	1190
+P7	Unclassified	Smooth muscle	738
+P14	Cavity-facing myocardium	EC:Arterial-like	4
+P14	Cavity-facing myocardium	EC:Capillary-like	87
+P14	Cavity-facing myocardium	EC:Endocardial-like	56
+P14	Cavity-facing myocardium	EC:Unresolved	124
+P14	Cavity-facing myocardium	EC:Venous-like	8
+P14	Cavity-facing myocardium	Epicardial	1
+P14	Cavity-facing myocardium	FB:Col8a1-associated	208
+P14	Cavity-facing myocardium	FB:Gfpt2-associated	14
+P14	Cavity-facing myocardium	FB:Lsamp-associated	111
+P14	Cavity-facing myocardium	FB:Unresolved	57
+P14	Cavity-facing myocardium	Immune	70
+P14	Cavity-facing myocardium	Pericyte	227
+P14	Cavity-facing myocardium	Smooth muscle	62
+P14	Compact wall	EC:Arterial-like	38
+P14	Compact wall	EC:Capillary-like	797
+P14	Compact wall	EC:Endocardial-like	49
+P14	Compact wall	EC:Lymphatic-like	6
+P14	Compact wall	EC:Unresolved	710
+P14	Compact wall	EC:Venous-like	76
+P14	Compact wall	Epicardial	15
+P14	Compact wall	FB:Col8a1-associated	1032
+P14	Compact wall	FB:Gfpt2-associated	99
+P14	Compact wall	FB:Lsamp-associated	51
+P14	Compact wall	FB:Unresolved	170
+P14	Compact wall	Immune	463
+P14	Compact wall	Pericyte	1176
+P14	Compact wall	Smooth muscle	389
+P14	Large-vessel-like surroundings	EC:Capillary-like	2
+P14	Large-vessel-like surroundings	EC:Unresolved	8
+P14	Large-vessel-like surroundings	FB:Col8a1-associated	7
+P14	Large-vessel-like surroundings	FB:Lsamp-associated	3
+P14	Large-vessel-like surroundings	FB:Unresolved	2
+P14	Large-vessel-like surroundings	Immune	4
+P14	Large-vessel-like surroundings	Pericyte	8
+P14	Papillary/trabecular projection candidate	EC:Arterial-like	1
+P14	Papillary/trabecular projection candidate	EC:Capillary-like	7
+P14	Papillary/trabecular projection candidate	EC:Endocardial-like	4
+P14	Papillary/trabecular projection candidate	EC:Unresolved	11
+P14	Papillary/trabecular projection candidate	EC:Venous-like	4
+P14	Papillary/trabecular projection candidate	FB:Col8a1-associated	15
+P14	Papillary/trabecular projection candidate	FB:Lsamp-associated	10
+P14	Papillary/trabecular projection candidate	FB:Unresolved	5
+P14	Papillary/trabecular projection candidate	Immune	5
+P14	Papillary/trabecular projection candidate	Pericyte	9
+P14	Papillary/trabecular projection candidate	Smooth muscle	5
+P14	Unclassified	EC:Arterial-like	94
+P14	Unclassified	EC:Capillary-like	2333
+P14	Unclassified	EC:Endocardial-like	555
+P14	Unclassified	EC:Lymphatic-like	22
+P14	Unclassified	EC:Unresolved	2959
+P14	Unclassified	EC:Venous-like	131
+P14	Unclassified	Epicardial	385
+P14	Unclassified	FB:Col8a1-associated	3317
+P14	Unclassified	FB:Gfpt2-associated	484
+P14	Unclassified	FB:Kirrel3-associated	50
+P14	Unclassified	FB:Lsamp-associated	1280
+P14	Unclassified	FB:Unresolved	1183
+P14	Unclassified	Immune	1494
+P14	Unclassified	Pericyte	3087
+P14	Unclassified	Smooth muscle	3239
+P21	Cavity-facing myocardium	EC:Capillary-like	29
+P21	Cavity-facing myocardium	EC:Endocardial-like	35
+P21	Cavity-facing myocardium	EC:Unresolved	129
+P21	Cavity-facing myocardium	FB:Col8a1-associated	105
+P21	Cavity-facing myocardium	FB:Kirrel3-associated	94
+P21	Cavity-facing myocardium	FB:Lsamp-associated	229
+P21	Cavity-facing myocardium	FB:Unresolved	146
+P21	Cavity-facing myocardium	Immune	76
+P21	Cavity-facing myocardium	Pericyte	81
+P21	Cavity-facing myocardium	Smooth muscle	13
+P21	Compact wall	EC:Arterial-like	8
+P21	Compact wall	EC:Capillary-like	360
+P21	Compact wall	EC:Endocardial-like	14
+P21	Compact wall	EC:Lymphatic-like	1
+P21	Compact wall	EC:Unresolved	771
+P21	Compact wall	Epicardial	7
+P21	Compact wall	FB:Col8a1-associated	612
+P21	Compact wall	FB:Gfpt2-associated	10
+P21	Compact wall	FB:Kirrel3-associated	1
+P21	Compact wall	FB:Lsamp-associated	162
+P21	Compact wall	FB:Unresolved	306
+P21	Compact wall	Immune	506
+P21	Compact wall	Pericyte	861
+P21	Compact wall	Smooth muscle	319
+P21	Large-vessel-like surroundings	EC:Endocardial-like	5
+P21	Large-vessel-like surroundings	EC:Unresolved	12
+P21	Large-vessel-like surroundings	FB:Col8a1-associated	4
+P21	Large-vessel-like surroundings	FB:Lsamp-associated	26
+P21	Large-vessel-like surroundings	FB:Unresolved	10
+P21	Large-vessel-like surroundings	Immune	4
+P21	Large-vessel-like surroundings	Pericyte	2
+P21	Unclassified	EC:Arterial-like	65
+P21	Unclassified	EC:Capillary-like	1758
+P21	Unclassified	EC:Endocardial-like	745
+P21	Unclassified	EC:Lymphatic-like	1
+P21	Unclassified	EC:Unresolved	4668
+P21	Unclassified	Epicardial	282
+P21	Unclassified	FB:Col8a1-associated	2981
+P21	Unclassified	FB:Gfpt2-associated	75
+P21	Unclassified	FB:Kirrel3-associated	656
+P21	Unclassified	FB:Lsamp-associated	3037
+P21	Unclassified	FB:Unresolved	2413
+P21	Unclassified	Immune	2674
+P21	Unclassified	Pericyte	3500
+P21	Unclassified	Smooth muscle	1490

@@ -1,0 +1,76 @@
+{
+  "status": "PASS",
+  "anatomy_sha256": "f7ba6f8d2c1a286d38c4808fd56085c9364bf028b681fd75a5c8eab5bab64a84",
+  "ROI_count": 31,
+  "primary_ROIs": 23,
+  "all_LV_RV_unresolved": true,
+  "anatomy_cells": [
+    {
+      "stage": "P0",
+      "strict_CMs": 17272,
+      "primary_anatomical_CMs": 5529,
+      "independent_polygon_assignments_match": true
+    },
+    {
+      "stage": "P7",
+      "strict_CMs": 30485,
+      "primary_anatomical_CMs": 11972,
+      "independent_polygon_assignments_match": true
+    },
+    {
+      "stage": "P14",
+      "strict_CMs": 33659,
+      "primary_anatomical_CMs": 10583,
+      "independent_polygon_assignments_match": true
+    },
+    {
+      "stage": "P21",
+      "strict_CMs": 37949,
+      "primary_anatomical_CMs": 8563,
+      "independent_polygon_assignments_match": true
+    }
+  ],
+  "independent_model_refits": [
+    {
+      "stage": "P0",
+      "source": "FB:Postn",
+      "independent_coefficient_error": 2.2027386858969322e-11,
+      "cluster_interval_verified": true
+    },
+    {
+      "stage": "P7",
+      "source": "EC:Capillary-like",
+      "independent_coefficient_error": 8.401133955171503e-12,
+      "cluster_interval_verified": true
+    },
+    {
+      "stage": "P14",
+      "source": "Broad:Immune",
+      "independent_coefficient_error": 2.9110555979650066e-11,
+      "cluster_interval_verified": true
+    },
+    {
+      "stage": "P21",
+      "source": "FB:Col8a1",
+      "independent_coefficient_error": 3.368786673230151e-11,
+      "cluster_interval_verified": true
+    }
+  ],
+  "primary_BH_tests": 48,
+  "secondary_BH_tests": 3357,
+  "targeted_score_sensitivity_tests": 10,
+  "nonCM_profiles_assigned": 130385,
+  "document_validation": {
+    "status": "PASS",
+    "PDF_pages": 6,
+    "figure_pages": [
+      4,
+      5
+    ],
+    "Word_current_image_hashes_verified": true,
+    "PDF_text_bounds_checked": true
+  },
+  "no_new_samples": true,
+  "no_new_segmentation": true,
+  "expert_histology_validation_completed": false
+}

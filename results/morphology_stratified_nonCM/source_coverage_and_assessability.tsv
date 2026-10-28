@@ -1,0 +1,85 @@
+stage	source	eligible_source_profiles	reference_assessable	source_layer	subtype_status	annotated_CMs_within100um	nearby_spatial_blocks	reachable_CMs	analysis_status
+P0	Broad:Endothelial	3732	True	Current reviewed source definitions	Broad lineage	5529	23	17272	Tested
+P0	Broad:Fibroblast	2020	True	Current reviewed source definitions	Broad lineage	5516	23	17272	Tested
+P0	Broad:Pericyte	448	True	Current reviewed source definitions	Broad lineage	5286	23	17272	Tested
+P0	Broad:Smooth muscle	583	True	Current reviewed source definitions	Broad lineage	1570	14	17272	Tested
+P0	Broad:Immune	285	True	Current reviewed source definitions	Broad lineage	3775	23	17272	Tested
+P0	Broad:Epicardial	229	True	Current reviewed source definitions	Broad lineage	795	16	17272	Tested
+P0	EC:Capillary-like	846	True	Current reviewed source definitions	RNA-supported candidate	5192	23	17272	Tested
+P0	EC:Endocardial-like	589	True	Current reviewed source definitions	RNA-supported candidate	2090	15	17272	Tested
+P0	EC:Arterial-like	89	True	Current reviewed source definitions	RNA-supported candidate	1701	12	17272	Tested
+P0	EC:Venous-like	0	True	Current reviewed source definitions	RNA-supported candidate	NA	NA	NA	Fewer than30 sources
+P0	EC:Lymphatic-like	0	True	Current reviewed source definitions	RNA-supported candidate	NA	NA	NA	Fewer than30 sources
+P0	FB:Postn	1946	True	Current reviewed source definitions	RNA-supported candidate	5516	23	17272	Tested
+P0	FB:Gfpt2	0	False	Current reviewed source definitions	RNA-supported candidate	NA	NA	NA	Reference not assessable
+P0	FB:Col8a1	0	False	Current reviewed source definitions	RNA-supported candidate	NA	NA	NA	Reference not assessable
+P0	FB:Lsamp	0	False	Current reviewed source definitions	RNA-supported candidate	NA	NA	NA	Reference not assessable
+P0	FB:Kirrel3	54	True	Current reviewed source definitions	RNA-supported candidate	99	3	17272	Insufficient local CM coverage
+P0	EC:Cycling-associated	417	True	Current reviewed source definitions	RNA-supported candidate	5171	22	17272	Tested
+P0	EC_public:Capillary-like	1415	True	Public label plus reviewed broad EC	Alternative candidate	5491	23	17272	Tested
+P0	EC_public:Endocardial-like	1297	True	Public label plus reviewed broad EC	Alternative candidate	2305	17	17272	Tested
+P0	EC_public:Arterial-like	286	True	Public label plus reviewed broad EC	Alternative candidate	3820	20	17272	Tested
+P0	EC_public:Lymphatic-like	0	True	Public label plus reviewed broad EC	Alternative candidate	NA	NA	NA	Fewer than30 sources
+P7	Broad:Endothelial	8944	True	Current reviewed source definitions	Broad lineage	11972	50	30484	Tested
+P7	Broad:Fibroblast	7365	True	Current reviewed source definitions	Broad lineage	11968	50	30484	Tested
+P7	Broad:Pericyte	1873	True	Current reviewed source definitions	Broad lineage	11949	50	30484	Tested
+P7	Broad:Smooth muscle	908	True	Current reviewed source definitions	Broad lineage	5222	40	30484	Tested
+P7	Broad:Immune	1237	True	Current reviewed source definitions	Broad lineage	11139	49	30484	Tested
+P7	Broad:Epicardial	362	True	Current reviewed source definitions	Broad lineage	894	26	30484	Tested
+P7	EC:Capillary-like	1464	True	Current reviewed source definitions	RNA-supported candidate	11400	49	30484	Tested
+P7	EC:Endocardial-like	258	True	Current reviewed source definitions	RNA-supported candidate	1313	17	30484	Tested
+P7	EC:Arterial-like	0	True	Current reviewed source definitions	RNA-supported candidate	NA	NA	NA	Fewer than30 sources
+P7	EC:Venous-like	0	True	Current reviewed source definitions	RNA-supported candidate	NA	NA	NA	Fewer than30 sources
+P7	EC:Lymphatic-like	0	True	Current reviewed source definitions	RNA-supported candidate	NA	NA	NA	Fewer than30 sources
+P7	FB:Postn	5844	True	Current reviewed source definitions	RNA-supported candidate	11958	50	30484	Tested
+P7	FB:Gfpt2	630	True	Current reviewed source definitions	RNA-supported candidate	6351	44	30484	Tested
+P7	FB:Col8a1	0	False	Current reviewed source definitions	RNA-supported candidate	NA	NA	NA	Reference not assessable
+P7	FB:Lsamp	0	False	Current reviewed source definitions	RNA-supported candidate	NA	NA	NA	Reference not assessable
+P7	FB:Kirrel3	227	True	Current reviewed source definitions	RNA-supported candidate	272	7	30484	Insufficient local CM coverage
+P7	EC:Cycling-associated	900	True	Current reviewed source definitions	RNA-supported candidate	10543	49	30484	Tested
+P7	EC_public:Capillary-like	3223	True	Public label plus reviewed broad EC	Alternative candidate	11902	50	30484	Tested
+P7	EC_public:Endocardial-like	1521	True	Public label plus reviewed broad EC	Alternative candidate	3712	32	30484	Tested
+P7	EC_public:Arterial-like	736	True	Public label plus reviewed broad EC	Alternative candidate	9516	48	30484	Tested
+P7	EC_public:Lymphatic-like	0	True	Public label plus reviewed broad EC	Alternative candidate	NA	NA	NA	Fewer than30 sources
+P14	Broad:Endothelial	8086	True	Current reviewed source definitions	Broad lineage	10451	77	33658	Tested
+P14	Broad:Fibroblast	8098	True	Current reviewed source definitions	Broad lineage	10578	77	33659	Tested
+P14	Broad:Pericyte	4507	True	Current reviewed source definitions	Broad lineage	10556	76	33658	Tested
+P14	Broad:Smooth muscle	3695	True	Current reviewed source definitions	Broad lineage	4745	64	33658	Tested
+P14	Broad:Immune	2036	True	Current reviewed source definitions	Broad lineage	10086	76	33658	Tested
+P14	Broad:Epicardial	401	True	Current reviewed source definitions	Broad lineage	743	28	33658	Tested
+P14	EC:Capillary-like	3226	True	Current reviewed source definitions	RNA-supported candidate	9618	76	33658	Tested
+P14	EC:Endocardial-like	664	True	Current reviewed source definitions	RNA-supported candidate	1255	32	33658	Tested
+P14	EC:Arterial-like	137	True	Current reviewed source definitions	RNA-supported candidate	1167	28	33658	Tested
+P14	EC:Venous-like	219	True	Current reviewed source definitions	RNA-supported candidate	3209	56	33658	Tested
+P14	EC:Lymphatic-like	28	True	Current reviewed source definitions	RNA-supported candidate	NA	NA	NA	Fewer than30 sources
+P14	FB:Postn	0	False	Current reviewed source definitions	RNA-supported candidate	NA	NA	NA	Reference not assessable
+P14	FB:Gfpt2	597	True	Current reviewed source definitions	RNA-supported candidate	4090	54	33658	Tested
+P14	FB:Col8a1	4579	True	Current reviewed source definitions	RNA-supported candidate	10565	77	33659	Tested
+P14	FB:Lsamp	1455	True	Current reviewed source definitions	RNA-supported candidate	2374	56	33658	Tested
+P14	FB:Kirrel3	50	True	Current reviewed source definitions	RNA-supported candidate	26	1	33658	Insufficient local CM coverage
+P14	EC:Cycling-associated	85	True	Current reviewed source definitions	RNA-supported candidate	1320	28	33658	Tested
+P14	EC_public:Capillary-like	4935	True	Public label plus reviewed broad EC	Alternative candidate	10249	77	33658	Tested
+P14	EC_public:Endocardial-like	1431	True	Public label plus reviewed broad EC	Alternative candidate	1588	36	33658	Tested
+P14	EC_public:Arterial-like	667	True	Public label plus reviewed broad EC	Alternative candidate	5362	67	33658	Tested
+P14	EC_public:Lymphatic-like	41	True	Public label plus reviewed broad EC	Alternative candidate	199	11	33658	Tested
+P21	Broad:Endothelial	8601	True	Current reviewed source definitions	Broad lineage	8458	65	37948	Tested
+P21	Broad:Fibroblast	10867	True	Current reviewed source definitions	Broad lineage	8548	65	37948	Tested
+P21	Broad:Pericyte	4444	True	Current reviewed source definitions	Broad lineage	8557	65	37948	Tested
+P21	Broad:Smooth muscle	1822	True	Current reviewed source definitions	Broad lineage	4404	57	37948	Tested
+P21	Broad:Immune	3260	True	Current reviewed source definitions	Broad lineage	8319	65	37948	Tested
+P21	Broad:Epicardial	289	True	Current reviewed source definitions	Broad lineage	216	14	37948	Tested
+P21	EC:Capillary-like	2147	True	Current reviewed source definitions	RNA-supported candidate	7523	61	37948	Tested
+P21	EC:Endocardial-like	799	True	Current reviewed source definitions	RNA-supported candidate	1037	24	37948	Tested
+P21	EC:Arterial-like	73	True	Current reviewed source definitions	RNA-supported candidate	598	17	37948	Tested
+P21	EC:Venous-like	0	True	Current reviewed source definitions	RNA-supported candidate	NA	NA	NA	Fewer than30 sources
+P21	EC:Lymphatic-like	2	True	Current reviewed source definitions	RNA-supported candidate	NA	NA	NA	Fewer than30 sources
+P21	FB:Postn	0	False	Current reviewed source definitions	RNA-supported candidate	NA	NA	NA	Reference not assessable
+P21	FB:Gfpt2	85	True	Current reviewed source definitions	RNA-supported candidate	635	18	37948	Tested
+P21	FB:Col8a1	3702	True	Current reviewed source definitions	RNA-supported candidate	8454	65	37948	Tested
+P21	FB:Lsamp	3454	True	Current reviewed source definitions	RNA-supported candidate	4796	60	37948	Tested
+P21	FB:Kirrel3	751	True	Current reviewed source definitions	RNA-supported candidate	227	7	37948	Insufficient local CM coverage
+P21	EC:Cycling-associated	0	True	Current reviewed source definitions	RNA-supported candidate	NA	NA	NA	Fewer than30 sources
+P21	EC_public:Capillary-like	5493	True	Public label plus reviewed broad EC	Alternative candidate	8367	64	37948	Tested
+P21	EC_public:Endocardial-like	2172	True	Public label plus reviewed broad EC	Alternative candidate	1290	24	37948	Tested
+P21	EC_public:Arterial-like	402	True	Public label plus reviewed broad EC	Alternative candidate	3225	49	37948	Tested
+P21	EC_public:Lymphatic-like	42	True	Public label plus reviewed broad EC	Alternative candidate	270	8	37948	Tested
