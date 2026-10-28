@@ -1,0 +1,93 @@
+stage	pair_id	ligand	receptor	pathway	source_group	receiver_two_library_support	sender_two_library_support	joint_two_library_support	raw_also_supported	minimum_sender_library_nuclei	minimum_sender_detection	minimum_receiver_detection	minimum_mean_expression	interpretation
+P0	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	CM	True	True	True	True	5091	0.43292084	0.43292084	1.0352025	Replicated molecular availability, not demonstrated communication
+P0	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Broad:Endothelial	True	True	True	True	608	0.89473684	0.43292084	1.0352025	Replicated molecular availability, not demonstrated communication
+P0	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Broad:Fibroblast	True	True	True	True	1026	0.51754386	0.43292084	1.0352025	Replicated molecular availability, not demonstrated communication
+P0	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Broad:Pericyte	True	True	True	True	113	0.32743363	0.43292084	1.0352025	Replicated molecular availability, not demonstrated communication
+P0	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Broad:Smooth muscle	True	True	True	True	49	0.1884058	0.43292084	0.86415382	Replicated molecular availability, not demonstrated communication
+P0	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Broad:Immune	True	True	True	True	43	0.26530612	0.43292084	0.81115194	Replicated molecular availability, not demonstrated communication
+P0	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Broad:Epicardial	True	True	True	True	87	0.033783784	0.43292084	0.2420922	Replicated molecular availability, not demonstrated communication
+P0	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	EC:Capillary-like	True	True	True	True	233	0.96995708	0.43292084	1.0352025	Replicated molecular availability, not demonstrated communication
+P0	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	EC:Endocardial-like	True	True	True	True	269	0.79553903	0.43292084	1.0352025	Replicated molecular availability, not demonstrated communication
+P0	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	EC:Arterial-like	True	False	False	False	22	1	0.43292084	0	Replicated molecular availability, not demonstrated communication
+P0	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	EC:Venous-like	True	False	False	False	0	0	0.43292084	0	Replicated molecular availability, not demonstrated communication
+P0	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	EC:Lymphatic-like	True	False	False	False	0	0	0.43292084	0	Replicated molecular availability, not demonstrated communication
+P0	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	EC:Unresolved	True	True	True	True	35	0.95714286	0.43292084	1.0352025	Replicated molecular availability, not demonstrated communication
+P0	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	FB:Postn	True	True	True	True	841	0.47919144	0.43292084	1.0352025	Replicated molecular availability, not demonstrated communication
+P0	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	FB:Gfpt2	True	False	False	False	0	0	0.43292084	0	Replicated molecular availability, not demonstrated communication
+P0	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	FB:Col8a1	True	False	False	False	0	0	0.43292084	0	Replicated molecular availability, not demonstrated communication
+P0	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	FB:Lsamp	True	False	False	False	0	0	0.43292084	0	Replicated molecular availability, not demonstrated communication
+P0	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	FB:Kirrel3	True	True	True	True	176	0.69189189	0.43292084	1.0352025	Replicated molecular availability, not demonstrated communication
+P0	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	FB:Unresolved	True	False	False	False	0	0	0.43292084	0	Replicated molecular availability, not demonstrated communication
+P0	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Pericyte	True	True	True	True	113	0.32743363	0.43292084	1.0352025	Replicated molecular availability, not demonstrated communication
+P0	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Smooth muscle	True	True	True	True	49	0.1884058	0.43292084	0.86415382	Replicated molecular availability, not demonstrated communication
+P0	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Immune	True	True	True	True	43	0.26530612	0.43292084	0.81115194	Replicated molecular availability, not demonstrated communication
+P0	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Epicardial	True	True	True	True	87	0.033783784	0.43292084	0.2420922	Replicated molecular availability, not demonstrated communication
+P7	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	CM	True	True	True	True	4874	0.81459711	0.81459711	2.2805058	Replicated molecular availability, not demonstrated communication
+P7	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Broad:Endothelial	True	True	True	True	356	0.97484277	0.81459711	2.2805058	Replicated molecular availability, not demonstrated communication
+P7	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Broad:Fibroblast	True	True	True	True	1110	0.53738318	0.81459711	1.8433736	Replicated molecular availability, not demonstrated communication
+P7	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Broad:Pericyte	True	True	True	True	206	0.3594306	0.81459711	1.4460298	Replicated molecular availability, not demonstrated communication
+P7	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Broad:Smooth muscle	True	True	True	True	46	0.36956522	0.81459711	1.5566126	Replicated molecular availability, not demonstrated communication
+P7	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Broad:Immune	True	True	True	True	93	0.47368421	0.81459711	1.7186654	Replicated molecular availability, not demonstrated communication
+P7	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Broad:Epicardial	True	True	True	True	43	0.13953488	0.81459711	0.62777311	Replicated molecular availability, not demonstrated communication
+P7	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	EC:Capillary-like	True	True	True	True	107	0.98823529	0.81459711	2.2805058	Replicated molecular availability, not demonstrated communication
+P7	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	EC:Endocardial-like	True	True	True	True	55	0.90410959	0.81459711	2.2805058	Replicated molecular availability, not demonstrated communication
+P7	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	EC:Arterial-like	True	False	False	False	0	0	0.81459711	0	Replicated molecular availability, not demonstrated communication
+P7	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	EC:Venous-like	True	False	False	False	0	0	0.81459711	0	Replicated molecular availability, not demonstrated communication
+P7	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	EC:Lymphatic-like	True	False	False	False	0	0	0.81459711	0	Replicated molecular availability, not demonstrated communication
+P7	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	EC:Unresolved	True	True	True	True	194	0.96907216	0.81459711	2.2805058	Replicated molecular availability, not demonstrated communication
+P7	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	FB:Postn	True	True	True	True	838	0.52578191	0.81459711	1.8229777	Replicated molecular availability, not demonstrated communication
+P7	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	FB:Gfpt2	True	True	True	True	203	0.56640625	0.81459711	1.9158538	Replicated molecular availability, not demonstrated communication
+P7	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	FB:Col8a1	True	False	False	False	0	0	0.81459711	0	Replicated molecular availability, not demonstrated communication
+P7	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	FB:Lsamp	True	False	False	False	0	0	0.81459711	0	Replicated molecular availability, not demonstrated communication
+P7	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	FB:Kirrel3	True	True	True	True	59	0.6440678	0.81459711	1.9013209	Replicated molecular availability, not demonstrated communication
+P7	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	FB:Unresolved	True	False	False	False	0	0	0.81459711	0	Replicated molecular availability, not demonstrated communication
+P7	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Pericyte	True	True	True	True	206	0.3594306	0.81459711	1.4460298	Replicated molecular availability, not demonstrated communication
+P7	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Smooth muscle	True	True	True	True	46	0.36956522	0.81459711	1.5566126	Replicated molecular availability, not demonstrated communication
+P7	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Immune	True	True	True	True	93	0.47368421	0.81459711	1.7186654	Replicated molecular availability, not demonstrated communication
+P7	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Epicardial	True	True	True	True	43	0.13953488	0.81459711	0.62777311	Replicated molecular availability, not demonstrated communication
+P14	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	CM	True	True	True	True	5153	0.98311663	0.98311663	2.6209569	Replicated molecular availability, not demonstrated communication
+P14	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Broad:Endothelial	True	True	True	True	536	0.97201493	0.98311663	2.6209569	Replicated molecular availability, not demonstrated communication
+P14	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Broad:Fibroblast	True	True	True	True	2279	0.82448442	0.98311663	2.1007807	Replicated molecular availability, not demonstrated communication
+P14	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Broad:Pericyte	True	True	True	True	643	0.60653188	0.98311663	1.5998275	Replicated molecular availability, not demonstrated communication
+P14	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Broad:Smooth muscle	True	True	True	True	116	0.60344828	0.98311663	1.5677097	Replicated molecular availability, not demonstrated communication
+P14	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Broad:Immune	True	True	True	True	173	0.29184549	0.98311663	0.97473317	Replicated molecular availability, not demonstrated communication
+P14	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Broad:Epicardial	True	True	True	True	80	0.21495327	0.98311663	0.81952346	Replicated molecular availability, not demonstrated communication
+P14	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	EC:Capillary-like	True	True	True	True	287	0.98606272	0.98311663	2.6209569	Replicated molecular availability, not demonstrated communication
+P14	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	EC:Endocardial-like	True	True	True	True	99	0.92929293	0.98311663	2.6209569	Replicated molecular availability, not demonstrated communication
+P14	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	EC:Arterial-like	True	False	False	False	9	1	0.98311663	0	Replicated molecular availability, not demonstrated communication
+P14	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	EC:Venous-like	True	True	True	True	126	0.96825397	0.98311663	2.6209569	Replicated molecular availability, not demonstrated communication
+P14	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	EC:Lymphatic-like	True	False	False	False	8	1	0.98311663	0	Replicated molecular availability, not demonstrated communication
+P14	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	EC:Unresolved	True	False	False	False	0	0	0.98311663	0	Replicated molecular availability, not demonstrated communication
+P14	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	FB:Postn	True	False	False	False	0	0	0.98311663	0	Replicated molecular availability, not demonstrated communication
+P14	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	FB:Gfpt2	True	True	True	True	437	0.82608696	0.98311663	2.1040062	Replicated molecular availability, not demonstrated communication
+P14	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	FB:Col8a1	True	True	True	True	1371	0.83588621	0.98311663	2.0851288	Replicated molecular availability, not demonstrated communication
+P14	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	FB:Lsamp	True	True	True	True	382	0.78534031	0.98311663	2.0623798	Replicated molecular availability, not demonstrated communication
+P14	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	FB:Kirrel3	True	True	True	True	73	0.80821918	0.98311663	2.1827973	Replicated molecular availability, not demonstrated communication
+P14	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	FB:Unresolved	True	False	False	False	16	0.8125	0.98311663	0	Replicated molecular availability, not demonstrated communication
+P14	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Pericyte	True	True	True	True	643	0.60653188	0.98311663	1.5998275	Replicated molecular availability, not demonstrated communication
+P14	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Smooth muscle	True	True	True	True	116	0.60344828	0.98311663	1.5677097	Replicated molecular availability, not demonstrated communication
+P14	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Immune	True	True	True	True	173	0.29184549	0.98311663	0.97473317	Replicated molecular availability, not demonstrated communication
+P14	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Epicardial	True	True	True	True	80	0.21495327	0.98311663	0.81952346	Replicated molecular availability, not demonstrated communication
+P21	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	CM	True	True	True	True	3256	0.99232187	0.99232187	2.6744762	Replicated molecular availability, not demonstrated communication
+P21	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Broad:Endothelial	True	True	True	True	340	0.9807074	0.99232187	2.6744762	Replicated molecular availability, not demonstrated communication
+P21	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Broad:Fibroblast	True	True	True	True	1786	0.82203058	0.99232187	2.0381625	Replicated molecular availability, not demonstrated communication
+P21	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Broad:Pericyte	True	True	True	True	428	0.51446945	0.99232187	1.4224583	Replicated molecular availability, not demonstrated communication
+P21	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Broad:Smooth muscle	True	True	True	True	59	0.55737705	0.99232187	1.490162	Replicated molecular availability, not demonstrated communication
+P21	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Broad:Immune	True	True	True	True	123	0.32142857	0.99232187	1.0656073	Replicated molecular availability, not demonstrated communication
+P21	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Broad:Epicardial	True	True	True	True	52	0.095588235	0.99232187	0.4236153	Replicated molecular availability, not demonstrated communication
+P21	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	EC:Capillary-like	True	True	True	True	148	0.99763033	0.99232187	2.6744762	Replicated molecular availability, not demonstrated communication
+P21	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	EC:Endocardial-like	True	True	True	True	65	0.92307692	0.99232187	2.6274689	Replicated molecular availability, not demonstrated communication
+P21	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	EC:Arterial-like	True	False	False	False	14	1	0.99232187	0	Replicated molecular availability, not demonstrated communication
+P21	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	EC:Venous-like	True	False	False	False	0	0	0.99232187	0	Replicated molecular availability, not demonstrated communication
+P21	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	EC:Lymphatic-like	True	False	False	False	3	1	0.99232187	0	Replicated molecular availability, not demonstrated communication
+P21	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	EC:Unresolved	True	True	True	True	110	0.99090909	0.99232187	2.6744762	Replicated molecular availability, not demonstrated communication
+P21	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	FB:Postn	True	False	False	False	0	0	0.99232187	0	Replicated molecular availability, not demonstrated communication
+P21	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	FB:Gfpt2	True	True	True	True	125	0.83766234	0.99232187	2.0285106	Replicated molecular availability, not demonstrated communication
+P21	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	FB:Col8a1	True	True	True	True	1143	0.8223972	0.99232187	2.0381231	Replicated molecular availability, not demonstrated communication
+P21	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	FB:Lsamp	True	True	True	True	469	0.79973822	0.99232187	2.0349374	Replicated molecular availability, not demonstrated communication
+P21	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	FB:Kirrel3	True	True	True	True	49	0.90769231	0.99232187	2.0945724	Replicated molecular availability, not demonstrated communication
+P21	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	FB:Unresolved	True	False	False	False	0	0	0.99232187	0	Replicated molecular availability, not demonstrated communication
+P21	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Pericyte	True	True	True	True	428	0.51446945	0.99232187	1.4224583	Replicated molecular availability, not demonstrated communication
+P21	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Smooth muscle	True	True	True	True	59	0.55737705	0.99232187	1.490162	Replicated molecular availability, not demonstrated communication
+P21	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Immune	True	True	True	True	123	0.32142857	0.99232187	1.0656073	Replicated molecular availability, not demonstrated communication
+P21	Ptprm--Ptprm	Ptprm	Ptprm	PTPRM	Epicardial	True	True	True	True	52	0.095588235	0.99232187	0.4236153	Replicated molecular availability, not demonstrated communication

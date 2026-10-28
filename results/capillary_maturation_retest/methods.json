@@ -1,0 +1,12 @@
+{
+  "primary_proximity_tests": 8,
+  "primary_PTPRM_tests": 60,
+  "score": "Frozen pooled gene-Z mean of 21 directly measured genes; exact author AddModuleScore not recovered",
+  "proximity_primary": "8 tests: 4 ages x 2 capillary definitions, strict CMs, technical + identity + anatomy adjustment, 400um clustered uncertainty",
+  "PTPRM_primary": "60 tests: 4 ages x 5 outcomes x 3 Ptprm terms, core RNA, operational contact graph",
+  "contact": "Shared refined raster territory boundary, inherited graph; not verified protein interaction",
+  "oxygen": "No oxygen/perfusion measure or validated spatial hypoxia module; VEGFA alone is insufficient",
+  "uncertainty": "CR1 spatial-cluster sandwich with t(df=blocks-1), 400um primary and 800um sensitivity; one section per age; no animal-level inference",
+  "mediation_claimed": false,
+  "new_segmentation": false
+}

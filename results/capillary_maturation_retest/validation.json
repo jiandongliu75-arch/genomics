@@ -1,0 +1,68 @@
+{
+  "status": "PASS",
+  "primary_proximity_tests": 8,
+  "primary_PTPRM_tests": 60,
+  "independent_distances": [
+    {
+      "stage": "P0",
+      "maximum_distance_error_um": 7.162212860123418e-05,
+      "CMs": 23523
+    },
+    {
+      "stage": "P7",
+      "maximum_distance_error_um": 7.33857628745227e-05,
+      "CMs": 35230
+    },
+    {
+      "stage": "P14",
+      "maximum_distance_error_um": 7.38356948488672e-05,
+      "CMs": 39334
+    },
+    {
+      "stage": "P21",
+      "maximum_distance_error_um": 7.534392996433326e-05,
+      "CMs": 48003
+    }
+  ],
+  "independent_OLS_and_FWL_intervals": [
+    {
+      "stage": "P0",
+      "independent_slope_error": 2.5349874976932085e-11,
+      "spatial_blocks": 37,
+      "FWL_cluster_interval_verified": true
+    },
+    {
+      "stage": "P7",
+      "independent_slope_error": 4.330979047617589e-10,
+      "spatial_blocks": 74,
+      "FWL_cluster_interval_verified": true
+    },
+    {
+      "stage": "P14",
+      "independent_slope_error": 3.476984949957185e-10,
+      "spatial_blocks": 121,
+      "FWL_cluster_interval_verified": true
+    },
+    {
+      "stage": "P21",
+      "independent_slope_error": 1.0432894478884513e-10,
+      "spatial_blocks": 138,
+      "FWL_cluster_interval_verified": true
+    }
+  ],
+  "matched_contrasts_checked": 32,
+  "maximum_matched_difference_error": 4.999999997368221e-10,
+  "count_rebuilt_PTPRM_models": 8,
+  "P7_positive_leave_one_out_relationships": 84,
+  "P7_flexible_capture_and_depth_tests_positive": true,
+  "no_new_biological_replicates": true,
+  "documents": {
+    "status": "PASS",
+    "PDF_pages": 5,
+    "figure_pages": [
+      4
+    ],
+    "Word_image_hash_matches": true,
+    "PDF_text_bounds_checked": true
+  }
+}

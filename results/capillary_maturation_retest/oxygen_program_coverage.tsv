@@ -1,0 +1,4 @@
+program	genes	Xenium_measured	measured_count	total_genes
+HIF_response	Slc2a1;Pdk1;Ldha;Pgk1;Pfkl;Pfkfb3;Aldoa;Eno1;Ndrg1;Ddit4;Adm;Angptl4;P4ha1;P4ha2;Bnip3l;Vegfa	Vegfa	1	16
+HIF_non_glycolytic	Ndrg1;Ddit4;Adm;Angptl4;P4ha1;P4ha2;Bnip3l;Vegfa	Vegfa	1	8
+Oxidative_metabolism	Ndufs1;Ndufs2;Ndufs3;Ndufs4;Ndufv1;Ndufb8;Sdha;Sdhb;Uqcrc1;Uqcrc2;Cyc1;Cox4i1;Cox5a;Cox5b;Cox6b1;Atp5f1a;Atp5f1b;Atp5mc1	Cox5a	1	18

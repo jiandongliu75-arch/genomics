@@ -1,0 +1,17 @@
+stage	cohort	graph	level_mean_Pearson_r	cell_level_Spearman_r	populated_levels	CMs	interpretation
+P0	reconstructed_paper_labels	paper_like6NN__cap.EC	-0.56439882	-0.03293122	10	23523	Descriptive; level means are not independent biological replicates
+P0	reconstructed_paper_labels	tissue_Delaunay__cap.EC	-0.61636217	-0.046741654	10	23523	Descriptive; level means are not independent biological replicates
+P0	strict_ventricular	paper_like6NN__cap.EC	-0.20244836	-0.029224368	10	17272	Descriptive; level means are not independent biological replicates
+P0	strict_ventricular	tissue_Delaunay__cap.EC	-0.21435874	-0.041216097	10	17272	Descriptive; level means are not independent biological replicates
+P7	reconstructed_paper_labels	paper_like6NN__cap.EC	-0.89054404	-0.061241351	10	35230	Descriptive; level means are not independent biological replicates
+P7	reconstructed_paper_labels	tissue_Delaunay__cap.EC	-0.95679773	-0.084160515	10	35230	Descriptive; level means are not independent biological replicates
+P7	strict_ventricular	paper_like6NN__cap.EC	-0.90143205	-0.04394232	10	30485	Descriptive; level means are not independent biological replicates
+P7	strict_ventricular	tissue_Delaunay__cap.EC	-0.92242729	-0.063757758	10	30485	Descriptive; level means are not independent biological replicates
+P14	reconstructed_paper_labels	paper_like6NN__cap.EC	-0.88237188	-0.086891683	10	39334	Descriptive; level means are not independent biological replicates
+P14	reconstructed_paper_labels	tissue_Delaunay__cap.EC	-0.90650295	-0.11944609	10	39334	Descriptive; level means are not independent biological replicates
+P14	strict_ventricular	paper_like6NN__cap.EC	0.34187919	-0.052841691	7	33659	Descriptive; level means are not independent biological replicates
+P14	strict_ventricular	tissue_Delaunay__cap.EC	0.16443525	-0.08453698	8	33659	Descriptive; level means are not independent biological replicates
+P21	reconstructed_paper_labels	paper_like6NN__cap.EC	-0.8749198	-0.098036397	10	48003	Descriptive; level means are not independent biological replicates
+P21	reconstructed_paper_labels	tissue_Delaunay__cap.EC	-0.85062464	-0.13910263	10	48003	Descriptive; level means are not independent biological replicates
+P21	strict_ventricular	paper_like6NN__cap.EC	-0.036252022	-0.057367801	8	37949	Descriptive; level means are not independent biological replicates
+P21	strict_ventricular	tissue_Delaunay__cap.EC	-0.90619701	-0.094559248	7	37949	Descriptive; level means are not independent biological replicates
