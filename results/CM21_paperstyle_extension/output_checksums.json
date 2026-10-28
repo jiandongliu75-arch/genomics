@@ -1,13 +1,13 @@
 [
   {
     "path": "CM21_paperstyle_vascular_stromal_report.docx",
-    "bytes": 4671739,
-    "sha256": "12ebcc3c05bfc081af3c391b6069c20a8925d67703a309abcf08c0d07ad08a79"
+    "bytes": 4671863,
+    "sha256": "7ccf62cf44cb57aebe642892b41da699b895f4ea8988a9296313a1e3696fb344"
   },
   {
     "path": "CM21_paperstyle_vascular_stromal_report.pdf",
-    "bytes": 5379256,
-    "sha256": "bda07109f1b96cc4d573814d8985dae4d03d2a5ec3fa06d336c868861dc0507e"
+    "bytes": 5379551,
+    "sha256": "fa4b4e86282c1607b2e9aae2fd22c8911ea764c54c5319ea53b71ae3b4d37cc1"
   },
   {
     "path": "P0_CM21_extension_values.tsv.gz",
@@ -36,8 +36,8 @@
   },
   {
     "path": "Report_text.md",
-    "bytes": 14523,
-    "sha256": "1a1b9ce999fd2375d92bd569c8fbd52525c5f2da4dafb620cce3146fbdc75b81"
+    "bytes": 14947,
+    "sha256": "63fa693d78be6b9fa5843113ff9239db49e550d07daabea806f9ac611955c2b5"
   },
   {
     "path": "analysis_settings.json",
@@ -72,7 +72,7 @@
   {
     "path": "figures/Figure_1_CM21_score_landscape_and_stability.pdf",
     "bytes": 1927219,
-    "sha256": "1ddfd018ec779283d33ad589215ceca8f030ebd501e5c50034a5b8bfd0e6745b"
+    "sha256": "21a64251622eb8e8d60ebfcdb002d643dde1f65d708aab7c65cc0b482e3c4925"
   },
   {
     "path": "figures/Figure_1_CM21_score_landscape_and_stability.png",
@@ -82,7 +82,7 @@
   {
     "path": "figures/Figure_2_CM21_capillary_geometry.pdf",
     "bytes": 28371,
-    "sha256": "c1d5730b72bf8d7cc46e09c770e5eba17b1e94e214d5a77a8e4466ca4969b7fa"
+    "sha256": "ebd0e3a6d550049cb072365ec11f9b3bbfa5f634ce1abdb98b6909d79d784442"
   },
   {
     "path": "figures/Figure_2_CM21_capillary_geometry.png",
@@ -92,7 +92,7 @@
   {
     "path": "figures/Figure_3_CM21_nonCM_subtypes_and_FB_context.pdf",
     "bytes": 38349,
-    "sha256": "b03b9a9f584081be1fbdcb3d9aceb3681b6368d11ef83906a172e7e759d1c29c"
+    "sha256": "faa2f5330e6caf0d0fad06c75aa88a79a6c9c51c6fd1cde17c0ccb4642f6831f"
   },
   {
     "path": "figures/Figure_3_CM21_nonCM_subtypes_and_FB_context.png",

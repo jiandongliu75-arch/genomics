@@ -12,6 +12,8 @@ The paper calculates a module score by subtracting expression-matched control ge
 
 Removing any one maturation gene leaves the cell ranking strongly similar to the full panel: the lowest rank correlation across stages and RNA views is 0.960. Each omission removes that gene from both the maturation module and the control pool. Changing the random controls also has little effect: the lowest correlation between an individual draw and the ensemble is 0.990. Alternative bin settings, including a setting permitting 100 controls per gene and a pool excluding all 21 maturation genes, preserve high rank agreement. Thus the result is not attributable to one naming gene or one favorable control draw (Fig. 1).
 
+Changing transcript assignment has a larger effect on individual-cell rankings. Whole-cell and boundary-supported score rankings correlate at 0.77–0.79 across stages. A CM's higher- or lower-score classification therefore remains sensitive to which transcripts are assigned to it. Agreement in the direction of the vascular association across these RNA views does not mean that every cell retains the same score or rank.
+
 There is an important difference from our earlier report. The previous score standardized each maturation gene separately before averaging. Its rank correlation with the paper-style score is only 0.74–0.81. The two approaches therefore identify overlapping but different higher-scoring CM groups. With the paper-style score, the raw P7 comparison and the adjusted comparison now agree in direction. This explains why the earlier raw P7 result differed; it does not recover the authors' exact score or establish that one numerical index is functional maturity.
 
 ## The capillary relationship is clearest at P7 and supported at P14
