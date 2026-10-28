@@ -8,3 +8,5 @@ results/capillary_maturation_retest/*.pdf binary
 results/capillary_association_robustness/*.pdf binary
 results/morphology_stratified_nonCM/*.pdf binary
 results/morphology_stratified_nonCM/figures/*.pdf binary
+results/CM21_primary_spatial/*.pdf binary
+results/CM21_primary_spatial/figures/*.pdf binary

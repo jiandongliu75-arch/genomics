@@ -11,6 +11,8 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 import fitz
 ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/'results/morphology_stratified_nonCM';STEM='Morphology_nonCM_CM_development'
+FOOTER_LABEL='POSTNATAL HEART | ANATOMY AND NON-CM CONTEXT'
+METHODS_HEADING='## Methods and interpretation limits'
 def main():
  text=(OUT/'Report_text.md').read_text();legends=json.loads((OUT/'figure_legends.json').read_text());doc=Document()
  sec=doc.sections[0];sec.page_width=Inches(8.5);sec.page_height=Inches(11);sec.left_margin=sec.right_margin=Inches(.65);sec.top_margin=sec.bottom_margin=Inches(.6)
@@ -25,7 +27,7 @@ def main():
  for block in re.split(r'\n\s*\n',text.strip()):
   if block.startswith('# '):doc.add_heading(block[2:],0);story.append(pp(block[2:],'TitleD'))
   elif block.startswith('## '):
-   if block=='## Methods and interpretation limits':
+   if block==METHODS_HEADING:
     for i,entry in enumerate(legends,1):
      doc.add_page_break();story.append(PageBreak());heading=f'Figure {i}. {entry["title"]}';doc.add_heading(heading,1);story.append(pp(heading,'HeadD'))
      image=OUT/'figures'/(entry['stem']+'.png');expected.append(hashlib.sha256(image.read_bytes()).hexdigest())
@@ -40,12 +42,13 @@ def main():
    for row in rows:
     cells=tb.add_row().cells
     for cell,value in zip(cells,row):cell.text=value
-   pdf=Table([[pp(x) for x in row] for row in rows],colWidths=[45,145,145,145],repeatRows=1)
+   widths=[45,145,145,145] if len(rows[0])==4 else [40,130,130,100,80]
+   pdf=Table([[pp(x) for x in row] for row in rows],colWidths=widths,repeatRows=1)
    pdf.setStyle(TableStyle([('BACKGROUND',(0,0),(-1,0),colors.HexColor('#e6edf2')),('VALIGN',(0,0),(-1,-1),'TOP'),('BOX',(0,0),(-1,-1),.3,colors.gray),('TOPPADDING',(0,0),(-1,-1),5),('BOTTOMPADDING',(0,0),(-1,-1),5)]));story.extend([pdf,Spacer(1,10)])
   else:
    s=' '.join(block.splitlines());doc.add_paragraph(s);story.append(pp(s))
  doc.save(OUT/(STEM+'.docx'))
- def footer(canvas,document):canvas.setFont('D',8);canvas.drawString(45,20,'POSTNATAL HEART | ANATOMY AND NON-CM CONTEXT');canvas.drawRightString(565,20,str(document.page))
+ def footer(canvas,document):canvas.setFont('D',8);canvas.drawString(45,20,FOOTER_LABEL);canvas.drawRightString(565,20,str(document.page))
  SimpleDocTemplate(str(OUT/(STEM+'.pdf')),pagesize=(612,792),rightMargin=45,leftMargin=45,topMargin=38,bottomMargin=38).build(story,onFirstPage=footer,onLaterPages=footer)
  with zipfile.ZipFile(OUT/(STEM+'.docx')) as z:
   assert z.testzip() is None
@@ -59,6 +62,6 @@ def main():
    for line in block['lines']:
     for span in line['spans']:
      r=fitz.Rect(span['bbox']);assert r.x0>=35 and r.y0>=10 and r.x1<=580 and r.y1<=780,(i,span['text'],r)
- assert len(figurepages)==2
+ assert len(figurepages)==len(legends)
  (OUT/'document_validation.json').write_text(json.dumps(dict(status='PASS',PDF_pages=len(pdf),figure_pages=figurepages,Word_current_image_hashes_verified=True,PDF_text_bounds_checked=True),indent=2)+'\n')
 if __name__=='__main__':main()

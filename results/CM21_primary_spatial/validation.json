@@ -1,0 +1,92 @@
+{
+  "status": "PASS",
+  "sole_CM_maturation_genes": [
+    "Rxrg",
+    "Ppargc1a",
+    "Ppargc1b",
+    "Cebpa",
+    "Cebpb",
+    "Esrra",
+    "Esrrb",
+    "Esrrg",
+    "Mitf",
+    "Myh6",
+    "Tnni3",
+    "Myl2",
+    "Kcnq1",
+    "Jph1",
+    "Jph2",
+    "Bin1",
+    "Lpin1",
+    "Pln",
+    "Ppara",
+    "Ppard",
+    "Cpt1b"
+  ],
+  "number_CM_outcome_genes": 21,
+  "all_QC_eligible_ventricular_CMs": 131605,
+  "no_anatomical_or_public_label_exclusion": true,
+  "stage_checks": [
+    {
+      "stage": "P0",
+      "CMs": 17981,
+      "independent_21gene_errors": {
+        "core": 4.996908442578274e-10,
+        "native": 4.991769775308796e-10
+      },
+      "independent_source_distance_and_counts_verified": true,
+      "independent_model_error": 1.996562810913094e-11,
+      "cluster_interval_verified": true
+    },
+    {
+      "stage": "P7",
+      "CMs": 35112,
+      "independent_21gene_errors": {
+        "core": 4.310247048167071e-09,
+        "native": 4.997600666634128e-10
+      },
+      "independent_source_distance_and_counts_verified": true,
+      "independent_model_error": 2.8212907704494583e-11,
+      "cluster_interval_verified": true
+    },
+    {
+      "stage": "P14",
+      "CMs": 37740,
+      "independent_21gene_errors": {
+        "core": 4.059290015234751e-09,
+        "native": 1.4797008063283101e-09
+      },
+      "independent_source_distance_and_counts_verified": true,
+      "independent_model_error": 6.872028987525702e-12,
+      "cluster_interval_verified": true
+    },
+    {
+      "stage": "P21",
+      "CMs": 40772,
+      "independent_21gene_errors": {
+        "core": 4.8889361448090085e-09,
+        "native": 3.7045297940352384e-09
+      },
+      "independent_source_distance_and_counts_verified": true,
+      "independent_model_error": 2.075493943376472e-11,
+      "cluster_interval_verified": true
+    }
+  ],
+  "primary_full_cohort_source_tests": 48,
+  "matched_core_pairs": 1004,
+  "all_matched_means_independently_verified": true,
+  "viewer_CMs_verified": 131605,
+  "viewer_JavaScript_syntax_checked": true,
+  "documents": {
+    "status": "PASS",
+    "PDF_pages": 7,
+    "figure_pages": [
+      4,
+      5,
+      6
+    ],
+    "Word_current_image_hashes_verified": true,
+    "PDF_text_bounds_checked": true
+  },
+  "new_biological_replicates": 0
+}

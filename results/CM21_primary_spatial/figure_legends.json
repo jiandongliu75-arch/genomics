@@ -1,0 +1,17 @@
+[
+  {
+    "stem": "Figure_1_CM21_full_section_maps",
+    "title": "The measured 21-gene score on all four sections",
+    "legend": "All 131,605 QC-eligible ventricular CM profiles are mapped. Color is the unchanged core21-gene score, with one shared scale; display clipping at pooled 2nd/98th percentiles does not alter analysis values. Gray points provide whole-section context. No anatomical classification or public-label concordance is required. These are measured cell scores, not imputed expression."
+  },
+  {
+    "stem": "Figure_2_CM21_within_stage_heterogeneity",
+    "title": "Higher and lower 21-gene scores within each age",
+    "legend": "Blue and orange mark the lower and higher score quartiles within each stage; gray marks the middle half and section context. Quartiles are stage-relative, so an orange P0 CM is not assumed equivalent to an orange P21 CM. Rank ties are averaged. Every group is defined using the same 21 measured Xenium targets."
+  },
+  {
+    "stem": "Figure_3_CM21_nonCM_relationships",
+    "title": "Raw and adjusted relationships use the same 21-gene outcome",
+    "legend": "The left panel shows raw score\u2013nearness Spearman correlations across all eligible CMs; the right shows capture-, size-, CM-identity- and local 200\u00b5m-region-adjusted coefficients. Positive values associate higher 21-gene scores with source nearness. Stars mark all-source BH q<0.05 only in the adjusted model. Gray crosses indicate inadequate source/reference/local support. Broad lineages and their subtypes overlap, so they are not independent mechanisms. The two panels use different association statistics and should be read by direction and context, not compared numerically. All outcomes remain the measured 21-gene score; no component program is substituted."
+  }
+]

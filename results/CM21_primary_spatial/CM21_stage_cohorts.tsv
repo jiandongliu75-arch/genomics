@@ -1,0 +1,5 @@
+stage	QC_eligible_ventricular_CMs	old_restricted_CMs	added_CMs	lower_quartile	higher_quartile	missing_nuclear_area	median_measured_21genes
+P0	17981	17272	709	4495	4496	1560	10
+P7	35112	30485	4627	8778	8779	7280	11
+P14	37740	33659	4081	9435	9436	5528	13
+P21	40772	37949	2823	10193	10194	8044	13

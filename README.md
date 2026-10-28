@@ -4,6 +4,7 @@ Independent QC and exploratory clustering of the mouse-heart dataset [GSE290989]
 
 Spatial analyses map candidate ventricular programs onto the four deposited Xenium sections, with measured-marker evidence and comparisons between assay-aligned transfer and CytoSPACE.
 
+- **[Current 21-gene analysis: all ventricular CM score maps, higher/lower-score neighborhoods and an interactive spatial viewer](results/CM21_primary_spatial/README.md)**
 - [Morphology-only ROI review and anatomy-conditioned CM–non-CM subtype comparisons across four stages](results/morphology_stratified_nonCM/README.md)
 - [P7 capillary-association robustness: boundary/path distances, regional and subtype checks, and an inconclusive local matched comparison](results/capillary_association_robustness/README.md)
 - [Targeted capillary retest: 21-gene CM maturation, PTPRM contact candidates and limits on oxygen inference](results/capillary_maturation_retest/README.md)
