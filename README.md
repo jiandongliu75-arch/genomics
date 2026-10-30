@@ -4,7 +4,7 @@ Independent QC and exploratory clustering of the mouse-heart dataset [GSE290989]
 
 Spatial analyses map candidate ventricular programs onto the four deposited Xenium sections, with measured-marker evidence and comparisons between assay-aligned transfer and CytoSPACE.
 
-- **[Seminar slides: Building a Functional Heart — revised PowerPoint and PDF](presentations/Building_a_Functional_Heart/README.md)**
+- **[Seminar slides: original UNC presentation revised around the published heart-atlas paper — PowerPoint and PDF](presentations/Building_a_Functional_Heart/README.md)**
 - **[Current 21-gene follow-up: paper-style scoring, gene/control stability, capillary geometry and fibroblast-context tests](results/CM21_paperstyle_extension/README.md)**
 - [Earlier 21-gene Z-score analysis: all ventricular CM maps, higher/lower-score neighborhoods and an interactive spatial viewer](results/CM21_primary_spatial/README.md)
 - [Morphology-only ROI review and anatomy-conditioned CM–non-CM subtype comparisons across four stages](results/morphology_stratified_nonCM/README.md)

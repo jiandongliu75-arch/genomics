@@ -1,7 +1,9 @@
-# Building a Functional Heart: From Cellular Neighborhoods to Gene Function
+# Decoding Postnatal Heart Maturation
 
-[Download PowerPoint](Heart_atlas_slides.pptx) · [Download PDF](Heart_atlas_slides.pdf)
+## From a Spatial Atlas to In Vivo Functional Genomics
 
-Revised seminar with 38 main slides paced for approximately 40 minutes and eight backup slides. Speaker notes are embedded in the PowerPoint. The story connects postnatal tissue development, measured cardiomyocyte maturation, vascular and fibroblast neighborhoods, PIP-seq, and targeted functional validation.
+This revision starts from the author’s original UNC PowerPoint. It retains all 16 original slides within a paper-based narrative, the original atlas video, native diagrams, and acknowledgments. Additional data panels cover the published atlas, spatial niches, signaling and regulatory analyses, CM maturation, PIP-seq, and Rreb1 validation. The separate exploratory reanalysis is excluded.
 
-Published experiments, exploratory spatial results, and proposed mechanisms are labeled separately. Scientific panels are embedded; the files do not require external image links. The PDF contains all 46 slides.
+37 main slides are paced for approximately 40 minutes, followed by three backup slides. Speaker notes are embedded. The actual pace depends on the time spent explaining figures.
+
+Figure artwork comes from the supplied slides and manuscript; scientific statements and counts were checked against the final Nature Cardiovascular Research paper (DOI: 10.1038/s44161-026-00861-z). Source figures are extracted without redrawing measured values. The uploaded original is unchanged.
