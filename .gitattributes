@@ -12,3 +12,5 @@ results/CM21_primary_spatial/*.pdf binary
 results/CM21_primary_spatial/figures/*.pdf binary
 results/CM21_paperstyle_extension/*.pdf binary
 results/CM21_paperstyle_extension/figures/*.pdf binary
+presentations/**/*.pdf binary
+presentations/**/*.pptx binary
