@@ -1,0 +1,7 @@
+group	stage	selected_weight_threshold	minimum_margin	validation_rule_passes	selective_RNA_assessment_pass	validation_min_selected	validation_min_precision	assessment_min_selected	assessment_min_precision	assessment_fold1_library	assessment_fold1_called	assessment_fold1_correct	assessment_fold1_precision	assessment_fold2_library	assessment_fold2_called	assessment_fold2_correct	assessment_fold2_precision
+P21_M0	P21	NA	0.1	False	False	0	NA	0	NA	GSM8827077_P21_1	0	0	NA	GSM8827078_P21_2	0	0	NA
+P21_M1	P21	NA	0.1	False	False	0	NA	0	NA	GSM8827077_P21_1	0	0	NA	GSM8827078_P21_2	0	0	NA
+P21_M2	P21	NA	0.1	False	False	0	NA	0	NA	GSM8827077_P21_1	0	0	NA	GSM8827078_P21_2	0	0	NA
+P21_M3	P21	0.5	0.1	True	True	52	0.8290598290598291	41	0.7909090909090909	GSM8827077_P21_1	41	36	0.8780487804878049	GSM8827078_P21_2	110	87	0.7909090909090909
+P21_M4	P21	NA	0.1	False	False	0	NA	0	NA	GSM8827077_P21_1	0	0	NA	GSM8827078_P21_2	0	0	NA
+P21_M5	P21	NA	0.1	False	False	0	NA	0	NA	GSM8827077_P21_1	0	0	NA	GSM8827078_P21_2	0	0	NA

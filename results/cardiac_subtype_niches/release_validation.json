@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "known_subtype_analysis_does_not_require_coarse_niche_cluster_recovery": true,
+  "numerical_and_document_validation": "PASS",
+  "source_artifact_hashes_recorded": true,
+  "relative_document_links_checked": 48,
+  "new_biological_replicates": 0,
+  "new_causal_mechanism_or_fate_validated": false
+}

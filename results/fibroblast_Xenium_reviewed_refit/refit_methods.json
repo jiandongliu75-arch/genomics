@@ -1,0 +1,20 @@
+{
+  "original_results_preserved": "results/fibroblast_states",
+  "RNA_change": "Only the 1330 P21_F0 nuclei change broad family, unresolved -> Col8a1-associated",
+  "flagged_groups": [
+    "P0_F0",
+    "P7_F0",
+    "P7_F5",
+    "P14_F6",
+    "P21_F6"
+  ],
+  "flagged_nuclei": 657,
+  "clean_fibroblast_nuclei": 14328,
+  "source_fibroblast_nuclei": 14985,
+  "exclusion_scope": "Clean fibroblast figures/summaries and fine reference; source/QC records preserved; no automatic CM/mural reassignment",
+  "mapping": "Full same-age weighted-30NN rerun: corrected, raw, both RNA libraries, and ECM-withheld reference",
+  "fine_gate": "Unchanged: weight>=0.6, margin>=0.15, >=2 measured state markers, >=1 anchor, raw/both-library agreement, >=20 training molecules, >=8 training genes",
+  "frozen": "Native gene counts and positions, broad atlas identities, query calibration scheme, outcome panels and model hyperparameters",
+  "reference_component": "Postn where varying; otherwise Col8a1 when family weights exhaust a simplex (reviewed P21); unresolved weight is implicit reference where present",
+  "limitations": "RNA-derived family interpretation; one spatial section per age; no anatomical or causal validation; no new segmentation"
+}

@@ -1,0 +1,13 @@
+stage	predictors	training_CMs	heldout_CMs	heldout_R2	heldout_MAE	scope
+P0	baseline	9378	1602	0.510584101	0.298473354	One reserved spatial-block fold, fixed Ridge; not independent animals or causal evidence
+P0	mean_state	9378	1602	0.515866886	0.296212958	One reserved spatial-block fold, fixed Ridge; not independent animals or causal evidence
+P0	Wormhole	9378	1602	0.511604614	0.297591023	One reserved spatial-block fold, fixed Ridge; not independent animals or causal evidence
+P7	baseline	20534	4960	0.554522248	0.313852509	One reserved spatial-block fold, fixed Ridge; not independent animals or causal evidence
+P7	mean_state	20534	4960	0.556396737	0.312613271	One reserved spatial-block fold, fixed Ridge; not independent animals or causal evidence
+P7	Wormhole	20534	4960	0.55394262	0.31366147	One reserved spatial-block fold, fixed Ridge; not independent animals or causal evidence
+P14	baseline	17801	5319	0.606724549	0.297556014	One reserved spatial-block fold, fixed Ridge; not independent animals or causal evidence
+P14	mean_state	17801	5319	0.606615785	0.29759791	One reserved spatial-block fold, fixed Ridge; not independent animals or causal evidence
+P14	Wormhole	17801	5319	0.605707804	0.297744489	One reserved spatial-block fold, fixed Ridge; not independent animals or causal evidence
+P21	baseline	17203	5386	0.637814064	0.292137858	One reserved spatial-block fold, fixed Ridge; not independent animals or causal evidence
+P21	mean_state	17203	5386	0.638748376	0.29218658	One reserved spatial-block fold, fixed Ridge; not independent animals or causal evidence
+P21	Wormhole	17203	5386	0.638061271	0.29230223	One reserved spatial-block fold, fixed Ridge; not independent animals or causal evidence

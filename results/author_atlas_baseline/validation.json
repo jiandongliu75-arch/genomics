@@ -1,0 +1,54 @@
+{
+  "status": "PASS",
+  "stages": [
+    {
+      "stage": "P0",
+      "original_cells": 47611,
+      "published_atlas_cells": 46747,
+      "native_pairs_checked": 25596,
+      "reference_nuclei": 11046,
+      "sampled_correlations_checked": 100,
+      "maximum_sampled_correlation_error": 7.771561172376096e-16,
+      "marker_state_summaries_recomputed": 112,
+      "centroid_and_count_delta": 0,
+      "source_hashes_unchanged": true
+    },
+    {
+      "stage": "P7",
+      "original_cells": 99429,
+      "published_atlas_cells": 98188,
+      "native_pairs_checked": 38775,
+      "reference_nuclei": 13040,
+      "sampled_correlations_checked": 100,
+      "maximum_sampled_correlation_error": 4.996003610813204e-16,
+      "marker_state_summaries_recomputed": 112,
+      "centroid_and_count_delta": 0,
+      "source_hashes_unchanged": true
+    },
+    {
+      "stage": "P14",
+      "original_cells": 117070,
+      "published_atlas_cells": 114524,
+      "native_pairs_checked": 42878,
+      "reference_nuclei": 11042,
+      "sampled_correlations_checked": 100,
+      "maximum_sampled_correlation_error": 6.661338147750939e-16,
+      "marker_state_summaries_recomputed": 96,
+      "centroid_and_count_delta": 0,
+      "source_hashes_unchanged": true
+    },
+    {
+      "stage": "P21",
+      "original_cells": 143944,
+      "published_atlas_cells": 143709,
+      "native_pairs_checked": 53807,
+      "reference_nuclei": 9335,
+      "sampled_correlations_checked": 100,
+      "maximum_sampled_correlation_error": 6.661338147750939e-16,
+      "marker_state_summaries_recomputed": 80,
+      "centroid_and_count_delta": 0,
+      "source_hashes_unchanged": true
+    }
+  ],
+  "scope": "Data correspondence, native constraints, diagnostic calculations and measured summaries; not independent biological validation."
+}

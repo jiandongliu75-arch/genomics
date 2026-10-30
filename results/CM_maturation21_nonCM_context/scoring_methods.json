@@ -1,0 +1,42 @@
+{
+  "panel_genes": [
+    "Rxrg",
+    "Ppargc1a",
+    "Ppargc1b",
+    "Cebpa",
+    "Cebpb",
+    "Esrra",
+    "Esrrb",
+    "Esrrg",
+    "Mitf",
+    "Myh6",
+    "Tnni3",
+    "Myl2",
+    "Kcnq1",
+    "Jph1",
+    "Jph2",
+    "Bin1",
+    "Lpin1",
+    "Pln",
+    "Ppara",
+    "Ppard",
+    "Cpt1b"
+  ],
+  "target": 21,
+  "normalization": "log1p(10000 * target counts / all 403 measured-gene counts)",
+  "score": "Mean of target-gene Z values using unchanged pooled all-profile, all-age reference; separate frozen calibration for native and core views",
+  "reference": "results/cardiac_spatial_reconstruction/score_reference_calibration.tsv",
+  "authors_exact_AddModuleScore_recovered": false,
+  "new_control_selection": false,
+  "one_gene_omission_reference_frozen": true,
+  "joint_three_genes_prespecified": [
+    "Cebpb",
+    "Rxrg",
+    "Lpin1"
+  ],
+  "fixed_depth": 50,
+  "depth_repetitions": 3,
+  "depth_sampling": "Exact molecule subsampling without replacement; mean score across three draws; only profiles with >=50 counts",
+  "core_is_ground_truth": false,
+  "new_biological_replicates": 0
+}

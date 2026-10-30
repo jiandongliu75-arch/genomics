@@ -1,0 +1,42 @@
+{
+  "source_paper": {
+    "pmcid": "PMC13561863",
+    "doi": "10.1038/s44161-026-00861-z",
+    "Table2_file": "44161_2026_861_MOESM3_ESM.xlsx / Table 2",
+    "notes": [
+      "Author cell counts are context, not ground truth for these new subtype assignments. Cohort/QC thresholds differ.",
+      "Paper reports muscle-associated transcripts in a capillary endothelial population; mixed marker cells must not automatically be called CM or doublet.",
+      "Paper describes genome-wide CytoSPACE-imputed integration; measured Xenium panel here has403 targets."
+    ]
+  },
+  "electrical_gradient_reference": {
+    "pmid": "16239150",
+    "doi": "10.1016/j.cell.2005.08.004",
+    "verified": "Primary abstract and metadata, as documented in prior electrical report. Irx5 represses Kcnd2/Kv4.2 with opposing myocardial gradients. Do not assume equal gradient strength at all P0\u2013P21 ages.",
+    "not_measured_here": [
+      "Kcnd2",
+      "Irx5"
+    ]
+  },
+  "atlas_resource": {
+    "homepage": "https://postnatalheartatlas.org",
+    "frontend_config": "https://github.com/yrsong001/heart_p14_data/blob/main/src/my-view-config.js",
+    "declared_annotation_path": "p14/heart-xenium-anndata.zarr/obs/cytoSPACE.final.anno",
+    "data_host": "heart-atlas.s3.us-east-2.amazonaws.com",
+    "access": "Blocked by current environment restricted egress; HTTP tunnel403. No author S3 annotations or expression matrix read.",
+    "UI_feature_note": "Feature filters expose TF_Irx5; do not assume that feature is measured Irx5 RNA. Kcnd2 was not in the inspected curated feature filter. Actual object gene availability/definitions not verified.",
+    "environment_draft": "Exact data host added to saved network draft; requires user review/save and environment publish to activate. No claim that draft changed live network access."
+  },
+  "Zenodo": {
+    "records": [
+      "https://zenodo.org/records/14961929",
+      "https://zenodo.org/records/14961942"
+    ],
+    "license": "CC BY4.0",
+    "attribution": "Wang H, Dong Y, Song Y, Qian L and Liu J; sourceXenium data and acquired microscopy. Derived analyses/figures from original counts/coordinates.",
+    "input_gene_counts": "403 biological targets +138 controls/codewords; all403 biological targets preserved in mapped H5ADs.",
+    "Kcnd2_ID_check": "ENSMUSG00000060882 absent in supplied panel by name andID.",
+    "Irx5_ID_check": "ENSMUSG00000031737 absent in supplied panel by name andID."
+  },
+  "copyright": "No original article figures, full article or full supplementary workbook redistributed. Extracted factual cell-count table and own derived data/plots only."
+}

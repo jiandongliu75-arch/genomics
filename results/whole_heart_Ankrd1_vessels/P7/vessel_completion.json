@@ -1,0 +1,37 @@
+{
+  "stage": "P7",
+  "definition_counts": {
+    "independent_strict": {
+      "arterial_seed_cells": 540,
+      "SMC_seed_cells": 922,
+      "accepted_segments": 33,
+      "rejected_clusters_mural_support": 60,
+      "primary_small_segments": 33
+    },
+    "independent_marker": {
+      "arterial_seed_cells": 9414,
+      "SMC_seed_cells": 2104,
+      "accepted_segments": 39,
+      "rejected_clusters_mural_support": 464,
+      "primary_small_segments": 39
+    },
+    "published_comparator": {
+      "arterial_seed_cells": 1628,
+      "SMC_seed_cells": 3804,
+      "accepted_segments": 83,
+      "rejected_clusters_mural_support": 229,
+      "primary_small_segments": 83
+    }
+  },
+  "segments_before_size_filter": 155,
+  "boundary_provenance": {
+    "source_boundary_path": "/workspace/heart-atlas/data/xenium/WT_P07__20240528__152133/cell_boundaries.csv.gz",
+    "source_boundary_sha256": "e2092f3d0f12cdca28eef9f7fca41e14025cdb3b3fb93f49a607e2075d3b2a0d",
+    "vascular_cells_with_native_boundaries": 1961,
+    "median_centroid_outside_own_polygon_um": 0.0,
+    "maximum_centroid_outside_own_polygon_um": 0.0
+  },
+  "lineage_annotations_sha256": "cf84982eac0e397582a6f4ac371df500e236a59b88303eb87d10c887af10c825",
+  "elapsed_seconds": 43.042927265167236,
+  "outcome_used_in_vessel_definition": false
+}

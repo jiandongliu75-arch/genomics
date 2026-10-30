@@ -1,0 +1,65 @@
+stage	source	source_profiles	reference_assessable	support_status	CMs_within100um	nearby_blocks	primary_supported
+P0	Endothelial	3732	True	Available	17980	44	True
+P0	Fibroblast	2020	True	Available	17311	44	True
+P0	Pericyte	448	True	Available	15787	37	True
+P0	Smooth muscle	583	True	Available	2844	22	True
+P0	Immune	285	True	Available	12174	44	True
+P0	Epicardial	229	True	Available	1278	25	True
+P0	EC:Capillary-like	846	True	Available	15691	37	True
+P0	EC:Endocardial-like	589	True	Available	7765	39	True
+P0	EC:Arterial-like	89	True	Available	4648	26	True
+P0	EC:Venous-like	0	True	Insufficient sources	NA	NA	NA
+P0	EC:Lymphatic-like	0	True	Insufficient sources	NA	NA	NA
+P0	FB:Postn	1946	True	Available	17311	44	True
+P0	FB:Gfpt2	0	False	Reference not assessable	NA	NA	NA
+P0	FB:Col8a1	0	False	Reference not assessable	NA	NA	NA
+P0	FB:Lsamp	0	False	Reference not assessable	NA	NA	NA
+P0	FB:Kirrel3	54	True	Available	191	3	False
+P7	Endothelial	8944	True	Available	35108	80	True
+P7	Fibroblast	7365	True	Available	35101	80	True
+P7	Pericyte	1873	True	Available	34884	76	True
+P7	Smooth muscle	908	True	Available	11995	55	True
+P7	Immune	1237	True	Available	32455	78	True
+P7	Epicardial	362	True	Available	2203	38	True
+P7	EC:Capillary-like	1464	True	Available	32786	73	True
+P7	EC:Endocardial-like	258	True	Available	5442	44	True
+P7	EC:Arterial-like	0	True	Insufficient sources	NA	NA	NA
+P7	EC:Venous-like	0	True	Insufficient sources	NA	NA	NA
+P7	EC:Lymphatic-like	0	True	Insufficient sources	NA	NA	NA
+P7	FB:Postn	5844	True	Available	35009	80	True
+P7	FB:Gfpt2	630	True	Available	23467	63	True
+P7	FB:Col8a1	0	False	Reference not assessable	NA	NA	NA
+P7	FB:Lsamp	0	False	Reference not assessable	NA	NA	NA
+P7	FB:Kirrel3	227	True	Available	592	9	True
+P14	Endothelial	8086	True	Available	37529	129	True
+P14	Fibroblast	8098	True	Available	37728	129	True
+P14	Pericyte	4507	True	Available	37676	125	True
+P14	Smooth muscle	3695	True	Available	17112	115	True
+P14	Immune	2036	True	Available	35837	129	True
+P14	Epicardial	401	True	Available	2510	49	True
+P14	EC:Capillary-like	3226	True	Available	35919	121	True
+P14	EC:Endocardial-like	664	True	Available	6376	68	True
+P14	EC:Arterial-like	137	True	Available	4368	69	True
+P14	EC:Venous-like	219	True	Available	9962	103	True
+P14	EC:Lymphatic-like	28	True	Insufficient sources	NA	NA	NA
+P14	FB:Postn	0	False	Reference not assessable	NA	NA	NA
+P14	FB:Gfpt2	597	True	Available	19685	103	True
+P14	FB:Col8a1	4579	True	Available	37659	129	True
+P14	FB:Lsamp	1455	True	Available	8715	106	True
+P14	FB:Kirrel3	50	True	Available	255	10	True
+P21	Endothelial	8601	True	Available	40543	151	True
+P21	Fibroblast	10867	True	Available	40727	151	True
+P21	Pericyte	4444	True	Available	40586	150	True
+P21	Smooth muscle	1822	True	Available	18229	130	True
+P21	Immune	3260	True	Available	39915	151	True
+P21	Epicardial	289	True	Available	1306	35	True
+P21	EC:Capillary-like	2147	True	Available	37066	146	True
+P21	EC:Endocardial-like	799	True	Available	8456	87	True
+P21	EC:Arterial-like	73	True	Available	3238	64	True
+P21	EC:Venous-like	0	True	Insufficient sources	NA	NA	NA
+P21	EC:Lymphatic-like	2	True	Insufficient sources	NA	NA	NA
+P21	FB:Postn	0	False	Reference not assessable	NA	NA	NA
+P21	FB:Gfpt2	85	True	Available	4586	74	True
+P21	FB:Col8a1	3702	True	Available	40353	151	True
+P21	FB:Lsamp	3454	True	Available	23303	151	True
+P21	FB:Kirrel3	751	True	Available	1979	40	True

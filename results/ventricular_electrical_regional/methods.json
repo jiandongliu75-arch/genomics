@@ -1,0 +1,30 @@
+{
+  "input": "/workspace/heart-atlas/results/cell_identities_subtypes/snrna_qc_annotated_subclustered.h5ad",
+  "nuclei": 44463,
+  "genes": [
+    "Slit2",
+    "Mpped2",
+    "Gja5",
+    "Etv1",
+    "Irx3",
+    "Cntn2",
+    "Scn10a",
+    "Pcp4",
+    "Corin",
+    "Mylk4",
+    "Tbx3",
+    "Irx5",
+    "Kcnd2",
+    "Kcnip2",
+    "Scn5a",
+    "Gja1",
+    "Hey2"
+  ],
+  "clusters": 28,
+  "expression": "log1p(count / whole-nucleus count total * 10000), independently for fractional corrected and original integer counts.",
+  "contrast": "Cluster minus all other retained CMs in the same age and original library; require >=30 nuclei in each group. Summary is equal-weight mean over eligible libraries; both-library flags require two eligible libraries. No p-values or biological-replicate inference.",
+  "QC_sensitivity": "Within-library expression residuals after linear removal of log total RNA, log detected genes, contamination, mitochondrial fraction and cycling-marker count. May remove genuine biological mediators; conditional sensitivity only.",
+  "core_sensitivity": "Repeat contrasts using only original core ventricular nuclei, preserving original clusters. Some reference-rich clusters become ineligible.",
+  "selection_limits": "Existing groups were interpreted using Slit2/Mpped2/Gja5/Etv1 panel and historical conduction-associated gates; these genes and related markers are not independent validation. No cell identity changed.",
+  "matrix_files": "Sparse NPZ count matrices: rows in cell_metadata.tsv.gz order, columns in gene_mapping.tsv order. Only 17 selected features, not full transcriptome. Corrected counts remain fractional."
+}

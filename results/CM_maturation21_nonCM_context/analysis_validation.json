@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "recomputed_frozen_score_checks": 40,
+  "maximum_score_reconstruction_error": 1.15548282e-08,
+  "single_gene_omission_checks": 336,
+  "old_matched_point_estimates_reproduced": 16,
+  "new_primary_nonCM_tests": 235,
+  "new_primary_nonCM_q_lt_0_05": 2,
+  "primary_matched_capillary_tests": 20,
+  "buffered_spatial_prediction_folds": 20,
+  "no_Col8a1_family_subdivision": true,
+  "fate_transition_claimed": false,
+  "new_biological_replicates": 0
+}

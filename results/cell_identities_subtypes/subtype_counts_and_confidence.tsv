@@ -1,0 +1,28 @@
+parent	proposed_subtype	confidence	subclusters	nuclei
+Cardiomyocyte	Atrial-like	provisional-supported	2	2022
+Cardiomyocyte	Conduction-associated CM candidate	provisional-supported	2	1214
+Cardiomyocyte	Ventricular-like	candidate/review	5	33261
+Cardiomyocyte	Ventricular-like	provisional-supported	2	9988
+Endothelial	Arterial-like	provisional-supported	1	209
+Endothelial	Capillary-like	candidate/review	1	92
+Endothelial	Capillary-like	provisional-supported	2	1467
+Endothelial	Endocardial-like	candidate/review	3	698
+Endothelial	Endocardial-like	provisional-supported	3	1532
+Endothelial	Endothelial unresolved	unresolved	3	1107
+Endothelial	Lymphatic-like candidate	provisional-supported	1	56
+Endothelial	Venous/venular-like	candidate/review	1	412
+Fibroblast	Gfpt2-enriched	candidate/review	1	2611
+Fibroblast	Gfpt2-enriched	provisional-supported	1	1213
+Fibroblast	Kirrel3-enriched	provisional-supported	1	817
+Fibroblast	Lsamp-enriched candidate	candidate/review	1	3268
+Fibroblast	Lsamp-enriched candidate	provisional-supported	2	2166
+Fibroblast	Postn-associated remodeling	candidate/review	2	711
+Fibroblast	Postn-associated remodeling	provisional-supported	3	4199
+Immune	B-cell-like	provisional-supported	1	76
+Immune	Immune unresolved	unresolved	1	6
+Immune	Macrophage-like	candidate/review	6	466
+Immune	Macrophage-like	provisional-supported	3	672
+Immune	T-cell-like	candidate/review	1	28
+Mural	Pericyte-like	candidate/review	4	952
+Mural	Pericyte-like	provisional-supported	2	2161
+Mural	Smooth-muscle-like	provisional-supported	4	691

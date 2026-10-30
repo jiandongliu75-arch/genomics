@@ -1,0 +1,12 @@
+{
+  "title": "Changing fibroblast environments and cardiomyocyte development after birth",
+  "main_text_words": 2333,
+  "methods_references_words": 1351,
+  "main_figures": 6,
+  "supporting_figures": 1,
+  "new_CM_FB_models_fitted": true,
+  "latest_FB_candidates_used": true,
+  "exact_and_Wormhole_plans_retrained": false,
+  "transport_descriptors_updated": true,
+  "new_biological_replicates": 0
+}

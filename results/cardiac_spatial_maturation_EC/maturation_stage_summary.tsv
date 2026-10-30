@@ -1,0 +1,13 @@
+stage	score	CMs	mean	median
+P0	maturation_21gene_mean	19304	2.5324174	2.56638306
+P0	maturation_matched_control	19304	0.598570206	0.591211726
+P0	maturation_without_Myl2	19304	2.38868737	2.4267149
+P7	maturation_21gene_mean	39383	2.67514655	2.72072707
+P7	maturation_matched_control	39383	0.691121438	0.69123729
+P7	maturation_without_Myl2	39383	2.53205657	2.58194828
+P14	maturation_21gene_mean	42796	2.92310921	2.99400467
+P14	maturation_matched_control	42796	1.05888944	1.06475543
+P14	maturation_without_Myl2	42796	2.77364278	2.84922695
+P21	maturation_21gene_mean	48140	2.98269701	3.05148457
+P21	maturation_matched_control	48140	1.16934975	1.1757489
+P21	maturation_without_Myl2	48140	2.82998681	2.90436435

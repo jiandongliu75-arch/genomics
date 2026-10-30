@@ -1,0 +1,121 @@
+stage	cluster_id	family	score	qualified	detected_genes	anchors
+P0	P0_EC0	Capillary-like	0.5990308	True	Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Dach1	Btnl9;Emcn
+P0	P0_EC0	Lymphatic-like candidate	0.03522679	False	Nrp2	
+P0	P0_EC0	Arterial-like	0.0214897	False	Efnb2	Efnb2
+P0	P0_EC0	Venous-like candidate	-0.07647379	False	Ephb4	Ephb4
+P0	P0_EC0	Endocardial-like	-0.6306591	False		
+P0	P0_EC1	Endocardial-like	0.5935187	True	Hs3st4;Nrg1;Enpp6;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3	Npr3;Nrxn3
+P0	P0_EC1	Venous-like candidate	0.1312193	True	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2
+P0	P0_EC1	Lymphatic-like candidate	-0.08296534	False		
+P0	P0_EC1	Arterial-like	-0.1418828	False	Efnb2	Efnb2
+P0	P0_EC1	Capillary-like	-0.3194619	True	Emcn;Adgrl4;Cd36	Emcn
+P0	P0_EC2	Lymphatic-like candidate	0.07920896	False	Prox1	Prox1
+P0	P0_EC2	Endocardial-like	0.00864827	True	Hs3st4;Nrg1;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3;Nfatc1	Nfatc1;Npr3;Nrxn3
+P0	P0_EC2	Venous-like candidate	0.002415247	False	Ephb4;Vwf	Ephb4
+P0	P0_EC2	Arterial-like	-0.04429626	False	Efnb2	Efnb2
+P0	P0_EC2	Capillary-like	-0.3573432	True	Emcn;Adgrl4;Cd36	Emcn
+P0	P0_EC3	Endocardial-like	0.4185742	True	Hs3st4;Nrg1;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3;Nfatc1	Nfatc1;Npr3;Nrxn3
+P0	P0_EC3	Lymphatic-like candidate	0.02206385	False	Nrp2	
+P0	P0_EC3	Venous-like candidate	0.006167084	False	Ephb4	Ephb4
+P0	P0_EC3	Arterial-like	-0.1380856	False	Efnb2	Efnb2
+P0	P0_EC3	Capillary-like	-0.3838021	False	Emcn;Adgrl4	Emcn
+P0	P0_EC4	Arterial-like	1.784608	True	Sox17;Mannr;Gja5;Efnb2;Sema3g;Ptchd1	Efnb2;Gja5;Sema3g;Sox17
+P0	P0_EC4	Venous-like candidate	-0.09617665	False	Ephb4	Ephb4
+P0	P0_EC4	Lymphatic-like candidate	-0.1314195	False		
+P0	P0_EC4	Capillary-like	-0.1649794	True	Fabp4;Adgrl4;Cd36;Btnl9;Dach1	Btnl9
+P0	P0_EC4	Endocardial-like	-0.5155646	False	Enpp6	
+P0	P0_EC5	Capillary-like	0.1273988	True	Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Dach1	Btnl9;Emcn
+P0	P0_EC5	Lymphatic-like candidate	-0.003122179	False	Nrp2	
+P0	P0_EC5	Arterial-like	-0.02683934	False	Efnb2	Efnb2
+P0	P0_EC5	Venous-like candidate	-0.04327722	False	Ephb4	Ephb4
+P0	P0_EC5	Endocardial-like	-0.2661454	True	Hs3st4;Kcnc2;Col23a1;Nrxn3;Npr3;Nfatc1	Nfatc1;Npr3;Nrxn3
+P7	P7_EC0	Lymphatic-like candidate	-6.564127e-05	False	Nrp2	
+P7	P7_EC0	Venous-like candidate	-0.01591746	False		
+P7	P7_EC0	Arterial-like	-0.0611456	False		
+P7	P7_EC0	Capillary-like	-0.1441958	True	Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Dach1	Btnl9;Emcn
+P7	P7_EC0	Endocardial-like	-0.1738585	False		
+P7	P7_EC1	Capillary-like	0.2274078	True	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Dach1	Btnl9;Emcn
+P7	P7_EC1	Lymphatic-like candidate	0.02828754	False	Nrp2	
+P7	P7_EC1	Venous-like candidate	-0.05404632	False		
+P7	P7_EC1	Arterial-like	-0.1043691	False		
+P7	P7_EC1	Endocardial-like	-0.2384689	False		
+P7	P7_EC2	Arterial-like	0.4673283	False	Efnb2	Efnb2
+P7	P7_EC2	Capillary-like	0.366166	True	Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Dach1;Dipk2b	Btnl9;Emcn
+P7	P7_EC2	Lymphatic-like candidate	-0.02162349	False	Nrp2	
+P7	P7_EC2	Venous-like candidate	-0.03620175	False		
+P7	P7_EC2	Endocardial-like	-0.2415527	False		
+P7	P7_EC3	Lymphatic-like candidate	0.06386512	False	Nrp2	
+P7	P7_EC3	Capillary-like	-0.01783872	True	Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Dach1	Btnl9;Emcn
+P7	P7_EC3	Venous-like candidate	-0.04638569	False	Ephb4	Ephb4
+P7	P7_EC3	Arterial-like	-0.1051249	False		
+P7	P7_EC3	Endocardial-like	-0.1140518	False	Nrxn3	Nrxn3
+P7	P7_EC4	Endocardial-like	1.156022	True	Nrg1;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3	Npr3;Nrxn3
+P7	P7_EC4	Venous-like candidate	0.203352	False	Vwf	
+P7	P7_EC4	Lymphatic-like candidate	-0.05493446	False		
+P7	P7_EC4	Arterial-like	-0.07085659	False	Efnb2	Efnb2
+P7	P7_EC4	Capillary-like	-0.5140552	False	Emcn;Cd36	Emcn
+P14	P14_EC0	Venous-like candidate	0.221875	True	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2
+P14	P14_EC0	Capillary-like	-0.003763204	True	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Dach1;Dipk2b	Emcn
+P14	P14_EC0	Lymphatic-like candidate	-0.06550333	False	Nrp2	
+P14	P14_EC0	Endocardial-like	-0.1044941	False	Kcnc2	
+P14	P14_EC0	Arterial-like	-0.1835579	False		
+P14	P14_EC1	Endocardial-like	0.9948706	True	Nrg1;Enpp6;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3;Nfatc1	Nfatc1;Npr3;Nrxn3
+P14	P14_EC1	Venous-like candidate	0.2436675	False	Ephb4;Vwf	Ephb4
+P14	P14_EC1	Arterial-like	-0.06296677	False	Efnb2	Efnb2
+P14	P14_EC1	Lymphatic-like candidate	-0.1241383	False		
+P14	P14_EC1	Capillary-like	-0.6625257	True	Emcn;Adgrl4;Cd36	Emcn
+P14	P14_EC2	Capillary-like	0.2687913	True	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Dach1;Dipk2b	Btnl9;Emcn
+P14	P14_EC2	Arterial-like	0.04434213	False	Efnb2	Efnb2
+P14	P14_EC2	Lymphatic-like candidate	-0.0752745	False	Nrp2	
+P14	P14_EC2	Venous-like candidate	-0.1704254	False	Ephb4	Ephb4
+P14	P14_EC2	Endocardial-like	-0.319592	False		
+P14	P14_EC3	Lymphatic-like candidate	3.256901	True	Nrp2;Prox1;Ccl21a;Pdpn;Reln;Mmrn1;Lyve1;Flt4	Flt4;Prox1
+P14	P14_EC3	Venous-like candidate	0.1945745	False	Ephb4;Nr2f2	Ephb4;Nr2f2
+P14	P14_EC3	Endocardial-like	-0.01246932	False	Nrxn3;Nfatc1	Nfatc1;Nrxn3
+P14	P14_EC3	Arterial-like	-0.05479388	False	Efnb2	Efnb2
+P14	P14_EC3	Capillary-like	-0.6662573	True	Emcn;Cd36;Dipk2b	Emcn
+P14	P14_EC4	Capillary-like	0.1453181	True	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Cd300lg;Dach1;Dipk2b	Btnl9;Cd300lg;Emcn
+P14	P14_EC4	Lymphatic-like candidate	0.03282058	False	Nrp2	
+P14	P14_EC4	Arterial-like	-0.08491323	False	Efnb2	Efnb2
+P14	P14_EC4	Venous-like candidate	-0.1991471	False		
+P14	P14_EC4	Endocardial-like	-0.2853173	False		
+P14	P14_EC5	Capillary-like	0.7604988	True	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Car4;Cd300lg;Rgcc;Dach1;Gpihbp1;Dipk2b	Btnl9;Car4;Cd300lg;Emcn;Gpihbp1;Rgcc
+P14	P14_EC5	Arterial-like	0.2819577	False	Efnb2	Efnb2
+P14	P14_EC5	Lymphatic-like candidate	-0.04838733	False	Nrp2	
+P14	P14_EC5	Venous-like candidate	-0.1409736	False	Ephb4	Ephb4
+P14	P14_EC5	Endocardial-like	-0.3027484	False		
+P14	P14_EC6	Arterial-like	1.729069	True	Sox17;Mannr;Gja5;Efnb2;Sema3g;Ptchd1	Efnb2;Gja5;Sema3g;Sox17
+P14	P14_EC6	Venous-like candidate	0.01604995	False	Vwf	
+P14	P14_EC6	Endocardial-like	-0.08753736	False	Enpp6;Nfatc1	Nfatc1
+P14	P14_EC6	Lymphatic-like candidate	-0.2047212	False		
+P14	P14_EC6	Capillary-like	-0.7299516	False	Cd36;Dach1	
+P21	P21_EC0	Capillary-like	0.4083261	True	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Cd300lg;Rgcc;Dach1;Dipk2b	Btnl9;Cd300lg;Emcn;Rgcc
+P21	P21_EC0	Arterial-like	0.01000364	False	Efnb2	Efnb2
+P21	P21_EC0	Lymphatic-like candidate	-0.0301794	False	Nrp2	
+P21	P21_EC0	Venous-like candidate	-0.1645141	False	Ephb4	Ephb4
+P21	P21_EC0	Endocardial-like	-0.3157536	False		
+P21	P21_EC1	Endocardial-like	0.8830142	True	Nrg1;Enpp6;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3	Npr3;Nrxn3
+P21	P21_EC1	Venous-like candidate	0.2865553	True	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2
+P21	P21_EC1	Lymphatic-like candidate	-0.03003068	False	Nrp2	
+P21	P21_EC1	Arterial-like	-0.08646959	False	Efnb2	Efnb2
+P21	P21_EC1	Capillary-like	-0.6495035	True	Emcn;Adgrl4;Cd36	Emcn
+P21	P21_EC2	Venous-like candidate	0.1433436	True	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2
+P21	P21_EC2	Capillary-like	0.07222661	True	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Rgcc;Dach1;Dipk2b	Emcn;Rgcc
+P21	P21_EC2	Lymphatic-like candidate	-0.05080489	False	Nrp2	
+P21	P21_EC2	Endocardial-like	-0.1727435	False	Kcnc2	
+P21	P21_EC2	Arterial-like	-0.1866424	False		
+P21	P21_EC3	Arterial-like	1.446847	True	Sox17;Mannr;Gja5;Efnb2;Sema3g;Ptchd1	Efnb2;Gja5;Sema3g;Sox17
+P21	P21_EC3	Venous-like candidate	-0.08077363	False	Vwf	
+P21	P21_EC3	Endocardial-like	-0.1792439	False	Enpp6	
+P21	P21_EC3	Lymphatic-like candidate	-0.1951419	False		
+P21	P21_EC3	Capillary-like	-0.6208815	False	Fabp4;Adgrl4;Cd36;Dach1	
+P21	P21_EC4	Lymphatic-like candidate	-0.07029112	False	Nrp2	
+P21	P21_EC4	Capillary-like	-0.1088976	True	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Rgcc;Dach1;Dipk2b	Btnl9;Emcn;Rgcc
+P21	P21_EC4	Arterial-like	-0.1435125	False	Efnb2	Efnb2
+P21	P21_EC4	Venous-like candidate	-0.1617811	False	Ephb4	Ephb4
+P21	P21_EC4	Endocardial-like	-0.2601506	False	Nfatc1	Nfatc1
+P21	P21_EC5	Lymphatic-like candidate	3.491884	True	Nrp2;Prox1;Ccl21a;Reln;Mmrn1;Lyve1;Flt4	Flt4;Prox1
+P21	P21_EC5	Venous-like candidate	0.1485968	False	Ephb4;Nr2f2	Ephb4;Nr2f2
+P21	P21_EC5	Endocardial-like	0.1256158	True	Col23a1;Nrxn3;Nfatc1	Nfatc1;Nrxn3
+P21	P21_EC5	Arterial-like	-0.005868846	False	Efnb2	Efnb2
+P21	P21_EC5	Capillary-like	-0.6751499	True	Emcn;Adgrl4;Btnl9;Dipk2b	Btnl9;Emcn

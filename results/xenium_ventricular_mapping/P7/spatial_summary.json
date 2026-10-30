@@ -1,0 +1,16 @@
+{
+  "stage": "P7",
+  "source_segmented_cells": 99429,
+  "QC_pass": 97850,
+  "measured_CM_marker_gate": 49769,
+  "ventricular_CM_candidates": 38580,
+  "CM_EC_overlap_review": 24888,
+  "family_assigned": 18805,
+  "fine_group_assigned": 15176,
+  "measured_Ankrd1_program_positive": 10989,
+  "measured_Slit2_program_positive": 878,
+  "measured_conduction_overlap_positive": 416,
+  "measured_cycling_program_positive": 6413,
+  "candidate_Npr3_landmarks": 1978,
+  "candidate_surface_landmarks": 775
+}

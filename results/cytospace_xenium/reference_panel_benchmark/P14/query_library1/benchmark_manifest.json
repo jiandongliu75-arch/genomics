@@ -1,0 +1,37 @@
+{
+  "stage": "P14",
+  "query_library": "GSM8827075_P14_1",
+  "training_library": [
+    "GSM8827076_P14_2"
+  ],
+  "command": [
+    "/workspace/heart-atlas/venv-cytospace/bin/cytospace",
+    "--single-cell",
+    "--scRNA-path",
+    "/workspace/heart-atlas/results/cytospace_cache/benchmark/P14/library1/reference/matrix.mtx.gz",
+    "--cell-type-path",
+    "/workspace/heart-atlas/results/cytospace_cache/benchmark/P14/library1/reference_labels.tsv",
+    "--st-path",
+    "/workspace/heart-atlas/results/cytospace_cache/benchmark/P14/library1/query/matrix.mtx.gz",
+    "--coordinates-path",
+    "/workspace/heart-atlas/results/cytospace_cache/benchmark/P14/library1/coordinates.tsv",
+    "--st-cell-type-path",
+    "/workspace/heart-atlas/results/cytospace_cache/benchmark/P14/library1/query_labels.tsv",
+    "--output-folder",
+    "/workspace/heart-atlas/results/cytospace_cache/benchmark/P14/library1/upstream_output",
+    "--number-of-selected-spots",
+    "3000",
+    "--number-of-processors",
+    "2",
+    "--solver-method",
+    "lapjv",
+    "--seed",
+    "42",
+    "--downsample-off",
+    "--plot-off"
+  ],
+  "genes": 381,
+  "query_counts": "DecontX-corrected count estimates; no Xenium technology effects simulated",
+  "coordinates": "arbitrary index and zero; no tissue locations, never used in assignment cost",
+  "limitation": "Technical cross-library panel recoverability of existing clusters; not independent Xenium accuracy"
+}

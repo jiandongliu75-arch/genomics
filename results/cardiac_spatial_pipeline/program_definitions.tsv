@@ -1,0 +1,11 @@
+program	lineage	count_view	measured_genes	genes	interpretation	imputed
+FB_fibrillar_matrix	Fibroblast	core	Col1a1;Col1a2;Col3a1;Col6a1;Col6a2;Col6a3	6	Fibrillar/interstitial collagen RNA; not deposited matrix or stiffness	False
+FB_basement_matrix	Fibroblast	core	Col4a1;Col4a2;Col4a5;Col4a6;Lama4;Hspg2	6	Basement-membrane-associated RNA; not verified vascular anatomy	False
+FB_elastic_matrix	Fibroblast	core	Eln;Fbln1;Fbln2;Thsd4	4	Elastic-fiber-associated RNA; not an outflow-tract label	False
+FB_remodeling	Fibroblast	core	Fn1;Tnc;Thbs1;Vcan;Mmp2	5	Developmental matrix/remodeling-associated RNA; not pathological fibrosis	False
+EC_cycling	Endothelial	nuclear	Mki67;Top2a;Cenpf	3	Measured proliferation-associated RNA; not completed division	False
+EC_guidance_proxy	Endothelial	nuclear	Angpt2;Unc5b;Plxnd1;Itgb3;Lama4	5	Measured guidance-associated proxy; not the unmeasured sprouting signature	False
+Immune_trophic_proxy	Immune	core	Igf1;Tgfb1;Gas6;Grn;Csf1	5	Multifunctional trophic/signaling RNA; not a validated repair state	False
+Mural_contractility	Smooth muscle	core	Myh11;Acta2;Tagln;Cnn1;Myl9	5	Contractility-associated RNA, overlapping lineage markers	False
+Pericyte_vascular_support	Pericyte	core	Rgs5;Cspg4;Pdgfrb;Mcam;Notch3	5	Vascular-support/identity proxy, overlapping lineage markers	False
+Epicardial_matrix_proxy	Epicardial	core	Dcn;Lum;Col1a1;Col3a1;Vcan	5	Epicardial-profile matrix RNA; sparse source, not EMT proof	False

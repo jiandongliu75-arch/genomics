@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "presentation_only": true,
+  "primary_categories": [
+    "Capillary-like",
+    "Endocardial-like",
+    "Arterial-like",
+    "Venous-like",
+    "Lymphatic-like"
+  ],
+  "RNA_total": 5573,
+  "RNA_primary": 4597,
+  "Xenium_candidates": 95316,
+  "Xenium_previously_labeled_EC": 69617,
+  "source_classifications_and_confidence_preserved": true,
+  "source_coordinates_preserved": true,
+  "RNA_counts_not_modified": true,
+  "unresolved_preserved": true,
+  "cycling_separate": true,
+  "venous_lymphatic_candidate_status_preserved": true,
+  "PDF_pages": 11
+}

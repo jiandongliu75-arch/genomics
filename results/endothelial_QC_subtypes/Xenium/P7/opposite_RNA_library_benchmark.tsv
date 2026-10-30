@@ -1,0 +1,13 @@
+stage	query_library	family	precision	recall	f1	nuclei
+P7	GSM8827073_P7_1	Capillary-like	0.7524272	0.9117647	0.8244681	170
+P7	GSM8827073_P7_1	Endocardial-like	0.9333333	0.9589041	0.9459459	73
+P7	GSM8827073_P7_1	Arterial-like	0	0	0	0
+P7	GSM8827073_P7_1	Venous-like candidate	0	0	0	0
+P7	GSM8827073_P7_1	Lymphatic-like candidate	0	0	0	0
+P7	GSM8827073_P7_1	Endothelial subtype unresolved	0.9183673	0.7692308	0.8372093	234
+P7	GSM8827074_P7_2	Capillary-like	0.7751938	0.9345794	0.8474576	107
+P7	GSM8827074_P7_2	Endocardial-like	0.9152542	0.9818182	0.9473684	55
+P7	GSM8827074_P7_2	Arterial-like	0	0	0	0
+P7	GSM8827074_P7_2	Venous-like candidate	0	0	0	0
+P7	GSM8827074_P7_2	Lymphatic-like candidate	0	0	0	0
+P7	GSM8827074_P7_2	Endothelial subtype unresolved	0.9583333	0.8298969	0.8895028	194

@@ -1,0 +1,5 @@
+stage	view	fold	available_training_CMs	fitted_training_CMs	test_CMs	minimum_receiver_gap_um	train_test_source_ID_overlap	interpretation
+P7	core	0	17300	12000	5589	400.79726	0	Each source is assigned to one domain; receivers have 200-um interior margin; regions are not independent hearts
+P7	core	1	17031	12000	5858	400.81078	0	Each source is assigned to one domain; receivers have 200-um interior margin; regions are not independent hearts
+P7	core	2	17372	12000	5517	400.81078	0	Each source is assigned to one domain; receivers have 200-um interior margin; regions are not independent hearts
+P7	core	3	16964	12000	5925	400.79726	0	Each source is assigned to one domain; receivers have 200-um interior margin; regions are not independent hearts

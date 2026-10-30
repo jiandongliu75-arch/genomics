@@ -1,0 +1,13 @@
+stage	view	source	exposure	adjustment	score	CMs	blocks	beta_SD	CI_low	CI_high	within_section_p	wild_score_p	exposure_residual_SD	vascular_primary	vascular_BH_q	nonCM_BH_q
+P0	native	EC:Capillary-like	capillary_nearness	Within_local	module_ensemble	17981	44	0.029939646	-0.0045633124	0.064442604	0.08725756	0.0854	0.66413631	True	0.12453333	NA
+P0	native	EC:Capillary-like	capillary_count50	Within_local	module_ensemble	17981	44	0.031669056	0.0007127587	0.062625354	0.04517171	0.0462	0.68266606	True	0.090514286	NA
+P0	native	EC:Capillary-like	capillary_apposition2	Within_local	module_ensemble	17981	44	-0.013013846	-0.031688764	0.005661071	0.16709934	0.1936	0.95160684	True	0.2112	NA
+P7	native	EC:Capillary-like	capillary_nearness	Within_local	module_ensemble	35112	80	0.024567038	0.013372614	0.035761463	3.7665087e-05	0.0001	0.77868181	True	0.0012	NA
+P7	native	EC:Capillary-like	capillary_count50	Within_local	module_ensemble	35112	80	0.019336361	0.0052687502	0.033403973	0.0076789557	0.006	0.75787121	True	0.0225	NA
+P7	native	EC:Capillary-like	capillary_apposition2	Within_local	module_ensemble	35112	80	0.010586456	0.00232758	0.018845331	0.012658758	0.0149	0.96521932	True	0.03576	NA
+P14	native	EC:Capillary-like	capillary_nearness	Within_local	module_ensemble	37740	129	0.020101163	0.0059702831	0.034232044	0.0056553088	0.0058	0.76774395	True	0.0225	NA
+P14	native	EC:Capillary-like	capillary_count50	Within_local	module_ensemble	37740	129	0.011470188	-0.003644332	0.026584709	0.13566739	0.1209	0.74124862	True	0.14508	NA
+P14	native	EC:Capillary-like	capillary_apposition2	Within_local	module_ensemble	37740	129	0.013659313	0.0037787596	0.023539867	0.0071151172	0.0075	0.95296239	True	0.0225	NA
+P21	native	EC:Capillary-like	capillary_nearness	Within_local	module_ensemble	40772	151	0.01221544	-0.00029261245	0.024723492	0.055533772	0.0528	0.79753709	True	0.090514286	NA
+P21	native	EC:Capillary-like	capillary_count50	Within_local	module_ensemble	40772	151	-0.0019640442	-0.012955048	0.0090269594	0.72451995	0.7225	0.84638363	True	0.7225	NA
+P21	native	EC:Capillary-like	capillary_apposition2	Within_local	module_ensemble	40772	151	0.0090700084	-0.0017133993	0.019853416	0.098611371	0.0934	0.96790192	True	0.12453333	NA

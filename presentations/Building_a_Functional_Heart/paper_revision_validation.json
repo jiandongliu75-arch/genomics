@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "slides": 40,
+  "main_slides": 37,
+  "backup_slides": 3,
+  "main_minutes": 40,
+  "original_slides_retained": 16,
+  "original_template_layouts_preserved": true,
+  "original_atlas_video_byte_identical": true,
+  "original_acknowledgment_text_preserved": true,
+  "PowerPoint_ZIP_integrity": true,
+  "Word_ZIP_integrity": true,
+  "all_40_notes_present": true,
+  "exact_21gene_panel_checked": true,
+  "separate_reanalysis_excluded": true,
+  "all_added_figure_assets_traced_to_author_manuscript": true,
+  "PDF_pages": 40,
+  "PDF_text_within_pages": true,
+  "all_top_level_shapes_within_slide": true,
+  "original_upload_SHA256": "f58bf8b86aed339b2f8c2d1980ca3103a8680121a9e77417c352050e77d4d8d4",
+  "scope": "Original UNC presentation revised using the published heart-atlas narrative and author-supplied figure artwork; no new numerical reanalysis"
+}

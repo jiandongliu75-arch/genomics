@@ -1,0 +1,21 @@
+from_cluster	from_family	to_cluster	to_family	correlation	reciprocal_nearest_match	genes_compared	interpretation
+P0_F1	Postn-associated	P7_F3	Postn-associated	0.285036	True	12783	relative RNA resemblance with interpreted genes withheld; not lineage ancestry
+P0_F2	Postn-associated	P7_F1	Postn-associated	0.2089452	False	12783	relative RNA resemblance with interpreted genes withheld; not lineage ancestry
+P0_F3	Postn-associated	P7_F2	Postn-associated	0.4589986	True	12783	relative RNA resemblance with interpreted genes withheld; not lineage ancestry
+P0_F4	Kirrel3-associated	P7_F8	Kirrel3-associated	0.4491696	True	12783	relative RNA resemblance with interpreted genes withheld; not lineage ancestry
+P0_F5	Postn-associated	P7_F7	Postn-associated	0.4514298	True	12783	relative RNA resemblance with interpreted genes withheld; not lineage ancestry
+P0_F6	Postn-associated	P7_F2	Postn-associated	0.2981257	False	12783	relative RNA resemblance with interpreted genes withheld; not lineage ancestry
+P7_F1	Postn-associated	P14_F3	Lsamp-associated	0.3446878	True	12783	relative RNA resemblance with interpreted genes withheld; not lineage ancestry
+P7_F2	Postn-associated	P14_F2	Col8a1-associated	0.4101359	True	12783	relative RNA resemblance with interpreted genes withheld; not lineage ancestry
+P7_F3	Postn-associated	P14_F3	Lsamp-associated	0.2457394	False	12783	relative RNA resemblance with interpreted genes withheld; not lineage ancestry
+P7_F4	Gfpt2-associated	P14_F0	Gfpt2-associated	0.5535583	True	12783	relative RNA resemblance with interpreted genes withheld; not lineage ancestry
+P7_F6	Postn-associated	P14_F4	Col8a1-associated	0.2447348	True	12783	relative RNA resemblance with interpreted genes withheld; not lineage ancestry
+P7_F7	Postn-associated	P14_F7	Unresolved fibroblast program	0.4056187	True	12783	relative RNA resemblance with interpreted genes withheld; not lineage ancestry
+P7_F8	Kirrel3-associated	P14_F5	Kirrel3-associated	0.4506846	True	12783	relative RNA resemblance with interpreted genes withheld; not lineage ancestry
+P14_F0	Gfpt2-associated	P21_F3	Gfpt2-associated	0.6886705	True	12783	relative RNA resemblance with interpreted genes withheld; not lineage ancestry
+P14_F1	Col8a1-associated	P21_F2	Col8a1-associated	0.6093958	True	12783	relative RNA resemblance with interpreted genes withheld; not lineage ancestry
+P14_F2	Col8a1-associated	P21_F0	Unresolved fibroblast program	0.6966212	True	12783	relative RNA resemblance with interpreted genes withheld; not lineage ancestry
+P14_F3	Lsamp-associated	P21_F1	Lsamp-associated	0.592913	True	12783	relative RNA resemblance with interpreted genes withheld; not lineage ancestry
+P14_F4	Col8a1-associated	P21_F5	Lsamp-associated	0.3483658	True	12783	relative RNA resemblance with interpreted genes withheld; not lineage ancestry
+P14_F5	Kirrel3-associated	P21_F4	Kirrel3-associated	0.5729208	True	12783	relative RNA resemblance with interpreted genes withheld; not lineage ancestry
+P14_F7	Unresolved fibroblast program	P21_F2	Col8a1-associated	0.13136	False	12783	relative RNA resemblance with interpreted genes withheld; not lineage ancestry

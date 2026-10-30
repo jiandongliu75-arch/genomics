@@ -1,0 +1,7 @@
+stage_a	stage_b	distance_stratum	comparison	pairs	median_exact_W2_squared	median_identity_cost	median_state_cost	median_state_fraction_of_cost	scope
+P0	P7	Endocardial-proximal ≤100µm	Composition-similar pairs L1≤0.3	18	0.663958275	0.124999996	0.55028099	0.835002147	Representation-dependent descriptive distance decomposition; not biological effect size or proof of state conversion
+P0	P7	More distant >100µm	Composition-similar pairs L1≤0.3	25	0.695261398	0.111111107	0.570248205	0.84018801	Representation-dependent descriptive distance decomposition; not biological effect size or proof of state conversion
+P14	P21	Endocardial-proximal ≤100µm	Composition-similar pairs L1≤0.3	12	0.619409327	0.117979239	0.484488697	0.800643131	Representation-dependent descriptive distance decomposition; not biological effect size or proof of state conversion
+P14	P21	More distant >100µm	Composition-similar pairs L1≤0.3	15	0.524507443	0.11428571	0.429839782	0.787706903	Representation-dependent descriptive distance decomposition; not biological effect size or proof of state conversion
+P7	P14	Endocardial-proximal ≤100µm	Composition-similar pairs L1≤0.3	17	0.607482398	0.111111107	0.520180865	0.854515789	Representation-dependent descriptive distance decomposition; not biological effect size or proof of state conversion
+P7	P14	More distant >100µm	Composition-similar pairs L1≤0.3	21	0.528673832	0.124999996	0.402930866	0.771128516	Representation-dependent descriptive distance decomposition; not biological effect size or proof of state conversion

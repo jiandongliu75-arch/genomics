@@ -1,0 +1,25 @@
+stage	sample	program	outcome	nuclei	Spearman_r	interpretation
+P0	GSM8827071_P0_1	z_HIF_response	z_Maturation_reference	5091	0.069340363	Within-library RNA-state association, not spatial capillary exposure or oxygen measurement
+P0	GSM8827071_P0_1	qc_adjusted_z_HIF_response	qc_adjusted_z_Maturation_reference	5091	0.043326489	Within-library RNA-state association, not spatial capillary exposure or oxygen measurement
+P0	GSM8827071_P0_1	z_HIF_non_glycolytic	z_Maturation_reference	5091	0.041994742	Within-library RNA-state association, not spatial capillary exposure or oxygen measurement
+P0	GSM8827072_P0_2	z_HIF_response	z_Maturation_reference	5955	0.065482286	Within-library RNA-state association, not spatial capillary exposure or oxygen measurement
+P0	GSM8827072_P0_2	qc_adjusted_z_HIF_response	qc_adjusted_z_Maturation_reference	5955	0.036832821	Within-library RNA-state association, not spatial capillary exposure or oxygen measurement
+P0	GSM8827072_P0_2	z_HIF_non_glycolytic	z_Maturation_reference	5955	0.036288808	Within-library RNA-state association, not spatial capillary exposure or oxygen measurement
+P7	GSM8827073_P7_1	z_HIF_response	z_Maturation_reference	8166	0.05776606	Within-library RNA-state association, not spatial capillary exposure or oxygen measurement
+P7	GSM8827073_P7_1	qc_adjusted_z_HIF_response	qc_adjusted_z_Maturation_reference	8166	0.042076552	Within-library RNA-state association, not spatial capillary exposure or oxygen measurement
+P7	GSM8827073_P7_1	z_HIF_non_glycolytic	z_Maturation_reference	8166	0.044968907	Within-library RNA-state association, not spatial capillary exposure or oxygen measurement
+P7	GSM8827074_P7_2	z_HIF_response	z_Maturation_reference	4874	0.082689678	Within-library RNA-state association, not spatial capillary exposure or oxygen measurement
+P7	GSM8827074_P7_2	qc_adjusted_z_HIF_response	qc_adjusted_z_Maturation_reference	4874	0.055075358	Within-library RNA-state association, not spatial capillary exposure or oxygen measurement
+P7	GSM8827074_P7_2	z_HIF_non_glycolytic	z_Maturation_reference	4874	0.089319319	Within-library RNA-state association, not spatial capillary exposure or oxygen measurement
+P14	GSM8827075_P14_1	z_HIF_response	z_Maturation_reference	5153	0.0053745813	Within-library RNA-state association, not spatial capillary exposure or oxygen measurement
+P14	GSM8827075_P14_1	qc_adjusted_z_HIF_response	qc_adjusted_z_Maturation_reference	5153	-0.013161399	Within-library RNA-state association, not spatial capillary exposure or oxygen measurement
+P14	GSM8827075_P14_1	z_HIF_non_glycolytic	z_Maturation_reference	5153	0.018526853	Within-library RNA-state association, not spatial capillary exposure or oxygen measurement
+P14	GSM8827076_P14_2	z_HIF_response	z_Maturation_reference	5889	0.0117791	Within-library RNA-state association, not spatial capillary exposure or oxygen measurement
+P14	GSM8827076_P14_2	qc_adjusted_z_HIF_response	qc_adjusted_z_Maturation_reference	5889	-0.013030369	Within-library RNA-state association, not spatial capillary exposure or oxygen measurement
+P14	GSM8827076_P14_2	z_HIF_non_glycolytic	z_Maturation_reference	5889	0.016316275	Within-library RNA-state association, not spatial capillary exposure or oxygen measurement
+P21	GSM8827077_P21_1	z_HIF_response	z_Maturation_reference	3256	0.077794512	Within-library RNA-state association, not spatial capillary exposure or oxygen measurement
+P21	GSM8827077_P21_1	qc_adjusted_z_HIF_response	qc_adjusted_z_Maturation_reference	3256	0.05141637	Within-library RNA-state association, not spatial capillary exposure or oxygen measurement
+P21	GSM8827077_P21_1	z_HIF_non_glycolytic	z_Maturation_reference	3256	0.073445212	Within-library RNA-state association, not spatial capillary exposure or oxygen measurement
+P21	GSM8827078_P21_2	z_HIF_response	z_Maturation_reference	6079	0.045452367	Within-library RNA-state association, not spatial capillary exposure or oxygen measurement
+P21	GSM8827078_P21_2	qc_adjusted_z_HIF_response	qc_adjusted_z_Maturation_reference	6079	0.030148883	Within-library RNA-state association, not spatial capillary exposure or oxygen measurement
+P21	GSM8827078_P21_2	z_HIF_non_glycolytic	z_Maturation_reference	6079	0.044446224	Within-library RNA-state association, not spatial capillary exposure or oxygen measurement

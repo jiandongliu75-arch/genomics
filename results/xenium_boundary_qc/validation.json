@@ -1,0 +1,58 @@
+{
+  "status": "PASS",
+  "stages": [
+    {
+      "stage": "P0",
+      "source_profiles_with_exact_Q20_reconstruction": 47611,
+      "whole_run_molecule_rows": 22145474,
+      "target_profiles_with_exact_native_identity_reproduction": 9330,
+      "native_and_boundary_variant_count_checks": true,
+      "ROI_molecule_records_checked_including_context_overlap": 4325491,
+      "alternative_cell_polygons_checked": 18024,
+      "source_boundary_distances_independently_recomputed": 800,
+      "cell_seeds_in_context_ROIs": 9012,
+      "nuclear_area_missing_CM_seeds_preserved": 1037,
+      "all_frozen_CM_pairs_checked": 475
+    },
+    {
+      "stage": "P7",
+      "source_profiles_with_exact_Q20_reconstruction": 99429,
+      "whole_run_molecule_rows": 50861406,
+      "target_profiles_with_exact_native_identity_reproduction": 11074,
+      "native_and_boundary_variant_count_checks": true,
+      "ROI_molecule_records_checked_including_context_overlap": 4460872,
+      "alternative_cell_polygons_checked": 19030,
+      "source_boundary_distances_independently_recomputed": 800,
+      "cell_seeds_in_context_ROIs": 9515,
+      "nuclear_area_missing_CM_seeds_preserved": 1707,
+      "all_frozen_CM_pairs_checked": 1164
+    },
+    {
+      "stage": "P14",
+      "source_profiles_with_exact_Q20_reconstruction": 117070,
+      "whole_run_molecule_rows": 72744987,
+      "target_profiles_with_exact_native_identity_reproduction": 8739,
+      "native_and_boundary_variant_count_checks": true,
+      "ROI_molecule_records_checked_including_context_overlap": 4379343,
+      "alternative_cell_polygons_checked": 14000,
+      "source_boundary_distances_independently_recomputed": 800,
+      "cell_seeds_in_context_ROIs": 7000,
+      "nuclear_area_missing_CM_seeds_preserved": 1041,
+      "all_frozen_CM_pairs_checked": 1150
+    },
+    {
+      "stage": "P21",
+      "source_profiles_with_exact_Q20_reconstruction": 143944,
+      "whole_run_molecule_rows": 98816089,
+      "target_profiles_with_exact_native_identity_reproduction": 7054,
+      "native_and_boundary_variant_count_checks": true,
+      "ROI_molecule_records_checked_including_context_overlap": 4275449,
+      "alternative_cell_polygons_checked": 13124,
+      "source_boundary_distances_independently_recomputed": 800,
+      "cell_seeds_in_context_ROIs": 6562,
+      "nuclear_area_missing_CM_seeds_preserved": 791,
+      "all_frozen_CM_pairs_checked": 315
+    }
+  ],
+  "scope": "Source count reconstruction, native identity reproduction, count-depth controls, RNA assignment, polygon vectorization and paired outcomes; not independently adjudicated biological cell boundaries or animal replication"
+}

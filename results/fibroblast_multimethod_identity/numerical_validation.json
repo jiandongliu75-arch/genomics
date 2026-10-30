@@ -1,0 +1,44 @@
+{
+  "status": "PASS",
+  "stages": [
+    {
+      "stage": "P0",
+      "source_FB_profiles": 2319,
+      "eligible_sources": 2020,
+      "cell_supported_candidates": 2000,
+      "crosschecked_candidates": 1987,
+      "original_coordinates_and_IDs_preserved": true
+    },
+    {
+      "stage": "P7",
+      "source_FB_profiles": 8564,
+      "eligible_sources": 7365,
+      "cell_supported_candidates": 6701,
+      "crosschecked_candidates": 6134,
+      "original_coordinates_and_IDs_preserved": true
+    },
+    {
+      "stage": "P14",
+      "source_FB_profiles": 9824,
+      "eligible_sources": 8098,
+      "cell_supported_candidates": 6681,
+      "crosschecked_candidates": 5755,
+      "original_coordinates_and_IDs_preserved": true
+    },
+    {
+      "stage": "P21",
+      "source_FB_profiles": 13083,
+      "eligible_sources": 10867,
+      "cell_supported_candidates": 7992,
+      "crosschecked_candidates": 6671,
+      "original_coordinates_and_IDs_preserved": true
+    }
+  ],
+  "model_proposals_independently_reconstructed": 1085844,
+  "CV_precision_recall_F1_recalculated": true,
+  "heldout_naming_genes_absent_from_training": true,
+  "independent_NB_logpmf_cells": 8,
+  "query_composition_invariance_checked": true,
+  "program_overlap_counts_reconstructed": true,
+  "new_Xenium_ground_truth_or_fate_validation": false
+}

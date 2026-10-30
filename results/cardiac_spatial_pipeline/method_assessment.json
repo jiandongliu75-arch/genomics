@@ -1,0 +1,29 @@
+{
+  "assessment_date": "2026-10-25",
+  "primary_backend": "scikit-learn GMM; actual data-driven aggregation and stability checks",
+  "CellCharter": {
+    "version_checked": "0.3.8",
+    "executed": false,
+    "role": "Optional neighborhood clustering benchmark",
+    "source": "https://github.com/CSOgroup/cellcharter",
+    "API_checked": "cellcharter.tl.Cluster.fit/predict(AnnData,use_rep=None)",
+    "current_environment_installed": false
+  },
+  "Wasserstein_Wormhole": {
+    "paper": "Haviv et al., Wasserstein Wormhole: Scalable Optimal Transport Distance with Transformers, ICML2024; arXiv2404.09411v4",
+    "uploaded_pdf_sha256": "8e38b2c7b1ac65f94de5bc77b341797824f605eab3a8c27a0faed67ff9bb86f8",
+    "paper_section_reviewed": "6.5 Cellular Niches;11 Implementation Details",
+    "version_checked": "0.3.7",
+    "trained": false,
+    "source": "https://pypi.org/project/wassersteinwormhole/0.3.7/",
+    "API_checked": "Wormhole(point_clouds,point_clouds_test);train(training_steps,key);encode(point_clouds,weights)",
+    "current_environment_installed": false
+  },
+  "executed_distribution_pilot": {
+    "pairs": 6000,
+    "exact_OT_pairs": 256,
+    "sliced_projections": 32,
+    "features": "Observed non-CM type/program values and observation flags, not full genes",
+    "purpose": "Distance comparison, not prediction improvement or causal inference"
+  }
+}

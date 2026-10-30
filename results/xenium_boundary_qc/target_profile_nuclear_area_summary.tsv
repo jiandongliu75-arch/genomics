@@ -1,0 +1,40 @@
+stage	atlas_identity	target_profiles	without_nuclear_area
+P0	Ambiguous/review	1234	109
+P0	Cardiomyocyte	5864	1058
+P0	Endothelial	1312	27
+P0	Epicardial	12	0
+P0	Fibroblast	491	8
+P0	Immune	36	0
+P0	Mixed-marker review	118	1
+P0	Pericyte	113	2
+P0	QC/information flag	115	6
+P0	Smooth muscle	35	0
+P7	Ambiguous/review	1369	110
+P7	Cardiomyocyte	7025	2311
+P7	Endothelial	1541	21
+P7	Epicardial	10	0
+P7	Fibroblast	470	10
+P7	Immune	103	3
+P7	Mixed-marker review	186	5
+P7	Pericyte	202	9
+P7	QC/information flag	124	5
+P7	Smooth muscle	44	0
+P14	Ambiguous/review	1080	150
+P14	Cardiomyocyte	5032	1460
+P14	Endothelial	1284	15
+P14	Epicardial	16	0
+P14	Fibroblast	437	11
+P14	Immune	112	1
+P14	Mixed-marker review	320	4
+P14	Pericyte	258	4
+P14	QC/information flag	78	2
+P14	Smooth muscle	122	1
+P21	Ambiguous/review	1300	247
+P21	Cardiomyocyte	3212	943
+P21	Endothelial	1136	21
+P21	Fibroblast	661	17
+P21	Immune	161	4
+P21	Mixed-marker review	216	3
+P21	Pericyte	225	5
+P21	QC/information flag	72	1
+P21	Smooth muscle	71	1

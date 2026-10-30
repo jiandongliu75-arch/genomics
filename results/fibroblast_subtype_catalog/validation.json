@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "computational_groups": 31,
+  "source_nuclei": 14985,
+  "reference_eligible_nuclei": 14328,
+  "lineage_review_nuclei": 657,
+  "reviewed_P21_Col8a1_family_nuclei": 2711,
+  "new_clustering_or_spatial_transfer": false,
+  "source_analysis": "results/fibroblast_states",
+  "additive_identity_review": "results/fibroblast_P21_identity_review"
+}

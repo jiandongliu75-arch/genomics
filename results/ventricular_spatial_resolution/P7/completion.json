@@ -1,0 +1,13 @@
+{
+  "stage": "P7",
+  "original_cells": 99429,
+  "query_cells": 38580,
+  "reference_nuclei": 13040,
+  "fine_groups": 9,
+  "selected_K_from_validation": 3,
+  "elapsed_seconds": 27.142581939697266,
+  "source_query_sha256": "f46cf9fdb12697a2d7e55c4394f034f67f525a871baac6b94314b6ddef336fce",
+  "source_neighbors_sha256": "70fc9babcfe67fc49e6be12a7a774c8daf388e1b9de017dec70a3896130e2302",
+  "author_labels_used_in_fit": false,
+  "original_counts_and_coordinates_changed": false
+}

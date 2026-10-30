@@ -1,0 +1,21 @@
+stage	label_layer	family	eligible_FB_profiles	reference_assessable	candidate_profiles	table_display	meaning
+P0	candidate	Postn	2020	True	1946	1946	Assignment coverage, not tissue abundance or independently measured accuracy
+P0	candidate	Gfpt2	2020	False	NA	Not assessable	Assignment coverage, not tissue abundance or independently measured accuracy
+P0	candidate	Col8a1	2020	False	NA	Not assessable	Assignment coverage, not tissue abundance or independently measured accuracy
+P0	candidate	Lsamp	2020	False	NA	Not assessable	Assignment coverage, not tissue abundance or independently measured accuracy
+P0	candidate	Kirrel3	2020	True	54	54	Assignment coverage, not tissue abundance or independently measured accuracy
+P7	candidate	Postn	7365	True	5844	5844	Assignment coverage, not tissue abundance or independently measured accuracy
+P7	candidate	Gfpt2	7365	True	630	630	Assignment coverage, not tissue abundance or independently measured accuracy
+P7	candidate	Col8a1	7365	False	NA	Not assessable	Assignment coverage, not tissue abundance or independently measured accuracy
+P7	candidate	Lsamp	7365	False	NA	Not assessable	Assignment coverage, not tissue abundance or independently measured accuracy
+P7	candidate	Kirrel3	7365	True	227	227	Assignment coverage, not tissue abundance or independently measured accuracy
+P14	candidate	Postn	8098	False	NA	Not assessable	Assignment coverage, not tissue abundance or independently measured accuracy
+P14	candidate	Gfpt2	8098	True	597	597	Assignment coverage, not tissue abundance or independently measured accuracy
+P14	candidate	Col8a1	8098	True	4579	4579	Assignment coverage, not tissue abundance or independently measured accuracy
+P14	candidate	Lsamp	8098	True	1455	1455	Assignment coverage, not tissue abundance or independently measured accuracy
+P14	candidate	Kirrel3	8098	True	50	50	Assignment coverage, not tissue abundance or independently measured accuracy
+P21	candidate	Postn	10867	False	NA	Not assessable	Assignment coverage, not tissue abundance or independently measured accuracy
+P21	candidate	Gfpt2	10867	True	85	85	Assignment coverage, not tissue abundance or independently measured accuracy
+P21	candidate	Col8a1	10867	True	3702	3702	Assignment coverage, not tissue abundance or independently measured accuracy
+P21	candidate	Lsamp	10867	True	3454	3454	Assignment coverage, not tissue abundance or independently measured accuracy
+P21	candidate	Kirrel3	10867	True	751	751	Assignment coverage, not tissue abundance or independently measured accuracy

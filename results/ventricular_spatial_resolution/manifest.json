@@ -1,0 +1,463 @@
+{
+  "results": [
+    {
+      "path": "results/ventricular_spatial_resolution/P0/RNA_resolution_metrics.tsv",
+      "bytes": 21057,
+      "sha256": "2733f6a62a0d0404c4d7e488749d3a94e64ce888557ef09f994274333454f0fb"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P0/RNA_split_probabilities.npz",
+      "bytes": 328674,
+      "sha256": "b058be3d6453688c6d04272d9bb1ab55ebab70315b3b0009166a8f53aaebcf1d"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P0/class_specific_RNA_thresholds.tsv",
+      "bytes": 1344,
+      "sha256": "e0078e6f3c3d1e7535bf970fcd564125bdb9fedc614e0e6f0fe870e69eba8316"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P0/completion.json",
+      "bytes": 476,
+      "sha256": "bf860d42df83a1532b8474de19e44b41177264cbeb733e407be623fccb5f3410"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P0/fine_CM_spatial_annotations.tsv.gz",
+      "bytes": 2430090,
+      "sha256": "dea50a39fe9aa719675984de2f7e60e426614def32e439011cfc02b2b547b8ac"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P0/fine_group_evidence_summary.tsv",
+      "bytes": 8646,
+      "sha256": "b340b5b23507aa8fa592e5000897aebc90b3e3f14607fd5259e389191c22161f"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P0/fine_groups_vs_published_states.tsv",
+      "bytes": 744,
+      "sha256": "56bd06227c2371d75a289e012e9914098baa01c0998977acfbcb0ba84cbbd454"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P0/fine_probabilities_and_sensitivity.npz",
+      "bytes": 2075414,
+      "sha256": "8e016288b2dde803712192751640b2e68fb88fe9d8de5dcff156340b8224b953"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P0/hierarchy.json",
+      "bytes": 511249,
+      "sha256": "f8d22c542f0a0f2044f77249848ca5e4cf9fc35bca1c0a25087de2f78cb63665"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P0/measured_panel_supporting_markers.tsv",
+      "bytes": 2586,
+      "sha256": "3ecbafa246bb509aaf8b0649cfe6441649fb3c5f98cd4c18e776d26ed7c4bd79"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P0/prioritized_vs_published_states.tsv",
+      "bytes": 382,
+      "sha256": "2e9cb7d3c49649f4100d0a8b2c61e1a6dd0084ef41a903a1288ba7d26c35bcf8"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P0/resolution_frontier.tsv",
+      "bytes": 1936,
+      "sha256": "c7620d5f17e00b08a44c882e36df02c09dff51ada09d920ab774e950b1102f9e"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P0_finest_CM_overview.pdf",
+      "bytes": 1536786,
+      "sha256": "02983cbf0b39ed26010263d40d4fcd56c4f28245e5b729fcc747b3f393c499b0"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P0_finest_CM_overview.png",
+      "bytes": 5040740,
+      "sha256": "1e93980702ca3da14f733dff2c424aa5daf398395e0d07541dde022a0e2dfe31"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P0_individual_fine_CM_maps.pdf",
+      "bytes": 1990990,
+      "sha256": "8cf1176c544408d0bf6be117f63bb88fd2b48bf96a6523d7ec95009a86c73c65"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P0_individual_fine_CM_maps.png",
+      "bytes": 6628772,
+      "sha256": "15f17a15aec2c59a3f56d9f63ef17b53245fe64094bdd057e5dc40ca989ddbd5"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P14/RNA_resolution_metrics.tsv",
+      "bytes": 9230,
+      "sha256": "a89381fa48e541fa98a278fe86b4b620b5003c825f7e3b7f6835784917f27d23"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P14/RNA_split_probabilities.npz",
+      "bytes": 263805,
+      "sha256": "aad3bcdd61294df920d25ff5340799140e23f567feca2f6bf87336c5555dd442"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P14/class_specific_RNA_thresholds.tsv",
+      "bytes": 1083,
+      "sha256": "65615e1ba91f84f4139d3ad0e78aaf4dc9e875297fa132749a1d77ddd79ef563"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P14/completion.json",
+      "bytes": 478,
+      "sha256": "d2671290087b6bfd560b10abe06b98a35e54f0a3769a32d193d7d16c175abba8"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P14/fine_CM_spatial_annotations.tsv.gz",
+      "bytes": 5048135,
+      "sha256": "4b97a3a057f004759838790179ab159b0e2d9db392e8e8a608f27e385d1c7c3e"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P14/fine_group_evidence_summary.tsv",
+      "bytes": 6105,
+      "sha256": "96bea3a6b1e28049b04ea7ea443cd268937c873dae31474cfe243e97677c6887"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P14/fine_groups_vs_published_states.tsv",
+      "bytes": 675,
+      "sha256": "6a1b025cf021e278c19c93821c19f0ba66d65e016dd2c88a07ee778eb9443b81"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P14/fine_probabilities_and_sensitivity.npz",
+      "bytes": 3418927,
+      "sha256": "3f71e9f6196bc1c305c501e5648ce6e40cf295f457fd8da8da87c384d5a68d85"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P14/hierarchy.json",
+      "bytes": 520858,
+      "sha256": "66463d6a604c12e055f43dc7fcf6b9b48a18b79cc45391f53e2299dce5b95a2c"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P14/measured_panel_supporting_markers.tsv",
+      "bytes": 1371,
+      "sha256": "614bcb297b9482d749d46f447acb5f3cd0130407202dc244455fe600fa6a02f8"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P14/prioritized_vs_published_states.tsv",
+      "bytes": 441,
+      "sha256": "cd595e89a9266adb91f805658c527a900ed7cc38ada72cd0f1824edb4e7bfc54"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P14/resolution_frontier.tsv",
+      "bytes": 1344,
+      "sha256": "f3adf926803ac1079c2aacb2638c03574df61e13ae191022a6c45fbc4000dda7"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P14_finest_CM_overview.pdf",
+      "bytes": 1583751,
+      "sha256": "946b50c3ced48628ce75f2e5c553ff439db38f59f945a901919b6df992e7b445"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P14_finest_CM_overview.png",
+      "bytes": 5414128,
+      "sha256": "bd90e11bb9299a1bce1783b79d29267480d087d5a9b7b3705a741248a175d62e"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P14_individual_fine_CM_maps.pdf",
+      "bytes": 1391324,
+      "sha256": "0dd9662b31aa478af782dcb061710c7869a28e4817fb7a538cd4230aac5ec2d9"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P14_individual_fine_CM_maps.png",
+      "bytes": 4713857,
+      "sha256": "e0968905bc37ac55c31736276d4f9e4bee9f9d66923626337c1e58e6fcb9e284"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P21/RNA_resolution_metrics.tsv",
+      "bytes": 12642,
+      "sha256": "46f09482fd8807f85cb623c0a61093ccb4cc5f1954563ae9e029e5271a0c102b"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P21/RNA_split_probabilities.npz",
+      "bytes": 255622,
+      "sha256": "cc00229605cee4bfa0af49775561b1050e983607bebdf1862cdd209a07902387"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P21/class_specific_RNA_thresholds.tsv",
+      "bytes": 1004,
+      "sha256": "949d53f18d8d3be4cd48f4e976173851fccfd8e7facd680828328d7573d848d9"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P21/completion.json",
+      "bytes": 476,
+      "sha256": "c76075193f0eeaf8cb9d39bc5262a577b5530426e9cddc7c0190b2ad234df04d"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P21/fine_CM_spatial_annotations.tsv.gz",
+      "bytes": 6296744,
+      "sha256": "7ba0947041c7295213b8146792dcbed148b86a96eda65f6346c5202ec96a921c"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P21/fine_group_evidence_summary.tsv",
+      "bytes": 6924,
+      "sha256": "f3f2f6cf2606adb5568f2f48cf5d3f59bbdb9d026f948b34fa23f0648fe9d292"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P21/fine_groups_vs_published_states.tsv",
+      "bytes": 628,
+      "sha256": "c65f2b59cd13c39dd70f49b3dda41f4a59e522ebba540c3c8d51ff8c105862b8"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P21/fine_probabilities_and_sensitivity.npz",
+      "bytes": 4771455,
+      "sha256": "50b14458a0f2a0a726312e32baf1e719a56cabe1ae90fc5664d37e005afedadc"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P21/hierarchy.json",
+      "bytes": 441085,
+      "sha256": "33158544271cacad97c8a7b0501766a3b49bcfea2aec2feaaad09b9af0a542a2"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P21/measured_panel_supporting_markers.tsv",
+      "bytes": 1665,
+      "sha256": "08f0fb67ebe945b75c4d8cc2a7ddea7c95acacd37b07a52901b5b4cdfabbf7fe"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P21/prioritized_vs_published_states.tsv",
+      "bytes": 218,
+      "sha256": "bd93409b07cacffced815a5a48a6831294a0431f658a4a576a410d480210d7f2"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P21/resolution_frontier.tsv",
+      "bytes": 1544,
+      "sha256": "50e010ef245a3502e17f62ef6f48af1b5984730114819f953a301eeaf95e1be1"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P21_finest_CM_overview.pdf",
+      "bytes": 2162285,
+      "sha256": "589edc74b000e7ac9344d8687c63e3584964fbc1191d47c2876e9beaa97f2908"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P21_finest_CM_overview.png",
+      "bytes": 7290507,
+      "sha256": "82f79440bf721ec1c7f021485fc00bfe5c2dcdf3aceab94ca693793a32bcd9cd"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P21_individual_fine_CM_maps.pdf",
+      "bytes": 2206345,
+      "sha256": "f18f28cb57a9d656c497043751406060648d3920b915e0d10731cd25cc9dfddc"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P21_individual_fine_CM_maps.png",
+      "bytes": 7386677,
+      "sha256": "6b70def0dd4ca66fd095dcea60375a8837a1e21576535219f3289569b266c951"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P7/RNA_resolution_metrics.tsv",
+      "bytes": 24041,
+      "sha256": "034b06915c86f35a148accc3c47a2ac48608216b715838f4071b331dc200b456"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P7/RNA_split_probabilities.npz",
+      "bytes": 384316,
+      "sha256": "dc32730d63bd09a2432890ac99993c79cd664fc820a077fe974d67cc4c8c4434"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P7/class_specific_RNA_thresholds.tsv",
+      "bytes": 1289,
+      "sha256": "6ccb9a966e6fdf9ac841663150cab3ec1edb79c6f2be0c245a3d045d71cf78a7"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P7/completion.json",
+      "bytes": 476,
+      "sha256": "a593641e558e8c40204b821dd8e32b4904a33c0b7d499a3c24c9474e247eb604"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P7/fine_CM_spatial_annotations.tsv.gz",
+      "bytes": 4370762,
+      "sha256": "4544f4a5a814a446ce715cf70a6b223e239c90be6987618e8df432047c331917"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P7/fine_group_evidence_summary.tsv",
+      "bytes": 8730,
+      "sha256": "43f1680ab0aa507deba807cf07d126a9c26842b2e5d8eaa8483c20dd1e381c92"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P7/fine_groups_vs_published_states.tsv",
+      "bytes": 753,
+      "sha256": "ef5e6788a68127848ccc2af663e77c60f1a9eb14c8af6984ab5810d1282d6602"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P7/fine_probabilities_and_sensitivity.npz",
+      "bytes": 3418126,
+      "sha256": "03040a410648c12602721e4372f603a855768fbe3dccd52dd8d7304716194c92"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P7/hierarchy.json",
+      "bytes": 603622,
+      "sha256": "06283fc07af813b9f45e817afbeca6e1765343294a7e05e4d83c23eabe447880"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P7/measured_panel_supporting_markers.tsv",
+      "bytes": 2557,
+      "sha256": "ed3e85c9eaf06e1b108afcbb7f3faa465af9e3d279443feb3aacf97ac8fee980"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P7/prioritized_vs_published_states.tsv",
+      "bytes": 348,
+      "sha256": "8ef2fb40dc38a013cad97abeaabc95b68383d18b1a43930e832ff7a935b9e81c"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P7/resolution_frontier.tsv",
+      "bytes": 1802,
+      "sha256": "27d7f2cc441ab77815304f2c8942705eb58265314017279507a5a6f30255c5d4"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P7_finest_CM_overview.pdf",
+      "bytes": 1543206,
+      "sha256": "6e16ebab4dfe92d9cfec1297eafa6bfc6c8ccac7113bab0180a3af92570a4feb"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P7_finest_CM_overview.png",
+      "bytes": 5307554,
+      "sha256": "19c6020c8dcef97818581b1cd4656fa2cf39e7e7d7b4ceb064dfa943faf3c8f7"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P7_individual_fine_CM_maps.pdf",
+      "bytes": 2179255,
+      "sha256": "198f4ef44c10ce9a4a93ac45e91edf44507ccc9e9e2bb40531decffe382f7d05"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/P7_individual_fine_CM_maps.png",
+      "bytes": 7373628,
+      "sha256": "64fb3cd8bed6abee4bb4e620d58fb4da751b4fc12a272df301c9aa064179b4d4"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/README.md",
+      "bytes": 15165,
+      "sha256": "cd49f991956c821a0f2231662534715953c06b4ab6169e5ca797f5cd745f52ff"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/comparison_with_published_states.pdf",
+      "bytes": 32128,
+      "sha256": "543c51c3a0a6e7845312a25e9c6539e065831cf018477c02d03937b98dc5637d"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/comparison_with_published_states.png",
+      "bytes": 127700,
+      "sha256": "e36223cccd5dc1369386ecd51fea4945ab3d94d337d86351cdd3c6adcdabe60d"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/design.json",
+      "bytes": 1815,
+      "sha256": "2274b0cf4f0ae50938a63d5f5e7f434d5f34b9b0f9551572c7c4227153900eb6"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/fine_group_evidence_summary.tsv",
+      "bytes": 26211,
+      "sha256": "36f3381d88224735805d9ab3dcab401b18f4ab15bffe5382a4f3464af29508d8"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/local_specificity_design.json",
+      "bytes": 708,
+      "sha256": "4faefaf6e6db67d0703eb3ed1aba7a71a46e47bef7b516b9cecba7a5ba33f9c3"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/methods.json",
+      "bytes": 3383,
+      "sha256": "7dde453fee5212ff53473644d86e34f9553cf7b67275d7bf81368aad6838b469"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/published_broad_lineage_compatibility.tsv",
+      "bytes": 370,
+      "sha256": "144367d5a679fe199ff0ccad64830dc2684a2ae7578d07db26121baac10b9d9c"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/published_state_overlap_summary.tsv",
+      "bytes": 11086,
+      "sha256": "cb9fefce1add5ab8ab00169df5e74dba978cb0bdf759707a3a3d332a83bb666a"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/resolution_and_selective_evidence.pdf",
+      "bytes": 39461,
+      "sha256": "8cfc5d2e1b8f3adc12cf485fdcc8a6bc88a6e11c519df98dfbd146e78e5f4b30"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/resolution_and_selective_evidence.png",
+      "bytes": 349564,
+      "sha256": "5032b484cf9ed9f87eea2228144848bed89c002fea15d9f4eb26c58c469e1310"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/resolution_frontier.tsv",
+      "bytes": 6526,
+      "sha256": "98cae1e598086d4cbeaa23e32fe29206fe629bc2fd57bae763e9b93bd2b320c7"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/stage_resolution_summary.tsv",
+      "bytes": 614,
+      "sha256": "2e2d0a569dc1bcde2a652e163e4c8bf9b3793406fb04d7a7520e17d35b3b7a40"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/validation.json",
+      "bytes": 1782,
+      "sha256": "9e7682daa3e133b361b66ecf2d7cace45bbd8b61efcdba5610e4115c6356330d"
+    },
+    {
+      "path": "results/ventricular_spatial_resolution/ventricular_fine_resolution_report.pdf",
+      "bytes": 14475659,
+      "sha256": "f33f49c497adc49392ef523dd59b8611fab31cc4eabd9f7d4d515b43e64b8176"
+    }
+  ],
+  "analysis": [
+    {
+      "path": "analysis/push_ventricular_spatial_resolution.py",
+      "sha256": "1430cf1ab795bd2c2f107a5a71cf7bb04efe0a4f5dbceb3dce6de785dbaebae5"
+    },
+    {
+      "path": "analysis/calibrate_ventricular_spatial_resolution.py",
+      "sha256": "5cfd8e62aa946f1477d96f569d2e1c6a436d5af22bab93b083b8d8a58773ee77"
+    },
+    {
+      "path": "analysis/compare_fine_CM_published_states.py",
+      "sha256": "1f54d46558c1e9bc14f433d7f225eac89ef7848c8278c53c39f21e0af9ce8eef"
+    },
+    {
+      "path": "analysis/report_ventricular_spatial_resolution.py",
+      "sha256": "b89a4053f636a057d1cf8d2d583b9cc0bdd7d6fdda72fb19654deea6f0be1d85"
+    }
+  ],
+  "validation": {
+    "status": "PASS",
+    "stages": [
+      {
+        "stage": "P0",
+        "original_rows_conserved": 47611,
+        "fine_proposals_checked": 21994,
+        "calibration_validation_assessment_rows_partitioned": 11046,
+        "no_assessment_labels_used_to_select_merges_or_cut": true,
+        "sampled_sensitivity_rows_independently_recomputed": 90,
+        "all_marker_detection_counts_recomputed": 21994,
+        "source_hashes_unchanged": true
+      },
+      {
+        "stage": "P7",
+        "original_rows_conserved": 99429,
+        "fine_proposals_checked": 38580,
+        "calibration_validation_assessment_rows_partitioned": 13040,
+        "no_assessment_labels_used_to_select_merges_or_cut": true,
+        "sampled_sensitivity_rows_independently_recomputed": 90,
+        "all_marker_detection_counts_recomputed": 38580,
+        "source_hashes_unchanged": true
+      },
+      {
+        "stage": "P14",
+        "original_rows_conserved": 117070,
+        "fine_proposals_checked": 49656,
+        "calibration_validation_assessment_rows_partitioned": 11042,
+        "no_assessment_labels_used_to_select_merges_or_cut": true,
+        "sampled_sensitivity_rows_independently_recomputed": 90,
+        "all_marker_detection_counts_recomputed": 49656,
+        "source_hashes_unchanged": true
+      },
+      {
+        "stage": "P21",
+        "original_rows_conserved": 143944,
+        "fine_proposals_checked": 58358,
+        "calibration_validation_assessment_rows_partitioned": 9335,
+        "no_assessment_labels_used_to_select_merges_or_cut": true,
+        "sampled_sensitivity_rows_independently_recomputed": 90,
+        "all_marker_detection_counts_recomputed": 58358,
+        "source_hashes_unchanged": true
+      }
+    ],
+    "scope": "Numerical conservation, technical label recovery and sensitivity; no independent anatomical or animal-level validation."
+  }
+}

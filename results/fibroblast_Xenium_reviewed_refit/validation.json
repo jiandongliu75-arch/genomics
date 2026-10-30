@@ -1,0 +1,50 @@
+{
+  "status": "PASS",
+  "source_nuclei": 14985,
+  "clean_nuclei": 14328,
+  "excluded_review_nuclei": 657,
+  "stages": [
+    {
+      "stage": "P0",
+      "broad_fibroblasts": 2319,
+      "supported_fine": 1591,
+      "old_supported_fine": 1591,
+      "reference_nuclei": 2142,
+      "changed_proposals": 0,
+      "changed_supported_labels": 0
+    },
+    {
+      "stage": "P7",
+      "broad_fibroblasts": 8564,
+      "supported_fine": 5504,
+      "old_supported_fine": 5504,
+      "reference_nuclei": 2608,
+      "changed_proposals": 0,
+      "changed_supported_labels": 0
+    },
+    {
+      "stage": "P14",
+      "broad_fibroblasts": 9824,
+      "supported_fine": 1343,
+      "old_supported_fine": 1343,
+      "reference_nuclei": 5241,
+      "changed_proposals": 0,
+      "changed_supported_labels": 0
+    },
+    {
+      "stage": "P21",
+      "broad_fibroblasts": 13083,
+      "supported_fine": 1497,
+      "old_supported_fine": 197,
+      "reference_nuclei": 4337,
+      "changed_proposals": 5428,
+      "changed_supported_labels": 1328
+    }
+  ],
+  "independent_physical_neighborhood_checks": 192,
+  "all_source_coordinates_unchanged": true,
+  "CM_outcomes_unchanged": true,
+  "all_flagged_nuclei_excluded_from_reference": true,
+  "P0_P7_P14_assignments_reproduced": true,
+  "P21_full_refit_matches_expected_knn_coarsening": true
+}

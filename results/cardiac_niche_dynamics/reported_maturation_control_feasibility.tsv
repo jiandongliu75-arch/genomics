@@ -1,0 +1,22 @@
+gene	measured_pool_genes	default24bin_pool_size	reported100_without_replacement_feasible	scope
+Rxrg	403	17	False	Methods leave control pool/binning ambiguous; this is not evidence the authors implementation failed
+Ppargc1a	403	16	False	Methods leave control pool/binning ambiguous; this is not evidence the authors implementation failed
+Ppargc1b	403	17	False	Methods leave control pool/binning ambiguous; this is not evidence the authors implementation failed
+Cebpa	403	17	False	Methods leave control pool/binning ambiguous; this is not evidence the authors implementation failed
+Cebpb	403	17	False	Methods leave control pool/binning ambiguous; this is not evidence the authors implementation failed
+Esrra	403	16	False	Methods leave control pool/binning ambiguous; this is not evidence the authors implementation failed
+Esrrb	403	17	False	Methods leave control pool/binning ambiguous; this is not evidence the authors implementation failed
+Esrrg	403	17	False	Methods leave control pool/binning ambiguous; this is not evidence the authors implementation failed
+Mitf	403	16	False	Methods leave control pool/binning ambiguous; this is not evidence the authors implementation failed
+Myh6	403	16	False	Methods leave control pool/binning ambiguous; this is not evidence the authors implementation failed
+Tnni3	403	16	False	Methods leave control pool/binning ambiguous; this is not evidence the authors implementation failed
+Myl2	403	16	False	Methods leave control pool/binning ambiguous; this is not evidence the authors implementation failed
+Kcnq1	403	17	False	Methods leave control pool/binning ambiguous; this is not evidence the authors implementation failed
+Jph1	403	17	False	Methods leave control pool/binning ambiguous; this is not evidence the authors implementation failed
+Jph2	403	16	False	Methods leave control pool/binning ambiguous; this is not evidence the authors implementation failed
+Bin1	403	17	False	Methods leave control pool/binning ambiguous; this is not evidence the authors implementation failed
+Lpin1	403	17	False	Methods leave control pool/binning ambiguous; this is not evidence the authors implementation failed
+Pln	403	16	False	Methods leave control pool/binning ambiguous; this is not evidence the authors implementation failed
+Ppara	403	17	False	Methods leave control pool/binning ambiguous; this is not evidence the authors implementation failed
+Ppard	403	17	False	Methods leave control pool/binning ambiguous; this is not evidence the authors implementation failed
+Cpt1b	403	16	False	Methods leave control pool/binning ambiguous; this is not evidence the authors implementation failed

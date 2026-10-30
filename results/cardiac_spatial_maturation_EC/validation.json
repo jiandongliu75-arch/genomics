@@ -1,0 +1,46 @@
+{
+  "status": "PASS",
+  "stages": [
+    {
+      "stage": "P0",
+      "strict_ventricular_CMs": 19304,
+      "eligible_ECs": 3732,
+      "primary_50um_CMs": 17743,
+      "brute_force_CM_geometry_examples": 64,
+      "primary_coefficients_recovered": 7
+    },
+    {
+      "stage": "P7",
+      "strict_ventricular_CMs": 39383,
+      "eligible_ECs": 8944,
+      "primary_50um_CMs": 36245,
+      "brute_force_CM_geometry_examples": 64,
+      "primary_coefficients_recovered": 7
+    },
+    {
+      "stage": "P14",
+      "strict_ventricular_CMs": 42796,
+      "eligible_ECs": 8086,
+      "primary_50um_CMs": 27944,
+      "brute_force_CM_geometry_examples": 64,
+      "primary_coefficients_recovered": 7
+    },
+    {
+      "stage": "P21",
+      "strict_ventricular_CMs": 48140,
+      "eligible_ECs": 8601,
+      "primary_50um_CMs": 26122,
+      "brute_force_CM_geometry_examples": 64,
+      "primary_coefficients_recovered": 7
+    }
+  ],
+  "PDF_pages": 10,
+  "all_21_CM_targets_and_all_sprouting_targets_withheld_from_new_EC_predictors": true,
+  "source_counts_coordinates_and_identity_files_match_prior_hashes_where_available": true,
+  "source_CM_maturation_scores_preserved": true,
+  "nuclear_cycling_marker_support_recalculated": true,
+  "alternative_CM_boundary_scores_and_restricted_EC_neighborhoods_independently_recalculated": true,
+  "heldout_module_predictions_reconstructed_from_reference_weights": true,
+  "all_primary_exposure_coefficients_recovered_by_partial_regression": true,
+  "scope": "Arithmetic and provenance validation, not independent biological validation"
+}

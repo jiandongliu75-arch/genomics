@@ -1,0 +1,632 @@
+{
+  "sources": {
+    "paper": "https://doi.org/10.1038/s44161-026-00861-z",
+    "authors_annotation_code": "https://github.com/whfbio/PIP_seq/blob/102d80e6ea5de44f594461c727a4b3c6e1bc3508/Figure1/1.0_snRNA_Manual_Annotation.R",
+    "interpretation": "Analyst-curated canonical multi-gene panels, with paper-specific marker-enriched states. The authors used additional spatial evidence for final anatomical labels. Their cluster IDs are not transferred."
+  },
+  "broad_markers": {
+    "Cardiomyocyte": [
+      "Tnnt2",
+      "Rbm20",
+      "Fhod3",
+      "Actn2",
+      "Mybpc3",
+      "Ttn"
+    ],
+    "Fibroblast": [
+      "Pdgfra",
+      "Dcn",
+      "Lum",
+      "Col1a1",
+      "Col1a2",
+      "Col3a1"
+    ],
+    "Endothelial": [
+      "Cdh5",
+      "Pecam1",
+      "Ptprb",
+      "Kdr",
+      "Flt1",
+      "Esam",
+      "Tie1"
+    ],
+    "Pericyte": [
+      "Pdgfrb",
+      "Rgs5",
+      "Abcc9",
+      "Kcnj8",
+      "Cspg4",
+      "Notch3"
+    ],
+    "Smooth muscle": [
+      "Myh11",
+      "Acta2",
+      "Tagln",
+      "Cnn1",
+      "Lmod1"
+    ],
+    "Immune": [
+      "Ptprc",
+      "Tyrobp",
+      "Csf1r",
+      "Lyz2",
+      "Cd3d",
+      "Cd79a"
+    ],
+    "Epicardial": [
+      "Wt1",
+      "Upk3b",
+      "Msln",
+      "Krt19",
+      "Tbx18"
+    ],
+    "Glial": [
+      "Plp1",
+      "Sox10",
+      "Mpz",
+      "S100b"
+    ],
+    "Neuronal": [
+      "Snap25",
+      "Syt1",
+      "Rbfox3",
+      "Tubb3",
+      "Kcnh8"
+    ]
+  },
+  "subtypes": {
+    "Cardiomyocyte": [
+      {
+        "name": "Atrial-like",
+        "markers": [
+          "Myl4",
+          "Myl7",
+          "Kcnj3",
+          "Sln",
+          "Nr2f2",
+          "Tbx5"
+        ],
+        "anchors": [
+          "Myl4",
+          "Kcnj3",
+          "Sln",
+          "Nr2f2"
+        ],
+        "anchor_min": 2,
+        "exclude": [
+          "Myl2",
+          "Hey2",
+          "Irx4"
+        ],
+        "note": "Requires multiple atrial markers; Myl7 or Nppa alone is insufficient in immature ventricles."
+      },
+      {
+        "name": "Ventricular-like",
+        "markers": [
+          "Myl2",
+          "Myl3",
+          "Hey2",
+          "Irx4",
+          "Fhl2"
+        ],
+        "anchors": [
+          "Myl2",
+          "Hey2",
+          "Irx4"
+        ],
+        "anchor_min": 1,
+        "exclude": [
+          "Sln",
+          "Kcnj3",
+          "Nr2f2"
+        ],
+        "note": "Chamber-like RNA identity; does not establish compact/trabecular location."
+      },
+      {
+        "name": "Nodal-like candidate",
+        "markers": [
+          "Hcn4",
+          "Tbx3",
+          "Shox2",
+          "Isl1",
+          "Tbx18"
+        ],
+        "anchors": [
+          "Hcn4",
+          "Tbx3",
+          "Shox2"
+        ],
+        "anchor_min": 2,
+        "exclude": [
+          "Myl2",
+          "Irx4"
+        ],
+        "note": "Requires multi-marker support; anatomical sinoatrial/atrioventricular localization unconfirmed."
+      },
+      {
+        "name": "Conduction-associated CM candidate",
+        "markers": [
+          "Cntn2",
+          "Etv1",
+          "Gja5",
+          "Scn5a",
+          "Irx3"
+        ],
+        "anchors": [
+          "Cntn2",
+          "Etv1",
+          "Gja5"
+        ],
+        "anchor_min": 2,
+        "exclude": [
+          "Pecam1",
+          "Cdh5"
+        ],
+        "note": "Etv1/Gja5 or Cntn2/Etv1 with CM identity supports a conduction-associated candidate. Purkinje anatomy is not assigned; Cntn2 support and spatial/functional confirmation are needed for greater specificity."
+      },
+      {
+        "name": "AV-like candidate",
+        "markers": [
+          "Tbx2",
+          "Tbx3",
+          "Bmp2",
+          "Msx2",
+          "Rspo3"
+        ],
+        "anchors": [
+          "Tbx2",
+          "Bmp2",
+          "Msx2"
+        ],
+        "anchor_min": 2,
+        "exclude": [
+          "Pdgfra",
+          "Pecam1"
+        ],
+        "note": "Candidate developmental phenotype only; spatial confirmation required."
+      }
+    ],
+    "Fibroblast": [
+      {
+        "name": "Postn-associated remodeling",
+        "markers": [
+          "Postn",
+          "Tnc",
+          "Fn1",
+          "Col1a1",
+          "Col3a1",
+          "Lox"
+        ],
+        "anchors": [
+          "Postn",
+          "Tnc",
+          "Lox"
+        ],
+        "anchor_min": 1,
+        "exclude": [
+          "Myh11",
+          "Cdh5",
+          "Ptprc"
+        ],
+        "note": "A developmental ECM state, not a diagnosis of pathological activation/fibrosis."
+      },
+      {
+        "name": "Gfpt2-enriched",
+        "markers": [
+          "Gfpt2",
+          "Pcsk6",
+          "Ebf1",
+          "Adamtsl3",
+          "Fbn1"
+        ],
+        "anchors": [
+          "Gfpt2"
+        ],
+        "anchor_min": 1,
+        "exclude": [
+          "Rgs5",
+          "Myh11",
+          "Pecam1"
+        ],
+        "note": "Marker-defined fibroblast state; anatomical niche unconfirmed."
+      },
+      {
+        "name": "Kirrel3-enriched",
+        "markers": [
+          "Kirrel3",
+          "Bmper",
+          "Trps1",
+          "Abi3bp",
+          "Col5a2"
+        ],
+        "anchors": [
+          "Kirrel3"
+        ],
+        "anchor_min": 1,
+        "exclude": [
+          "Pecam1",
+          "Myh11",
+          "Tnnt2"
+        ],
+        "note": "Do not equate this RNA-defined state with valve fibroblasts without spatial evidence."
+      },
+      {
+        "name": "Col8a1-enriched",
+        "markers": [
+          "Col8a1",
+          "Col8a2",
+          "Cthrc1",
+          "Thbs2",
+          "Comp"
+        ],
+        "anchors": [
+          "Col8a1"
+        ],
+        "anchor_min": 1,
+        "exclude": [
+          "Cdh5",
+          "Myh11"
+        ],
+        "note": "Marker-defined matrix program, not disease-specific fibrosis."
+      },
+      {
+        "name": "Pi16/Dpt interstitial-like",
+        "markers": [
+          "Pi16",
+          "Dpt",
+          "Col14a1",
+          "Cd34",
+          "Col15a1"
+        ],
+        "anchors": [
+          "Pi16",
+          "Dpt"
+        ],
+        "anchor_min": 1,
+        "exclude": [
+          "Pecam1",
+          "Myh11",
+          "Ptprc"
+        ],
+        "note": "Interstitial-like transcriptional state; adventitial location not established."
+      },
+      {
+        "name": "Lsamp-enriched candidate",
+        "markers": [
+          "Lsamp",
+          "Dpt",
+          "Col15a1",
+          "Fbn1"
+        ],
+        "anchors": [
+          "Lsamp"
+        ],
+        "anchor_min": 1,
+        "exclude": [
+          "Sox10",
+          "Snap25",
+          "Pecam1"
+        ],
+        "note": "Single-anchor marker state requiring confirmed fibroblast identity; provisional."
+      }
+    ],
+    "Endothelial": [
+      {
+        "name": "Endocardial-like",
+        "markers": [
+          "Npr3",
+          "Nfatc1",
+          "Nrxn3",
+          "Cdh11",
+          "Alcam"
+        ],
+        "anchors": [
+          "Npr3",
+          "Nfatc1",
+          "Nrxn3"
+        ],
+        "anchor_min": 2,
+        "exclude": [
+          "Pdgfra",
+          "Myh11"
+        ],
+        "note": "Consistent with the authors' Nrxn3-enriched endocardial ECs; location remains unconfirmed."
+      },
+      {
+        "name": "Capillary-like",
+        "markers": [
+          "Rgcc",
+          "Emcn",
+          "Car4",
+          "Cd36",
+          "Gpihbp1",
+          "Fabp4",
+          "Dach1"
+        ],
+        "anchors": [
+          "Rgcc",
+          "Emcn",
+          "Car4",
+          "Gpihbp1"
+        ],
+        "anchor_min": 2,
+        "exclude": [
+          "Npr3",
+          "Nfatc1",
+          "Ackr1"
+        ],
+        "note": "Capillary program can include age-associated metabolic states."
+      },
+      {
+        "name": "Arterial-like",
+        "markers": [
+          "Gja5",
+          "Efnb2",
+          "Sox17",
+          "Bmx",
+          "Hey1",
+          "Dll4"
+        ],
+        "anchors": [
+          "Gja5",
+          "Efnb2",
+          "Sox17",
+          "Bmx"
+        ],
+        "anchor_min": 2,
+        "exclude": [
+          "Nr2f2",
+          "Ackr1",
+          "Npr3"
+        ],
+        "note": "Cannot distinguish arteriole anatomy from arterial-like RNA alone."
+      },
+      {
+        "name": "Venous/venular-like",
+        "markers": [
+          "Nr2f2",
+          "Ephb4",
+          "Slc38a5",
+          "Ackr1",
+          "Vwf"
+        ],
+        "anchors": [
+          "Nr2f2",
+          "Ephb4",
+          "Ackr1"
+        ],
+        "anchor_min": 2,
+        "exclude": [
+          "Gja5",
+          "Sox17",
+          "Prox1"
+        ],
+        "note": "Requires multiple venous anchors; Vwf alone is insufficient."
+      },
+      {
+        "name": "Lymphatic-like candidate",
+        "markers": [
+          "Prox1",
+          "Flt4",
+          "Lyve1",
+          "Pdpn",
+          "Ccl21a",
+          "Nrp2"
+        ],
+        "anchors": [
+          "Prox1",
+          "Flt4"
+        ],
+        "anchor_min": 2,
+        "exclude": [
+          "Csf1r",
+          "Adgre1",
+          "Ptprc"
+        ],
+        "note": "Lyve1 alone can label macrophages; endothelial parent identity and Prox1/Flt4 required."
+      }
+    ],
+    "Immune": [
+      {
+        "name": "Macrophage-like",
+        "markers": [
+          "Csf1r",
+          "Adgre1",
+          "Mertk",
+          "Mrc1",
+          "F13a1",
+          "C1qa"
+        ],
+        "anchors": [
+          "Csf1r",
+          "Adgre1",
+          "Mertk",
+          "C1qa"
+        ],
+        "anchor_min": 2,
+        "exclude": [
+          "Cd3d",
+          "Cd79a"
+        ],
+        "note": "Resident-like versus recruited origin cannot be established by these RNA markers alone."
+      },
+      {
+        "name": "Monocyte-like",
+        "markers": [
+          "Ccr2",
+          "Ly6c2",
+          "Lyz2",
+          "S100a8",
+          "S100a9"
+        ],
+        "anchors": [
+          "Ccr2",
+          "Ly6c2",
+          "S100a8",
+          "S100a9"
+        ],
+        "anchor_min": 2,
+        "exclude": [
+          "Cd3d",
+          "Ms4a1"
+        ],
+        "note": "Requires multiple monocyte/inflammatory markers."
+      },
+      {
+        "name": "T-cell-like",
+        "markers": [
+          "Cd3d",
+          "Cd3e",
+          "Trbc1",
+          "Trbc2",
+          "Bcl11b"
+        ],
+        "anchors": [
+          "Cd3d",
+          "Cd3e",
+          "Trbc1",
+          "Trbc2"
+        ],
+        "anchor_min": 2,
+        "exclude": [
+          "Csf1r",
+          "Cd79a"
+        ],
+        "note": "Broad T-cell phenotype; no TCR repertoire evidence."
+      },
+      {
+        "name": "B-cell-like",
+        "markers": [
+          "Cd79a",
+          "Cd79b",
+          "Ms4a1",
+          "Pax5",
+          "Cd19"
+        ],
+        "anchors": [
+          "Cd79a",
+          "Cd79b",
+          "Ms4a1"
+        ],
+        "anchor_min": 2,
+        "exclude": [
+          "Cd3d",
+          "Csf1r"
+        ],
+        "note": "Broad B-cell phenotype."
+      },
+      {
+        "name": "NK-like",
+        "markers": [
+          "Nkg7",
+          "Ncr1",
+          "Klrd1",
+          "Prf1"
+        ],
+        "anchors": [
+          "Ncr1",
+          "Klrd1",
+          "Nkg7"
+        ],
+        "anchor_min": 2,
+        "exclude": [
+          "Cd3d",
+          "Cd3e"
+        ],
+        "note": "Needs separation from cytotoxic T cells."
+      }
+    ],
+    "Mural": [
+      {
+        "name": "Pericyte-like",
+        "markers": [
+          "Pdgfrb",
+          "Rgs5",
+          "Abcc9",
+          "Kcnj8",
+          "Cspg4",
+          "Notch3"
+        ],
+        "anchors": [
+          "Rgs5",
+          "Abcc9",
+          "Kcnj8",
+          "Cspg4"
+        ],
+        "anchor_min": 2,
+        "exclude": [
+          "Myh11",
+          "Lmod1",
+          "Cdh5"
+        ],
+        "note": "Mural continuum; vessel position unconfirmed."
+      },
+      {
+        "name": "Smooth-muscle-like",
+        "markers": [
+          "Myh11",
+          "Acta2",
+          "Tagln",
+          "Cnn1",
+          "Lmod1"
+        ],
+        "anchors": [
+          "Myh11",
+          "Cnn1",
+          "Lmod1"
+        ],
+        "anchor_min": 2,
+        "exclude": [
+          "Cdh5",
+          "Pdgfra"
+        ],
+        "note": "Acta2 alone also labels myofibroblast-like states; multi-marker contractile program required."
+      }
+    ]
+  },
+  "cm_marker_states": {
+    "Ddc-enriched": [
+      "Ddc",
+      "Hmgcs2",
+      "Zbtb16"
+    ],
+    "Slit2-enriched": [
+      "Slit2",
+      "Robo1",
+      "Fbn2",
+      "Sema3a",
+      "Slit3"
+    ],
+    "Ankrd1-enriched": [
+      "Ankrd1",
+      "Nppb",
+      "Acta1",
+      "Myh7"
+    ]
+  },
+  "cycling_markers": [
+    "Mki67",
+    "Top2a",
+    "Cenpf",
+    "Ccnb1",
+    "Ube2c",
+    "Cdk1"
+  ],
+  "rules": {
+    "marker_detected_count": 1.0,
+    "min_marker_fraction": 0.1,
+    "min_marker_mean_log1p_10k": 0.1,
+    "min_supported_panel_markers": 2,
+    "min_supported_broad_markers": 3,
+    "min_score_margin": 0.25,
+    "min_positive_score": 0.3,
+    "min_cells_for_supported_subtype": 50,
+    "min_samples_with_10_cells": 2,
+    "max_single_sample_fraction": 0.8,
+    "min_within_sample_positive_contrasts": 2,
+    "min_relative_panel_enrichment": 0.1,
+    "cycling_cell_min_detected_markers": 2,
+    "cycling_enriched_cluster_fraction": 0.1,
+    "broad_score_margin_competitors": "Only panels with >=2 supported markers compete; a shared ion-channel gene alone cannot override a coherent lineage panel."
+  }
+}

@@ -1,0 +1,5 @@
+stage	source_nonCM_profiles	focal_CM_profiles	eligible_clouds	training_region_CMs	heldout_region_CMs	PCA_training_sources	PCA_sources_in_heldout_clouds	minimum_focal_train_test_distance_um
+P0	7297	19304	17604	11262	3045	4000	0	150.006246
+P7	20689	39383	34957	22629	5378	4000	0	150.018096
+P14	26823	42796	36778	21800	6490	4000	0	150.000295
+P21	29283	48140	38865	23453	7039	4000	0	150.039675

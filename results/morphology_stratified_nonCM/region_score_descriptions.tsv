@@ -1,0 +1,81 @@
+stage	region	outcome	CMs	mean_core_score
+P0	Compact wall	maturation21	5529	0.253399473
+P0	Compact wall	metabolic	5529	0.347545518
+P0	Compact wall	sarcomere	5529	0.367597517
+P0	Compact wall	excitation_contraction	5529	0.319892842
+P0	Compact wall	cycling	5529	0.670487171
+P0	Unclassified	maturation21	11743	0.251990682
+P0	Unclassified	metabolic	11743	0.327518096
+P0	Unclassified	sarcomere	11743	0.350990924
+P0	Unclassified	excitation_contraction	11743	0.327023587
+P0	Unclassified	cycling	11743	0.759429293
+P7	Cavity-facing myocardium	maturation21	1600	0.360148832
+P7	Cavity-facing myocardium	metabolic	1600	0.468240224
+P7	Cavity-facing myocardium	sarcomere	1600	0.491812134
+P7	Cavity-facing myocardium	excitation_contraction	1600	0.355854473
+P7	Cavity-facing myocardium	cycling	1600	0.379524661
+P7	Compact wall	maturation21	10372	0.331193597
+P7	Compact wall	metabolic	10372	0.385186701
+P7	Compact wall	sarcomere	10372	0.484493987
+P7	Compact wall	excitation_contraction	10372	0.359488642
+P7	Compact wall	cycling	10372	0.273284435
+P7	Large-vessel-like surroundings	maturation21	71	0.417656446
+P7	Large-vessel-like surroundings	metabolic	71	0.525421311
+P7	Large-vessel-like surroundings	sarcomere	71	0.462396972
+P7	Large-vessel-like surroundings	excitation_contraction	71	0.463346123
+P7	Large-vessel-like surroundings	cycling	71	0.183467462
+P7	Papillary/trabecular projection candidate	maturation21	83	0.241284829
+P7	Papillary/trabecular projection candidate	metabolic	83	0.271778411
+P7	Papillary/trabecular projection candidate	sarcomere	83	0.427315411
+P7	Papillary/trabecular projection candidate	excitation_contraction	83	0.308624198
+P7	Papillary/trabecular projection candidate	cycling	83	0.0604154413
+P7	Unclassified	maturation21	18359	0.352946348
+P7	Unclassified	metabolic	18359	0.429901181
+P7	Unclassified	sarcomere	18359	0.489905442
+P7	Unclassified	excitation_contraction	18359	0.374227281
+P7	Unclassified	cycling	18359	0.330293928
+P14	Cavity-facing myocardium	maturation21	1693	0.510450157
+P14	Cavity-facing myocardium	metabolic	1693	0.600194029
+P14	Cavity-facing myocardium	sarcomere	1693	0.614283987
+P14	Cavity-facing myocardium	excitation_contraction	1693	0.399741215
+P14	Cavity-facing myocardium	cycling	1693	-0.116296725
+P14	Compact wall	maturation21	8890	0.496120509
+P14	Compact wall	metabolic	8890	0.595533551
+P14	Compact wall	sarcomere	8890	0.639008121
+P14	Compact wall	excitation_contraction	8890	0.371398641
+P14	Compact wall	cycling	8890	-0.157146492
+P14	Large-vessel-like surroundings	maturation21	42	0.514913454
+P14	Large-vessel-like surroundings	metabolic	42	0.591373934
+P14	Large-vessel-like surroundings	sarcomere	42	0.485492733
+P14	Large-vessel-like surroundings	excitation_contraction	42	0.485755969
+P14	Large-vessel-like surroundings	cycling	42	-0.228093081
+P14	Papillary/trabecular projection candidate	maturation21	128	0.532285184
+P14	Papillary/trabecular projection candidate	metabolic	128	0.603088188
+P14	Papillary/trabecular projection candidate	sarcomere	128	0.61594207
+P14	Papillary/trabecular projection candidate	excitation_contraction	128	0.442972471
+P14	Papillary/trabecular projection candidate	cycling	128	-0.178362344
+P14	Unclassified	maturation21	22906	0.496749178
+P14	Unclassified	metabolic	22906	0.592020676
+P14	Unclassified	sarcomere	22906	0.625753539
+P14	Unclassified	excitation_contraction	22906	0.380931263
+P14	Unclassified	cycling	22906	-0.155387849
+P21	Cavity-facing myocardium	maturation21	787	0.535010767
+P21	Cavity-facing myocardium	metabolic	787	0.610625801
+P21	Cavity-facing myocardium	sarcomere	787	0.629128859
+P21	Cavity-facing myocardium	excitation_contraction	787	0.361821337
+P21	Cavity-facing myocardium	cycling	787	-0.0272419393
+P21	Compact wall	maturation21	7776	0.524943332
+P21	Compact wall	metabolic	7776	0.583277167
+P21	Compact wall	sarcomere	7776	0.650219319
+P21	Compact wall	excitation_contraction	7776	0.363619673
+P21	Compact wall	cycling	7776	-0.239129404
+P21	Large-vessel-like surroundings	maturation21	35	0.364086827
+P21	Large-vessel-like surroundings	metabolic	35	0.319098153
+P21	Large-vessel-like surroundings	sarcomere	35	0.523386313
+P21	Large-vessel-like surroundings	excitation_contraction	35	0.30985948
+P21	Large-vessel-like surroundings	cycling	35	-0.176823914
+P21	Unclassified	maturation21	29351	0.54243058
+P21	Unclassified	metabolic	29351	0.605794553
+P21	Unclassified	sarcomere	29351	0.63831246
+P21	Unclassified	excitation_contraction	29351	0.374717118
+P21	Unclassified	cycling	29351	-0.233511236

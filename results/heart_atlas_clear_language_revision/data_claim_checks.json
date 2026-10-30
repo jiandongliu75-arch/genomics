@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "P21_eligible_FB": 10867,
+  "P21_candidate_FB": 7992,
+  "P21_legacy_strict_FB": 679,
+  "P21_Gfpt2_program": 1339,
+  "P21_Gfpt2_and_Col8a1_programs": 327,
+  "P21_public_Gfpt2_program": 1058,
+  "P21_withheld_majority_Gfpt2": 280,
+  "withheld_Gfpt2_detection": 0.84285714,
+  "withheld_Pi16_detection": 0.90714286,
+  "RNA_Col8a1_Hmcn2_Gfpt2_detection": 0.6748732787328023,
+  "P14_near_artery_percentages_rounded": [
+    19,
+    6
+  ],
+  "basement_matrix_direction_checks": 8,
+  "CM_models_refitted_with_latest_classifier_labels": false,
+  "new_biological_inference_fitted": false
+}

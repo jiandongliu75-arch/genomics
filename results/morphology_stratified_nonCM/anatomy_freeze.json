@@ -1,0 +1,71 @@
+{
+  "mask_sha256": "f7ba6f8d2c1a286d38c4808fd56085c9364bf028b681fd75a5c8eab5bab64a84",
+  "source_images": [
+    {
+      "stage": "P0",
+      "DAPI_path": "results/xenium_ventricular_mapping/P0/DAPI_overview.png",
+      "DAPI_sha256": "928f8808b8dabb7fa205b96b1f1a64b40dcbb140e5e16f0858381dcd41959bcb",
+      "display_metadata_sha256": "0072766123858f85b587561ea5bbc21210b5cb22f52f0682d13ee1e64b2245eb",
+      "extent_um": [
+        0,
+        3639.275,
+        3632.475,
+        0
+      ]
+    },
+    {
+      "stage": "P7",
+      "DAPI_path": "results/xenium_ventricular_mapping/P7/DAPI_overview.png",
+      "DAPI_sha256": "b9eb874ab0c4cf27f5c2651a98c83fd59c3c817f7f1ab028d0280ac8d22a3f7a",
+      "display_metadata_sha256": "7bf48b176ba8ea78339cca1316c172531628e5b625c1dfd218133e60dd7bda51",
+      "extent_um": [
+        0,
+        5446.375,
+        5074.925,
+        0
+      ]
+    },
+    {
+      "stage": "P14",
+      "DAPI_path": "results/xenium_ventricular_mapping/P14/DAPI_overview.png",
+      "DAPI_sha256": "4a1f5749272579fd53c3429cd7b02821e30cd672407302f9e5032ffd5571a53b",
+      "display_metadata_sha256": "5cebcf535bba5844dd20dcd56ece2ec5de8f85dcb287fad0bf263e9031bbb494",
+      "extent_um": [
+        0,
+        6047.9625,
+        7236.474999999999,
+        0
+      ]
+    },
+    {
+      "stage": "P21",
+      "DAPI_path": "results/xenium_ventricular_mapping/P21/DAPI_overview.png",
+      "DAPI_sha256": "9064443832899f60311d2b2a162af6e1d56a24a0ad6eda1774a652bb989f4ad9",
+      "display_metadata_sha256": "1f402c13407313582e450bbe3e15f09ff138a4c07901959496735c46e97b98f7",
+      "extent_um": [
+        0,
+        6046.474999999999,
+        6516.3125,
+        0
+      ]
+    }
+  ],
+  "expression_inputs_used": false,
+  "outcomes_loaded_by_annotation_script": false,
+  "outcome_independent_not_independently_blinded_expert_review": true,
+  "primary_regions": [
+    "Compact wall",
+    "Cavity-facing myocardium"
+  ],
+  "primary_region_meanings": {
+    "Compact wall": "Conservative continuous dense ventricular wall patches",
+    "Cavity-facing myocardium": "Visible cavity margin/ridged wall; not definitively histological trabecular myocardium"
+  },
+  "chamber_policy": "Image-coordinate territories retained; definitive LV/RV not assigned without orientation and landmarks",
+  "papillary_policy": "Low-confidence papillary/trabecular projection candidates; excluded from primary tests",
+  "vessel_policy": "DAPI-only vessel-like lumens; no artery/vein verification; sensitivity only",
+  "unannotated_areas": "Unclassified rather than forced into compact/trabecular/chamber classes",
+  "annotation_is_original_author_mask": false,
+  "new_biological_replicates": 0,
+  "unavailable_images": "Boundary and alphaSMA/vimentin cache missing; public Zenodo retrieval returned proxy403 even after network permission was granted"
+}

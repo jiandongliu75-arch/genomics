@@ -1,0 +1,17 @@
+stage	region	CMs	ROIs	spatial_blocks_400	primary_eligible
+P0	Compact wall	5529	4	23	True
+P0	Unclassified	11743	1	34	False
+P7	Cavity-facing myocardium	1600	2	10	True
+P7	Compact wall	10372	4	43	True
+P7	Large-vessel-like surroundings	71	2	2	False
+P7	Papillary/trabecular projection candidate	83	1	3	False
+P7	Unclassified	18359	1	69	False
+P14	Cavity-facing myocardium	1693	3	23	True
+P14	Compact wall	8890	4	56	True
+P14	Large-vessel-like surroundings	42	2	4	False
+P14	Papillary/trabecular projection candidate	128	1	2	False
+P14	Unclassified	22906	1	112	False
+P21	Cavity-facing myocardium	787	2	10	True
+P21	Compact wall	7776	4	58	True
+P21	Large-vessel-like surroundings	35	2	2	False
+P21	Unclassified	29351	1	128	False

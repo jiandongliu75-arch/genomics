@@ -1,0 +1,44 @@
+[
+  {
+    "number": "1",
+    "stem": "Figure_1_fibroblast_states_and_shared_programs",
+    "title": "Fibroblast identities and shared patterns give complementary maps",
+    "legend": "a\u2013d, Broader candidate fibroblast identities on the original P0\u2013P21 sections. Gray retains unassigned fibroblasts and tissue context; background cells may be subsampled for display only. e, Candidate counts, with unavailable same-age reference classes marked N/A. This does not mean the corresponding genes are absent. Counts measure assignment coverage, not accuracy or tissue abundance. f, Measured patterns can be scored independently of family availability. Values summarize each section relative to matched control genes; they do not measure matrix protein or function. Scale bars, 500 \u00b5m."
+  },
+  {
+    "number": "2",
+    "stem": "Figure_2_measured_fibroblast_program_maps",
+    "title": "Early and late fibroblast patterns overlap without requiring a subtype label",
+    "legend": "a\u2013d, Postn/Ptn/Tnc/Col24a1 pattern. e\u2013h, Gfpt2/Pi16/Adgrd1 pattern. i\u2013l, Col8a1/Cmklr1/Col6a3/Htra3 pattern. Each row uses a common color scale across ages, showing eligible fibroblasts regardless of their candidate subtype. Negative scores mean expression ranks below matched controls, not negative RNA or biological absence. One pattern can occur across several subtype labels. Background tissue is shown in gray. Scale bars, 500 \u00b5m."
+  },
+  {
+    "number": "3",
+    "stem": "Figure_3_local_program_relationships",
+    "title": "Local matrix relationships differ by CM state and outcome",
+    "legend": "a\u2013c, Within-region associations between neighboring fibroblast patterns and CM energy-metabolism, sarcomere or cell-cycle expression. Working, Ankrd1 and cycling-associated CMs are displayed; all eligible CM states enter the source tables and correction. Red and blue indicate positive and negative estimates. Dots mark intervals excluding zero before multiple-testing correction; none of these fibroblast-program associations passes the global primary correction. Gray indicates an unavailable or insufficiently supported comparison. The models account for vascular surroundings and capture. Each age has one section."
+  },
+  {
+    "number": "4",
+    "stem": "Figure_4_early_fibroblast_CM_relationships",
+    "title": "Early fibroblast environments suggest hypotheses without establishing metabolic instruction",
+    "legend": "a, The P7 Postn-identity/metabolic relationship in cycling-associated CMs weakens with broader and crosschecked assignments. b,c, Postn- and Gfpt2-associated patterns in whole-cell, inner-cell, deposited and depth-matched fibroblast RNA, with an additional CM-gene-excluded scoring check. Negative and positive estimates suggest contrasting environments but do not establish opposing functions. d, The 50-/30-\u00b5m comparison uses the same 2,753 cycling-associated CMs. Smaller neighborhoods do not provide clear corresponding support. Points and intervals describe within-section estimates and 95% spatial-block intervals; they are not independent-heart replication."
+  },
+  {
+    "number": "5",
+    "stem": "Figure_5_structural_relationships_and_boundaries",
+    "title": "Structural RNA relationships depend on CM identity and transcript ownership",
+    "legend": "a, At P14, endocardial-like surroundings relate to higher sarcomere expression in Ankrd1 CMs, with a smaller relationship in working CMs. Removing Myl2 retains the direction; the overall score shows no corresponding increase. b, The relationship remains after adjustment for fibroblast programs but weakens in deposited CM RNA. The paired 50-/30-\u00b5m comparison uses the same 4,528 Ankrd1 CMs. c, A P0 elastic-matrix/sarcomere candidate retains its direction across fibroblast RNA views and CM-gene-excluded scoring, but does not pass the primary correction. d, The P21 basement-matrix estimate weakens with inner-cell fibroblast RNA. Intervals describe uncertainty within sections, conditional on the chosen count views."
+  },
+  {
+    "number": "6",
+    "stem": "Figure_6_spatial_context_and_cross_age_comparisons",
+    "title": "Fibroblast position and changing surroundings guide specific developmental questions",
+    "legend": "a, P14 Col8a1/Gfpt2 arterial proximity after the same technical matching design, using earlier stringent, broader and crosschecked identities. The contrast becomes smaller with broader assignments. Matching permits reused controls. b, Arterial proximity among candidate families; N/A marks unavailable families. Kirrel3 candidates are not assigned valve anatomy. c, Updated fibroblast patterns on frozen exact P7-to-P14 neighborhood matches, grouped by CM identity and endocardial distance. Only matching mass with informative fibroblasts at both ends contributes; supported mass is supplied. d, Eligible fibroblasts among the sampled sources: the median is two, and 15 of 96 neighborhoods have none. These comparisons do not trace cell transitions."
+  },
+  {
+    "number": "S1",
+    "stem": "Figure_S1_fibroblast_identity_associations",
+    "title": "Subtype labels do not establish one uniform effect on neighboring CMs",
+    "legend": "a\u2013c, Candidate-family associations with CM metabolic, sarcomere and cell-cycle expression. The 50-\u00b5m models compare CMs within regions and account for vascular surroundings and capture. Gray marks unavailable or insufficiently supported comparisons. No fibroblast identity association passes the global primary correction. The full source tables also include other eligible CM states, the 21-gene and excitation\u2013contraction outcomes, alternative label layers, smaller neighborhoods and transcript-ownership sensitivities."
+  }
+]

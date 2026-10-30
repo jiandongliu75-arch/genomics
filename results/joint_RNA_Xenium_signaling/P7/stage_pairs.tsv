@@ -1,0 +1,31 @@
+ligand	receptor	pathway	signaling_type	pair_id	CellPhoneDB_pair_agreement	all_targets_measured	outcome_gene_overlap	supported_stages	support_strength	pair_index	radius_um	biochemical_relationship_not_validated_here	stage_pair_index
+Agrn	Dag1	AGRN	ECM-Receptor	Agrn--Dag1	False	True	False	4	0.55953164	0	50	True	0
+Angptl2	Tlr4	ANGPTL	Secreted Signaling	Angptl2--Tlr4	False	True	False	4	0.68120782	3	200	True	1
+Bmp5	Bmpr1a_Bmpr2	BMP	Secreted Signaling	Bmp5--Bmpr1a_Bmpr2	True	True	False	4	0.54263666	4	200	True	2
+Bmp6	Bmpr1a_Bmpr2	BMP	Secreted Signaling	Bmp6--Bmpr1a_Bmpr2	True	True	False	4	0.60623443	5	200	True	3
+Cdh2	Cdh2	CDH	Cell-Cell Contact	Cdh2--Cdh2	True	True	False	4	3.3477505	9	50	True	4
+Col1a1	Itga9_Itgb1	COLLAGEN	ECM-Receptor	Col1a1--Itga9_Itgb1	False	True	False	4	0.57777603	10	50	True	5
+Col1a2	Itga9_Itgb1	COLLAGEN	ECM-Receptor	Col1a2--Itga9_Itgb1	False	True	False	4	0.57777603	11	50	True	6
+Dsc2	Dsg2	DESMOSOME	Cell-Cell Contact	Dsc2--Dsg2	True	True	False	3	0.49569079	12	50	True	7
+Efnb2	Epha4	EPHB	Cell-Cell Contact	Efnb2--Epha4	True	True	False	4	0.37495002	14	50	True	8
+Fgf1	Fgfr2	FGF	Secreted Signaling	Fgf1--Fgfr2	True	True	False	4	1.9118659	16	200	True	9
+Fgf2	Fgfr2	FGF	Secreted Signaling	Fgf2--Fgfr2	True	True	False	4	0.76904318	17	200	True	10
+Hspg2	Dag1	HSPG	ECM-Receptor	Hspg2--Dag1	False	True	False	4	1.5872076	23	50	True	11
+Igf1	Igf1r	IGF	Secreted Signaling	Igf1--Igf1r	True	True	False	4	1.3458432	24	200	True	12
+Igf2	Igf1r	IGF	Secreted Signaling	Igf2--Igf1r	True	True	False	4	1.053153	25	200	True	13
+Lama4	Dag1	LAMININ	ECM-Receptor	Lama4--Dag1	False	True	False	4	1.5872076	28	50	True	14
+Lamc1	Dag1	LAMININ	ECM-Receptor	Lamc1--Dag1	False	True	False	4	1.5872076	29	50	True	15
+Ncam1	Ncam1	NCAM	Cell-Cell Contact	Ncam1--Ncam1	False	True	False	4	1.8837087	32	50	True	16
+Jag1	Notch2	NOTCH	Cell-Cell Contact	Jag1--Notch2	True	True	False	4	0.67946371	35	50	True	17
+Nrg1	Erbb4	NRG	Secreted Signaling	Nrg1--Erbb4	False	True	False	4	1.4461648	36	200	True	18
+Nrg2	Erbb4	NRG	Secreted Signaling	Nrg2--Erbb4	True	True	False	4	1.1893569	37	200	True	19
+Ptn	Sdc2	PTN	Secreted Signaling	Ptn--Sdc2	False	True	False	4	0.30099296	39	200	True	20
+Ptprm	Ptprm	PTPRM	Cell-Cell Contact	Ptprm--Ptprm	False	True	False	4	2.6744762	40	50	True	21
+Sema3c	Nrp1_Plxna2	SEMA3	Secreted Signaling	Sema3c--Nrp1_Plxna2	False	True	False	4	0.80659599	41	200	True	22
+Sema3c	Nrp1_Plxna4	SEMA3	Secreted Signaling	Sema3c--Nrp1_Plxna4	False	True	False	4	0.92751282	42	200	True	23
+Sema6a	Plxna2	SEMA6	Cell-Cell Contact	Sema6a--Plxna2	False	True	False	4	1.0166228	45	50	True	24
+Sema6a	Plxna4	SEMA6	Cell-Cell Contact	Sema6a--Plxna4	False	True	False	4	1.0837833	46	50	True	25
+Sema7a	Itgb1_Itga1	SEMA7	Cell-Cell Contact	Sema7a--Itga1_Itgb1	True	True	False	4	0.3625498	47	50	True	26
+Tnc	Itga9_Itgb1	TENASCIN	ECM-Receptor	Tnc--Itga9_Itgb1	True	True	False	4	0.42610259	48	50	True	27
+Tnxb	Itga9_Itgb1	TENASCIN	ECM-Receptor	Tnxb--Itga9_Itgb1	False	True	False	4	0.57777603	49	50	True	28
+Thbs1	Cd36	THBS	ECM-Receptor	Thbs1--Cd36	False	True	False	4	0.73950813	50	50	True	29

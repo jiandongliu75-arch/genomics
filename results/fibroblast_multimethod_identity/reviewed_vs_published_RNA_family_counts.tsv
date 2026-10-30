@@ -1,0 +1,14 @@
+stage	fibroblast_family	reviewed_reference_nuclei	author_family	author_profiles	same_barcode_annotation_crosswalk_available
+P0	Kirrel3-associated	361	Kirrel3.Fib	NA	False
+P0	Postn-associated	1781	Postn.Fib	1634	False
+P14	Col8a1-associated	3117	Col8a1.Fib	1739	False
+P14	Gfpt2-associated	1002	Gfpt2.Fib	1558	False
+P14	Kirrel3-associated	179	Kirrel3.Fib	NA	False
+P14	Lsamp-associated	908	Lsamp.Fib	1441	False
+P21	Col8a1-associated	2711	Col8a1.Fib	1178	False
+P21	Gfpt2-associated	279	Gfpt2.Fib	789	False
+P21	Kirrel3-associated	114	Kirrel3.Fib	NA	False
+P21	Lsamp-associated	1233	Lsamp.Fib	1986	False
+P7	Gfpt2-associated	459	Gfpt2.Fib	637	False
+P7	Kirrel3-associated	128	Kirrel3.Fib	NA	False
+P7	Postn-associated	2021	Postn.Fib	2852	False

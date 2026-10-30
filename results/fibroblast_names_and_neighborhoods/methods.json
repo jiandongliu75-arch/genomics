@@ -1,0 +1,16 @@
+{
+  "names": "Presentation aliases for P21 RNA substates; not a new cell-type definition or universal double-positive requirement",
+  "spatial_labels": "Existing consensus A+B primary, A+B+C sensitivity; no new label fit or reallocation",
+  "neighbor_radii_um": [
+    30,
+    50,
+    100
+  ],
+  "neighbor_denominator": "Resolved native broad cardiac profiles excluding the source fibroblast; require>=5neighbors",
+  "nearest_distance": "Other-profile centroid distance; artery uses preceding native EC/SMC-envelope boundary",
+  "minimum_group_for_main_interpretation": 30,
+  "low_n_groups": "Reported but marked sparse; no firm niche claim",
+  "matching": "Predefined P7 Gfpt2 vsPostn and P14 Col8a1 vsGfpt2; nearest with replacement, standardized4covariates,Euclidean caliper2,30um-eligible cohorts",
+  "covariates": "log1p gene molecules,log1p native area,log1p resolved50um neighbor count,nuclear/whole-cell molecule fraction",
+  "limits": "One section/age; confidence selection and incomplete fine coverage; neighbors not physical contact or causal signaling; cell profiles not independent animal replicates; no substate-specific spatial attribution"
+}

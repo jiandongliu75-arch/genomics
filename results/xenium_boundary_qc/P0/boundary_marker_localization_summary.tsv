@@ -1,0 +1,49 @@
+atlas_identity	audit_lineage	region	cells_with_molecules	gene_transcripts	counter_marker_transcripts	own_marker_transcripts	counter_marker_fraction	own_marker_fraction	stage
+Ambiguous/review	Ambiguous/review	away_shell	719	19156	2964	0	0.1547295886406348	0.0	P0
+Ambiguous/review	Ambiguous/review	deep_core	1003	79115	12239	0	0.1546988560955571	0.0	P0
+Ambiguous/review	Ambiguous/review	opposite_facing_shell	977	48653	8971	0	0.18438739646064992	0.0	P0
+Ambiguous/review	Endothelial	away_shell	4	63	7	4	0.1111111111111111	0.06349206349206349	P0
+Ambiguous/review	Endothelial	deep_core	7	104	8	6	0.07692307692307693	0.057692307692307696	P0
+Ambiguous/review	Endothelial	opposite_facing_shell	6	169	30	8	0.17751479289940827	0.047337278106508875	P0
+Ambiguous/review	Fibroblast	away_shell	66	1944	181	100	0.09310699588477367	0.051440329218107	P0
+Ambiguous/review	Fibroblast	deep_core	69	1898	163	99	0.08587987355110643	0.052160168598524764	P0
+Ambiguous/review	Fibroblast	opposite_facing_shell	43	1168	165	44	0.14126712328767124	0.03767123287671233	P0
+Cardiomyocyte	Cardiomyocyte	away_shell	5445	351482	11898	75772	0.033850951115562106	0.2155786071548472	P0
+Cardiomyocyte	Cardiomyocyte	deep_core	5486	476890	13116	94691	0.02750319780242823	0.1985594162175764	P0
+Cardiomyocyte	Cardiomyocyte	opposite_facing_shell	3806	122291	5516	25113	0.0451055269807263	0.20535444145521747	P0
+Endothelial	Endothelial	away_shell	726	17135	2165	1080	0.12634957688940765	0.06302888824044353	P0
+Endothelial	Endothelial	deep_core	1265	98394	10737	7577	0.10912250746996768	0.07700672805252352	P0
+Endothelial	Endothelial	opposite_facing_shell	1207	68737	11511	3032	0.1674643932670905	0.044110159011885884	P0
+Epicardial	Epicardial	away_shell	12	372	43	20	0.11559139784946236	0.053763440860215055	P0
+Epicardial	Epicardial	deep_core	11	365	45	12	0.1232876712328767	0.03287671232876712	P0
+Epicardial	Epicardial	opposite_facing_shell	6	122	16	4	0.13114754098360656	0.03278688524590164	P0
+Fibroblast	Fibroblast	away_shell	360	13148	1340	843	0.10191664131426834	0.06411621539397627	P0
+Fibroblast	Fibroblast	deep_core	456	28291	2968	1908	0.10490968859354564	0.06744194266727935	P0
+Fibroblast	Fibroblast	opposite_facing_shell	305	14870	2390	673	0.16072629455279086	0.045258910558170815	P0
+Immune	Immune	away_shell	23	571	82	38	0.1436077057793345	0.06654991243432574	P0
+Immune	Immune	deep_core	35	2316	357	166	0.15414507772020725	0.07167530224525043	P0
+Immune	Immune	opposite_facing_shell	32	1858	294	74	0.15823466092572658	0.03982777179763186	P0
+Mixed-marker review	Endothelial	away_shell	43	744	93	80	0.125	0.10752688172043011	P0
+Mixed-marker review	Endothelial	deep_core	80	3501	326	486	0.09311625249928591	0.13881748071979436	P0
+Mixed-marker review	Endothelial	opposite_facing_shell	82	3277	513	331	0.15654562099481234	0.10100701861458651	P0
+Mixed-marker review	Fibroblast	away_shell	17	637	124	73	0.1946624803767661	0.11459968602825746	P0
+Mixed-marker review	Fibroblast	deep_core	17	455	92	56	0.2021978021978022	0.12307692307692308	P0
+Mixed-marker review	Fibroblast	opposite_facing_shell	8	301	51	27	0.16943521594684385	0.08970099667774087	P0
+Mixed-marker review	Immune	away_shell	5	145	23	20	0.15862068965517243	0.13793103448275862	P0
+Mixed-marker review	Immune	deep_core	3	89	10	15	0.11235955056179775	0.16853932584269662	P0
+Mixed-marker review	Immune	opposite_facing_shell	2	69	7	6	0.10144927536231885	0.08695652173913043	P0
+Mixed-marker review	Pericyte	away_shell	0	0	0	0	0.0	0.0	P0
+Mixed-marker review	Pericyte	deep_core	2	34	4	4	0.11764705882352941	0.11764705882352941	P0
+Mixed-marker review	Pericyte	opposite_facing_shell	2	119	20	8	0.16806722689075632	0.06722689075630252	P0
+Mixed-marker review	Smooth muscle	away_shell	2	78	10	12	0.1282051282051282	0.15384615384615385	P0
+Mixed-marker review	Smooth muscle	deep_core	2	78	7	9	0.08974358974358974	0.11538461538461539	P0
+Mixed-marker review	Smooth muscle	opposite_facing_shell	1	15	0	0	0.0	0.0	P0
+Pericyte	Pericyte	away_shell	45	875	135	38	0.15428571428571428	0.04342857142857143	P0
+Pericyte	Pericyte	deep_core	103	4817	430	392	0.08926717874195557	0.08137845131824788	P0
+Pericyte	Pericyte	opposite_facing_shell	108	5620	864	258	0.15373665480427046	0.045907473309608544	P0
+QC/information flag	QC/information flag	away_shell	58	613	38	0	0.06199021207177814	0.0	P0
+QC/information flag	QC/information flag	deep_core	24	46	1	0	0.021739130434782608	0.0	P0
+QC/information flag	QC/information flag	opposite_facing_shell	65	687	117	0	0.1703056768558952	0.0	P0
+Smooth muscle	Smooth muscle	away_shell	33	1160	76	121	0.06551724137931035	0.10431034482758621	P0
+Smooth muscle	Smooth muscle	deep_core	33	1400	68	141	0.04857142857142857	0.10071428571428571	P0
+Smooth muscle	Smooth muscle	opposite_facing_shell	22	497	71	36	0.14285714285714285	0.07243460764587525	P0

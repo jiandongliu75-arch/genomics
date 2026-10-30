@@ -1,0 +1,152 @@
+{
+  "status": "PASS",
+  "RNA_source_EC_nuclei": 5573,
+  "primary_RNA_nuclei": 4597,
+  "RNA_review_nuclei": 976,
+  "RNA_raw_and_corrected_counts_exact_for_all_primary_and_review_nuclei": true,
+  "inherited_eight_DecontX_fits_converged": true,
+  "shared_panel_reference_counts_agree_with_full_gene_counts": true,
+  "Xenium_stages": [
+    {
+      "stage": "P0",
+      "candidate_profiles": 8681,
+      "native_broad_EC": 6394,
+      "high_confidence_subtypes": 684,
+      "extra_nuclear_candidates": 1008
+    },
+    {
+      "stage": "P7",
+      "candidate_profiles": 21067,
+      "native_broad_EC": 16010,
+      "high_confidence_subtypes": 452,
+      "extra_nuclear_candidates": 1536
+    },
+    {
+      "stage": "P14",
+      "candidate_profiles": 30240,
+      "native_broad_EC": 23060,
+      "high_confidence_subtypes": 741,
+      "extra_nuclear_candidates": 4349
+    },
+    {
+      "stage": "P21",
+      "candidate_profiles": 35328,
+      "native_broad_EC": 24153,
+      "high_confidence_subtypes": 535,
+      "extra_nuclear_candidates": 3175
+    }
+  ],
+  "all_native_EC_profiles_accounted_for": 69617,
+  "all_EC_candidate_profiles_accounted_for": 95316,
+  "Xenium_native_new_core_nuclear_depth_counts_exactly_reproduce_existing_sources": true,
+  "actual_measured_marker_support_validated_for_every_view_fine_label": true,
+  "strict_and_extra_nuclear_support_rules_checked": true,
+  "multiple_projected_nuclear_components_excluded_from_fine_release_not_deleted": true,
+  "coordinates_and_parent_atlas_identities_unchanged": true,
+  "PDF_pages": 27,
+  "fixed_EC_interface_ROIs": 8,
+  "confidence_not_independent_biological_accuracy": true,
+  "source_RNA_sha256": "3d0010d55bb05d1a5730830dba3b7918c54aa66b6d473e7fa3a0356a4d69fb28",
+  "HDF5_free_space_compaction_then_exact_source_count_validation": [
+    {
+      "path": "results/endothelial_QC_subtypes/Xenium/P0/EC_candidate_count_views.h5ad",
+      "before_bytes": 32347921,
+      "after_bytes": 18838125
+    },
+    {
+      "path": "results/endothelial_QC_subtypes/Xenium/P0/EC_de_novo_embeddings_metadata_only.h5ad",
+      "before_bytes": 2895689,
+      "after_bytes": 2891562
+    },
+    {
+      "path": "results/endothelial_QC_subtypes/Xenium/P14/EC_candidate_count_views.h5ad",
+      "before_bytes": 112840431,
+      "after_bytes": 66836110
+    },
+    {
+      "path": "results/endothelial_QC_subtypes/Xenium/P14/EC_de_novo_embeddings_metadata_only.h5ad",
+      "before_bytes": 2838269,
+      "after_bytes": 2835309
+    },
+    {
+      "path": "results/endothelial_QC_subtypes/Xenium/P21/EC_candidate_count_views.h5ad",
+      "before_bytes": 130852683,
+      "after_bytes": 77006199
+    },
+    {
+      "path": "results/endothelial_QC_subtypes/Xenium/P21/EC_de_novo_embeddings_metadata_only.h5ad",
+      "before_bytes": 2558256,
+      "after_bytes": 2555368
+    },
+    {
+      "path": "results/endothelial_QC_subtypes/Xenium/P7/EC_candidate_count_views.h5ad",
+      "before_bytes": 80317960,
+      "after_bytes": 47867062
+    },
+    {
+      "path": "results/endothelial_QC_subtypes/Xenium/P7/EC_de_novo_embeddings_metadata_only.h5ad",
+      "before_bytes": 5209946,
+      "after_bytes": 5184377
+    },
+    {
+      "path": "results/endothelial_QC_subtypes/snRNA/P0/EC_corrected_and_raw_counts.h5ad",
+      "before_bytes": 31659083,
+      "after_bytes": 25272967
+    },
+    {
+      "path": "results/endothelial_QC_subtypes/snRNA/P0/EC_embeddings_metadata_only.h5ad",
+      "before_bytes": 14494026,
+      "after_bytes": 8092321
+    },
+    {
+      "path": "results/endothelial_QC_subtypes/snRNA/P0/EC_review_corrected_and_raw_counts.h5ad",
+      "before_bytes": 8643371,
+      "after_bytes": 8653847
+    },
+    {
+      "path": "results/endothelial_QC_subtypes/snRNA/P14/EC_corrected_and_raw_counts.h5ad",
+      "before_bytes": 30521036,
+      "after_bytes": 24142717
+    },
+    {
+      "path": "results/endothelial_QC_subtypes/snRNA/P14/EC_embeddings_metadata_only.h5ad",
+      "before_bytes": 14501841,
+      "after_bytes": 8111051
+    },
+    {
+      "path": "results/endothelial_QC_subtypes/snRNA/P14/EC_review_corrected_and_raw_counts.h5ad",
+      "before_bytes": 3129851,
+      "after_bytes": 3136464
+    },
+    {
+      "path": "results/endothelial_QC_subtypes/snRNA/P21/EC_corrected_and_raw_counts.h5ad",
+      "before_bytes": 30586610,
+      "after_bytes": 24188716
+    },
+    {
+      "path": "results/endothelial_QC_subtypes/snRNA/P21/EC_embeddings_metadata_only.h5ad",
+      "before_bytes": 14594830,
+      "after_bytes": 8180454
+    },
+    {
+      "path": "results/endothelial_QC_subtypes/snRNA/P21/EC_review_corrected_and_raw_counts.h5ad",
+      "before_bytes": 2627671,
+      "after_bytes": 2632186
+    },
+    {
+      "path": "results/endothelial_QC_subtypes/snRNA/P7/EC_corrected_and_raw_counts.h5ad",
+      "before_bytes": 22461143,
+      "after_bytes": 16135934
+    },
+    {
+      "path": "results/endothelial_QC_subtypes/snRNA/P7/EC_embeddings_metadata_only.h5ad",
+      "before_bytes": 13204419,
+      "after_bytes": 6866199
+    },
+    {
+      "path": "results/endothelial_QC_subtypes/snRNA/P7/EC_review_corrected_and_raw_counts.h5ad",
+      "before_bytes": 4771454,
+      "after_bytes": 4773717
+    }
+  ]
+}

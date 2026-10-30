@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "transport_domains_checked": 32,
+  "OOF_R2_independently_recomputed": 480,
+  "incremental_prediction_gains_recomputed": 240,
+  "primary_BH_tests": 40,
+  "source_ID_overlap_across_domains": 0,
+  "frozen_observed_CM_outcomes_verified": true,
+  "minimum_receiver_gap_um": 400,
+  "local_source_sets_independently_checked": true,
+  "all_completed_transport_plans_meet_KKT_tolerance": true,
+  "new_independent_spatial_hearts": 0,
+  "independently_recomputed_local_ligand_and_capture_checks": 1792
+}

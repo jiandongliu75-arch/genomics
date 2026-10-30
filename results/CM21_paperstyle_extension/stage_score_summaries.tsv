@@ -1,0 +1,9 @@
+stage	view	CMs	median	p10	p90	raw_score_capture_Spearman	core_native
+P0	native	17981	1.0557652	0.65030529	1.4617159	0.0086106761	Not a biological replicate
+P0	core	17981	1.1001653	0.62867337	1.5422948	0.1519253	Not a biological replicate
+P7	native	35112	1.1409548	0.69014293	1.5519831	0.067253384	Not a biological replicate
+P7	core	35112	1.1991153	0.67059733	1.6538511	0.19177009	Not a biological replicate
+P14	native	37740	1.454978	1.0082066	1.8497551	0.14389347	Not a biological replicate
+P14	core	37740	1.4905139	0.9192141	1.9228024	0.31041829	Not a biological replicate
+P21	native	40772	1.5463836	1.0944023	1.9406642	0.15079925	Not a biological replicate
+P21	core	40772	1.5517371	0.98137613	1.9799458	0.35774302	Not a biological replicate

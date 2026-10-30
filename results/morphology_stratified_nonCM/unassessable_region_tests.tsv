@@ -1,0 +1,108 @@
+stage	source	metric	scope	reason
+P0	Broad:Endothelial	path	Cavity_facing	Fewer than200 finite CMs
+P0	Broad:Endothelial	centroid	Cavity_facing	Fewer than200 finite CMs
+P0	Broad:Endothelial	fraction50	Cavity_facing	Fewer than200 finite CMs
+P0	Broad:Fibroblast	path	Cavity_facing	Fewer than200 finite CMs
+P0	Broad:Fibroblast	centroid	Cavity_facing	Fewer than200 finite CMs
+P0	Broad:Fibroblast	fraction50	Cavity_facing	Fewer than200 finite CMs
+P0	Broad:Pericyte	path	Cavity_facing	Fewer than200 finite CMs
+P0	Broad:Pericyte	centroid	Cavity_facing	Fewer than200 finite CMs
+P0	Broad:Pericyte	fraction50	Cavity_facing	Fewer than200 finite CMs
+P0	Broad:Smooth muscle	path	Cavity_facing	Fewer than200 finite CMs
+P0	Broad:Smooth muscle	centroid	Cavity_facing	Fewer than200 finite CMs
+P0	Broad:Smooth muscle	fraction50	Cavity_facing	Fewer than200 finite CMs
+P0	Broad:Immune	path	Cavity_facing	Fewer than200 finite CMs
+P0	Broad:Immune	centroid	Cavity_facing	Fewer than200 finite CMs
+P0	Broad:Immune	fraction50	Cavity_facing	Fewer than200 finite CMs
+P0	Broad:Epicardial	path	Cavity_facing	Fewer than200 finite CMs
+P0	Broad:Epicardial	centroid	Cavity_facing	Fewer than200 finite CMs
+P0	Broad:Epicardial	fraction50	Cavity_facing	Fewer than200 finite CMs
+P0	EC:Capillary-like	path	Cavity_facing	Fewer than200 finite CMs
+P0	EC:Capillary-like	centroid	Cavity_facing	Fewer than200 finite CMs
+P0	EC:Capillary-like	fraction50	Cavity_facing	Fewer than200 finite CMs
+P0	EC:Endocardial-like	path	Cavity_facing	Fewer than200 finite CMs
+P0	EC:Endocardial-like	centroid	Cavity_facing	Fewer than200 finite CMs
+P0	EC:Endocardial-like	fraction50	Cavity_facing	Fewer than200 finite CMs
+P0	EC:Arterial-like	path	Cavity_facing	Fewer than200 finite CMs
+P0	EC:Arterial-like	centroid	Cavity_facing	Fewer than200 finite CMs
+P0	EC:Arterial-like	fraction50	Cavity_facing	Fewer than200 finite CMs
+P0	FB:Postn	path	Cavity_facing	Fewer than200 finite CMs
+P0	FB:Postn	centroid	Cavity_facing	Fewer than200 finite CMs
+P0	FB:Postn	fraction50	Cavity_facing	Fewer than200 finite CMs
+P0	EC:Cycling-associated	path	Cavity_facing	Fewer than200 finite CMs
+P0	EC:Cycling-associated	centroid	Cavity_facing	Fewer than200 finite CMs
+P0	EC:Cycling-associated	fraction50	Cavity_facing	Fewer than200 finite CMs
+P0	EC_public:Capillary-like	path	Cavity_facing	Fewer than200 finite CMs
+P0	EC_public:Capillary-like	centroid	Cavity_facing	Fewer than200 finite CMs
+P0	EC_public:Capillary-like	fraction50	Cavity_facing	Fewer than200 finite CMs
+P0	EC_public:Endocardial-like	path	Cavity_facing	Fewer than200 finite CMs
+P0	EC_public:Endocardial-like	centroid	Cavity_facing	Fewer than200 finite CMs
+P0	EC_public:Endocardial-like	fraction50	Cavity_facing	Fewer than200 finite CMs
+P0	EC_public:Arterial-like	path	Cavity_facing	Fewer than200 finite CMs
+P0	EC_public:Arterial-like	centroid	Cavity_facing	Fewer than200 finite CMs
+P0	EC_public:Arterial-like	fraction50	Cavity_facing	Fewer than200 finite CMs
+P7	Broad:Smooth muscle	fraction50	Cavity_facing	Insufficient local source support across8 clusters
+P7	Broad:Epicardial	path	Cavity_facing	Insufficient local source support across8 clusters
+P7	Broad:Epicardial	centroid	Cavity_facing	Insufficient local source support across8 clusters
+P7	Broad:Epicardial	fraction50	Cavity_facing	Insufficient local source support across8 clusters
+P7	EC:Endocardial-like	path	Cavity_facing	Insufficient local source support across8 clusters
+P7	EC:Endocardial-like	centroid	Cavity_facing	Insufficient local source support across8 clusters
+P7	EC:Endocardial-like	fraction50	Cavity_facing	Insufficient local source support across8 clusters
+P7	EC_public:Endocardial-like	fraction50	Cavity_facing	Insufficient local source support across8 clusters
+P14	Broad:Epicardial	path	Cavity_facing	Insufficient local source support across8 clusters
+P14	Broad:Epicardial	centroid	Cavity_facing	Insufficient local source support across8 clusters
+P14	Broad:Epicardial	fraction50	Cavity_facing	Insufficient local source support across8 clusters
+P14	EC:Arterial-like	path	Cavity_facing	Insufficient local source support across8 clusters
+P14	EC:Arterial-like	centroid	Cavity_facing	Insufficient local source support across8 clusters
+P14	EC:Arterial-like	fraction50	Cavity_facing	Insufficient local source support across8 clusters
+P14	EC:Venous-like	fraction50	Cavity_facing	Insufficient local source support across8 clusters
+P14	FB:Gfpt2	fraction50	Cavity_facing	Insufficient local source support across8 clusters
+P14	EC:Cycling-associated	path	Cavity_facing	Insufficient local source support across8 clusters
+P14	EC:Cycling-associated	centroid	Cavity_facing	Insufficient local source support across8 clusters
+P14	EC:Cycling-associated	fraction50	Cavity_facing	Insufficient local source support across8 clusters
+P14	EC_public:Lymphatic-like	path	Annotated_regions	Insufficient local source support across8 clusters
+P14	EC_public:Lymphatic-like	path	Compact_wall	Insufficient local source support across8 clusters
+P14	EC_public:Lymphatic-like	path	Cavity_facing	Insufficient local source support across8 clusters
+P14	EC_public:Lymphatic-like	centroid	Annotated_regions	Insufficient local source support across8 clusters
+P14	EC_public:Lymphatic-like	centroid	Compact_wall	Insufficient local source support across8 clusters
+P14	EC_public:Lymphatic-like	centroid	Cavity_facing	Insufficient local source support across8 clusters
+P14	EC_public:Lymphatic-like	fraction50	Annotated_regions	Insufficient local source support across8 clusters
+P14	EC_public:Lymphatic-like	fraction50	Compact_wall	Insufficient local source support across8 clusters
+P14	EC_public:Lymphatic-like	fraction50	Cavity_facing	Insufficient local source support across8 clusters
+P21	Broad:Smooth muscle	path	Cavity_facing	Insufficient local source support across8 clusters
+P21	Broad:Smooth muscle	centroid	Cavity_facing	Insufficient local source support across8 clusters
+P21	Broad:Smooth muscle	fraction50	Cavity_facing	Insufficient local source support across8 clusters
+P21	Broad:Immune	fraction50	Cavity_facing	Insufficient local source support across8 clusters
+P21	Broad:Epicardial	path	Cavity_facing	Insufficient local source support across8 clusters
+P21	Broad:Epicardial	centroid	Cavity_facing	Insufficient local source support across8 clusters
+P21	Broad:Epicardial	fraction50	Annotated_regions	Insufficient local source support across8 clusters
+P21	Broad:Epicardial	fraction50	Compact_wall	Insufficient local source support across8 clusters
+P21	Broad:Epicardial	fraction50	Cavity_facing	Insufficient local source support across8 clusters
+P21	EC:Capillary-like	fraction50	Cavity_facing	Insufficient local source support across8 clusters
+P21	EC:Endocardial-like	path	Cavity_facing	Insufficient local source support across8 clusters
+P21	EC:Endocardial-like	centroid	Cavity_facing	Insufficient local source support across8 clusters
+P21	EC:Endocardial-like	fraction50	Compact_wall	Insufficient local source support across8 clusters
+P21	EC:Endocardial-like	fraction50	Cavity_facing	Insufficient local source support across8 clusters
+P21	EC:Arterial-like	path	Cavity_facing	Insufficient local source support across8 clusters
+P21	EC:Arterial-like	centroid	Cavity_facing	Insufficient local source support across8 clusters
+P21	EC:Arterial-like	fraction50	Annotated_regions	Insufficient local source support across8 clusters
+P21	EC:Arterial-like	fraction50	Compact_wall	Insufficient local source support across8 clusters
+P21	EC:Arterial-like	fraction50	Cavity_facing	Insufficient local source support across8 clusters
+P21	FB:Gfpt2	path	Cavity_facing	Insufficient local source support across8 clusters
+P21	FB:Gfpt2	centroid	Cavity_facing	Insufficient local source support across8 clusters
+P21	FB:Gfpt2	fraction50	Compact_wall	Insufficient local source support across8 clusters
+P21	FB:Gfpt2	fraction50	Cavity_facing	Insufficient local source support across8 clusters
+P21	EC_public:Endocardial-like	fraction50	Compact_wall	Insufficient local source support across8 clusters
+P21	EC_public:Endocardial-like	fraction50	Cavity_facing	Insufficient local source support across8 clusters
+P21	EC_public:Arterial-like	path	Cavity_facing	Insufficient local source support across8 clusters
+P21	EC_public:Arterial-like	centroid	Cavity_facing	Insufficient local source support across8 clusters
+P21	EC_public:Arterial-like	fraction50	Cavity_facing	Insufficient local source support across8 clusters
+P21	EC_public:Lymphatic-like	path	Annotated_regions	Insufficient local source support across8 clusters
+P21	EC_public:Lymphatic-like	path	Compact_wall	Insufficient local source support across8 clusters
+P21	EC_public:Lymphatic-like	path	Cavity_facing	Insufficient local source support across8 clusters
+P21	EC_public:Lymphatic-like	centroid	Annotated_regions	Insufficient local source support across8 clusters
+P21	EC_public:Lymphatic-like	centroid	Compact_wall	Insufficient local source support across8 clusters
+P21	EC_public:Lymphatic-like	centroid	Cavity_facing	Insufficient local source support across8 clusters
+P21	EC_public:Lymphatic-like	fraction50	Annotated_regions	Insufficient local source support across8 clusters
+P21	EC_public:Lymphatic-like	fraction50	Compact_wall	Insufficient local source support across8 clusters
+P21	EC_public:Lymphatic-like	fraction50	Cavity_facing	Insufficient local source support across8 clusters

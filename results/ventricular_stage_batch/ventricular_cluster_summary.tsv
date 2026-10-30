@@ -1,0 +1,8 @@
+ventricular_cluster	nuclei	dominant_stage	dominant_stage_fraction	dominant_stage_libraries_ge20	largest_library_fraction_within_dominant_stage	cycling_marker_positive_fraction	prior_CAR_counts	top_descriptive_markers
+V_0	303	P0	1.0	2	0.5973597359735974	0.6237623762376238	CAR_0:301;CAR_2:2	Diaph3;Atad2;Rad51b;Cenpp;Ncam1;Top2a;Pola1;Sdk1;Kif11;Knl1
+V_1	5769	P0	1.0	2	0.5359681053908824	0.000693361067776	CAR_1:5688;CAR_2:80;CAR_5:1	Arhgap31;Tnni1;Txnip;Sdk1;Pam;Grb10;Dpysl3;Adamts6;Igf2r;Myh7
+V_2	4220	P0	0.9997630331753554	2	0.5674330410049775	0.0007109004739336	CAR_2:4132;CAR_1:86;CAR_0:1;CAR_5:1	Ncam1;Pam;Ptprd;Mid1;Arhgap31;Rbms3;Tnni1;Kcnq5;Fbn2;Sdk1
+V_3	1386	P7	0.9783549783549784	2	0.5110619469026548	0.2402597402597402	CAR_0:827;CAR_6:557;CAR_5:1;CAR_7:1	Rad51b;Diaph3;Cenpp;Pola1;Atad2;Hjurp;Knl1;Ect2;Sdk1;Top2a
+V_4	11501	P7	0.9996522041561604	2	0.6438201269896495	0.0	CAR_6:10362;CAR_5:1139	Sntb1;Ankrd1;Phldb2;Ror1;Magi3;Rbms1;Mtss1;Gja1;Tbx20;Rad51b
+V_5	10880	P14	0.9973345588235294	2	0.532393327803889	9.191176470588237e-05	CAR_7:10841;CAR_10:39	Magi2;Fgfr2;Limch1;AY036118;Zbtb16;Thrb;Tacc2;Kcnd2;Xirp2;Ckmt2
+V_6	9190	P21	0.9986942328618064	2	0.6536282414469383	0.0	CAR_10:9137;CAR_7:53	Rhobtb1;Magi2;Thrb;Kcnd2;Lncpint;Limch1;Art3;Zbtb16;Gpcpd1;Shld1

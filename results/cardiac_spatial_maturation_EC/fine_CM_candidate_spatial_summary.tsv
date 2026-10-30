@@ -1,0 +1,10 @@
+stage	group	candidate_identity	functional_family	CMs	median_maturation_21gene	median_endocardial_proxy_distance_um	median_candidate_arterial_distance_um	fraction_within_30um_cycling_EC	fine_labels_not_independent_of_maturation_genes
+P0	P0_M0	Cycling-associated CM state	Cycling	1620	2.53931146	61.7133965	292.240094	0.413580247	True
+P0	P0_M2	Zbtb16/Ncam1-enriched neonatal working-CM candidate	Marker-defined	535	2.83930039	59.4014468	328.045299	0.375700935	True
+P0	P0_M5	Slit2-associated, conduction-program-enriched candidate	Conduction-program-enriched	721	2.57510369	14.4744047	473.258656	0.332871012	True
+P7	P7_M3	Cycling-associated CM state	Cycling	2780	2.48472339	110.736863	228.238546	0.323741007	True
+P7	P7_M6	Slit2-associated, conduction-program-enriched candidate	Conduction-program-enriched	707	2.49364678	17.4958477	553.03921	0.130127298	True
+P14	P14_M0	Slit2/Mpped2 regional electrical candidate	Regional electrical-associated	1748	3.31143107	73.8032693	305.351544	0.0171624714	True
+P14	P14_M2	Ankrd1-associated remodeling state	Mechanical-response-associated	801	2.9477701	221.391957	188.144236	0.0174781523	True
+P14	P14_M4	Slit2-associated, conduction-program-enriched candidate	Conduction-program-enriched	495	2.64410714	17.5530723	339.722224	0.0303030303	True
+P21	P21_M3	Slit2/Mpped2 regional electrical candidate	Regional electrical-associated	1386	3.32353436	46.7351362	434.932204	0.0101010101	True

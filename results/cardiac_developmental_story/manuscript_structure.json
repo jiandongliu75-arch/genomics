@@ -1,0 +1,30 @@
+{
+  "title": "Persistent spatial neighborhoods and changing stromal\u2013vascular states accompany postnatal heart development",
+  "central_message": "Postnatal cardiac development is consistent with regional remodeling of recurring multicellular neighborhoods: fibroblast matrix specialization, vascular growth and CM developmental programs change together, but do not follow a single synchronized maturation axis.",
+  "sections": [
+    "Abstract",
+    "Introduction",
+    "Results",
+    "Recurring anatomical organization anchors the developmental comparison",
+    "Regional CM identity overlaps with local vascular-response programs",
+    "Fibroblast state remodeling occurs within overlapping interstitial environments",
+    "Vascular growth and capillary apposition relate to different CM components",
+    "Transport compares remodeling neighborhoods but does not identify unique developmental fates",
+    "A regional tissue-unit model yields discriminating experiments",
+    "Discussion",
+    "Methods"
+  ],
+  "main_figure_plates": 6,
+  "data_scope": "Secondary analysis, one spatial section/age, no new biological replication",
+  "manuscript_words": 3655,
+  "figures": [
+    "Figure_1_persistent_spatial_architecture",
+    "Figure_2_regional_cardiomyocyte_programs",
+    "Figure_3_fibroblast_state_remodeling",
+    "Figure_4_vascular_growth_and_CM_components",
+    "Figure_5_transport_constrained_correspondence",
+    "Figure_6_developmental_model_and_tests"
+  ],
+  "editable_Word": true,
+  "source_text": "Manuscript_text.md"
+}

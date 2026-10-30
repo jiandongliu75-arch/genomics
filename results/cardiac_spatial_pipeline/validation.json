@@ -1,0 +1,54 @@
+{
+  "status": "PASS",
+  "configuration_sha256": "62ddadc7935905fa35a423d671512f45131f10ef29a539237a4609c2269ed9c6",
+  "stages": [
+    {
+      "stage": "P0",
+      "profiles": 47611,
+      "primary_CMs": 13588,
+      "contact_pairs_independently_counted": 32,
+      "barrier_samples_independently_checked": 128,
+      "niche_features_independently_checked": 32,
+      "niche_posteriors_reconstructed": 128
+    },
+    {
+      "stage": "P7",
+      "profiles": 99429,
+      "primary_CMs": 31830,
+      "contact_pairs_independently_counted": 32,
+      "barrier_samples_independently_checked": 128,
+      "niche_features_independently_checked": 32,
+      "niche_posteriors_reconstructed": 128
+    },
+    {
+      "stage": "P14",
+      "profiles": 117070,
+      "primary_CMs": 30300,
+      "contact_pairs_independently_counted": 32,
+      "barrier_samples_independently_checked": 128,
+      "niche_features_independently_checked": 32,
+      "niche_posteriors_reconstructed": 128
+    },
+    {
+      "stage": "P21",
+      "profiles": 143944,
+      "primary_CMs": 29031,
+      "contact_pairs_independently_counted": 32,
+      "barrier_samples_independently_checked": 128,
+      "niche_features_independently_checked": 32,
+      "niche_posteriors_reconstructed": 128
+    }
+  ],
+  "PDF_pages": 15,
+  "all_original_profiles_ids_coordinates_and_broad_labels_preserved": true,
+  "source_segmentation_count_hashes_match_prior_manifest": true,
+  "primary_outcomes_and_measured_program_scores_reconstructed": true,
+  "contact_lengths_and_tissue_barriers_independently_verified": true,
+  "joint_model_arithmetic_verified": true,
+  "niche_features_and_posteriors_independently_verified": true,
+  "prediction_buffer_verified": true,
+  "transport_pilot_exact_distances_reproduced": true,
+  "CellCharter_and_Wormhole_not_run_in_primary_pipeline": true,
+  "biological_limits": "One section per age; arithmetic/stability checks do not establish anatomy, biological replication or causal influence",
+  "post_validation_non_numeric_edits": "README wording/system-dependency note and explicit header for an empty unsupported-exposure table; no coefficients, scores, graphs or figure changes."
+}

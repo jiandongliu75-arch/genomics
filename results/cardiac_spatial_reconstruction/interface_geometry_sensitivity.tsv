@@ -1,0 +1,17 @@
+stage	comparison	CMs	Spearman	interpretation	mean_absolute_apposition_fraction_difference
+P0	refined_boundary_contacts_vs_native_sampled_apposition	25404	0.816445422	Different operational2D contact definitions; neither is protein-contact ground truth	NA
+P0	native_polygon_1um_contacts_vs_native_sampled_apposition	25404	0.946071478	Different operational2D contact definitions; neither is protein-contact ground truth	NA
+P0	64_vs_128_boundary_samples	256	0.993379141	Outcome-blinded resolution sensitivity on original native polygons	0.00143432617
+P0	64_vs_256_boundary_samples	256	0.99338589	Outcome-blinded resolution sensitivity on original native polygons	0.00132751465
+P7	refined_boundary_contacts_vs_native_sampled_apposition	39565	0.804358669	Different operational2D contact definitions; neither is protein-contact ground truth	NA
+P7	native_polygon_1um_contacts_vs_native_sampled_apposition	39565	0.952515413	Different operational2D contact definitions; neither is protein-contact ground truth	NA
+P7	64_vs_128_boundary_samples	256	0.999821599	Outcome-blinded resolution sensitivity on original native polygons	0.00219726562
+P7	64_vs_256_boundary_samples	256	0.999838198	Outcome-blinded resolution sensitivity on original native polygons	0.00193786621
+P14	refined_boundary_contacts_vs_native_sampled_apposition	44553	0.695828526	Different operational2D contact definitions; neither is protein-contact ground truth	NA
+P14	native_polygon_1um_contacts_vs_native_sampled_apposition	44553	0.928994728	Different operational2D contact definitions; neither is protein-contact ground truth	NA
+P14	64_vs_128_boundary_samples	256	0.999388706	Outcome-blinded resolution sensitivity on original native polygons	0.00451660156
+P14	64_vs_256_boundary_samples	256	0.999529159	Outcome-blinded resolution sensitivity on original native polygons	0.00372314453
+P21	refined_boundary_contacts_vs_native_sampled_apposition	56904	0.648471651	Different operational2D contact definitions; neither is protein-contact ground truth	NA
+P21	native_polygon_1um_contacts_vs_native_sampled_apposition	56904	0.926050087	Different operational2D contact definitions; neither is protein-contact ground truth	NA
+P21	64_vs_128_boundary_samples	256	0.998345511	Outcome-blinded resolution sensitivity on original native polygons	0.00341796875
+P21	64_vs_256_boundary_samples	256	0.997343053	Outcome-blinded resolution sensitivity on original native polygons	0.00317382812

@@ -1,0 +1,51 @@
+{
+  "source": "Completed 377-gene full-reference projection in whole_heart_Ankrd1_vessels; no refitting",
+  "inherited_identity_thresholds": "weight>=0.70,margin>=0.15,canonical marker support,raw-reference and both RNA-library agreement",
+  "nonCM_anchor_panels": {
+    "Endothelial": [
+      "Pecam1",
+      "Cdh5",
+      "Esam",
+      "Tek",
+      "Vwf"
+    ],
+    "Fibroblast": [
+      "Dcn",
+      "Lum",
+      "Pdgfra",
+      "Tcf21"
+    ],
+    "Pericyte": [
+      "Rgs5",
+      "Cspg4",
+      "Pdgfrb"
+    ],
+    "Smooth muscle": [
+      "Myh11",
+      "Cnn1"
+    ],
+    "Immune": [
+      "Ptprc",
+      "Csf1r",
+      "Mertk",
+      "Cd22",
+      "Cd28",
+      "Cd8b1"
+    ],
+    "Epicardial": [
+      "Upk3b",
+      "Wt1"
+    ]
+  },
+  "anchor_rule": "At least one detected lineage anchor in an already resolved non-CM; no upward reassignment of ambiguous cells",
+  "mixed_rule": "Previously resolved non-CM with>=3 CM genes and>=10% CM RNA plus>=3 non-CM panel genes and>=10% non-CM RNA moves to Mixed-marker review; coexpression is not proof of a doublet",
+  "CM_rule": "Retain previous strict CM assignments; previous mixed-CM assignments are Mixed-marker review",
+  "other_cross_lineage_flags": "Two non-CM panels with>=3 genes and>=10% RNA each flag coexpression but do not automatically demote; related vascular/stromal programs can overlap",
+  "glial_limit": "No Plp1/Sox10/S100b/Mpz in the403-target panel; no supported glial assignments asserted",
+  "coordinates": "Native Xenium x/y micrometers; no warping or cross-stage registration",
+  "neighborhood": "20 nearest other original cells within100\u00b5m; summarize resolved-neighbor types when>=5 resolved neighbors; descriptive, not causal or animal-level inference",
+  "tile_size_um": 100,
+  "tile_description": "Original-cell count and resolved-lineage composition per100\u00b5m square; not a histological tissue-area denominator",
+  "figures": "Direct categorical assignments, consistent stage colors; no label smoothing or imputation",
+  "column_names": "Replace slashes in column names with underscores for HDF5-safe keys; categorical identity values are unchanged"
+}

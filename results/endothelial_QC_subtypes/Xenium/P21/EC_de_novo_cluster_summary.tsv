@@ -1,0 +1,8 @@
+stage	cluster_id	gene_name	profiles	most_common_individual_label	most_common_label_fraction	marker_genes	high_confidence_cluster_best_jaccard	nuclear_only_cluster_best_jaccard	nuclear_depth_matched_cluster_best_jaccard	seed_7_best_jaccard	seed_123_best_jaccard	resolution_0.25_best_jaccard	resolution_0.8_best_jaccard
+P21	P21_XEC0	Sparcl1/Cd36 EC program	351	Capillary-like	0.5868946	Sparcl1;Cd36;Lims2;Kitl;Col4a2;Rgcc;Sema7a;Car4;Itga1;Cxcl12;Col4a1;Aplnr	0.931694	0.9395604	0.8301435	1	1	0.8951407	0.951567
+P21	P21_XEC1	Npr3/Igf2 EC program	304	Endothelial subtype unresolved	0.7828947	Npr3;Igf2;Igfbp5;Myl4;Vwf;Dkk3;Cpe;Lyve1;Nppa;Vcam1;Angptl2;Acvr1	0.5514563	0.6703297	0.550308	0.9423077	0.8646154	0.3247863	0.8148148
+P21	P21_XEC2	Npr3/Nrg1 EC program	553	Endocardial-like	0.7251356	Npr3;Nrg1;Col4a4;Vcam1;Vwf;Bgn;Cpe;Col4a3;Epha7;Itgbl1;Gja4;Axl	0.6014109	0.7406297	0.6472441	0.872	0.939759	0.590812	0.426259
+P21	P21_XEC3	Gja5/Fbln2 EC program	129	Arterial-like	0.5271318	Gja5;Fbln2;Vegfc;Acta2;Sparcl1;Hey1;Lims2;Jag1;Myl9;Pdgfd;Fn1;Mcam	0.9230769	0.9166667	0.7209302	1	1	0.9689922	0.9847328
+P21	P21_XEC4	Thbs1/Postn EC program	62	Endothelial subtype unresolved	0.7096774	Thbs1;Postn;Hey2;Eln;Ncam1;Itga9;Gja4;Vcam1;Flt4;Fn1;Epha7;Bmpr2	0.8405797	0.09836066	0.09467456	0.1004862	0.9354839	0.06623932	0.9076923
+P21	P21_XEC5	Lhx6/Fbln2 EC program	38	Endothelial subtype unresolved	1	Lhx6;Fbln2;Cd36;Eln;Vwf;Calcrl;Npr1;Nr2f2;Sparcl1;Bmpr2;Wt1;Igfbp5	0.7619048	0.7380952	0.07109005	1	0.9736842	0.09183673	0.8444444
+P21	P21_XEC6	Mki67/Kif11 EC program	14	Endocardial-like	0.5714286	Mki67;Kif11;Top2a;Stmn1;Cenpe;Smc4;Cenpf;Hjurp;Cdca2;Ezh2;Npr3;Bmp6	0.48	0.5	0.03104213	1	0.04635762	0.01495726	0.6086957

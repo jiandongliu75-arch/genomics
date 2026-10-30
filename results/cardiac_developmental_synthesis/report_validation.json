@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "PDF_pages": 4,
+  "PNG_integrity_checked": true,
+  "documentation_links_checked": 5,
+  "script_SHA256": {
+    "analysis/cardiac_developmental_synthesis.py": "6978d806403800e938dfad965ddc072190d3250aec0512cae4e0761e990ca4eb",
+    "analysis/report_cardiac_developmental_synthesis.py": "2bcc8fffe4648a43ff566b6b388ea57808d45cc622fe92077c46774fab79281a"
+  },
+  "scope": "Document/artifact integrity and numerical checks, not biological validation"
+}

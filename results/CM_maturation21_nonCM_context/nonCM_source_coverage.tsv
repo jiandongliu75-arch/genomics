@@ -1,0 +1,129 @@
+stage	geometry	source	source_profiles	reference_assessable	CMs_with_source	denominator	supported_for_model
+P0	proximity50	Broad__Endothelial	3732	True	17175	All resolved neighbors	True
+P0	proximity50	Broad__Fibroblast	2020	True	13141	All resolved neighbors	True
+P0	proximity50	Broad__Pericyte	448	True	10310	All resolved neighbors	True
+P0	proximity50	Broad__Smooth muscle	583	True	944	All resolved neighbors	True
+P0	proximity50	Broad__Immune	285	True	4285	All resolved neighbors	True
+P0	proximity50	Broad__Epicardial	229	True	334	All resolved neighbors	True
+P0	proximity50	EC__Capillary-like	846	True	11456	All eligible broad endothelial cells	True
+P0	proximity50	EC__Endocardial-like	589	True	3930	All eligible broad endothelial cells	True
+P0	proximity50	EC__Arterial-like	89	True	1404	All eligible broad endothelial cells	True
+P0	proximity50	EC__Venous-like	0	True	0	All eligible broad endothelial cells	False
+P0	proximity50	EC__Lymphatic-like	0	True	0	All eligible broad endothelial cells	False
+P0	proximity50	FB__Postn	1946	True	13141	All eligible broad fibroblasts	True
+P0	proximity50	FB__Gfpt2	0	False	0	All eligible broad fibroblasts	False
+P0	proximity50	FB__Col8a1	0	False	0	All eligible broad fibroblasts	False
+P0	proximity50	FB__Lsamp	0	False	0	All eligible broad fibroblasts	False
+P0	proximity50	FB__Kirrel3	54	True	43	All eligible broad fibroblasts	False
+P0	proximity30	Broad__Endothelial	3732	True	15142	All resolved neighbors	True
+P0	proximity30	Broad__Fibroblast	2020	True	8199	All resolved neighbors	True
+P0	proximity30	Broad__Pericyte	448	True	5214	All resolved neighbors	True
+P0	proximity30	Broad__Smooth muscle	583	True	388	All resolved neighbors	True
+P0	proximity30	Broad__Immune	285	True	1675	All resolved neighbors	True
+P0	proximity30	Broad__Epicardial	229	True	120	All resolved neighbors	True
+P0	proximity30	EC__Capillary-like	846	True	7371	All eligible broad endothelial cells	True
+P0	proximity30	EC__Endocardial-like	589	True	2027	All eligible broad endothelial cells	True
+P0	proximity30	EC__Arterial-like	89	True	523	All eligible broad endothelial cells	True
+P0	proximity30	EC__Venous-like	0	True	0	All eligible broad endothelial cells	False
+P0	proximity30	EC__Lymphatic-like	0	True	0	All eligible broad endothelial cells	False
+P0	proximity30	FB__Postn	1946	True	8199	All eligible broad fibroblasts	True
+P0	proximity30	FB__Gfpt2	0	False	0	All eligible broad fibroblasts	False
+P0	proximity30	FB__Col8a1	0	False	0	All eligible broad fibroblasts	False
+P0	proximity30	FB__Lsamp	0	False	0	All eligible broad fibroblasts	False
+P0	proximity30	FB__Kirrel3	54	True	8	All eligible broad fibroblasts	False
+P7	proximity50	Broad__Endothelial	8944	True	30157	All resolved neighbors	True
+P7	proximity50	Broad__Fibroblast	7365	True	27909	All resolved neighbors	True
+P7	proximity50	Broad__Pericyte	1873	True	24507	All resolved neighbors	True
+P7	proximity50	Broad__Smooth muscle	908	True	3622	All resolved neighbors	True
+P7	proximity50	Broad__Immune	1237	True	15217	All resolved neighbors	True
+P7	proximity50	Broad__Epicardial	362	True	646	All resolved neighbors	True
+P7	proximity50	EC__Capillary-like	1464	True	20469	All eligible broad endothelial cells	True
+P7	proximity50	EC__Endocardial-like	258	True	1750	All eligible broad endothelial cells	True
+P7	proximity50	EC__Arterial-like	0	True	0	All eligible broad endothelial cells	False
+P7	proximity50	EC__Venous-like	0	True	0	All eligible broad endothelial cells	False
+P7	proximity50	EC__Lymphatic-like	0	True	0	All eligible broad endothelial cells	False
+P7	proximity50	FB__Postn	5844	True	25092	All eligible broad fibroblasts	True
+P7	proximity50	FB__Gfpt2	630	True	9754	All eligible broad fibroblasts	True
+P7	proximity50	FB__Col8a1	0	False	0	All eligible broad fibroblasts	False
+P7	proximity50	FB__Lsamp	0	False	0	All eligible broad fibroblasts	False
+P7	proximity50	FB__Kirrel3	227	True	128	All eligible broad fibroblasts	True
+P7	proximity30	Broad__Endothelial	8944	True	27299	All resolved neighbors	True
+P7	proximity30	Broad__Fibroblast	7365	True	19191	All resolved neighbors	True
+P7	proximity30	Broad__Pericyte	1873	True	14016	All resolved neighbors	True
+P7	proximity30	Broad__Smooth muscle	908	True	1454	All resolved neighbors	True
+P7	proximity30	Broad__Immune	1237	True	6683	All resolved neighbors	True
+P7	proximity30	Broad__Epicardial	362	True	250	All resolved neighbors	True
+P7	proximity30	EC__Capillary-like	1464	True	11787	All eligible broad endothelial cells	True
+P7	proximity30	EC__Endocardial-like	258	True	723	All eligible broad endothelial cells	True
+P7	proximity30	EC__Arterial-like	0	True	0	All eligible broad endothelial cells	False
+P7	proximity30	EC__Venous-like	0	True	0	All eligible broad endothelial cells	False
+P7	proximity30	EC__Lymphatic-like	0	True	0	All eligible broad endothelial cells	False
+P7	proximity30	FB__Postn	5844	True	15568	All eligible broad fibroblasts	True
+P7	proximity30	FB__Gfpt2	630	True	4350	All eligible broad fibroblasts	True
+P7	proximity30	FB__Col8a1	0	False	0	All eligible broad fibroblasts	False
+P7	proximity30	FB__Lsamp	0	False	0	All eligible broad fibroblasts	False
+P7	proximity30	FB__Kirrel3	227	True	45	All eligible broad fibroblasts	False
+P14	proximity50	Broad__Endothelial	8086	True	30317	All resolved neighbors	True
+P14	proximity50	Broad__Fibroblast	8098	True	29611	All resolved neighbors	True
+P14	proximity50	Broad__Pericyte	4507	True	30155	All resolved neighbors	True
+P14	proximity50	Broad__Smooth muscle	3695	True	5203	All resolved neighbors	True
+P14	proximity50	Broad__Immune	2036	True	18140	All resolved neighbors	True
+P14	proximity50	Broad__Epicardial	401	True	745	All resolved neighbors	True
+P14	proximity50	EC__Capillary-like	3226	True	24616	All eligible broad endothelial cells	True
+P14	proximity50	EC__Endocardial-like	664	True	2129	All eligible broad endothelial cells	True
+P14	proximity50	EC__Arterial-like	137	True	881	All eligible broad endothelial cells	True
+P14	proximity50	EC__Venous-like	219	True	2756	All eligible broad endothelial cells	True
+P14	proximity50	EC__Lymphatic-like	28	True	145	All eligible broad endothelial cells	False
+P14	proximity50	FB__Postn	0	False	0	All eligible broad fibroblasts	False
+P14	proximity50	FB__Gfpt2	597	True	7276	All eligible broad fibroblasts	True
+P14	proximity50	FB__Col8a1	4579	True	27350	All eligible broad fibroblasts	True
+P14	proximity50	FB__Lsamp	1455	True	2599	All eligible broad fibroblasts	True
+P14	proximity50	FB__Kirrel3	50	True	29	All eligible broad fibroblasts	False
+P14	proximity30	Broad__Endothelial	8086	True	22795	All resolved neighbors	True
+P14	proximity30	Broad__Fibroblast	8098	True	19279	All resolved neighbors	True
+P14	proximity30	Broad__Pericyte	4507	True	19843	All resolved neighbors	True
+P14	proximity30	Broad__Smooth muscle	3695	True	2085	All resolved neighbors	True
+P14	proximity30	Broad__Immune	2036	True	8366	All resolved neighbors	True
+P14	proximity30	Broad__Epicardial	401	True	308	All resolved neighbors	True
+P14	proximity30	EC__Capillary-like	3226	True	15082	All eligible broad endothelial cells	True
+P14	proximity30	EC__Endocardial-like	664	True	991	All eligible broad endothelial cells	True
+P14	proximity30	EC__Arterial-like	137	True	293	All eligible broad endothelial cells	True
+P14	proximity30	EC__Venous-like	219	True	1056	All eligible broad endothelial cells	True
+P14	proximity30	EC__Lymphatic-like	28	True	63	All eligible broad endothelial cells	False
+P14	proximity30	FB__Postn	0	False	0	All eligible broad fibroblasts	False
+P14	proximity30	FB__Gfpt2	597	True	2969	All eligible broad fibroblasts	True
+P14	proximity30	FB__Col8a1	4579	True	16078	All eligible broad fibroblasts	True
+P14	proximity30	FB__Lsamp	1455	True	1128	All eligible broad fibroblasts	True
+P14	proximity30	FB__Kirrel3	50	True	9	All eligible broad fibroblasts	False
+P21	proximity50	Broad__Endothelial	8601	True	33092	All resolved neighbors	True
+P21	proximity50	Broad__Fibroblast	10867	True	30842	All resolved neighbors	True
+P21	proximity50	Broad__Pericyte	4444	True	30112	All resolved neighbors	True
+P21	proximity50	Broad__Smooth muscle	1822	True	5623	All resolved neighbors	True
+P21	proximity50	Broad__Immune	3260	True	22132	All resolved neighbors	True
+P21	proximity50	Broad__Epicardial	289	True	385	All resolved neighbors	True
+P21	proximity50	EC__Capillary-like	2147	True	20404	All eligible broad endothelial cells	True
+P21	proximity50	EC__Endocardial-like	799	True	2718	All eligible broad endothelial cells	True
+P21	proximity50	EC__Arterial-like	73	True	728	All eligible broad endothelial cells	True
+P21	proximity50	EC__Venous-like	0	True	0	All eligible broad endothelial cells	False
+P21	proximity50	EC__Lymphatic-like	2	True	11	All eligible broad endothelial cells	False
+P21	proximity50	FB__Postn	0	False	0	All eligible broad fibroblasts	False
+P21	proximity50	FB__Gfpt2	85	True	1070	All eligible broad fibroblasts	True
+P21	proximity50	FB__Col8a1	3702	True	24980	All eligible broad fibroblasts	True
+P21	proximity50	FB__Lsamp	3454	True	7959	All eligible broad fibroblasts	True
+P21	proximity50	FB__Kirrel3	751	True	511	All eligible broad fibroblasts	True
+P21	proximity30	Broad__Endothelial	8601	True	22777	All resolved neighbors	True
+P21	proximity30	Broad__Fibroblast	10867	True	18386	All resolved neighbors	True
+P21	proximity30	Broad__Pericyte	4444	True	17318	All resolved neighbors	True
+P21	proximity30	Broad__Smooth muscle	1822	True	2344	All resolved neighbors	True
+P21	proximity30	Broad__Immune	3260	True	10412	All resolved neighbors	True
+P21	proximity30	Broad__Epicardial	289	True	157	All resolved neighbors	True
+P21	proximity30	EC__Capillary-like	2147	True	10040	All eligible broad endothelial cells	True
+P21	proximity30	EC__Endocardial-like	799	True	1158	All eligible broad endothelial cells	True
+P21	proximity30	EC__Arterial-like	73	True	252	All eligible broad endothelial cells	True
+P21	proximity30	EC__Venous-like	0	True	0	All eligible broad endothelial cells	False
+P21	proximity30	EC__Lymphatic-like	2	True	5	All eligible broad endothelial cells	False
+P21	proximity30	FB__Postn	0	False	0	All eligible broad fibroblasts	False
+P21	proximity30	FB__Gfpt2	85	True	396	All eligible broad fibroblasts	True
+P21	proximity30	FB__Col8a1	3702	True	12645	All eligible broad fibroblasts	True
+P21	proximity30	FB__Lsamp	3454	True	3456	All eligible broad fibroblasts	True
+P21	proximity30	FB__Kirrel3	751	True	192	All eligible broad fibroblasts	True

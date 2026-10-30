@@ -1,0 +1,6 @@
+{
+  "comparison": "Measured program-positive versus program-negative marker-supported ventricular segments within the SAME section.",
+  "matching": "Five nearest negative controls with replacement in standardized log1p measured transcript count, log1p cell area and log1p detected genes; exact strata for missing-nucleus-area status.",
+  "excluded_from_matching": "No spatial coordinates, landmark distances or subtype labels used as matching covariates.",
+  "limits": "Descriptive conditional sensitivity, not causal inference or an independent-animal test. RNA depth and cell area can themselves be biological mediators. Marker landmarks and segmentation need anatomical validation. Control draws are not independent replicates."
+}

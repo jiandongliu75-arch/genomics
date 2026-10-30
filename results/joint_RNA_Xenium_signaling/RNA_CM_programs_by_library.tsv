@@ -1,0 +1,289 @@
+stage	sample	CM_state	program	nuclei	mean_log1p_CP10k
+P0	GSM8827071_P0_1	All	Oxidative_metabolism	5091	0.41043023
+P0	GSM8827071_P0_1	All	Fatty_acid_oxidation	5091	0.62616622
+P0	GSM8827071_P0_1	All	Sarcomere_mechanics	5091	1.1005862
+P0	GSM8827071_P0_1	All	HIF_response	5091	0.10270492
+P0	GSM8827071_P0_1	All	IEG_preparation	5091	0.029170482
+P0	GSM8827071_P0_1	All	Cell_cycle_full	5091	0.016748623
+P0	GSM8827071_P0_1	Ankrd1-associated	Oxidative_metabolism	727	0.40250596
+P0	GSM8827071_P0_1	Ankrd1-associated	Fatty_acid_oxidation	727	0.56001212
+P0	GSM8827071_P0_1	Ankrd1-associated	Sarcomere_mechanics	727	1.3135972
+P0	GSM8827071_P0_1	Ankrd1-associated	HIF_response	727	0.09001231
+P0	GSM8827071_P0_1	Ankrd1-associated	IEG_preparation	727	0.034426239
+P0	GSM8827071_P0_1	Ankrd1-associated	Cell_cycle_full	727	0.0056820744
+P0	GSM8827071_P0_1	Conduction-program candidate	Oxidative_metabolism	404	0.38602829
+P0	GSM8827071_P0_1	Conduction-program candidate	Fatty_acid_oxidation	404	0.53745431
+P0	GSM8827071_P0_1	Conduction-program candidate	Sarcomere_mechanics	404	1.0161905
+P0	GSM8827071_P0_1	Conduction-program candidate	HIF_response	404	0.095753287
+P0	GSM8827071_P0_1	Conduction-program candidate	IEG_preparation	404	0.029862178
+P0	GSM8827071_P0_1	Conduction-program candidate	Cell_cycle_full	404	0.0073295478
+P0	GSM8827071_P0_1	Cycling-associated	Oxidative_metabolism	193	0.36583033
+P0	GSM8827071_P0_1	Cycling-associated	Fatty_acid_oxidation	193	0.4961863
+P0	GSM8827071_P0_1	Cycling-associated	Sarcomere_mechanics	193	1.0932413
+P0	GSM8827071_P0_1	Cycling-associated	HIF_response	193	0.093186261
+P0	GSM8827071_P0_1	Cycling-associated	IEG_preparation	193	0.029765262
+P0	GSM8827071_P0_1	Cycling-associated	Cell_cycle_full	193	0.28137887
+P0	GSM8827071_P0_1	DNA-maintenance-associated	Oxidative_metabolism	55	0.40444468
+P0	GSM8827071_P0_1	DNA-maintenance-associated	Fatty_acid_oxidation	55	0.62509922
+P0	GSM8827071_P0_1	DNA-maintenance-associated	Sarcomere_mechanics	55	1.0978293
+P0	GSM8827071_P0_1	DNA-maintenance-associated	HIF_response	55	0.10023262
+P0	GSM8827071_P0_1	DNA-maintenance-associated	IEG_preparation	55	0.024777364
+P0	GSM8827071_P0_1	DNA-maintenance-associated	Cell_cycle_full	55	0.019975673
+P0	GSM8827071_P0_1	Other working CM	Oxidative_metabolism	3712	0.41704562
+P0	GSM8827071_P0_1	Other working CM	Fatty_acid_oxidation	3712	0.65555157
+P0	GSM8827071_P0_1	Other working CM	Sarcomere_mechanics	3712	1.0684758
+P0	GSM8827071_P0_1	Other working CM	HIF_response	3712	0.10647891
+P0	GSM8827071_P0_1	Other working CM	IEG_preparation	3712	0.028100021
+P0	GSM8827071_P0_1	Other working CM	Cell_cycle_full	3712	0.0061342812
+P0	GSM8827072_P0_2	All	Oxidative_metabolism	5955	0.44414145
+P0	GSM8827072_P0_2	All	Fatty_acid_oxidation	5955	0.66239247
+P0	GSM8827072_P0_2	All	Sarcomere_mechanics	5955	1.1424864
+P0	GSM8827072_P0_2	All	HIF_response	5955	0.11333531
+P0	GSM8827072_P0_2	All	IEG_preparation	5955	0.032426014
+P0	GSM8827072_P0_2	All	Cell_cycle_full	5955	0.011695293
+P0	GSM8827072_P0_2	Ankrd1-associated	Oxidative_metabolism	1052	0.43385431
+P0	GSM8827072_P0_2	Ankrd1-associated	Fatty_acid_oxidation	1052	0.60764944
+P0	GSM8827072_P0_2	Ankrd1-associated	Sarcomere_mechanics	1052	1.3376497
+P0	GSM8827072_P0_2	Ankrd1-associated	HIF_response	1052	0.10104051
+P0	GSM8827072_P0_2	Ankrd1-associated	IEG_preparation	1052	0.041913149
+P0	GSM8827072_P0_2	Ankrd1-associated	Cell_cycle_full	1052	0.0049270557
+P0	GSM8827072_P0_2	Conduction-program candidate	Oxidative_metabolism	452	0.41652871
+P0	GSM8827072_P0_2	Conduction-program candidate	Fatty_acid_oxidation	452	0.55739624
+P0	GSM8827072_P0_2	Conduction-program candidate	Sarcomere_mechanics	452	1.0883033
+P0	GSM8827072_P0_2	Conduction-program candidate	HIF_response	452	0.10679235
+P0	GSM8827072_P0_2	Conduction-program candidate	IEG_preparation	452	0.033258566
+P0	GSM8827072_P0_2	Conduction-program candidate	Cell_cycle_full	452	0.0064804282
+P0	GSM8827072_P0_2	Cycling-associated	Oxidative_metabolism	132	0.39063705
+P0	GSM8827072_P0_2	Cycling-associated	Fatty_acid_oxidation	132	0.48073737
+P0	GSM8827072_P0_2	Cycling-associated	Sarcomere_mechanics	132	1.0968723
+P0	GSM8827072_P0_2	Cycling-associated	HIF_response	132	0.083259751
+P0	GSM8827072_P0_2	Cycling-associated	IEG_preparation	132	0.036870207
+P0	GSM8827072_P0_2	Cycling-associated	Cell_cycle_full	132	0.29734413
+P0	GSM8827072_P0_2	DNA-maintenance-associated	Oxidative_metabolism	65	0.44888569
+P0	GSM8827072_P0_2	DNA-maintenance-associated	Fatty_acid_oxidation	65	0.58231251
+P0	GSM8827072_P0_2	DNA-maintenance-associated	Sarcomere_mechanics	65	1.1180858
+P0	GSM8827072_P0_2	DNA-maintenance-associated	HIF_response	65	0.11522696
+P0	GSM8827072_P0_2	DNA-maintenance-associated	IEG_preparation	65	0.02838252
+P0	GSM8827072_P0_2	DNA-maintenance-associated	Cell_cycle_full	65	0.0089539416
+P0	GSM8827072_P0_2	Other working CM	Oxidative_metabolism	4254	0.45120709
+P0	GSM8827072_P0_2	Other working CM	Fatty_acid_oxidation	4254	0.69394668
+P0	GSM8827072_P0_2	Other working CM	Sarcomere_mechanics	4254	1.1017685
+P0	GSM8827072_P0_2	Other working CM	HIF_response	4254	0.11797531
+P0	GSM8827072_P0_2	Other working CM	IEG_preparation	4254	0.029915297
+P0	GSM8827072_P0_2	Other working CM	Cell_cycle_full	4254	0.0051014623
+P7	GSM8827073_P7_1	All	Oxidative_metabolism	8166	0.37111453
+P7	GSM8827073_P7_1	All	Fatty_acid_oxidation	8166	0.63074635
+P7	GSM8827073_P7_1	All	Sarcomere_mechanics	8166	1.2010535
+P7	GSM8827073_P7_1	All	HIF_response	8166	0.075673258
+P7	GSM8827073_P7_1	All	IEG_preparation	8166	0.026427986
+P7	GSM8827073_P7_1	All	Cell_cycle_full	8166	0.012107647
+P7	GSM8827073_P7_1	Ankrd1-associated	Oxidative_metabolism	2680	0.3771095
+P7	GSM8827073_P7_1	Ankrd1-associated	Fatty_acid_oxidation	2680	0.61015862
+P7	GSM8827073_P7_1	Ankrd1-associated	Sarcomere_mechanics	2680	1.3129496
+P7	GSM8827073_P7_1	Ankrd1-associated	HIF_response	2680	0.069021044
+P7	GSM8827073_P7_1	Ankrd1-associated	IEG_preparation	2680	0.033650293
+P7	GSM8827073_P7_1	Ankrd1-associated	Cell_cycle_full	2680	0.0023361647
+P7	GSM8827073_P7_1	Conduction-program candidate	Oxidative_metabolism	100	0.28270665
+P7	GSM8827073_P7_1	Conduction-program candidate	Fatty_acid_oxidation	100	0.41117392
+P7	GSM8827073_P7_1	Conduction-program candidate	Sarcomere_mechanics	100	1.0155794
+P7	GSM8827073_P7_1	Conduction-program candidate	HIF_response	100	0.0839847
+P7	GSM8827073_P7_1	Conduction-program candidate	IEG_preparation	100	0.030834107
+P7	GSM8827073_P7_1	Conduction-program candidate	Cell_cycle_full	100	0
+P7	GSM8827073_P7_1	Cycling-associated	Oxidative_metabolism	315	0.34065242
+P7	GSM8827073_P7_1	Cycling-associated	Fatty_acid_oxidation	315	0.51659319
+P7	GSM8827073_P7_1	Cycling-associated	Sarcomere_mechanics	315	1.1387163
+P7	GSM8827073_P7_1	Cycling-associated	HIF_response	315	0.068044817
+P7	GSM8827073_P7_1	Cycling-associated	IEG_preparation	315	0.024525069
+P7	GSM8827073_P7_1	Cycling-associated	Cell_cycle_full	315	0.24356537
+P7	GSM8827073_P7_1	DNA-maintenance-associated	Oxidative_metabolism	487	0.35976758
+P7	GSM8827073_P7_1	DNA-maintenance-associated	Fatty_acid_oxidation	487	0.61458663
+P7	GSM8827073_P7_1	DNA-maintenance-associated	Sarcomere_mechanics	487	1.2016389
+P7	GSM8827073_P7_1	DNA-maintenance-associated	HIF_response	487	0.082553762
+P7	GSM8827073_P7_1	DNA-maintenance-associated	IEG_preparation	487	0.025504655
+P7	GSM8827073_P7_1	DNA-maintenance-associated	Cell_cycle_full	487	0.0029424614
+P7	GSM8827073_P7_1	Other working CM	Oxidative_metabolism	3475	0.37450571
+P7	GSM8827073_P7_1	Other working CM	Fatty_acid_oxidation	3475	0.68172545
+P7	GSM8827073_P7_1	Other working CM	Sarcomere_mechanics	3475	1.1531103
+P7	GSM8827073_P7_1	Other working CM	HIF_response	3475	0.080228359
+P7	GSM8827073_P7_1	Other working CM	IEG_preparation	3475	0.022794212
+P7	GSM8827073_P7_1	Other working CM	Cell_cycle_full	3475	0.0035631989
+P7	GSM8827073_P7_1	Regional electrical candidate	Oxidative_metabolism	1055	0.3683793
+P7	GSM8827073_P7_1	Regional electrical candidate	Fatty_acid_oxidation	1055	0.57879117
+P7	GSM8827073_P7_1	Regional electrical candidate	Sarcomere_mechanics	1055	1.1139905
+P7	GSM8827073_P7_1	Regional electrical candidate	HIF_response	1055	0.075655158
+P7	GSM8827073_P7_1	Regional electrical candidate	IEG_preparation	1055	0.020568074
+P7	GSM8827073_P7_1	Regional electrical candidate	Cell_cycle_full	1055	0.0019639213
+P7	GSM8827073_P7_1	Uncharacterized ventricular candidate	Oxidative_metabolism	54	0.35254288
+P7	GSM8827073_P7_1	Uncharacterized ventricular candidate	Fatty_acid_oxidation	54	0.60520414
+P7	GSM8827073_P7_1	Uncharacterized ventricular candidate	Sarcomere_mechanics	54	1.1357069
+P7	GSM8827073_P7_1	Uncharacterized ventricular candidate	HIF_response	54	0.080100377
+P7	GSM8827073_P7_1	Uncharacterized ventricular candidate	IEG_preparation	54	0.027580926
+P7	GSM8827073_P7_1	Uncharacterized ventricular candidate	Cell_cycle_full	54	0
+P7	GSM8827074_P7_2	All	Oxidative_metabolism	4874	0.38024933
+P7	GSM8827074_P7_2	All	Fatty_acid_oxidation	4874	0.60747681
+P7	GSM8827074_P7_2	All	Sarcomere_mechanics	4874	1.194299
+P7	GSM8827074_P7_2	All	HIF_response	4874	0.092036107
+P7	GSM8827074_P7_2	All	IEG_preparation	4874	0.022620843
+P7	GSM8827074_P7_2	All	Cell_cycle_full	4874	0.02201331
+P7	GSM8827074_P7_2	Ankrd1-associated	Oxidative_metabolism	996	0.37231381
+P7	GSM8827074_P7_2	Ankrd1-associated	Fatty_acid_oxidation	996	0.6022221
+P7	GSM8827074_P7_2	Ankrd1-associated	Sarcomere_mechanics	996	1.3175458
+P7	GSM8827074_P7_2	Ankrd1-associated	HIF_response	996	0.08463718
+P7	GSM8827074_P7_2	Ankrd1-associated	IEG_preparation	996	0.023563675
+P7	GSM8827074_P7_2	Ankrd1-associated	Cell_cycle_full	996	0.00077173666
+P7	GSM8827074_P7_2	Conduction-program candidate	Oxidative_metabolism	85	0.2801864
+P7	GSM8827074_P7_2	Conduction-program candidate	Fatty_acid_oxidation	85	0.42068775
+P7	GSM8827074_P7_2	Conduction-program candidate	Sarcomere_mechanics	85	1.0156819
+P7	GSM8827074_P7_2	Conduction-program candidate	HIF_response	85	0.096748285
+P7	GSM8827074_P7_2	Conduction-program candidate	IEG_preparation	85	0.029353376
+P7	GSM8827074_P7_2	Conduction-program candidate	Cell_cycle_full	85	0
+P7	GSM8827074_P7_2	Cycling-associated	Oxidative_metabolism	461	0.32279247
+P7	GSM8827074_P7_2	Cycling-associated	Fatty_acid_oxidation	461	0.49215175
+P7	GSM8827074_P7_2	Cycling-associated	Sarcomere_mechanics	461	1.0796817
+P7	GSM8827074_P7_2	Cycling-associated	HIF_response	461	0.072796324
+P7	GSM8827074_P7_2	Cycling-associated	IEG_preparation	461	0.021313037
+P7	GSM8827074_P7_2	Cycling-associated	Cell_cycle_full	461	0.21598619
+P7	GSM8827074_P7_2	DNA-maintenance-associated	Oxidative_metabolism	401	0.3783195
+P7	GSM8827074_P7_2	DNA-maintenance-associated	Fatty_acid_oxidation	401	0.60111333
+P7	GSM8827074_P7_2	DNA-maintenance-associated	Sarcomere_mechanics	401	1.1762559
+P7	GSM8827074_P7_2	DNA-maintenance-associated	HIF_response	401	0.097228855
+P7	GSM8827074_P7_2	DNA-maintenance-associated	IEG_preparation	401	0.021006742
+P7	GSM8827074_P7_2	DNA-maintenance-associated	Cell_cycle_full	401	0.0035300022
+P7	GSM8827074_P7_2	Other working CM	Oxidative_metabolism	2175	0.40270565
+P7	GSM8827074_P7_2	Other working CM	Fatty_acid_oxidation	2175	0.65446109
+P7	GSM8827074_P7_2	Other working CM	Sarcomere_mechanics	2175	1.195125
+P7	GSM8827074_P7_2	Other working CM	HIF_response	2175	0.099088143
+P7	GSM8827074_P7_2	Other working CM	IEG_preparation	2175	0.022237093
+P7	GSM8827074_P7_2	Other working CM	Cell_cycle_full	2175	0.0016135989
+P7	GSM8827074_P7_2	Regional electrical candidate	Oxidative_metabolism	689	0.37757939
+P7	GSM8827074_P7_2	Regional electrical candidate	Fatty_acid_oxidation	689	0.57182539
+P7	GSM8827074_P7_2	Regional electrical candidate	Sarcomere_mechanics	689	1.1205447
+P7	GSM8827074_P7_2	Regional electrical candidate	HIF_response	689	0.091194265
+P7	GSM8827074_P7_2	Regional electrical candidate	IEG_preparation	689	0.022929107
+P7	GSM8827074_P7_2	Regional electrical candidate	Cell_cycle_full	689	0.0023316767
+P7	GSM8827074_P7_2	Uncharacterized ventricular candidate	Oxidative_metabolism	67	0.33051344
+P7	GSM8827074_P7_2	Uncharacterized ventricular candidate	Fatty_acid_oxidation	67	0.59554265
+P7	GSM8827074_P7_2	Uncharacterized ventricular candidate	Sarcomere_mechanics	67	1.2170271
+P7	GSM8827074_P7_2	Uncharacterized ventricular candidate	HIF_response	67	0.07707935
+P7	GSM8827074_P7_2	Uncharacterized ventricular candidate	IEG_preparation	67	0.028010221
+P7	GSM8827074_P7_2	Uncharacterized ventricular candidate	Cell_cycle_full	67	0.0063127912
+P14	GSM8827075_P14_1	All	Oxidative_metabolism	5153	0.46631876
+P14	GSM8827075_P14_1	All	Fatty_acid_oxidation	5153	0.75892505
+P14	GSM8827075_P14_1	All	Sarcomere_mechanics	5153	1.277296
+P14	GSM8827075_P14_1	All	HIF_response	5153	0.12366797
+P14	GSM8827075_P14_1	All	IEG_preparation	5153	0.019143921
+P14	GSM8827075_P14_1	All	Cell_cycle_full	5153	0.0012370302
+P14	GSM8827075_P14_1	Ankrd1-associated	Oxidative_metabolism	1582	0.45992541
+P14	GSM8827075_P14_1	Ankrd1-associated	Fatty_acid_oxidation	1582	0.74345795
+P14	GSM8827075_P14_1	Ankrd1-associated	Sarcomere_mechanics	1582	1.4387175
+P14	GSM8827075_P14_1	Ankrd1-associated	HIF_response	1582	0.12761309
+P14	GSM8827075_P14_1	Ankrd1-associated	IEG_preparation	1582	0.022205987
+P14	GSM8827075_P14_1	Ankrd1-associated	Cell_cycle_full	1582	0.0014874087
+P14	GSM8827075_P14_1	Conduction-program candidate	Oxidative_metabolism	108	0.3987978
+P14	GSM8827075_P14_1	Conduction-program candidate	Fatty_acid_oxidation	108	0.64014882
+P14	GSM8827075_P14_1	Conduction-program candidate	Sarcomere_mechanics	108	1.090389
+P14	GSM8827075_P14_1	Conduction-program candidate	HIF_response	108	0.099976273
+P14	GSM8827075_P14_1	Conduction-program candidate	IEG_preparation	108	0.01873746
+P14	GSM8827075_P14_1	Conduction-program candidate	Cell_cycle_full	108	0.0029684691
+P14	GSM8827075_P14_1	Other working CM	Oxidative_metabolism	2297	0.47467773
+P14	GSM8827075_P14_1	Other working CM	Fatty_acid_oxidation	2297	0.77581223
+P14	GSM8827075_P14_1	Other working CM	Sarcomere_mechanics	2297	1.2130279
+P14	GSM8827075_P14_1	Other working CM	HIF_response	2297	0.12365024
+P14	GSM8827075_P14_1	Other working CM	IEG_preparation	2297	0.017782852
+P14	GSM8827075_P14_1	Other working CM	Cell_cycle_full	2297	0.0012440926
+P14	GSM8827075_P14_1	Regional electrical candidate	Oxidative_metabolism	1166	0.46478015
+P14	GSM8827075_P14_1	Regional electrical candidate	Fatty_acid_oxidation	1166	0.75764456
+P14	GSM8827075_P14_1	Regional electrical candidate	Sarcomere_mechanics	1166	1.2022025
+P14	GSM8827075_P14_1	Regional electrical candidate	HIF_response	1166	0.12054469
+P14	GSM8827075_P14_1	Regional electrical candidate	IEG_preparation	1166	0.017708317
+P14	GSM8827075_P14_1	Regional electrical candidate	Cell_cycle_full	1166	0.00072303663
+P14	GSM8827076_P14_2	All	Oxidative_metabolism	5889	0.47362428
+P14	GSM8827076_P14_2	All	Fatty_acid_oxidation	5889	0.73196169
+P14	GSM8827076_P14_2	All	Sarcomere_mechanics	5889	1.2880823
+P14	GSM8827076_P14_2	All	HIF_response	5889	0.13216319
+P14	GSM8827076_P14_2	All	IEG_preparation	5889	0.02189458
+P14	GSM8827076_P14_2	All	Cell_cycle_full	5889	0.0006194101
+P14	GSM8827076_P14_2	Ankrd1-associated	Oxidative_metabolism	1662	0.46957149
+P14	GSM8827076_P14_2	Ankrd1-associated	Fatty_acid_oxidation	1662	0.72187151
+P14	GSM8827076_P14_2	Ankrd1-associated	Sarcomere_mechanics	1662	1.4280397
+P14	GSM8827076_P14_2	Ankrd1-associated	HIF_response	1662	0.13738185
+P14	GSM8827076_P14_2	Ankrd1-associated	IEG_preparation	1662	0.023309115
+P14	GSM8827076_P14_2	Ankrd1-associated	Cell_cycle_full	1662	0.00094714293
+P14	GSM8827076_P14_2	Conduction-program candidate	Oxidative_metabolism	111	0.40990205
+P14	GSM8827076_P14_2	Conduction-program candidate	Fatty_acid_oxidation	111	0.60275181
+P14	GSM8827076_P14_2	Conduction-program candidate	Sarcomere_mechanics	111	1.0987025
+P14	GSM8827076_P14_2	Conduction-program candidate	HIF_response	111	0.11187471
+P14	GSM8827076_P14_2	Conduction-program candidate	IEG_preparation	111	0.027315803
+P14	GSM8827076_P14_2	Conduction-program candidate	Cell_cycle_full	111	0
+P14	GSM8827076_P14_2	Other working CM	Oxidative_metabolism	2644	0.47725962
+P14	GSM8827076_P14_2	Other working CM	Fatty_acid_oxidation	2644	0.73770878
+P14	GSM8827076_P14_2	Other working CM	Sarcomere_mechanics	2644	1.2388974
+P14	GSM8827076_P14_2	Other working CM	HIF_response	2644	0.13113775
+P14	GSM8827076_P14_2	Other working CM	IEG_preparation	2644	0.021119106
+P14	GSM8827076_P14_2	Other working CM	Cell_cycle_full	2644	0.00041063588
+P14	GSM8827076_P14_2	Regional electrical candidate	Oxidative_metabolism	1472	0.47647556
+P14	GSM8827076_P14_2	Regional electrical candidate	Fatty_acid_oxidation	1472	0.74277479
+P14	GSM8827076_P14_2	Regional electrical candidate	Sarcomere_mechanics	1472	1.2326864
+P14	GSM8827076_P14_2	Regional electrical candidate	HIF_response	1472	0.12964274
+P14	GSM8827076_P14_2	Regional electrical candidate	IEG_preparation	1472	0.021281562
+P14	GSM8827076_P14_2	Regional electrical candidate	Cell_cycle_full	1472	0.00067108238
+P21	GSM8827077_P21_1	All	Oxidative_metabolism	3256	0.52640365
+P21	GSM8827077_P21_1	All	Fatty_acid_oxidation	3256	0.58939546
+P21	GSM8827077_P21_1	All	Sarcomere_mechanics	3256	1.304977
+P21	GSM8827077_P21_1	All	HIF_response	3256	0.13525867
+P21	GSM8827077_P21_1	All	IEG_preparation	3256	0.040976157
+P21	GSM8827077_P21_1	All	Cell_cycle_full	3256	0.00032575047
+P21	GSM8827077_P21_1	Ankrd1-associated	Oxidative_metabolism	1027	0.54731031
+P21	GSM8827077_P21_1	Ankrd1-associated	Fatty_acid_oxidation	1027	0.58358708
+P21	GSM8827077_P21_1	Ankrd1-associated	Sarcomere_mechanics	1027	1.3981132
+P21	GSM8827077_P21_1	Ankrd1-associated	HIF_response	1027	0.14360365
+P21	GSM8827077_P21_1	Ankrd1-associated	IEG_preparation	1027	0.048158946
+P21	GSM8827077_P21_1	Ankrd1-associated	Cell_cycle_full	1027	0.00015683838
+P21	GSM8827077_P21_1	Conduction-program candidate	Oxidative_metabolism	37	0.44131546
+P21	GSM8827077_P21_1	Conduction-program candidate	Fatty_acid_oxidation	37	0.51254035
+P21	GSM8827077_P21_1	Conduction-program candidate	Sarcomere_mechanics	37	1.3375268
+P21	GSM8827077_P21_1	Conduction-program candidate	HIF_response	37	0.13313539
+P21	GSM8827077_P21_1	Conduction-program candidate	IEG_preparation	37	0.096875643
+P21	GSM8827077_P21_1	Conduction-program candidate	Cell_cycle_full	37	0.0079682762
+P21	GSM8827077_P21_1	Other working CM	Oxidative_metabolism	1305	0.51720402
+P21	GSM8827077_P21_1	Other working CM	Fatty_acid_oxidation	1305	0.58750244
+P21	GSM8827077_P21_1	Other working CM	Sarcomere_mechanics	1305	1.2617338
+P21	GSM8827077_P21_1	Other working CM	HIF_response	1305	0.12927708
+P21	GSM8827077_P21_1	Other working CM	IEG_preparation	1305	0.034462714
+P21	GSM8827077_P21_1	Other working CM	Cell_cycle_full	1305	0.00014480136
+P21	GSM8827077_P21_1	Regional electrical candidate	Oxidative_metabolism	887	0.5192815
+P21	GSM8827077_P21_1	Regional electrical candidate	Fatty_acid_oxidation	887	0.60211163
+P21	GSM8827077_P21_1	Regional electrical candidate	Sarcomere_mechanics	887	1.2594046
+P21	GSM8827077_P21_1	Regional electrical candidate	HIF_response	887	0.13448556
+P21	GSM8827077_P21_1	Regional electrical candidate	IEG_preparation	887	0.039910811
+P21	GSM8827077_P21_1	Regional electrical candidate	Cell_cycle_full	887	0.00046874692
+P21	GSM8827078_P21_2	All	Oxidative_metabolism	6079	0.54140201
+P21	GSM8827078_P21_2	All	Fatty_acid_oxidation	6079	0.60444361
+P21	GSM8827078_P21_2	All	Sarcomere_mechanics	6079	1.3317525
+P21	GSM8827078_P21_2	All	HIF_response	6079	0.13314413
+P21	GSM8827078_P21_2	All	IEG_preparation	6079	0.04869352
+P21	GSM8827078_P21_2	All	Cell_cycle_full	6079	0.00045009824
+P21	GSM8827078_P21_2	Ankrd1-associated	Oxidative_metabolism	2054	0.54635437
+P21	GSM8827078_P21_2	Ankrd1-associated	Fatty_acid_oxidation	2054	0.60032355
+P21	GSM8827078_P21_2	Ankrd1-associated	Sarcomere_mechanics	2054	1.4113432
+P21	GSM8827078_P21_2	Ankrd1-associated	HIF_response	2054	0.135267
+P21	GSM8827078_P21_2	Ankrd1-associated	IEG_preparation	2054	0.05914628
+P21	GSM8827078_P21_2	Ankrd1-associated	Cell_cycle_full	2054	0.00026768998
+P21	GSM8827078_P21_2	Conduction-program candidate	Oxidative_metabolism	35	0.47587059
+P21	GSM8827078_P21_2	Conduction-program candidate	Fatty_acid_oxidation	35	0.51060218
+P21	GSM8827078_P21_2	Conduction-program candidate	Sarcomere_mechanics	35	1.3875599
+P21	GSM8827078_P21_2	Conduction-program candidate	HIF_response	35	0.15107168
+P21	GSM8827078_P21_2	Conduction-program candidate	IEG_preparation	35	0.049988696
+P21	GSM8827078_P21_2	Conduction-program candidate	Cell_cycle_full	35	0
+P21	GSM8827078_P21_2	Other working CM	Oxidative_metabolism	2497	0.53748009
+P21	GSM8827078_P21_2	Other working CM	Fatty_acid_oxidation	2497	0.60455786
+P21	GSM8827078_P21_2	Other working CM	Sarcomere_mechanics	2497	1.290272
+P21	GSM8827078_P21_2	Other working CM	HIF_response	2497	0.12972041
+P21	GSM8827078_P21_2	Other working CM	IEG_preparation	2497	0.040662955
+P21	GSM8827078_P21_2	Other working CM	Cell_cycle_full	2497	0.00063600216
+P21	GSM8827078_P21_2	Regional electrical candidate	Oxidative_metabolism	1493	0.54268432
+P21	GSM8827078_P21_2	Regional electrical candidate	Fatty_acid_oxidation	1493	0.61212062
+P21	GSM8827078_P21_2	Regional electrical candidate	Sarcomere_mechanics	1493	1.290322
+P21	GSM8827078_P21_2	Regional electrical candidate	HIF_response	1493	0.1355294
+P21	GSM8827078_P21_2	Regional electrical candidate	IEG_preparation	1493	0.047713629
+P21	GSM8827078_P21_2	Regional electrical candidate	Cell_cycle_full	1493	0.00040067954

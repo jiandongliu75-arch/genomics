@@ -1,0 +1,11 @@
+{
+  "title": "Alternative fibroblast assignments reveal a broader Gfpt2-associated program",
+  "figures": [
+    "Figure_1_reference_recovery_and_sensitivity",
+    "Figure_2_P21_identity_and_program_maps",
+    "Figure_3_stage_maps_and_boundary_stability",
+    "Figure_4_heldout_genes_and_published_programs"
+  ],
+  "source_text": "Report_text.md",
+  "new_fate_or_Xenium_ground_truth_established": false
+}

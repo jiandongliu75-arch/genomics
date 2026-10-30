@@ -1,0 +1,52 @@
+{
+  "status": "validated descriptive comparisons; no inferential significance tests",
+  "validation": "46,485 CM accounted for; 32,285 genes per contrast; expression differences within float32 rounding tolerance; fractions within floating-point tolerance of [0,1]; two eligible libraries per unstratified comparison",
+  "script_sha256": "1ddfe9cb07317561aa6c33aeac46359d72306ddf224f592548abd8a27c9ff0b5",
+  "files": [
+    {
+      "name": "P0_CAR_1_vs_CAR_2_all_genes.tsv.gz",
+      "bytes": 1905323,
+      "sha256": "f0057152a8c2b33b7b41d1341d5da04ed44e4fa034659431022c7105ef5c9163"
+    },
+    {
+      "name": "P7_CAR_5_vs_CAR_6_all_genes.tsv.gz",
+      "bytes": 1763276,
+      "sha256": "18011825ab7269cbfc48126d6429091d2e29ba281300fa81203d05c24e343393"
+    },
+    {
+      "name": "README.md",
+      "bytes": 6120,
+      "sha256": "f90fc0c6f0acf05e0d9cd8d918cf8a8a813c211d3a9c72e053e313f81adce4c6"
+    },
+    {
+      "name": "cluster_age_library_counts.tsv",
+      "bytes": 1456,
+      "sha256": "83c77413ec69e1cffe5849894aa5a494d263779e2e75602fdbbc4b41726bc0a8"
+    },
+    {
+      "name": "cluster_cycling_and_qc.tsv",
+      "bytes": 1517,
+      "sha256": "df418352d45db234af749871b987cad4034945a6eae5f787033ae42a7943516f"
+    },
+    {
+      "name": "methods.json",
+      "bytes": 1250,
+      "sha256": "8f668271b5ea3ed5323e31bcb1c37ff23686f68a767de6580a8ed44a2388bba4"
+    },
+    {
+      "name": "selected_marker_profiles.tsv",
+      "bytes": 30795,
+      "sha256": "e77f780c0c1b96d5b4eac4a0d0b488f910cc3f14f0b48ab033f0b18a87a90c7b"
+    },
+    {
+      "name": "sex_marker_groups_by_cluster_library.tsv",
+      "bytes": 5882,
+      "sha256": "ad85a9066f5cf2bc8ae447e96ab3f1123eb12b315081e3b8090fc9621ee34e94"
+    },
+    {
+      "name": "top_descriptive_markers.tsv",
+      "bytes": 52135,
+      "sha256": "2602929b14485a23864d50726e800a6c36a8b5b10f9c7a51335826e05adfbf0f"
+    }
+  ]
+}

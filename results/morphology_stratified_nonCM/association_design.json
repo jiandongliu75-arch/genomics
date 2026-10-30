@@ -1,0 +1,22 @@
+{
+  "anatomy_sha256": "f7ba6f8d2c1a286d38c4808fd56085c9364bf028b681fd75a5c8eab5bab64a84",
+  "primary_tests": 48,
+  "primary": "Within annotated compact/cavity-facing patches; tissue-screened weighted graph nearness; overall21 score; core RNA; all ages and supported sources corrected together",
+  "comparators": "Centroid nearness and tissue-screened50um neighbor fractions; fixed stage scales; nativeRNA; source density/capture; CM subtypes and separate regions",
+  "broad_only_nonCM": [
+    "Immune",
+    "Pericyte",
+    "Smooth muscle",
+    "Epicardial"
+  ],
+  "fine_immune_taxonomy_available": false,
+  "fibroblast_programs": "Previously measured rank-matched programs, not imputed RNA or fate labels",
+  "spatial_uncertainty": "400um cluster CR1 t intervals; conditioning within ROI x CM subtype x200um grid",
+  "anatomical_labels_are_candidates": true,
+  "LV_RV_verified": false,
+  "papillary_verified": false,
+  "large_vessels_verified": false,
+  "new_segmentation": false,
+  "new_biological_replicates": 0,
+  "causality": false
+}

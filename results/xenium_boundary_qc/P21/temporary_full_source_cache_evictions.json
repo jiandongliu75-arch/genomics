@@ -1,0 +1,12 @@
+[
+  {
+    "file": "transcripts.parquet",
+    "bytes": 1918601190,
+    "reason": "CRC/source counts and derived ROI assignments validated; temporary full member cache evicted to conserve workspace storage"
+  },
+  {
+    "file": "morphology_focus_0001.ome.tif",
+    "bytes": 640027803,
+    "reason": "CRC/source counts and derived ROI assignments validated; temporary full member cache evicted to conserve workspace storage"
+  }
+]

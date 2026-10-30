@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "configuration_sha256": "2ef6f00dda51ff98d55db8af4fc4e4664b2d0705bb917b92aa989553d2884b0a",
+  "numerical_validation_status": "PASS",
+  "PDF_pages": 8,
+  "figures": 10,
+  "documentation_links_checked": 40,
+  "source_and_artifact_hashes_recorded": true,
+  "GitHub_file_size_limits_passed": true,
+  "new_observed_samples_or_spatial_replicates_generated": false,
+  "exact_author_input_recovery_claimed": false
+}

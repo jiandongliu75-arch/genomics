@@ -1,0 +1,5 @@
+stage	profiles	Figure4d_count_exact	score_rows_independently_recomputed	CM_surface_samples_brute_force_checked	independent_graph_BFS_checks	original_ids_coordinates_preserved	status
+P0	47611	6298	32	128	4	True	PASS
+P7	99429	11086	32	128	4	True	PASS
+P14	117070	22532	32	128	4	True	PASS
+P21	143944	24588	32	128	4	True	PASS

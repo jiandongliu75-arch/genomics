@@ -1,0 +1,8 @@
+[
+  {
+    "step": "validate",
+    "script": "validate_cardiac_spatial_pipeline.py",
+    "seconds": 25.43293285369873,
+    "status": "completed"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "number": "1",
+    "source_stem": "results/cardiac_biological_synthesis/figures/Figure_1_CM_identity_and_maturation",
+    "title": "CMs of the same subtype show different maturation-associated RNA patterns",
+    "legend": "a,b, Ventricular CM subtypes at P0 and P7. c,d, Relative maturation scores in the same sections, measured using the 21-gene panel. e,f, Scores within each subtype. Cells with the same subtype label can differ in maturation-associated gene expression. A higher score does not directly measure stronger contraction or greater energy production. The labels, scores and positions are unchanged from the earlier analysis. Scale bars, 500 \u00b5m.",
+    "new_plot": false
+  },
+  {
+    "number": "2",
+    "source_stem": "results/heart_atlas_clear_language_revision/figures/Figure_2_fibroblast_matrix_patterns",
+    "title": "Fibroblasts develop different matrix-associated features",
+    "legend": "a, Matrix-associated gene expression across ages and fibroblast groups, averaged across the two RNA libraries and shown relative to the other groups. b, Marker expression in named P21 subgroups; larger dots indicate detection in more nuclei, and color shows relative expression. c, Col8a1 fibroblasts were more often near arterial structures and smooth-muscle cells than matched Gfpt2 fibroblasts in the earlier P14 comparison. This panel retains the earlier conservative labels. d, Selected early and later RNA groups resemble one another even when interpreted markers are withheld. Dashed arrows identify comparisons to follow; they do not show one group becoming another.",
+    "new_plot": true
+  },
+  {
+    "number": "3",
+    "source_stem": "results/fibroblast_multimethod_identity/figures/Figure_3_stage_maps_and_boundary_stability",
+    "title": "Alternative methods recover broader fibroblast candidate maps",
+    "legend": "a\u2013d, Candidate fibroblast subtypes at P0, P7, P14 and P21. e, The fraction of eligible fibroblasts receiving a candidate identity. More labels give a broader map, but do not by themselves establish greater accuracy or tissue-wide abundance. f, Agreement between whole-cell and inner-cell assignments at P21. Randomly reducing whole-cell RNA to a similar depth helps test whether disagreement reflects fewer transcripts or their position within the cell. Supported alternative nuclear identities remain flagged for review. Gray shows profiles without a confident candidate. Scale bars, 500 \u00b5m.",
+    "new_plot": false
+  },
+  {
+    "number": "4",
+    "source_stem": "results/fibroblast_multimethod_identity/figures/Figure_2_P21_identity_and_program_maps",
+    "title": "A Gfpt2-associated pattern extends beyond the narrow subtype",
+    "legend": "a, The paper\u2019s fibroblast labels among eligible P21 profiles. b, Candidate identities from agreement between classifiers. c, A smaller subset also supported by inner-cell RNA and by tests that hide the naming genes. d, Expression of the measured Gfpt2/Pi16/Adgrd1 pattern relative to control genes. e,f, Cells expressing Gfpt2-associated, Col8a1-associated or overlapping patterns, across all eligible fibroblasts and within the paper\u2019s Gfpt2 group. A shared gene pattern can cross subtype boundaries. Kirrel3 candidates are not assumed to occupy valves. Gray profiles and review flags retain uncertainty. Scale bars, 500 \u00b5m.",
+    "new_plot": false
+  },
+  {
+    "number": "5",
+    "source_stem": "results/cardiac_biological_synthesis/figures/Figure_4_vascular_growth_and_CM_specialization",
+    "title": "Vascular growth and CM maturation have different relationships over time",
+    "legend": "a, Coronary growth described by Lu et al. (2021); blood flow was not newly measured here. b, At P7, cycling CMs near Postn-associated fibroblasts showed lower energy-metabolism gene expression, but the relationship weakened with alternative fibroblast and neighborhood definitions. c, At P14, Ankrd1-associated CMs near endocardial-like cells showed higher sarcomere-gene expression. Intervals describe uncertainty within a section. d, Comparable CMs alongside capillary cells showed lower cell-cycle gene expression at P7 and higher energy-metabolism gene expression at P14/P21. This analysis uses a broader CM cohort. e, Growing vessels, being near a vessel and receiving a functioning blood supply are different observations. These earlier estimates have not been refitted with the newest fibroblast labels.",
+    "new_plot": false
+  },
+  {
+    "number": "6",
+    "source_stem": "results/cardiac_biological_synthesis/figures/Figure_5_CM_identity_conditioned_transport",
+    "title": "Some cellular environments resemble one another across ages",
+    "legend": "a, Neighborhoods are compared around the same CM subtype and at a similar distance from the chamber lining. b, Fibroblast and endothelial composition in 96 observed neighborhoods, using the earlier strict assignments. c,d, Agreement between Wormhole and exact calculations of neighborhood similarity. e, Similarity of environments around the same or different CM subtypes within an age. f, Maturation ranks are compared after matching; they were not used to select the matches. Some matched environments contain CMs with similar relative maturation, but this varies by age and region. No individual cells were followed. The newest fibroblast labels have not been incorporated into these comparisons.",
+    "new_plot": false
+  },
+  {
+    "number": "7",
+    "source_stem": "results/cardiac_biological_synthesis/figures/Figure_6_regional_developmental_model",
+    "title": "Experiments can separate blood supply, matrix and contact effects",
+    "legend": "a, A proposed sequence linking early tissue growth with later muscle specialization. Arrows indicate developmental periods, not observed cell conversion. b, Blood delivery, matrix organization and endothelial contact may each contribute to CM development. c, Intermediate-stage hearts and controlled experiments can test whether these contributions occur in a particular order or act together. Measurements should include blood flow, CM energy use, calcium handling and contraction. Lineage tracing addresses cell ancestry. These are experimental predictions, not demonstrated causal relationships.",
+    "new_plot": false
+  },
+  {
+    "number": "S1",
+    "source_stem": "results/fibroblast_multimethod_identity/figures/Figure_1_reference_recovery_and_sensitivity",
+    "title": "The reference tests show why more labels need not mean better assignments",
+    "legend": "a, P21 Gfpt2 reference tests: recall measures how many Gfpt2 nuclei are recovered, while precision measures how many predicted Gfpt2 nuclei carry that reviewed label. Each point represents one held-out library. b, Recovery of the reviewed families by each method. c, Changes when naming genes are hidden or late-age references are pooled. d, Changes when less RNA information is available. A method can recover more Gfpt2 nuclei while also mislabeling other families. These tests assess the RNA definitions, not independently verified Xenium identities.",
+    "new_plot": false
+  },
+  {
+    "number": "S2",
+    "source_stem": "results/fibroblast_multimethod_identity/figures/Figure_4_heldout_genes_and_published_programs",
+    "title": "Hidden genes help check assignments, while marker patterns can overlap",
+    "legend": "a, Expression of P21 naming genes after cells were grouped without allowing classifiers to use those genes. Printed values give detection percentages. b, Gfpt2- and Col8a1-associated patterns can overlap among cells carrying the paper\u2019s Gfpt2 label. c, The number of published markers measured in the shared panel. Too few valve markers are measured to score a multi-gene pattern. d, A proposed subtype, a shared gene pattern and a cell\u2019s developmental fate answer different questions.",
+    "new_plot": false
+  }
+]

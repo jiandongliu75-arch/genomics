@@ -1,0 +1,5 @@
+stage	original_segments	published_atlas_segments	not_in_published_atlas	author_CM_segments	author_ventricular_segments	previous_ventricular_candidates	shared_previous_and_author_ventricular	author_ventricular_with_previous_CM_EC_review
+P0	47611	46747	864	29096	25596	21994	18601	1163
+P7	99429	98188	1241	45671	38775	38580	27747	7904
+P14	117070	114524	2546	49732	42878	49656	30985	10906
+P21	143944	143709	235	69776	53807	58358	38642	13960

@@ -1,0 +1,7 @@
+{
+  "source": "/workspace/heart-atlas/results/cell_identities_subtypes/snrna_qc_annotated_subclustered.h5ad",
+  "source_sha256": "3d0010d55bb05d1a5730830dba3b7918c54aa66b6d473e7fa3a0356a4d69fb28",
+  "normalization": "log1p(10000 * corrected/original gene counts / whole-transcriptome total), independently for each count layer",
+  "interpretation": "Measured snRNA-reference values; assigning these to Xenium coordinates produces reference-derived predictions only, never measurements",
+  "Kcnd2_Irx5": "Neither gene is assayed by these Xenium panels; their predictions have no direct held-out validation"
+}

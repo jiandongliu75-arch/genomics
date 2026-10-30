@@ -1,0 +1,145 @@
+stage	level	heldout_library	condition	truth	predicted	nuclei
+P7	family	GSM8827073_P7_1	full_shared_panel	Ankrd1-associated	Ankrd1-associated	1969
+P7	family	GSM8827073_P7_1	full_shared_panel	Ankrd1-associated	Conduction-program candidate	0
+P7	family	GSM8827073_P7_1	full_shared_panel	Ankrd1-associated	Cycling-associated	1
+P7	family	GSM8827073_P7_1	full_shared_panel	Ankrd1-associated	DNA-maintenance-associated	167
+P7	family	GSM8827073_P7_1	full_shared_panel	Ankrd1-associated	Other working CM	148
+P7	family	GSM8827073_P7_1	full_shared_panel	Ankrd1-associated	Regional electrical candidate	395
+P7	family	GSM8827073_P7_1	full_shared_panel	Conduction-program candidate	Ankrd1-associated	5
+P7	family	GSM8827073_P7_1	full_shared_panel	Conduction-program candidate	Conduction-program candidate	69
+P7	family	GSM8827073_P7_1	full_shared_panel	Conduction-program candidate	Cycling-associated	8
+P7	family	GSM8827073_P7_1	full_shared_panel	Conduction-program candidate	DNA-maintenance-associated	7
+P7	family	GSM8827073_P7_1	full_shared_panel	Conduction-program candidate	Other working CM	0
+P7	family	GSM8827073_P7_1	full_shared_panel	Conduction-program candidate	Regional electrical candidate	11
+P7	family	GSM8827073_P7_1	full_shared_panel	Cycling-associated	Ankrd1-associated	12
+P7	family	GSM8827073_P7_1	full_shared_panel	Cycling-associated	Conduction-program candidate	0
+P7	family	GSM8827073_P7_1	full_shared_panel	Cycling-associated	Cycling-associated	269
+P7	family	GSM8827073_P7_1	full_shared_panel	Cycling-associated	DNA-maintenance-associated	17
+P7	family	GSM8827073_P7_1	full_shared_panel	Cycling-associated	Other working CM	2
+P7	family	GSM8827073_P7_1	full_shared_panel	Cycling-associated	Regional electrical candidate	15
+P7	family	GSM8827073_P7_1	full_shared_panel	DNA-maintenance-associated	Ankrd1-associated	102
+P7	family	GSM8827073_P7_1	full_shared_panel	DNA-maintenance-associated	Conduction-program candidate	0
+P7	family	GSM8827073_P7_1	full_shared_panel	DNA-maintenance-associated	Cycling-associated	9
+P7	family	GSM8827073_P7_1	full_shared_panel	DNA-maintenance-associated	DNA-maintenance-associated	295
+P7	family	GSM8827073_P7_1	full_shared_panel	DNA-maintenance-associated	Other working CM	38
+P7	family	GSM8827073_P7_1	full_shared_panel	DNA-maintenance-associated	Regional electrical candidate	43
+P7	family	GSM8827073_P7_1	full_shared_panel	Other working CM	Ankrd1-associated	1327
+P7	family	GSM8827073_P7_1	full_shared_panel	Other working CM	Conduction-program candidate	0
+P7	family	GSM8827073_P7_1	full_shared_panel	Other working CM	Cycling-associated	2
+P7	family	GSM8827073_P7_1	full_shared_panel	Other working CM	DNA-maintenance-associated	246
+P7	family	GSM8827073_P7_1	full_shared_panel	Other working CM	Other working CM	927
+P7	family	GSM8827073_P7_1	full_shared_panel	Other working CM	Regional electrical candidate	973
+P7	family	GSM8827073_P7_1	full_shared_panel	Regional electrical candidate	Ankrd1-associated	226
+P7	family	GSM8827073_P7_1	full_shared_panel	Regional electrical candidate	Conduction-program candidate	0
+P7	family	GSM8827073_P7_1	full_shared_panel	Regional electrical candidate	Cycling-associated	2
+P7	family	GSM8827073_P7_1	full_shared_panel	Regional electrical candidate	DNA-maintenance-associated	70
+P7	family	GSM8827073_P7_1	full_shared_panel	Regional electrical candidate	Other working CM	101
+P7	family	GSM8827073_P7_1	full_shared_panel	Regional electrical candidate	Regional electrical candidate	656
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Ankrd1-associated	Ankrd1-associated	1797
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Ankrd1-associated	Conduction-program candidate	0
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Ankrd1-associated	Cycling-associated	3
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Ankrd1-associated	DNA-maintenance-associated	120
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Ankrd1-associated	Other working CM	15
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Ankrd1-associated	Regional electrical candidate	745
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Conduction-program candidate	Ankrd1-associated	1
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Conduction-program candidate	Conduction-program candidate	76
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Conduction-program candidate	Cycling-associated	2
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Conduction-program candidate	DNA-maintenance-associated	0
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Conduction-program candidate	Other working CM	0
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Conduction-program candidate	Regional electrical candidate	21
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Cycling-associated	Ankrd1-associated	8
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Cycling-associated	Conduction-program candidate	0
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Cycling-associated	Cycling-associated	266
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Cycling-associated	DNA-maintenance-associated	26
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Cycling-associated	Other working CM	3
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Cycling-associated	Regional electrical candidate	12
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	DNA-maintenance-associated	Ankrd1-associated	145
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	DNA-maintenance-associated	Conduction-program candidate	0
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	DNA-maintenance-associated	Cycling-associated	2
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	DNA-maintenance-associated	DNA-maintenance-associated	188
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	DNA-maintenance-associated	Other working CM	2
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	DNA-maintenance-associated	Regional electrical candidate	150
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Other working CM	Ankrd1-associated	1445
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Other working CM	Conduction-program candidate	0
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Other working CM	Cycling-associated	1
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Other working CM	DNA-maintenance-associated	194
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Other working CM	Other working CM	72
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Other working CM	Regional electrical candidate	1763
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Regional electrical candidate	Ankrd1-associated	235
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Regional electrical candidate	Conduction-program candidate	0
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Regional electrical candidate	Cycling-associated	0
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Regional electrical candidate	DNA-maintenance-associated	49
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Regional electrical candidate	Other working CM	2
+P7	family	GSM8827073_P7_1	multinomial_up_to_100_molecules	Regional electrical candidate	Regional electrical candidate	769
+P7	family	GSM8827074_P7_2	full_shared_panel	Ankrd1-associated	Ankrd1-associated	427
+P7	family	GSM8827074_P7_2	full_shared_panel	Ankrd1-associated	Conduction-program candidate	1
+P7	family	GSM8827074_P7_2	full_shared_panel	Ankrd1-associated	Cycling-associated	58
+P7	family	GSM8827074_P7_2	full_shared_panel	Ankrd1-associated	DNA-maintenance-associated	107
+P7	family	GSM8827074_P7_2	full_shared_panel	Ankrd1-associated	Other working CM	341
+P7	family	GSM8827074_P7_2	full_shared_panel	Ankrd1-associated	Regional electrical candidate	62
+P7	family	GSM8827074_P7_2	full_shared_panel	Conduction-program candidate	Ankrd1-associated	9
+P7	family	GSM8827074_P7_2	full_shared_panel	Conduction-program candidate	Conduction-program candidate	41
+P7	family	GSM8827074_P7_2	full_shared_panel	Conduction-program candidate	Cycling-associated	23
+P7	family	GSM8827074_P7_2	full_shared_panel	Conduction-program candidate	DNA-maintenance-associated	3
+P7	family	GSM8827074_P7_2	full_shared_panel	Conduction-program candidate	Other working CM	5
+P7	family	GSM8827074_P7_2	full_shared_panel	Conduction-program candidate	Regional electrical candidate	4
+P7	family	GSM8827074_P7_2	full_shared_panel	Cycling-associated	Ankrd1-associated	40
+P7	family	GSM8827074_P7_2	full_shared_panel	Cycling-associated	Conduction-program candidate	0
+P7	family	GSM8827074_P7_2	full_shared_panel	Cycling-associated	Cycling-associated	330
+P7	family	GSM8827074_P7_2	full_shared_panel	Cycling-associated	DNA-maintenance-associated	66
+P7	family	GSM8827074_P7_2	full_shared_panel	Cycling-associated	Other working CM	18
+P7	family	GSM8827074_P7_2	full_shared_panel	Cycling-associated	Regional electrical candidate	7
+P7	family	GSM8827074_P7_2	full_shared_panel	DNA-maintenance-associated	Ankrd1-associated	55
+P7	family	GSM8827074_P7_2	full_shared_panel	DNA-maintenance-associated	Conduction-program candidate	0
+P7	family	GSM8827074_P7_2	full_shared_panel	DNA-maintenance-associated	Cycling-associated	40
+P7	family	GSM8827074_P7_2	full_shared_panel	DNA-maintenance-associated	DNA-maintenance-associated	235
+P7	family	GSM8827074_P7_2	full_shared_panel	DNA-maintenance-associated	Other working CM	55
+P7	family	GSM8827074_P7_2	full_shared_panel	DNA-maintenance-associated	Regional electrical candidate	16
+P7	family	GSM8827074_P7_2	full_shared_panel	Other working CM	Ankrd1-associated	413
+P7	family	GSM8827074_P7_2	full_shared_panel	Other working CM	Conduction-program candidate	1
+P7	family	GSM8827074_P7_2	full_shared_panel	Other working CM	Cycling-associated	112
+P7	family	GSM8827074_P7_2	full_shared_panel	Other working CM	DNA-maintenance-associated	284
+P7	family	GSM8827074_P7_2	full_shared_panel	Other working CM	Other working CM	1131
+P7	family	GSM8827074_P7_2	full_shared_panel	Other working CM	Regional electrical candidate	234
+P7	family	GSM8827074_P7_2	full_shared_panel	Regional electrical candidate	Ankrd1-associated	101
+P7	family	GSM8827074_P7_2	full_shared_panel	Regional electrical candidate	Conduction-program candidate	3
+P7	family	GSM8827074_P7_2	full_shared_panel	Regional electrical candidate	Cycling-associated	25
+P7	family	GSM8827074_P7_2	full_shared_panel	Regional electrical candidate	DNA-maintenance-associated	66
+P7	family	GSM8827074_P7_2	full_shared_panel	Regional electrical candidate	Other working CM	235
+P7	family	GSM8827074_P7_2	full_shared_panel	Regional electrical candidate	Regional electrical candidate	259
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Ankrd1-associated	Ankrd1-associated	523
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Ankrd1-associated	Conduction-program candidate	0
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Ankrd1-associated	Cycling-associated	0
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Ankrd1-associated	DNA-maintenance-associated	39
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Ankrd1-associated	Other working CM	155
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Ankrd1-associated	Regional electrical candidate	279
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Conduction-program candidate	Ankrd1-associated	5
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Conduction-program candidate	Conduction-program candidate	52
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Conduction-program candidate	Cycling-associated	11
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Conduction-program candidate	DNA-maintenance-associated	1
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Conduction-program candidate	Other working CM	3
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Conduction-program candidate	Regional electrical candidate	13
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Cycling-associated	Ankrd1-associated	16
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Cycling-associated	Conduction-program candidate	0
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Cycling-associated	Cycling-associated	363
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Cycling-associated	DNA-maintenance-associated	63
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Cycling-associated	Other working CM	6
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Cycling-associated	Regional electrical candidate	13
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	DNA-maintenance-associated	Ankrd1-associated	63
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	DNA-maintenance-associated	Conduction-program candidate	0
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	DNA-maintenance-associated	Cycling-associated	4
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	DNA-maintenance-associated	DNA-maintenance-associated	155
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	DNA-maintenance-associated	Other working CM	33
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	DNA-maintenance-associated	Regional electrical candidate	146
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Other working CM	Ankrd1-associated	388
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Other working CM	Conduction-program candidate	3
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Other working CM	Cycling-associated	0
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Other working CM	DNA-maintenance-associated	95
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Other working CM	Other working CM	530
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Other working CM	Regional electrical candidate	1159
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Regional electrical candidate	Ankrd1-associated	54
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Regional electrical candidate	Conduction-program candidate	0
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Regional electrical candidate	Cycling-associated	0
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Regional electrical candidate	DNA-maintenance-associated	16
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Regional electrical candidate	Other working CM	79
+P7	family	GSM8827074_P7_2	multinomial_up_to_100_molecules	Regional electrical candidate	Regional electrical candidate	540

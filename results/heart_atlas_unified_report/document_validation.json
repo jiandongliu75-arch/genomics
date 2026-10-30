@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "report_pages": 33,
+  "main_figures": 9,
+  "supporting_figures": 4,
+  "figure_pages": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    28,
+    29,
+    30,
+    31
+  ],
+  "current_figure_hashes_embedded": true,
+  "minimum_standalone_raster_DPI": 299.99922082981624,
+  "obsolete_analysis_status_removed": true,
+  "consolidated_evidence_tables_included": true,
+  "bounds_and_page_content_checked": true
+}

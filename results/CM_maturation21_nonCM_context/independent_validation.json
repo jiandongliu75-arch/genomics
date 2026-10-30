@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "independent_neighbor_fraction_checks": 2048,
+  "independently_reconstructed_regression_coefficients": 16,
+  "QC_capillary_pairs_checked": 2445,
+  "QC_matching_uses_scores": false,
+  "QC_pairs_same_CM_state_and_local_region": true
+}

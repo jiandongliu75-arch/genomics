@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "purpose": "Panel and existing fibroblast signal audit; not a completed new subtype or spatial analysis",
+  "snRNA_fibroblasts": 14985,
+  "libraries": 8,
+  "maturation_Figure4b_genes": 21,
+  "all_21_maturation_genes_measured": true,
+  "raw_and_corrected_per_nucleus_denominators_verified": true,
+  "source_workbook_sha256": "56de5f65f5d2a8b45f1b815c49278587415bc0f49967804dd8147b02a97272a2",
+  "source_Figure4b": "User-supplied NCVR_ms_main_021626.docx, word/media/image6.tiff; manually transcribed visible gene names",
+  "published_method": "PMC13561863 Methods: AddModuleScore, 21 genes, 100 matched control genes per module gene",
+  "spatial_gene_targets": 403,
+  "non_gene_features": {
+    "Unassigned Codeword": 77,
+    "Negative Control Codeword": 41,
+    "Negative Control Probe": 20
+  },
+  "limits": [
+    "No newly fitted maturation index",
+    "No new cell states or trajectories",
+    "Historical proposal labels are not independent validation",
+    "Two libraries per age; do not assume nuclei are independent animals",
+    "Panel scores and ECM RNA do not measure deposited protein, stiffness, pathway causality or lineage ancestry"
+  ]
+}

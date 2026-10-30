@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "report_pages": 33,
+  "main_figures": 9,
+  "supporting_figures": 4,
+  "consolidated_source_tables": 38,
+  "relative_links_checked": 23,
+  "latest_FB_refit_incorporated": true,
+  "earlier_results_versions_explicit": true,
+  "obsolete_unfitted_status_removed": true,
+  "new_models_fitted_for_this_document": false,
+  "new_biological_replicates": 0
+}

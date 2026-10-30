@@ -1,0 +1,80 @@
+[
+  {
+    "number": "1",
+    "source_stem": "results/heart_atlas_unified_report/figures/Figure_1_cardiac_lineages_and_endothelial_subtypes",
+    "title": "Cardiac identities and endothelial subtypes define different tissue settings",
+    "legend": "a\u2013d, Broad cardiac identities at P0, P7, P14 and P21 on the original coordinates. Dense populations may be subsampled for display; calculations retain the full cohorts. e\u2013h, Supported capillary-, endocardial-, arterial-, venous- and lymphatic-like endothelial sources. Unassigned eligible ECs and background tissue remain gray. Sparse calls do not establish absence of a vessel type. These maps retain the reviewed broad/EC definitions and do not newly classify cells. Scale bars, 500 \u00b5m."
+  },
+  {
+    "number": "2",
+    "source_stem": "results/cardiac_biological_synthesis/figures/Figure_1_CM_identity_and_maturation",
+    "title": "CMs of the same subtype can differ in developmental state",
+    "legend": "a,b, Ventricular-associated CM identities at P0 and P7. c,d, Relative position in each section\u2019s measured 21-gene score distribution. e,f, Scores within the named CM groups. Higher scores indicate stronger expression of the measured panel, rather than a direct measurement of contraction or energy use. Subtype and developmental state are complementary descriptions. The underlying labels, scores and coordinates are unchanged. Scale bars, 500 \u00b5m."
+  },
+  {
+    "number": "3",
+    "source_stem": "results/heart_atlas_unified_report/figures/Figure_3_RNA_matrix_and_updated_spatial_context",
+    "title": "Fibroblast RNA states differ in matrix-related features",
+    "legend": "a, Full-RNA matrix programs across age and family, averaged over the two libraries and shown relative to the displayed groups. b, P21 marker patterns in named Col8a1/Svep1, Col8a1/Hmcn2, Lsamp/Slit3 and Lsamp/Col4a5 groups; dot size gives detection and color gives relative expression. c, Latest broader-candidate P14 Col8a1/Gfpt2 technical-matched comparison, replacing the earlier stringent estimate. Arterial proximity and smooth-muscle-neighbor share are separate measures. d, Selected early/late RNA similarities with interpreted markers withheld. Dashed arrows nominate comparisons for tracing, not observed cell conversion."
+  },
+  {
+    "number": "4",
+    "source_stem": "results/cardiac_fibroblast_CM_refit/figures/Figure_1_fibroblast_states_and_shared_programs",
+    "title": "Fibroblast identities and shared patterns give complementary maps",
+    "legend": "a\u2013d, Broader candidate fibroblast identities on the original P0\u2013P21 sections. Gray retains unassigned fibroblasts and tissue context; background cells may be subsampled for display only. e, Candidate counts, with unavailable same-age reference classes marked N/A. This does not mean the corresponding genes are absent. Counts measure assignment coverage, not accuracy or tissue abundance. f, Measured patterns can be scored independently of family availability. Values summarize each section relative to matched control genes; they do not measure matrix protein or function. Scale bars, 500 \u00b5m."
+  },
+  {
+    "number": "5",
+    "source_stem": "results/fibroblast_multimethod_identity/figures/Figure_2_P21_identity_and_program_maps",
+    "title": "A Gfpt2-associated pattern extends beyond the narrow candidate subtype",
+    "legend": "a, The paper\u2019s fibroblast labels within the eligible P21 cohort. b, Candidate identities from agreement between classifiers. c, A smaller subset supported in the cell core and after naming genes are hidden. d, The measured Gfpt2/Pi16/Adgrd1 pattern relative to matched controls. e,f, Gfpt2- and Col8a1-associated patterns can overlap across all eligible fibroblasts and within the public Gfpt2 group. Shared expression does not establish one exclusive subtype or lineage transition. Kirrel3 candidates are not assigned valve anatomy. Scale bars, 500 \u00b5m."
+  },
+  {
+    "number": "6",
+    "source_stem": "results/heart_atlas_unified_report/figures/Figure_6_coronary_growth_and_CM_components",
+    "title": "Vascular growth and proximity relate to different parts of CM development",
+    "legend": "a, The regional coronary sequence described by Lu et al. (2021); perfusion was not newly measured here. b, Earlier nuclear-QC EC/CM cell-cycle associations within 50 \u00b5m are positive at P0/P7. c, Earlier locally matched capillary-adjacency comparisons show lower CM cycling-associated RNA at P7 and higher metabolic-regulatory RNA at P14/P21. These estimates use their original cohorts and uncertainty definitions and were not rerun with the fibroblast refit. Intervals are within-section spatial-block intervals, not independent-heart replication. Vessel proximity does not establish oxygen delivery or a contact mechanism."
+  },
+  {
+    "number": "7",
+    "source_stem": "results/cardiac_fibroblast_CM_refit/figures/Figure_4_early_fibroblast_CM_relationships",
+    "title": "Early fibroblast environments suggest hypotheses without establishing metabolic instruction",
+    "legend": "a, The P7 Postn-identity/metabolic relationship in cycling-associated CMs weakens with broader and crosschecked assignments. b,c, Postn- and Gfpt2-associated patterns in whole-cell, inner-cell, deposited and depth-matched fibroblast RNA, with an additional CM-gene-excluded scoring check. Negative and positive estimates suggest contrasting environments but do not establish opposing functions. d, The 50-/30-\u00b5m comparison uses the same 2,753 cycling-associated CMs. Smaller neighborhoods do not provide clear corresponding support. Points and intervals describe within-section estimates and 95% spatial-block intervals; they are not independent-heart replication."
+  },
+  {
+    "number": "8",
+    "source_stem": "results/cardiac_fibroblast_CM_refit/figures/Figure_5_structural_relationships_and_boundaries",
+    "title": "Structural RNA relationships depend on CM identity and transcript ownership",
+    "legend": "a, At P14, endocardial-like surroundings relate to higher sarcomere expression in Ankrd1 CMs, with a smaller relationship in working CMs. Removing Myl2 retains the direction; the overall score shows no corresponding increase. b, The relationship remains after adjustment for fibroblast programs but weakens in deposited CM RNA. The paired 50-/30-\u00b5m comparison uses the same 4,528 Ankrd1 CMs. c, A P0 elastic-matrix/sarcomere candidate retains its direction across fibroblast RNA views and CM-gene-excluded scoring, but does not pass the primary correction. d, The P21 basement-matrix estimate weakens with inner-cell fibroblast RNA. Intervals describe uncertainty within sections, conditional on the chosen count views."
+  },
+  {
+    "number": "9",
+    "source_stem": "results/cardiac_fibroblast_CM_refit/figures/Figure_6_spatial_context_and_cross_age_comparisons",
+    "title": "Fibroblast position and changing surroundings guide specific developmental questions",
+    "legend": "a, P14 Col8a1/Gfpt2 arterial proximity after the same technical matching design, using earlier stringent, broader and crosschecked identities. The contrast becomes smaller with broader assignments. Matching permits reused controls. b, Arterial proximity among candidate families; N/A marks unavailable families. Kirrel3 candidates are not assigned valve anatomy. c, Updated fibroblast patterns on frozen exact P7-to-P14 neighborhood matches, grouped by CM identity and endocardial distance. Only matching mass with informative fibroblasts at both ends contributes; supported mass is supplied. d, Eligible fibroblasts among the sampled sources: the median is two, and 15 of 96 neighborhoods have none. These comparisons do not trace cell transitions."
+  },
+  {
+    "number": "S1",
+    "source_stem": "results/cardiac_fibroblast_CM_refit/figures/Figure_2_measured_fibroblast_program_maps",
+    "title": "Early and late fibroblast patterns overlap without requiring a subtype label",
+    "legend": "a\u2013d, Postn/Ptn/Tnc/Col24a1 pattern. e\u2013h, Gfpt2/Pi16/Adgrd1 pattern. i\u2013l, Col8a1/Cmklr1/Col6a3/Htra3 pattern. Each row uses a common color scale across ages, showing eligible fibroblasts regardless of their candidate subtype. Negative scores mean expression ranks below matched controls, not negative RNA or biological absence. One pattern can occur across several subtype labels. Background tissue is shown in gray. Scale bars, 500 \u00b5m."
+  },
+  {
+    "number": "S2",
+    "source_stem": "results/cardiac_fibroblast_CM_refit/figures/Figure_3_local_program_relationships",
+    "title": "Local matrix relationships differ by CM state and outcome",
+    "legend": "a\u2013c, Within-region associations between neighboring fibroblast patterns and CM energy-metabolism, sarcomere or cell-cycle expression. Working, Ankrd1 and cycling-associated CMs are displayed; all eligible CM states enter the source tables and correction. Red and blue indicate positive and negative estimates. Dots mark intervals excluding zero before multiple-testing correction; none of these fibroblast-program associations passes the global primary correction. Gray indicates an unavailable or insufficiently supported comparison. The models account for vascular surroundings and capture. Each age has one section."
+  },
+  {
+    "number": "S3",
+    "source_stem": "results/heart_atlas_unified_report/figures/Figure_S3_transport_calibration_and_sampling",
+    "title": "Cross-age neighborhood matches have useful but limited resolution",
+    "legend": "a, Agreement between frozen Wormhole and exact distance rankings in each CM/anatomical comparison. b, Agreement on the nearest match is a separate, less stable quantity. c, P7-to-P14 relative CM maturation-rank gaps for exact matches, Wormhole matches and all possible pairs; maturation was not used to choose matches. Selected regions show closer ranks, but this is not universal or a developmental clock. d, Eligible FB counts in the 96 sampled neighborhoods show why fine fibroblast dynamics remain uncertain. The updated descriptions do not retrain the encoder or establish ancestry."
+  },
+  {
+    "number": "S4",
+    "source_stem": "results/cardiac_developmental_story/figures/Figure_2_regional_cardiomyocyte_programs",
+    "title": "Measured CM regional patterns give anatomical comparisons to follow",
+    "legend": "a,b, Native Slit2 expression at P7/P14, with reference endocardial cells shown in red. c,d, Native Ankrd1 expression at P7/P14, with operational arterial structures outlined. e, Released Slit2-CM and working-CM labels differ in distance to endocardial ECs; this is not independent anatomical validation. f, Earlier locally matched near-artery/control Ankrd1 RNA ratios at all four ages. These are partial spatial associations, not proof of vascular lineage or mechanical function. Kcnd2/Irx5 were not measured by the deposited Xenium panel. Coordinates and earlier estimates are retained."
+  }
+]

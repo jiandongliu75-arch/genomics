@@ -1,0 +1,28 @@
+{
+  "selected": "Functional discrimination of oxygen support versus EC contact across CM developmental states",
+  "factors": [
+    "Oxygen availability: two measured, noninjurious conditions chosen by pilot",
+    "EC contact: direct coculture versus physically separated ECs with matched medium/EC number",
+    "CM initial developmental state: early versus later, baseline characterized"
+  ],
+  "primary_functional_endpoints": [
+    "Mitochondrial respiration/substrate use",
+    "Calcium transient kinetics and contractile performance"
+  ],
+  "secondary_endpoints": [
+    "Sarcomere organization",
+    "CM cycling/withdrawal and ploidy",
+    "RNA programs corresponding to the spatial readouts"
+  ],
+  "essential_controls": [
+    "Donor-paired allocation; independent biological donors as inference units",
+    "Fixed matrix, EC density and culture duration",
+    "Measured oxygen; matched survival and baseline CM state",
+    "ROS/DNA-damage assessment to separate injury-associated arrest from maturation",
+    "CM-only and noncontact EC controls"
+  ],
+  "pilot": "At least four independent donor preparations per initial CM state, with treatments paired within donor; use between-donor variance to power the confirmatory study. Wells are technical repeats.",
+  "interpretation": "Culture oxygen manipulates delivery conditions, not in vivo capillary perfusion; verify the in vivo correlate separately with perfused-vessel labeling/hypoxia imaging",
+  "molecular_followup": "EC-specific Ptprm loss/rescue only after a contact benefit is demonstrated at matched oxygen; reciprocal CM perturbation and downstream rescue distinguish mechanism",
+  "new_animal_or_culture_experiments_performed": false
+}

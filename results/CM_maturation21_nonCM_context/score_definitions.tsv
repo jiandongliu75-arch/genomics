@@ -1,0 +1,11 @@
+score	genes	interpretation
+maturation21	Rxrg;Ppargc1a;Ppargc1b;Cebpa;Cebpb;Esrra;Esrrb;Esrrg;Mitf;Myh6;Tnni3;Myl2;Kcnq1;Jph1;Jph2;Bin1;Lpin1;Pln;Ppara;Ppard;Cpt1b	Direct Xenium transcriptional maturation proxy; not physiological maturity
+metabolic	Ppargc1a;Ppargc1b;Esrra;Esrrg;Ppara;Ppard;Cpt1b;Lpin1	Measured component; cycling is separate from the 21-gene panel
+sarcomere	Myh6;Tnni3;Myl2	Measured component; cycling is separate from the 21-gene panel
+excitation_contraction	Pln;Jph1;Jph2;Bin1;Kcnq1	Measured component; cycling is separate from the 21-gene panel
+cycling	Mki67;Top2a;Cenpf	Measured component; cycling is separate from the 21-gene panel
+without_Cebpb_Rxrg_Lpin1	Ppargc1a;Ppargc1b;Cebpa;Esrra;Esrrb;Esrrg;Mitf;Myh6;Tnni3;Myl2;Kcnq1;Jph1;Jph2;Bin1;Pln;Ppara;Ppard;Cpt1b	Fixed-reference omission sensitivity; no reselected controls or refitted weights
+without_Myl2	Rxrg;Ppargc1a;Ppargc1b;Cebpa;Cebpb;Esrra;Esrrb;Esrrg;Mitf;Myh6;Tnni3;Kcnq1;Jph1;Jph2;Bin1;Lpin1;Pln;Ppara;Ppard;Cpt1b	Fixed-reference omission sensitivity; no reselected controls or refitted weights
+without_metabolic8	Rxrg;Cebpa;Cebpb;Esrrb;Mitf;Myh6;Tnni3;Myl2;Kcnq1;Jph1;Jph2;Bin1;Pln	Fixed-reference omission sensitivity; no reselected controls or refitted weights
+without_sarcomere3	Rxrg;Ppargc1a;Ppargc1b;Cebpa;Cebpb;Esrra;Esrrb;Esrrg;Mitf;Kcnq1;Jph1;Jph2;Bin1;Lpin1;Pln;Ppara;Ppard;Cpt1b	Fixed-reference omission sensitivity; no reselected controls or refitted weights
+without_excitation5	Rxrg;Ppargc1a;Ppargc1b;Cebpa;Cebpb;Esrra;Esrrb;Esrrg;Mitf;Myh6;Tnni3;Myl2;Lpin1;Ppara;Ppard;Cpt1b	Fixed-reference omission sensitivity; no reselected controls or refitted weights

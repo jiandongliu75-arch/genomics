@@ -1,0 +1,17 @@
+{
+  "seed": 271026,
+  "observed_neighborhoods": 96,
+  "focal_CM_states": [
+    "v.CM",
+    "Ankrd1.CM"
+  ],
+  "same_CM_state_required_across_stages": true,
+  "no_two_context_cluster_selection": true,
+  "within_stage_maturation": "Held-out rank within stage\u00d7CM state, not distance or coupling input",
+  "known_FB_EC_subtypes": "Source descriptors retained; uncertainty/unknown identity not filled",
+  "source_features": "Original16-PC +6-lineage Wormhole representation; no claim of subtype-label-trained encoder",
+  "anatomical_proxy": "Endocardial\u2264100\u00b5m versus>100\u00b5m,4/8 focal profiles perCMstate/age",
+  "minimum_spacing_um_within_state_stratum": 75,
+  "new_training": false,
+  "uniform_mass_is_fate_or_abundance": false
+}

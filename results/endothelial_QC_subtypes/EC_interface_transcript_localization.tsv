@@ -1,0 +1,17 @@
+stage	region	molecules	EC_profiles	CM_diagnostic_RNA	EC_diagnostic_RNA	CM_diagnostic_fraction	EC_diagnostic_fraction
+P0	Cytoplasmic boundary <=0.85um	5252	101	990	154	0.1884996	0.02932216
+P0	Cytoplasmic interior >0.85um	4689	98	838	151	0.1787161	0.03220303
+P0	Deposited nuclear	10150	100	864	916	0.08512315	0.09024631
+P0	Outside native polygon	866	100	161	25	0.1859122	0.02886836
+P14	Cytoplasmic boundary <=0.85um	4309	72	1360	149	0.3156185	0.03457879
+P14	Cytoplasmic interior >0.85um	5199	69	1699	198	0.3267936	0.03808425
+P14	Deposited nuclear	7184	72	850	699	0.1183185	0.09729955
+P14	Outside native polygon	661	72	208	20	0.3146747	0.03025719
+P21	Cytoplasmic boundary <=0.85um	8355	107	2297	250	0.2749252	0.0299222
+P21	Cytoplasmic interior >0.85um	9889	104	2647	322	0.2676711	0.03256143
+P21	Deposited nuclear	14113	107	1959	1210	0.1388082	0.08573655
+P21	Outside native polygon	1355	106	380	42	0.2804428	0.03099631
+P7	Cytoplasmic boundary <=0.85um	5149	89	990	223	0.1922703	0.04330938
+P7	Cytoplasmic interior >0.85um	5826	82	1267	228	0.2174734	0.03913491
+P7	Deposited nuclear	13735	89	1332	1112	0.09697852	0.08096105
+P7	Outside native polygon	845	87	186	39	0.2201183	0.04615385

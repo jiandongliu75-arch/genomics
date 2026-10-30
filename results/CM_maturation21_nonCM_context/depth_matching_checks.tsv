@@ -1,0 +1,9 @@
+stage	view	strict_CMs	depth50_CMs	score_depth_Spearman	full_depth50_Spearman_same_CMs	fixed_depth_molecules	subsampling_repetitions	subsampling_without_replacement
+P0	native	17272	17265	0.579390488	0.417983606	50	3	True
+P0	core	17272	16367	0.672406515	0.483678132	50	3	True
+P7	native	30485	30479	0.640414999	0.424312578	50	3	True
+P7	core	30485	29051	0.736388207	0.505944692	50	3	True
+P14	native	33659	33640	0.610316841	0.412751218	50	3	True
+P14	core	33659	32724	0.711138559	0.489303763	50	3	True
+P21	native	37949	37926	0.616661735	0.401374273	50	3	True
+P21	core	37949	36771	0.738486885	0.461074395	50	3	True

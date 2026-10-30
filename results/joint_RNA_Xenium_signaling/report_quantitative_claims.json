@@ -1,0 +1,11 @@
+{
+  "overall_21gene_E_minus_fine_context_core": {
+    "P0": -0.0007469969,
+    "P7": -0.00086876639,
+    "P14": -0.0024705506,
+    "P21": -0.0027689501
+  },
+  "positive_primary_corrected_prediction_gains": 1,
+  "primary_tests": 40,
+  "interpretation": "Fixed-model conditional prediction; not causal source effects"
+}

@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "report_pages": 14,
+  "figure_pages": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "current_PNG_hashes_embedded": true,
+  "minimum_standalone_raster_DPI": 299.99972256772816,
+  "figures_checked_for_bounds": true,
+  "tables": 3
+}

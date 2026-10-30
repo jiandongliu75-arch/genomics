@@ -1,0 +1,25 @@
+stage	family	broad_FB_profiles	original_proposals	reviewed_proposals	original_supported_labels	reviewed_supported_labels	reviewed_soft_weight_sum
+P0	Postn-associated	2319	2067	2067	1591	1591	1902.174
+P0	Col8a1-associated	2319	0	0	0	0	0
+P0	Gfpt2-associated	2319	0	0	0	0	0
+P0	Lsamp-associated	2319	0	0	0	0	0
+P0	Kirrel3-associated	2319	252	252	0	0	416.8259
+P0	Unresolved fibroblast program	2319	0	0	728	728	0
+P7	Postn-associated	8564	7411	7411	5167	5167	6337.52
+P7	Col8a1-associated	8564	0	0	0	0	0
+P7	Gfpt2-associated	8564	733	733	337	337	1567.905
+P7	Lsamp-associated	8564	0	0	0	0	0
+P7	Kirrel3-associated	8564	420	420	0	0	658.5747
+P7	Unresolved fibroblast program	8564	0	0	3060	3060	0
+P14	Postn-associated	9824	0	0	0	0	0
+P14	Col8a1-associated	9824	7418	7418	801	801	5636.223
+P14	Gfpt2-associated	9824	1135	1135	524	524	1906.973
+P14	Lsamp-associated	9824	1003	1003	18	18	1748.643
+P14	Kirrel3-associated	9824	152	152	0	0	378.9017
+P14	Unresolved fibroblast program	9824	116	116	8481	8481	153.2586
+P21	Postn-associated	13083	0	0	0	0	0
+P21	Col8a1-associated	13083	4468	9896	76	1390	7834.212
+P21	Gfpt2-associated	13083	225	171	45	39	901.7938
+P21	Lsamp-associated	13083	4090	2459	76	68	3716.984
+P21	Kirrel3-associated	13083	622	557	0	0	630.0105
+P21	Unresolved fibroblast program	13083	3678	0	12886	11586	0

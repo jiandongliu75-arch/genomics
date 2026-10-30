@@ -1,0 +1,10 @@
+{
+  "stage": "P21",
+  "ROIs": 8,
+  "comparison_rule": "Inner centroid,>=95% native molecule coverage,and neither alternative region touching contextual crop edge; nucleus never required",
+  "source_molecule_completion_sha256": "3ebeb9a5ea3ec3128d3482850721e98dea28c97c78edc973ba47acf9ae51144f",
+  "source_morphology_completion_sha256": "e73ef2d3e523896614df8be42bca259ea0ba62a7beb56a7519a46908cdfe79da",
+  "native_raster_control": "Additional0.5\u00b5m numerical control to distinguish grid-assignment effects from changed boundaries",
+  "QV_threshold": 20,
+  "molecule_counts_regenerated": true
+}

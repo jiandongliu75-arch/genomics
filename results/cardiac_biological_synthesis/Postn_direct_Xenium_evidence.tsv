@@ -1,0 +1,5 @@
+stage	eligible_FB_profiles	Postn_detected_profiles	Postn_detection_fraction	Postn_mean_log1p_per10000_panel_molecules	Postn_total_molecules	panel_capture_total	scope
+P0	2020	1843	0.912376238	4.88863323	8951	398018	Direct native Xenium detection within eligible broad FBs, not subtype abundance or full-transcriptome normalization
+P7	7365	6979	0.947589952	5.13532076	36125	1518313	Direct native Xenium detection within eligible broad FBs, not subtype abundance or full-transcriptome normalization
+P14	8098	5421	0.669424549	3.1134981	14560	1816156	Direct native Xenium detection within eligible broad FBs, not subtype abundance or full-transcriptome normalization
+P21	10867	4803	0.441980307	2.04013334	12182	2373125	Direct native Xenium detection within eligible broad FBs, not subtype abundance or full-transcriptome normalization

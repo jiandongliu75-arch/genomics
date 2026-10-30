@@ -1,0 +1,41 @@
+stage	identity	profiles	weak_core_own_lineage	multiple_strong_core_lineages	multiple_strong_nuclear_lineages	conservative_QC_review	missing_nucleus_not_automatically_removed
+P0	Ambiguous/review	8575	0	0	0	0	487
+P0	Cardiomyocyte	26760	1518	4	1	1523	4183
+P0	Endothelial	6394	320	134	179	571	152
+P0	Epicardial	238	7	0	0	7	0
+P0	Fibroblast	2319	1307	1	2	1307	35
+P0	Immune	297	29	16	16	50	5
+P0	Mixed-marker review	559	0	0	0	0	18
+P0	Pericyte	460	26	19	12	51	11
+P0	QC/information flag	1411	0	0	0	0	111
+P0	Smooth muscle	598	39	6	3	45	4
+P7	Ambiguous/review	19352	0	0	0	0	1159
+P7	Cardiomyocyte	47749	4292	29	70	4374	12974
+P7	Endothelial	16010	223	645	1049	1571	221
+P7	Epicardial	367	5	0	0	5	3
+P7	Fibroblast	8564	3639	1	1	3639	140
+P7	Immune	1275	80	50	75	184	30
+P7	Mixed-marker review	1680	0	0	0	0	42
+P7	Pericyte	1944	123	53	76	224	74
+P7	QC/information flag	1579	0	0	0	0	188
+P7	Smooth muscle	909	14	5	8	24	1
+P14	Ambiguous/review	20364	0	0	0	0	1782
+P14	Cardiomyocyte	47506	4680	78	241	4954	10709
+P14	Endothelial	23060	381	1690	3581	4567	335
+P14	Epicardial	409	6	0	0	6	1
+P14	Fibroblast	9824	3279	1	3	3281	222
+P14	Immune	2081	107	176	370	538	36
+P14	Mixed-marker review	4231	0	0	0	0	94
+P14	Pericyte	4601	247	171	396	719	68
+P14	QC/information flag	1263	0	0	0	0	85
+P14	Smooth muscle	3731	57	41	37	119	9
+P21	Ambiguous/review	28588	0	0	0	0	4136
+P21	Cardiomyocyte	61207	7493	56	286	7798	17303
+P21	Endothelial	24153	505	1483	3124	4205	407
+P21	Epicardial	294	5	0	0	5	0
+P21	Fibroblast	13083	4847	2	6	4851	302
+P21	Immune	3375	202	234	388	686	95
+P21	Mixed-marker review	5271	0	0	0	0	76
+P21	Pericyte	4548	257	199	412	757	106
+P21	QC/information flag	1574	0	0	0	0	90
+P21	Smooth muscle	1851	43	47	41	111	13

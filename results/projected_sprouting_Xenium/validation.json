@@ -1,0 +1,44 @@
+{
+  "status": "PASS",
+  "coverage": [
+    {
+      "stage": "P0",
+      "projected_ECs": 3732,
+      "original_heart_profiles": 47611,
+      "source_candidates": 8681,
+      "measured_gene_features": 403
+    },
+    {
+      "stage": "P7",
+      "projected_ECs": 8944,
+      "original_heart_profiles": 99429,
+      "source_candidates": 21067,
+      "measured_gene_features": 403
+    },
+    {
+      "stage": "P14",
+      "projected_ECs": 8086,
+      "original_heart_profiles": 117070,
+      "source_candidates": 30240,
+      "measured_gene_features": 403
+    },
+    {
+      "stage": "P21",
+      "projected_ECs": 8601,
+      "original_heart_profiles": 143944,
+      "source_candidates": 35328,
+      "measured_gene_features": 403
+    }
+  ],
+  "all_heart_profiles": 408054,
+  "projected_ECs": 29363,
+  "observed_counts_layers_gene_features_and_coordinates_exactly_preserved": true,
+  "every_primary_predicted_gene_reconstructed_from_saved_RNA_weights": true,
+  "unmeasured_genes_absent_from_measured_var_and_predictor_features": true,
+  "RNA_metacells_disjoint_and_observed_targets_reconstructed": true,
+  "spatial_neighborhood_source_membership_distances_and_original_positions_checked": true,
+  "excluded_profiles_have_missing_scores_not_zero": true,
+  "all_spatial_inference_explicitly_exploratory": true,
+  "no_independent_spatial_or_biological_activation_accuracy_claim": true,
+  "PDF_pages": 11
+}

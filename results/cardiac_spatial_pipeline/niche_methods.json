@@ -1,0 +1,30 @@
+{
+  "chosen_k": 2,
+  "status": "Seed-stable computational niches; not independently validated anatomy",
+  "aliases": {
+    "0": "N1: Fibroblast / Smooth muscle enriched context",
+    "1": "N2: Cardiomyocyte / Endothelial enriched context"
+  },
+  "backend": "sklearn GaussianMixture, not CellCharter",
+  "feature_names": [
+    "1hop__Cardiomyocyte",
+    "1hop__Endothelial",
+    "1hop__Fibroblast",
+    "1hop__Pericyte",
+    "1hop__Smooth muscle",
+    "1hop__Immune",
+    "1hop__Epicardial",
+    "2hop__Cardiomyocyte",
+    "2hop__Endothelial",
+    "2hop__Fibroblast",
+    "2hop__Pericyte",
+    "2hop__Smooth muscle",
+    "2hop__Immune",
+    "2hop__Epicardial"
+  ],
+  "outcome_blind": true,
+  "focal_two_step_return_removed": true,
+  "selection": "Stage-balanced block-split training; minimum pairwise seed ARI>=0.8 on reserved blocks; eligible K by BIC",
+  "review_burden_policy": "Review categories excluded from features; require >=50% resolved neighbor mass in both steps and >=3 resolved direct neighbors",
+  "limits": "Seed stability is not replicate/anatomical validation; no age or outcome used as clustering predictors; local compositions can still vary by age/batch"
+}

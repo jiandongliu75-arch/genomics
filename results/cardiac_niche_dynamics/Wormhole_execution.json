@@ -1,0 +1,16 @@
+{
+  "executed": true,
+  "package": "wassersteinwormhole0.3.7",
+  "JAX": "0.6.2",
+  "devices": [
+    "TFRT_CPU_0"
+  ],
+  "training_steps": 1200,
+  "training_clouds": 3200,
+  "heldout_clouds": 800,
+  "embedding_dim": 32,
+  "architecture": "2 transformer blocks,2 heads,hidden64; encoder/decoder Sinkhorn divergence epsilon0.1,100 iterations;16 decoder points",
+  "paper_default_reproduction": false,
+  "benchmark_resumed_from_saved_embeddings": true,
+  "purpose": "CPU-constrained, region-held-out metric benchmark; adoption depends on reserved distance and prediction tests"
+}

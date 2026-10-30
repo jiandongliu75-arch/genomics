@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "report_pages": 12,
+  "figure_pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "figure_plates": 4,
+  "tables": 2,
+  "Word_embeds_current_PNG_hashes": true,
+  "PDF_uses_same_narrative_tables_and_assets": true,
+  "minimum_standalone_raster_DPI": 299.9999284744433,
+  "PDF_bounds_and_short_pages_checked": true,
+  "RNA_support_rows_checked": 32476,
+  "RNA_library_complex_checks": 144,
+  "transport_domains_checked": 32,
+  "primary_BH_tests": 40,
+  "OOF_R2_checks": 480,
+  "local_ligand_and_capture_checks": 1792,
+  "relative_links_checked": 24,
+  "source_tables": 102,
+  "new_independent_spatial_hearts": 0,
+  "exact_author_feature_matrix_reproduction_claimed": false,
+  "new_fate_inference": false
+}

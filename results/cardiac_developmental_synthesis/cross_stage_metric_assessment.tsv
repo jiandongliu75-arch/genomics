@@ -1,0 +1,13 @@
+stage_a	stage_b	pair_selection	pairs	Wormhole_vs_Sinkhorn_Spearman	mean_vs_Sinkhorn_Spearman	Wormhole_vs_exact_W2_Spearman	median_composition_L1_difference	interpretation
+P0	P7	random_cross_stage	64	0.891437729	0.918406593	0.899358974	0.629960284	Metric calibration only; not cross-stage niche identity or developmental mechanism validation
+P0	P7	composition_matched_cross_stage	64	0.641208791	0.765979853	0.623260073	0.116666649	Metric calibration only; not cross-stage niche identity or developmental mechanism validation
+P0	P14	random_cross_stage	64	0.844276557	0.96007326	0.835851648	0.824999988	Metric calibration only; not cross-stage niche identity or developmental mechanism validation
+P0	P14	composition_matched_cross_stage	64	0.677106227	0.824725275	0.652564103	0.176379187	Metric calibration only; not cross-stage niche identity or developmental mechanism validation
+P0	P21	random_cross_stage	64	0.86268315	0.927197802	0.868818681	1.01818167	Metric calibration only; not cross-stage niche identity or developmental mechanism validation
+P0	P21	composition_matched_cross_stage	64	0.564606227	0.821565934	0.558699634	0.139610387	Metric calibration only; not cross-stage niche identity or developmental mechanism validation
+P7	P14	random_cross_stage	64	0.826053114	0.91231685	0.83228022	0.635988927	Metric calibration only; not cross-stage niche identity or developmental mechanism validation
+P7	P14	composition_matched_cross_stage	64	0.566620879	0.745650183	0.552564103	0.165384618	Metric calibration only; not cross-stage niche identity or developmental mechanism validation
+P7	P21	random_cross_stage	64	0.821474359	0.908562271	0.827472527	0.762393036	Metric calibration only; not cross-stage niche identity or developmental mechanism validation
+P7	P21	composition_matched_cross_stage	64	0.622344322	0.611263736	0.597481685	0.150757549	Metric calibration only; not cross-stage niche identity or developmental mechanism validation
+P14	P21	random_cross_stage	64	0.835989011	0.942078755	0.838598901	0.76761895	Metric calibration only; not cross-stage niche identity or developmental mechanism validation
+P14	P21	composition_matched_cross_stage	64	0.638507326	0.755128205	0.647298535	0.166666646	Metric calibration only; not cross-stage niche identity or developmental mechanism validation

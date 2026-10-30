@@ -1,0 +1,49 @@
+stage	variant	family	candidate_EC_profiles	profiles	information_QC	broad_EC_competition_pass	mixed_lineage_review
+P21	native	Capillary-like	35328	517	35328	23350	26303
+P21	native	Endocardial-like	35328	745	35328	23350	26303
+P21	native	Arterial-like	35328	86	35328	23350	26303
+P21	native	Venous-like candidate	35328	0	35328	23350	26303
+P21	native	Lymphatic-like candidate	35328	2	35328	23350	26303
+P21	native	Endothelial subtype unresolved	35328	33978	35328	23350	26303
+P21	nuclear_anchored	Capillary-like	35328	215	34779	21307	25347
+P21	nuclear_anchored	Endocardial-like	35328	510	34779	21307	25347
+P21	nuclear_anchored	Arterial-like	35328	73	34779	21307	25347
+P21	nuclear_anchored	Venous-like candidate	35328	0	34779	21307	25347
+P21	nuclear_anchored	Lymphatic-like candidate	35328	0	34779	21307	25347
+P21	nuclear_anchored	Endothelial subtype unresolved	35328	34530	34779	21307	25347
+P21	high_confidence	Capillary-like	35328	941	34541	20946	23234
+P21	high_confidence	Endocardial-like	35328	635	34541	20946	23234
+P21	high_confidence	Arterial-like	35328	105	34541	20946	23234
+P21	high_confidence	Venous-like candidate	35328	0	34541	20946	23234
+P21	high_confidence	Lymphatic-like candidate	35328	1	34541	20946	23234
+P21	high_confidence	Endothelial subtype unresolved	35328	33646	34541	20946	23234
+P21	depth_matched	Capillary-like	35328	152	34497	16281	22996
+P21	depth_matched	Endocardial-like	35328	413	34497	16281	22996
+P21	depth_matched	Arterial-like	35328	56	34497	16281	22996
+P21	depth_matched	Venous-like candidate	35328	0	34497	16281	22996
+P21	depth_matched	Lymphatic-like candidate	35328	0	34497	16281	22996
+P21	depth_matched	Endothelial subtype unresolved	35328	34707	34497	16281	22996
+P21	nuclear_only	Capillary-like	35328	3056	33805	20053	18244
+P21	nuclear_only	Endocardial-like	35328	906	33805	20053	18244
+P21	nuclear_only	Arterial-like	35328	144	33805	20053	18244
+P21	nuclear_only	Venous-like candidate	35328	0	33805	20053	18244
+P21	nuclear_only	Lymphatic-like candidate	35328	2	33805	20053	18244
+P21	nuclear_only	Endothelial subtype unresolved	35328	31220	33805	20053	18244
+P21	nuclear_depth_matched	Capillary-like	35328	377	33545	10493	19138
+P21	nuclear_depth_matched	Endocardial-like	35328	491	33545	10493	19138
+P21	nuclear_depth_matched	Arterial-like	35328	58	33545	10493	19138
+P21	nuclear_depth_matched	Venous-like candidate	35328	0	33545	10493	19138
+P21	nuclear_depth_matched	Lymphatic-like candidate	35328	0	33545	10493	19138
+P21	nuclear_depth_matched	Endothelial subtype unresolved	35328	34402	33545	10493	19138
+P21	cytoplasmic_only	Capillary-like	35328	7	32992	3495	12044
+P21	cytoplasmic_only	Endocardial-like	35328	73	32992	3495	12044
+P21	cytoplasmic_only	Arterial-like	35328	10	32992	3495	12044
+P21	cytoplasmic_only	Venous-like candidate	35328	0	32992	3495	12044
+P21	cytoplasmic_only	Lymphatic-like candidate	35328	0	32992	3495	12044
+P21	cytoplasmic_only	Endothelial subtype unresolved	35328	35238	32992	3495	12044
+P21	nuclear_calibrated	Capillary-like	35328	4349	33805	27848	18244
+P21	nuclear_calibrated	Endocardial-like	35328	1044	33805	27848	18244
+P21	nuclear_calibrated	Arterial-like	35328	142	33805	27848	18244
+P21	nuclear_calibrated	Venous-like candidate	35328	0	33805	27848	18244
+P21	nuclear_calibrated	Lymphatic-like candidate	35328	5	33805	27848	18244
+P21	nuclear_calibrated	Endothelial subtype unresolved	35328	29788	33805	27848	18244

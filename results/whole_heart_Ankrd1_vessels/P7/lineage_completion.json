@@ -1,0 +1,17 @@
+{
+  "stage": "P7",
+  "original_cells": 99429,
+  "query_cells": 97850,
+  "reference_nuclei": 18160,
+  "resolved_lineage_cells": 79704,
+  "strict_CM_cells": 47749,
+  "strict_ventricular_cells": 39383,
+  "arterial_EC_seeds": 540,
+  "SMC_seeds": 922,
+  "arterial_marker_seeds": 9414,
+  "SMC_marker_seeds": 2104,
+  "elapsed_seconds": 136.2914776802063,
+  "source_query_sha256": "f46cf9fdb12697a2d7e55c4394f034f67f525a871baac6b94314b6ddef336fce",
+  "outcome_genes_in_fit": false,
+  "coordinates_or_counts_changed": false
+}

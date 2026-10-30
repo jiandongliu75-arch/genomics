@@ -1,0 +1,9 @@
+stage	subset	cells	published_CM_cells	published_nonCM_cells	absent_from_published_atlas
+P0	All proposals	21994	18890	2985	119
+P0	Prioritized	3283	2945	333	5
+P7	All proposals	38580	28197	10210	173
+P7	Prioritized	4816	3339	1474	3
+P14	All proposals	49656	32499	16247	910
+P14	Prioritized	4006	3198	800	8
+P21	All proposals	58358	39106	19252	0
+P21	Prioritized	1652	1360	292	0

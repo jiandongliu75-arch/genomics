@@ -1,0 +1,20 @@
+{
+  "stage": "P7",
+  "bounds_um": [
+    1700.0,
+    2200.0,
+    1100.0,
+    1600.0
+  ],
+  "selection_tile": [
+    19,
+    13
+  ],
+  "selection_entropy": 1.5096339469766709,
+  "native_cells": 1927,
+  "source_boundary_path": "/workspace/heart-atlas/data/xenium/WT_P07__20240528__152133/cell_boundaries.csv.gz",
+  "source_boundary_sha256": "e2092f3d0f12cdca28eef9f7fca41e14025cdb3b3fb93f49a607e2075d3b2a0d",
+  "vascular_cells_with_native_boundaries": 1927,
+  "median_centroid_outside_own_polygon_um": 0.0,
+  "maximum_centroid_outside_own_polygon_um": 0.4295210037551437
+}

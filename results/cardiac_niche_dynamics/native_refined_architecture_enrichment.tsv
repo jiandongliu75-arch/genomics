@@ -1,0 +1,225 @@
+stage	geometry	type_a	type_b	observed_edges	local_shuffle_expected_edges	log2_observed_over_local_null	scope
+P0	native_boundary_1um	Cardiomyocyte	Cardiomyocyte	39035	37182.2626	0.0701527846	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	native_boundary_1um	Cardiomyocyte	Endothelial	14939	16310.3131	-0.126696841	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	native_boundary_1um	Cardiomyocyte	Fibroblast	3659	4569.07071	-0.320412091	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	native_boundary_1um	Cardiomyocyte	Pericyte	1298	1319.71717	-0.023929254	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	native_boundary_1um	Cardiomyocyte	Smooth muscle	69	220.888889	-1.67149793	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	native_boundary_1um	Cardiomyocyte	Immune	516	661.989899	-0.359130109	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	native_boundary_1um	Cardiomyocyte	Epicardial	89	308.050505	-1.78554707	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	native_boundary_1um	Endothelial	Endothelial	2900	2141.26263	0.437503026	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	native_boundary_1um	Endothelial	Fibroblast	985	1308.54545	-0.409587417	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	native_boundary_1um	Endothelial	Pericyte	332	273.707071	0.278088568	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	native_boundary_1um	Endothelial	Smooth muscle	250	316.131313	-0.337993334	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	native_boundary_1um	Endothelial	Immune	136	171.949495	-0.337272952	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	native_boundary_1um	Endothelial	Epicardial	18	87.8484848	-2.25568012	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	native_boundary_1um	Fibroblast	Fibroblast	1181	648.363636	0.864632407	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	native_boundary_1um	Fibroblast	Pericyte	49	77.0505051	-0.647707652	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	native_boundary_1um	Fibroblast	Smooth muscle	103	263.727273	-1.35214862	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	native_boundary_1um	Fibroblast	Immune	146	89.1717172	0.708175735	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	native_boundary_1um	Fibroblast	Epicardial	69	86.2121212	-0.319220699	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	native_boundary_1um	Pericyte	Pericyte	21	13.9090909	0.577357343	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	native_boundary_1um	Pericyte	Smooth muscle	2	4.04040404	-0.860892591	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	native_boundary_1um	Pericyte	Immune	8	8.52525253	-0.0865044577	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	native_boundary_1um	Pericyte	Epicardial	0	3.46464646	-2.98719222	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	native_boundary_1um	Smooth muscle	Smooth muscle	607	333.383838	0.863538147	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	native_boundary_1um	Smooth muscle	Immune	3	20.8080808	-2.60597383	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	native_boundary_1um	Smooth muscle	Epicardial	0	30.3939394	-5.94925194	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	native_boundary_1um	Immune	Immune	25	6.70707071	1.82301234	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	native_boundary_1um	Immune	Epicardial	20	19.6060606	0.0279934686	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	native_boundary_1um	Epicardial	Epicardial	81	63.8989899	0.339762	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Cardiomyocyte	Cardiomyocyte	47561	47321.0808	0.00729594704	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Cardiomyocyte	Endothelial	20376	20826.7879	-0.0315687183	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Cardiomyocyte	Fibroblast	5015	5781.61616	-0.205204061	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Cardiomyocyte	Pericyte	1708	1679.31313	0.0244294966	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Cardiomyocyte	Smooth muscle	100	276.929293	-1.46492462	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Cardiomyocyte	Immune	697	837.949495	-0.265530667	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Cardiomyocyte	Epicardial	159	389.515152	-1.28997375	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Endothelial	Endothelial	3971	2714.40404	0.548782797	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Endothelial	Fibroblast	1379	1662.58586	-0.269717195	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Endothelial	Pericyte	404	346.838384	0.219797853	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Endothelial	Smooth muscle	302	373.333333	-0.305460072	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Endothelial	Immune	180	220.393939	-0.291354999	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Endothelial	Epicardial	31	112.535354	-1.84335033	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Fibroblast	Fibroblast	1369	814.111111	0.749465868	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Fibroblast	Pericyte	64	98.3333333	-0.615698538	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Fibroblast	Smooth muscle	109	310.434343	-1.5056791	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Fibroblast	Immune	196	114.111111	0.777782398	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Fibroblast	Epicardial	107	113.232323	-0.081305673	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Pericyte	Pericyte	25	18.2121212	0.446524135	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Pericyte	Smooth muscle	3	5.3030303	-0.729451541	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Pericyte	Immune	8	10.3333333	-0.349942471	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Pericyte	Epicardial	0	4.44444444	-3.30580843	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Smooth muscle	Smooth muscle	586	363.292929	0.689013605	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Smooth muscle	Immune	5	23.7676768	-2.14153248	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Smooth muscle	Epicardial	0	34.2929293	-6.12072224	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Immune	Immune	28	7.62626263	1.81029802	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Immune	Epicardial	30	24.4848485	0.287755773	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P0	refined_contact	Epicardial	Epicardial	158	85.7373737	0.878097692	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Cardiomyocyte	Cardiomyocyte	62134	59060.8889	0.0731792598	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Cardiomyocyte	Endothelial	39417	38234.9293	0.0439262062	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Cardiomyocyte	Fibroblast	12064	14788.0909	-0.29371647	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Cardiomyocyte	Pericyte	4840	4808.56566	0.00939945556	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Cardiomyocyte	Smooth muscle	271	944.646465	-1.79958572	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Cardiomyocyte	Immune	2242	2586.29293	-0.206056587	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Cardiomyocyte	Epicardial	121	587.151515	-2.27400456	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Endothelial	Endothelial	6185	6666.68687	-0.108187945	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Endothelial	Fibroblast	4240	5226.51515	-0.301752957	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Endothelial	Pericyte	1541	1610.37374	-0.0635085285	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Endothelial	Smooth muscle	334	357.444444	-0.0977294773	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Endothelial	Immune	687	871.787879	-0.343444629	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Endothelial	Epicardial	8	181.848485	-4.42309156	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Fibroblast	Fibroblast	5614	3774.28283	0.572763904	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Fibroblast	Pericyte	364	533.383838	-0.550607062	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Fibroblast	Smooth muscle	331	646.363636	-0.964452743	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Fibroblast	Immune	784	617.10101	0.345098335	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Fibroblast	Epicardial	244	240.262626	0.0222230062	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Pericyte	Pericyte	105	111.59596	-0.0874912794	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Pericyte	Smooth muscle	9	36.2424242	-1.9514474	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Pericyte	Immune	64	96.9191919	-0.594906856	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Pericyte	Epicardial	4	17.6666667	-2.01329682	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Smooth muscle	Smooth muscle	555	241.808081	1.19694439	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Smooth muscle	Immune	23	60.8080808	-1.38341649	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Smooth muscle	Epicardial	0	19.0606061	-5.28987917	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Immune	Immune	126	67.7878788	0.889435959	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Immune	Epicardial	46	37.969697	0.273508251	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	native_boundary_1um	Epicardial	Epicardial	105	31.5252525	1.71996115	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Cardiomyocyte	Cardiomyocyte	67367	69785.5758	-0.0508864457	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Cardiomyocyte	Endothelial	48573	45411.0303	0.0971107903	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Cardiomyocyte	Fibroblast	15570	17880.5354	-0.199615001	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Cardiomyocyte	Pericyte	6012	5697.82828	0.0774262506	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Cardiomyocyte	Smooth muscle	373	1103.25253	-1.56323659	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Cardiomyocyte	Immune	2791	3090.0303	-0.146813855	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Cardiomyocyte	Epicardial	219	729.666667	-1.73400487	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Endothelial	Endothelial	8987	7958.48485	0.175335436	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Endothelial	Fibroblast	5993	6352.11111	-0.0839509702	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Endothelial	Pericyte	2012	1916.28283	0.0703018945	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Endothelial	Smooth muscle	397	421.727273	-0.0870649086	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Endothelial	Immune	952	1051.46465	-0.143295223	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Endothelial	Epicardial	29	225.979798	-2.94059551	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Fibroblast	Fibroblast	6646	4546.30303	0.54774232	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Fibroblast	Pericyte	522	638.464646	-0.290305073	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Fibroblast	Smooth muscle	383	767.292929	-1.0014907	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Fibroblast	Immune	996	764.848485	0.380753008	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Fibroblast	Epicardial	434	304.79798	0.509138134	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Pericyte	Pericyte	133	132.656566	0.0037161755	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Pericyte	Smooth muscle	10	41.6868687	-2.00640468	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Pericyte	Immune	97	116.777778	-0.266455548	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Pericyte	Epicardial	8	20.6464646	-1.31488174	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Smooth muscle	Smooth muscle	527	269.141414	0.968128997	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Smooth muscle	Immune	32	69.040404	-1.09741173	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Smooth muscle	Epicardial	0	23.3939394	-5.57857283	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Immune	Immune	152	93.7272727	0.69459265	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Immune	Epicardial	74	52.6060606	0.488363911	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P7	refined_contact	Epicardial	Epicardial	217	40.6464646	2.40217502	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Cardiomyocyte	Cardiomyocyte	48373	44421.2323	0.122951271	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Cardiomyocyte	Endothelial	44416	41221.5152	0.10768068	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Cardiomyocyte	Fibroblast	11953	14460.6667	-0.274750845	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Cardiomyocyte	Pericyte	8840	8271.66667	0.0958627145	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Cardiomyocyte	Smooth muscle	652	1753.51515	-1.4266114	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Cardiomyocyte	Immune	3067	3435.75758	-0.163774838	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Cardiomyocyte	Epicardial	170	594.666667	-1.80352199	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Endothelial	Endothelial	8317	10234.3939	-0.299274286	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Endothelial	Fibroblast	5772	7302.18182	-0.339230105	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Endothelial	Pericyte	3816	4122.88889	-0.111580341	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Endothelial	Smooth muscle	768	1129.14141	-0.555747721	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Endothelial	Immune	1270	1661.48485	-0.387510854	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Endothelial	Epicardial	43	227.434343	-2.38953101	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Fibroblast	Fibroblast	3723	2434.9697	0.612459325	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Fibroblast	Pericyte	927	1398.27273	-0.592742385	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Fibroblast	Smooth muscle	970	1939.57576	-0.999312871	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Fibroblast	Immune	1036	818.777778	0.339295528	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Fibroblast	Epicardial	192	177.575758	0.112367318	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Pericyte	Pericyte	320	438.30303	-0.453249132	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Pericyte	Smooth muscle	50	177.848485	-1.82034367	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Pericyte	Immune	273	335.575758	-0.297245646	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Pericyte	Epicardial	3	30.2727273	-3.13622548	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Smooth muscle	Smooth muscle	4166	2564.54545	0.699851588	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Smooth muscle	Immune	56	221.838384	-1.97643426	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Smooth muscle	Epicardial	1	18.989899	-3.69969221	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Immune	Immune	234	97.3737374	1.26059423	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Immune	Epicardial	56	44.7272727	0.321057866	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	native_boundary_1um	Epicardial	Epicardial	106	34.8080808	1.59278312	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Cardiomyocyte	Cardiomyocyte	55736	57836.101	-0.0533603587	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Cardiomyocyte	Endothelial	58202	54193.9394	0.102936291	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Cardiomyocyte	Fibroblast	17610	19144.4848	-0.120530647	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Cardiomyocyte	Pericyte	11945	10898.8081	0.13223069	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Cardiomyocyte	Smooth muscle	1042	2322.85859	-1.15616445	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Cardiomyocyte	Immune	4296	4533.20202	-0.0775276774	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Cardiomyocyte	Epicardial	319	827.868687	-1.37445709	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Endothelial	Endothelial	13165	13541.5758	-0.040686582	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Endothelial	Fibroblast	9054	9766.15152	-0.109229045	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Endothelial	Pericyte	5551	5451.54545	0.0260800462	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Endothelial	Smooth muscle	1159	1518.09091	-0.389230457	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Endothelial	Immune	2036	2200.06061	-0.111779291	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Endothelial	Epicardial	82	321.40404	-1.96416466	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Fibroblast	Fibroblast	5247	3335.14141	0.653666056	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Fibroblast	Pericyte	1574	1857.54545	-0.238892038	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Fibroblast	Smooth muscle	1403	2641.16162	-0.912416612	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Fibroblast	Immune	1541	1115.58586	0.465886874	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Fibroblast	Epicardial	345	248.969697	0.469821128	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Pericyte	Pericyte	461	577.313131	-0.324272343	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Pericyte	Smooth muscle	82	237.646465	-1.52938311	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Pericyte	Immune	435	444.080808	-0.0297729518	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Pericyte	Epicardial	7	42.1111111	-2.50626717	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Smooth muscle	Smooth muscle	5083	3430.35354	0.5672546	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Smooth muscle	Immune	95	301.828283	-1.66254331	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Smooth muscle	Epicardial	2	27.8484848	-3.50327163	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Immune	Immune	291	128.40404	1.1771984	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Immune	Epicardial	93	62.8383838	0.561886309	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P14	refined_contact	Epicardial	Epicardial	201	50.0808081	1.99411785	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Cardiomyocyte	Cardiomyocyte	66751	55876.798	0.256537998	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Cardiomyocyte	Endothelial	40094	40712.8788	-0.0220986079	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Cardiomyocyte	Fibroblast	13809	19453.2222	-0.494385138	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Cardiomyocyte	Pericyte	7494	7571.67677	-0.0148758591	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Cardiomyocyte	Smooth muscle	931	2100.12121	-1.17318836	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Cardiomyocyte	Immune	4310	5508.79798	-0.35401327	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Cardiomyocyte	Epicardial	89	404.242424	-2.17704449	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Endothelial	Endothelial	6743	8518.76768	-0.33723185	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Endothelial	Fibroblast	6215	7671.16162	-0.303668635	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Endothelial	Pericyte	2751	3193.91919	-0.215335316	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Endothelial	Smooth muscle	378	822.020202	-1.11975781	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Endothelial	Immune	1584	2151.50505	-0.441653804	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Endothelial	Epicardial	26	133.868687	-2.34213271	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Fibroblast	Fibroblast	6572	4272.58586	0.621163932	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Fibroblast	Pericyte	720	1253.80808	-0.799821408	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Fibroblast	Smooth muscle	573	779.030303	-0.44281162	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Fibroblast	Immune	1808	1408.9899	0.359620459	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Fibroblast	Epicardial	166	139.393939	0.251188715	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Pericyte	Pericyte	261	314.989899	-0.270782869	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Pericyte	Smooth muscle	25	156.161616	-2.61908259	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Pericyte	Immune	276	397.151515	-0.524225188	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Pericyte	Epicardial	4	25.8484848	-2.5497231	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Smooth muscle	Smooth muscle	1643	570.383838	1.52550233	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Smooth muscle	Immune	108	168.858586	-0.642386085	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Smooth muscle	Epicardial	1	44.7373737	-4.91448077	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Immune	Immune	420	175.59596	1.25574399	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Immune	Epicardial	40	36.959596	0.112586569	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	native_boundary_1um	Epicardial	Epicardial	93	21.5252525	2.0858078	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Cardiomyocyte	Cardiomyocyte	77818	72819.9798	0.0957689253	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Cardiomyocyte	Endothelial	56247	54195.2525	0.0536091872	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Cardiomyocyte	Fibroblast	20030	25845.2424	-0.367728211	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Cardiomyocyte	Pericyte	10649	10165.4949	0.0670342775	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Cardiomyocyte	Smooth muscle	1364	2777.68687	-1.02577125	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Cardiomyocyte	Immune	6124	7323.79798	-0.258098418	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Cardiomyocyte	Epicardial	174	542.343434	-1.63730912	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Endothelial	Endothelial	11520	11559.6263	-0.00495382301	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Endothelial	Fibroblast	9348	10364.5051	-0.148914016	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Endothelial	Pericyte	4355	4374.12121	-0.00631975693	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Endothelial	Smooth muscle	555	1131.18182	-1.02660957	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Endothelial	Immune	2503	2911.52525	-0.218076411	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Endothelial	Epicardial	57	182.171717	-1.66761942	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Fibroblast	Fibroblast	8415	5689.09091	0.564724067	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Fibroblast	Pericyte	1175	1725.82828	-0.554432298	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Fibroblast	Smooth muscle	769	1153.56566	-0.584732072	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Fibroblast	Immune	2349	1890.21212	0.313424052	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Fibroblast	Epicardial	302	191.646465	0.65472871	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Pericyte	Pericyte	351	432.505051	-0.300859163	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Pericyte	Smooth muscle	60	210.131313	-1.79971288	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Pericyte	Immune	426	542.323232	-0.347936727	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Pericyte	Epicardial	16	36.2222222	-1.15418734	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Smooth muscle	Smooth muscle	2152	883.151515	1.28446381	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Smooth muscle	Immune	155	249.050505	-0.682417243	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Smooth muscle	Epicardial	3	68.5656566	-4.30254167	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Immune	Immune	444	235.818182	0.911452788	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Immune	Epicardial	70	51.9292929	0.427250168	Within-section morphology/label sensitivity, not causal interaction or independent animal inference
+P21	refined_contact	Epicardial	Epicardial	151	29.030303	2.35904973	Within-section morphology/label sensitivity, not causal interaction or independent animal inference

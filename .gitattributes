@@ -1,0 +1,16 @@
+# Preserve upstream logs verbatim, including spaces after empty fields.
+results/cytospace_xenium/**/upstream_log.txt -whitespace
+results/author_atlas_baseline/**/upstream_log.txt -whitespace
+results/ventricular_alignment_improvement/**/upstream_log.txt -whitespace
+results/joint_RNA_Xenium_signaling/*.pdf binary
+results/joint_RNA_Xenium_signaling/figures/*.pdf binary
+results/capillary_maturation_retest/*.pdf binary
+results/capillary_association_robustness/*.pdf binary
+results/morphology_stratified_nonCM/*.pdf binary
+results/morphology_stratified_nonCM/figures/*.pdf binary
+results/CM21_primary_spatial/*.pdf binary
+results/CM21_primary_spatial/figures/*.pdf binary
+results/CM21_paperstyle_extension/*.pdf binary
+results/CM21_paperstyle_extension/figures/*.pdf binary
+presentations/**/*.pdf binary
+presentations/**/*.pptx binary

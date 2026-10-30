@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "Word_embeds_current_figure_hashes": true,
+  "rendered_pages": 19,
+  "main_integrated_figures": 6,
+  "full_page_figure_pages": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "combined_figure_minimum_raster_DPI": 299.99949137456025,
+  "editable_SVG_and_vector_PDF_checked": true,
+  "subtype_first_text_and_scope_checked": true,
+  "word_to_pdf_layout_bounds_checked": true
+}

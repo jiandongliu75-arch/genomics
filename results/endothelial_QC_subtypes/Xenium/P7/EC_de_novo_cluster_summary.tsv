@@ -1,0 +1,8 @@
+stage	cluster_id	gene_name	profiles	most_common_individual_label	most_common_label_fraction	marker_genes	high_confidence_cluster_best_jaccard	nuclear_only_cluster_best_jaccard	nuclear_depth_matched_cluster_best_jaccard	seed_7_best_jaccard	seed_123_best_jaccard	resolution_0.25_best_jaccard	resolution_0.8_best_jaccard
+P7	P7_XEC0	Aplnr/Fbln2 EC program	178	Endothelial subtype unresolved	0.8932584	Aplnr;Fbln2;Lhx6;Nr2f2;Myl4;Gas6;Calcrl;Npr1;Nppa;Igf1;Dkk3;Pi16	0.1035045	0.1033569	0.09991674	0.9270833	0.8979592	0.08266237	0.8018018
+P7	P7_XEC1	Npr3/Cpe EC program	759	Endothelial subtype unresolved	0.5810277	Npr3;Cpe;Cdh11;Vwf;Postn;Igfbp5;Ptn;Epha7;Eln;Bgn;Pdlim3;Nrg1	0.8826406	0.9331683	0.8951132	0.9934124	0.9934124	0.909964	0.5836627
+P7	P7_XEC2	Vegfc/Cxcl12 EC program	486	Endothelial subtype unresolved	0.9917695	Vegfc;Cxcl12;Gja4;Gja5;Fbln2;Hey1;Jag1;Sema7a;Fn1;Lama5;Efnb2;Lama3	0.8291367	0.8661568	0.8596491	0.9898167	0.9756592	0.9348269	0.9427403
+P7	P7_XEC3	Prox1/Gja4 EC program	28	Endothelial subtype unresolved	1	Prox1;Gja4;Flt4;Itgb4;Nr2f2;Itga9;Thbs1;Tnfrsf11a;Itgav;Fndc1;Fzd6;Igf1	1	1	0.03369434	1	1	0.03365385	1
+P7	P7_XEC4	Mki67/Top2a EC program	331	Endothelial subtype unresolved	0.9818731	Mki67;Top2a;Kif11;Kif15;Hjurp;Cdca2;Smc4;Ezh2;Stmn1;Cenpe;Cenpf;Rad21	0.5828877	0.7090395	0.6890756	0.9088398	0.9187675	0.1793478	0.859375
+P7	P7_XEC5	Cd36/Sparcl1 EC program	444	Capillary-like	0.5067568	Cd36;Sparcl1;Car4;Pcdh17;Mb;Pln;Aplnr;Mest;Meox1;Rgcc;Dach1;Lims2	0.5912698	0.5633562	0.4761092	0.3178062	0.3181138	0.2394137	0.7672727
+P7	P7_XEC6	Cd36/Aplnr EC program	909	Endothelial subtype unresolved	0.7117712	Cd36;Aplnr;Car4;Sparcl1;Meox1;Rgcc;Kitl;Pcdh17;Mest;Pln;Lims2;Jph2	0.6746988	0.6541353	0.6311606	0.6634183	0.65625	0.4934783	0.8004386

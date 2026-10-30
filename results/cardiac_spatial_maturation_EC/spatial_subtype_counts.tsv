@@ -1,0 +1,50 @@
+stage	lineage	subtype	profiles
+P0	Ventricular CM	All strict ventricular CMs	19304
+P0	Fibroblast	Postn-associated	1174
+P0	EC strict	Capillary-like	284
+P0	EC strict	Endocardial-like	303
+P0	EC strict	Arterial-like	73
+P0	EC nuclear-supported	Capillary-like	846
+P0	EC nuclear-supported	Endocardial-like	589
+P0	EC nuclear-supported	Arterial-like	89
+P0	Ventricular CM fine candidate	P0_M0	1620
+P0	Ventricular CM fine candidate	P0_M2	535
+P0	Ventricular CM fine candidate	P0_M5	721
+P7	Ventricular CM	All strict ventricular CMs	39383
+P7	Fibroblast	Gfpt2-associated	158
+P7	Fibroblast	Postn-associated	3707
+P7	EC strict	Capillary-like	268
+P7	EC strict	Endocardial-like	159
+P7	EC nuclear-supported	Capillary-like	1464
+P7	EC nuclear-supported	Endocardial-like	258
+P7	Ventricular CM fine candidate	P7_M3	2780
+P7	Ventricular CM fine candidate	P7_M6	707
+P14	Ventricular CM	All strict ventricular CMs	42796
+P14	Fibroblast	Col8a1-associated	392
+P14	Fibroblast	Gfpt2-associated	209
+P14	Fibroblast	Lsamp-associated	2
+P14	EC strict	Capillary-like	202
+P14	EC strict	Endocardial-like	341
+P14	EC strict	Arterial-like	88
+P14	EC strict	Venous-like	46
+P14	EC strict	Lymphatic-like	14
+P14	EC nuclear-supported	Capillary-like	3226
+P14	EC nuclear-supported	Endocardial-like	664
+P14	EC nuclear-supported	Arterial-like	137
+P14	EC nuclear-supported	Venous-like	219
+P14	EC nuclear-supported	Lymphatic-like	28
+P14	Ventricular CM fine candidate	P14_M0	1748
+P14	Ventricular CM fine candidate	P14_M2	801
+P14	Ventricular CM fine candidate	P14_M4	495
+P21	Ventricular CM	All strict ventricular CMs	48140
+P21	Fibroblast	Col8a1-associated	677
+P21	Fibroblast	Gfpt2-associated	12
+P21	Fibroblast	Lsamp-associated	9
+P21	EC strict	Capillary-like	90
+P21	EC strict	Endocardial-like	370
+P21	EC strict	Arterial-like	37
+P21	EC nuclear-supported	Capillary-like	2147
+P21	EC nuclear-supported	Endocardial-like	799
+P21	EC nuclear-supported	Arterial-like	73
+P21	EC nuclear-supported	Lymphatic-like	2
+P21	Ventricular CM fine candidate	P21_M3	1386

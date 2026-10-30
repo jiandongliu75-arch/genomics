@@ -1,0 +1,35 @@
+stage	scope	original	reviewed	profiles
+P0	proposal	Kirrel3-associated	Kirrel3-associated	252
+P0	proposal	Postn-associated	Postn-associated	2067
+P0	supported_label	Postn-associated	Postn-associated	1591
+P0	supported_label	Unresolved fibroblast program	Unresolved fibroblast program	728
+P7	proposal	Gfpt2-associated	Gfpt2-associated	733
+P7	proposal	Kirrel3-associated	Kirrel3-associated	420
+P7	proposal	Postn-associated	Postn-associated	7411
+P7	supported_label	Gfpt2-associated	Gfpt2-associated	337
+P7	supported_label	Postn-associated	Postn-associated	5167
+P7	supported_label	Unresolved fibroblast program	Unresolved fibroblast program	3060
+P14	proposal	Col8a1-associated	Col8a1-associated	7418
+P14	proposal	Gfpt2-associated	Gfpt2-associated	1135
+P14	proposal	Kirrel3-associated	Kirrel3-associated	152
+P14	proposal	Lsamp-associated	Lsamp-associated	1003
+P14	proposal	Unresolved fibroblast program	Unresolved fibroblast program	116
+P14	supported_label	Col8a1-associated	Col8a1-associated	801
+P14	supported_label	Gfpt2-associated	Gfpt2-associated	524
+P14	supported_label	Lsamp-associated	Lsamp-associated	18
+P14	supported_label	Unresolved fibroblast program	Unresolved fibroblast program	8481
+P21	proposal	Col8a1-associated	Col8a1-associated	4468
+P21	proposal	Gfpt2-associated	Col8a1-associated	54
+P21	proposal	Gfpt2-associated	Gfpt2-associated	171
+P21	proposal	Kirrel3-associated	Col8a1-associated	65
+P21	proposal	Kirrel3-associated	Kirrel3-associated	557
+P21	proposal	Lsamp-associated	Col8a1-associated	1631
+P21	proposal	Lsamp-associated	Lsamp-associated	2459
+P21	proposal	Unresolved fibroblast program	Col8a1-associated	3678
+P21	supported_label	Col8a1-associated	Col8a1-associated	76
+P21	supported_label	Gfpt2-associated	Gfpt2-associated	39
+P21	supported_label	Gfpt2-associated	Unresolved fibroblast program	6
+P21	supported_label	Lsamp-associated	Lsamp-associated	68
+P21	supported_label	Lsamp-associated	Unresolved fibroblast program	8
+P21	supported_label	Unresolved fibroblast program	Col8a1-associated	1314
+P21	supported_label	Unresolved fibroblast program	Unresolved fibroblast program	11572

@@ -1,0 +1,42 @@
+{
+  "input": "/workspace/heart-atlas/results/cell_identities_subtypes/snrna_qc_annotated_subclustered.h5ad",
+  "expanded_nuclei": 44463,
+  "core_nuclei": 43249,
+  "reference_nuclei": 1214,
+  "primary_resolution": 0.6,
+  "resolution_checks": [
+    0.3,
+    0.6,
+    0.9,
+    1.2
+  ],
+  "PCA": 30,
+  "neighbors": 15,
+  "UMAP_min_dist": 0.3,
+  "seed": 42,
+  "seed_checks": [
+    7,
+    123
+  ],
+  "scoring": "Per-stage mean log-normalized program minus matched-expression control means (20 gene bins; up to 50 controls/bin; exclude all interpreted program genes from controls); control genes shared for raw-count scoring; scores standardized separately in each original library.",
+  "raw_sensitivity": "Original integer counts normalized independently with original library totals; no rounding of corrected fractions.",
+  "duplicate_gene_symbols": "Program scores select one feature per symbol, choosing highest pooled corrected-count abundance; support counts distinct symbols. All same-symbol features excluded in panel sensitivity; original counts remain unchanged.",
+  "gene_exclusion_sensitivity": "Remove every interpreted program feature from the stage HVG embedding; repeat PCA/Harmony/graph/clustering. Not a proof of absent biology if neighborhoods change.",
+  "QC_score_sensitivity": "Within-library-centered log raw UMIs, log raw detected genes, contamination, mitochondrial percentage, cycling-marker count and Xist/Y-marker expression; can remove biological state.",
+  "program_labeling": "Prespecified source/marker conditions, >=.35 z effect, >.15 in both original libraries, raw effects positive, >=3 or panel-specific positive genes with corrected and raw positive contrasts in both libraries; HIF also requires non-glycolytic program.",
+  "state_support": "n>=100, >=30 each library, largest fraction<=.9, >=3 both-library corrected/raw markers; mean seed Jaccard>=.65, min>=.5; QC and feature-exclusion Jaccard>=.5, uncorrected Jaccard>=.4. These are descriptive heuristics.",
+  "gradient_check": "Score-neighbor Spearman on expression graph and after QC adjustment; 20 within-library shuffled reference distributions, not animal-level inference or spatial distance.",
+  "gate_correction": "Earlier Etv1/Gja5-overlap label could exclude paper Slit2 trabecular CMs; retained as ambiguous reference, not assigned Purkinje identity.",
+  "limits": "No measured wall position, tissue oxygen, force, metabolic flux, independent animal replication or causal environmental attribution. Author Table3 panels from same dataset are not independent validation.",
+  "versions": {
+    "scanpy": "1.12.4",
+    "anndata": "0.13.4",
+    "harmonypy": "2.1.0",
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1"
+  },
+  "core_gate_sensitivity": "Reuse original 43,249-cell stage-specific core-only Harmony graphs; common program controls and core-library standardization; compare neighborhood coherence with expanded-gate results. Expanded-gate QC fit used for residual comparison.",
+  "primary_feature_clarification": "Primary unsupervised HVGs can contain interpreted genes; programs are not used as a handpicked-only feature basis. Separate all-program-gene-excluded embedding tests dependence.",
+  "cycling_labels": "Multi-gene cycling-enriched clusters explicitly labeled as control states, not microenvironment-induced types."
+}

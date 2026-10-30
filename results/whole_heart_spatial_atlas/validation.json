@@ -1,0 +1,46 @@
+{
+  "status": "PASS",
+  "stages": [
+    {
+      "stage": "P0",
+      "original_cells_checked": 47611,
+      "count_entries_checked": 4019102,
+      "resolved_cells": 37066,
+      "native_zoom_polygons_checked": 2367,
+      "independent_brute_force_neighborhood_cells": 50,
+      "count_and_coordinate_conservation": true,
+      "nonCM_anchor_and_mixed_rules_independently_recomputed": true
+    },
+    {
+      "stage": "P7",
+      "original_cells_checked": 99429,
+      "count_entries_checked": 9349242,
+      "resolved_cells": 76818,
+      "native_zoom_polygons_checked": 1927,
+      "independent_brute_force_neighborhood_cells": 50,
+      "count_and_coordinate_conservation": true,
+      "nonCM_anchor_and_mixed_rules_independently_recomputed": true
+    },
+    {
+      "stage": "P14",
+      "original_cells_checked": 117070,
+      "count_entries_checked": 10959980,
+      "resolved_cells": 91212,
+      "native_zoom_polygons_checked": 1386,
+      "independent_brute_force_neighborhood_cells": 50,
+      "count_and_coordinate_conservation": true,
+      "nonCM_anchor_and_mixed_rules_independently_recomputed": true
+    },
+    {
+      "stage": "P21",
+      "original_cells_checked": 143944,
+      "count_entries_checked": 13536712,
+      "resolved_cells": 108511,
+      "native_zoom_polygons_checked": 1509,
+      "independent_brute_force_neighborhood_cells": 50,
+      "count_and_coordinate_conservation": true,
+      "nonCM_anchor_and_mixed_rules_independently_recomputed": true
+    }
+  ],
+  "scope": "Source count/coordinate conservation, marker rules, exported identities and spatial calculations; not independent anatomical or animal-level validation"
+}

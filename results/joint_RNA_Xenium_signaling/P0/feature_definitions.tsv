@@ -1,0 +1,909 @@
+name	source	ligand	radius_um	stat	feature_group	pair_id	pair_index	pathway	receptor
+ligand__CM__Agrn__50um__sum	CM	Agrn	50	sum	C	NA	NA	NA	NA
+ligand__CM__Agrn__50um__mean	CM	Agrn	50	mean	C	NA	NA	NA	NA
+ligand__CM__Bmp5__200um__sum	CM	Bmp5	200	sum	C	NA	NA	NA	NA
+ligand__CM__Bmp5__200um__mean	CM	Bmp5	200	mean	C	NA	NA	NA	NA
+ligand__CM__Cadm1__50um__sum	CM	Cadm1	50	sum	C	NA	NA	NA	NA
+ligand__CM__Cadm1__50um__mean	CM	Cadm1	50	mean	C	NA	NA	NA	NA
+ligand__CM__Cdh2__50um__sum	CM	Cdh2	50	sum	C	NA	NA	NA	NA
+ligand__CM__Cdh2__50um__mean	CM	Cdh2	50	mean	C	NA	NA	NA	NA
+ligand__CM__F11r__50um__sum	CM	F11r	50	sum	C	NA	NA	NA	NA
+ligand__CM__F11r__50um__mean	CM	F11r	50	mean	C	NA	NA	NA	NA
+ligand__CM__Fgf1__200um__sum	CM	Fgf1	200	sum	C	NA	NA	NA	NA
+ligand__CM__Fgf1__200um__mean	CM	Fgf1	200	mean	C	NA	NA	NA	NA
+ligand__CM__Gas6__200um__sum	CM	Gas6	200	sum	C	NA	NA	NA	NA
+ligand__CM__Gas6__200um__mean	CM	Gas6	200	mean	C	NA	NA	NA	NA
+ligand__CM__Hspg2__50um__sum	CM	Hspg2	50	sum	C	NA	NA	NA	NA
+ligand__CM__Hspg2__50um__mean	CM	Hspg2	50	mean	C	NA	NA	NA	NA
+ligand__CM__Igf1__200um__sum	CM	Igf1	200	sum	C	NA	NA	NA	NA
+ligand__CM__Igf1__200um__mean	CM	Igf1	200	mean	C	NA	NA	NA	NA
+ligand__CM__Lama4__50um__sum	CM	Lama4	50	sum	C	NA	NA	NA	NA
+ligand__CM__Lama4__50um__mean	CM	Lama4	50	mean	C	NA	NA	NA	NA
+ligand__CM__Lamc1__50um__sum	CM	Lamc1	50	sum	C	NA	NA	NA	NA
+ligand__CM__Lamc1__50um__mean	CM	Lamc1	50	mean	C	NA	NA	NA	NA
+ligand__CM__Mpzl1__50um__sum	CM	Mpzl1	50	sum	C	NA	NA	NA	NA
+ligand__CM__Mpzl1__50um__mean	CM	Mpzl1	50	mean	C	NA	NA	NA	NA
+ligand__CM__Nampt__200um__sum	CM	Nampt	200	sum	C	NA	NA	NA	NA
+ligand__CM__Nampt__200um__mean	CM	Nampt	200	mean	C	NA	NA	NA	NA
+ligand__CM__Ncam1__50um__sum	CM	Ncam1	50	sum	C	NA	NA	NA	NA
+ligand__CM__Ncam1__50um__mean	CM	Ncam1	50	mean	C	NA	NA	NA	NA
+ligand__CM__Ptprm__50um__sum	CM	Ptprm	50	sum	C	NA	NA	NA	NA
+ligand__CM__Ptprm__50um__mean	CM	Ptprm	50	mean	C	NA	NA	NA	NA
+ligand__EC:Capillary-like__Agrn__50um__sum	EC:Capillary-like	Agrn	50	sum	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Agrn__50um__mean	EC:Capillary-like	Agrn	50	mean	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Angpt2__200um__sum	EC:Capillary-like	Angpt2	200	sum	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Angpt2__200um__mean	EC:Capillary-like	Angpt2	200	mean	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Bmp6__200um__sum	EC:Capillary-like	Bmp6	200	sum	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Bmp6__200um__mean	EC:Capillary-like	Bmp6	200	mean	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Cdh2__50um__sum	EC:Capillary-like	Cdh2	50	sum	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Cdh2__50um__mean	EC:Capillary-like	Cdh2	50	mean	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Efnb2__50um__sum	EC:Capillary-like	Efnb2	50	sum	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Efnb2__50um__mean	EC:Capillary-like	Efnb2	50	mean	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__F11r__50um__sum	EC:Capillary-like	F11r	50	sum	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__F11r__50um__mean	EC:Capillary-like	F11r	50	mean	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Fn1__50um__sum	EC:Capillary-like	Fn1	50	sum	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Fn1__50um__mean	EC:Capillary-like	Fn1	50	mean	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Hspg2__50um__sum	EC:Capillary-like	Hspg2	50	sum	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Hspg2__50um__mean	EC:Capillary-like	Hspg2	50	mean	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Igf1__200um__sum	EC:Capillary-like	Igf1	200	sum	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Igf1__200um__mean	EC:Capillary-like	Igf1	200	mean	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Igf2__200um__sum	EC:Capillary-like	Igf2	200	sum	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Igf2__200um__mean	EC:Capillary-like	Igf2	200	mean	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Jag1__50um__sum	EC:Capillary-like	Jag1	50	sum	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Jag1__50um__mean	EC:Capillary-like	Jag1	50	mean	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Jam2__50um__sum	EC:Capillary-like	Jam2	50	sum	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Jam2__50um__mean	EC:Capillary-like	Jam2	50	mean	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Lama4__50um__sum	EC:Capillary-like	Lama4	50	sum	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Lama4__50um__mean	EC:Capillary-like	Lama4	50	mean	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Lamc1__50um__sum	EC:Capillary-like	Lamc1	50	sum	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Lamc1__50um__mean	EC:Capillary-like	Lamc1	50	mean	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Lgals9__200um__sum	EC:Capillary-like	Lgals9	200	sum	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Lgals9__200um__mean	EC:Capillary-like	Lgals9	200	mean	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Mpzl1__50um__sum	EC:Capillary-like	Mpzl1	50	sum	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Mpzl1__50um__mean	EC:Capillary-like	Mpzl1	50	mean	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Ncam1__50um__sum	EC:Capillary-like	Ncam1	50	sum	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Ncam1__50um__mean	EC:Capillary-like	Ncam1	50	mean	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Nrg1__200um__sum	EC:Capillary-like	Nrg1	200	sum	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Nrg1__200um__mean	EC:Capillary-like	Nrg1	200	mean	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Ptprm__50um__sum	EC:Capillary-like	Ptprm	50	sum	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Ptprm__50um__mean	EC:Capillary-like	Ptprm	50	mean	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Sema6a__50um__sum	EC:Capillary-like	Sema6a	50	sum	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Sema6a__50um__mean	EC:Capillary-like	Sema6a	50	mean	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Sema7a__50um__sum	EC:Capillary-like	Sema7a	50	sum	D	NA	NA	NA	NA
+ligand__EC:Capillary-like__Sema7a__50um__mean	EC:Capillary-like	Sema7a	50	mean	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Agrn__50um__sum	EC:Endocardial-like	Agrn	50	sum	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Agrn__50um__mean	EC:Endocardial-like	Agrn	50	mean	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Bmp6__200um__sum	EC:Endocardial-like	Bmp6	200	sum	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Bmp6__200um__mean	EC:Endocardial-like	Bmp6	200	mean	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Cadm1__50um__sum	EC:Endocardial-like	Cadm1	50	sum	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Cadm1__50um__mean	EC:Endocardial-like	Cadm1	50	mean	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Cdh2__50um__sum	EC:Endocardial-like	Cdh2	50	sum	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Cdh2__50um__mean	EC:Endocardial-like	Cdh2	50	mean	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Efnb2__50um__sum	EC:Endocardial-like	Efnb2	50	sum	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Efnb2__50um__mean	EC:Endocardial-like	Efnb2	50	mean	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__F11r__50um__sum	EC:Endocardial-like	F11r	50	sum	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__F11r__50um__mean	EC:Endocardial-like	F11r	50	mean	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Fn1__50um__sum	EC:Endocardial-like	Fn1	50	sum	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Fn1__50um__mean	EC:Endocardial-like	Fn1	50	mean	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Hspg2__50um__sum	EC:Endocardial-like	Hspg2	50	sum	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Hspg2__50um__mean	EC:Endocardial-like	Hspg2	50	mean	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Igf1__200um__sum	EC:Endocardial-like	Igf1	200	sum	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Igf1__200um__mean	EC:Endocardial-like	Igf1	200	mean	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Igf2__200um__sum	EC:Endocardial-like	Igf2	200	sum	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Igf2__200um__mean	EC:Endocardial-like	Igf2	200	mean	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Jag1__50um__sum	EC:Endocardial-like	Jag1	50	sum	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Jag1__50um__mean	EC:Endocardial-like	Jag1	50	mean	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Jam2__50um__sum	EC:Endocardial-like	Jam2	50	sum	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Jam2__50um__mean	EC:Endocardial-like	Jam2	50	mean	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Lama4__50um__sum	EC:Endocardial-like	Lama4	50	sum	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Lama4__50um__mean	EC:Endocardial-like	Lama4	50	mean	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Lamc1__50um__sum	EC:Endocardial-like	Lamc1	50	sum	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Lamc1__50um__mean	EC:Endocardial-like	Lamc1	50	mean	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Lgals9__200um__sum	EC:Endocardial-like	Lgals9	200	sum	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Lgals9__200um__mean	EC:Endocardial-like	Lgals9	200	mean	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Mpzl1__50um__sum	EC:Endocardial-like	Mpzl1	50	sum	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Mpzl1__50um__mean	EC:Endocardial-like	Mpzl1	50	mean	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Ncam1__50um__sum	EC:Endocardial-like	Ncam1	50	sum	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Ncam1__50um__mean	EC:Endocardial-like	Ncam1	50	mean	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Nrg1__200um__sum	EC:Endocardial-like	Nrg1	200	sum	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Nrg1__200um__mean	EC:Endocardial-like	Nrg1	200	mean	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Ptn__200um__sum	EC:Endocardial-like	Ptn	200	sum	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Ptn__200um__mean	EC:Endocardial-like	Ptn	200	mean	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Ptprm__50um__sum	EC:Endocardial-like	Ptprm	50	sum	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Ptprm__50um__mean	EC:Endocardial-like	Ptprm	50	mean	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Sema6a__50um__sum	EC:Endocardial-like	Sema6a	50	sum	D	NA	NA	NA	NA
+ligand__EC:Endocardial-like__Sema6a__50um__mean	EC:Endocardial-like	Sema6a	50	mean	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Agrn__50um__sum	EC:Unresolved	Agrn	50	sum	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Agrn__50um__mean	EC:Unresolved	Agrn	50	mean	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Bmp6__200um__sum	EC:Unresolved	Bmp6	200	sum	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Bmp6__200um__mean	EC:Unresolved	Bmp6	200	mean	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Cadm1__50um__sum	EC:Unresolved	Cadm1	50	sum	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Cadm1__50um__mean	EC:Unresolved	Cadm1	50	mean	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Cdh2__50um__sum	EC:Unresolved	Cdh2	50	sum	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Cdh2__50um__mean	EC:Unresolved	Cdh2	50	mean	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Efnb2__50um__sum	EC:Unresolved	Efnb2	50	sum	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Efnb2__50um__mean	EC:Unresolved	Efnb2	50	mean	D	NA	NA	NA	NA
+ligand__EC:Unresolved__F11r__50um__sum	EC:Unresolved	F11r	50	sum	D	NA	NA	NA	NA
+ligand__EC:Unresolved__F11r__50um__mean	EC:Unresolved	F11r	50	mean	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Fn1__50um__sum	EC:Unresolved	Fn1	50	sum	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Fn1__50um__mean	EC:Unresolved	Fn1	50	mean	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Gas6__200um__sum	EC:Unresolved	Gas6	200	sum	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Gas6__200um__mean	EC:Unresolved	Gas6	200	mean	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Hbegf__200um__sum	EC:Unresolved	Hbegf	200	sum	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Hbegf__200um__mean	EC:Unresolved	Hbegf	200	mean	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Hspg2__50um__sum	EC:Unresolved	Hspg2	50	sum	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Hspg2__50um__mean	EC:Unresolved	Hspg2	50	mean	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Igf1__200um__sum	EC:Unresolved	Igf1	200	sum	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Igf1__200um__mean	EC:Unresolved	Igf1	200	mean	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Igf2__200um__sum	EC:Unresolved	Igf2	200	sum	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Igf2__200um__mean	EC:Unresolved	Igf2	200	mean	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Jag1__50um__sum	EC:Unresolved	Jag1	50	sum	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Jag1__50um__mean	EC:Unresolved	Jag1	50	mean	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Jam2__50um__sum	EC:Unresolved	Jam2	50	sum	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Jam2__50um__mean	EC:Unresolved	Jam2	50	mean	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Lama4__50um__sum	EC:Unresolved	Lama4	50	sum	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Lama4__50um__mean	EC:Unresolved	Lama4	50	mean	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Lamc1__50um__sum	EC:Unresolved	Lamc1	50	sum	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Lamc1__50um__mean	EC:Unresolved	Lamc1	50	mean	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Lgals9__200um__sum	EC:Unresolved	Lgals9	200	sum	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Lgals9__200um__mean	EC:Unresolved	Lgals9	200	mean	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Mpzl1__50um__sum	EC:Unresolved	Mpzl1	50	sum	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Mpzl1__50um__mean	EC:Unresolved	Mpzl1	50	mean	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Nampt__200um__sum	EC:Unresolved	Nampt	200	sum	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Nampt__200um__mean	EC:Unresolved	Nampt	200	mean	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Ncam1__50um__sum	EC:Unresolved	Ncam1	50	sum	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Ncam1__50um__mean	EC:Unresolved	Ncam1	50	mean	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Nrg1__200um__sum	EC:Unresolved	Nrg1	200	sum	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Nrg1__200um__mean	EC:Unresolved	Nrg1	200	mean	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Ptn__200um__sum	EC:Unresolved	Ptn	200	sum	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Ptn__200um__mean	EC:Unresolved	Ptn	200	mean	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Ptprm__50um__sum	EC:Unresolved	Ptprm	50	sum	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Ptprm__50um__mean	EC:Unresolved	Ptprm	50	mean	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Sema6a__50um__sum	EC:Unresolved	Sema6a	50	sum	D	NA	NA	NA	NA
+ligand__EC:Unresolved__Sema6a__50um__mean	EC:Unresolved	Sema6a	50	mean	D	NA	NA	NA	NA
+ligand__FB:Postn__Angpt2__200um__sum	FB:Postn	Angpt2	200	sum	D	NA	NA	NA	NA
+ligand__FB:Postn__Angpt2__200um__mean	FB:Postn	Angpt2	200	mean	D	NA	NA	NA	NA
+ligand__FB:Postn__Angptl2__200um__sum	FB:Postn	Angptl2	200	sum	D	NA	NA	NA	NA
+ligand__FB:Postn__Angptl2__200um__mean	FB:Postn	Angptl2	200	mean	D	NA	NA	NA	NA
+ligand__FB:Postn__Bmp6__200um__sum	FB:Postn	Bmp6	200	sum	D	NA	NA	NA	NA
+ligand__FB:Postn__Bmp6__200um__mean	FB:Postn	Bmp6	200	mean	D	NA	NA	NA	NA
+ligand__FB:Postn__Cadm1__50um__sum	FB:Postn	Cadm1	50	sum	D	NA	NA	NA	NA
+ligand__FB:Postn__Cadm1__50um__mean	FB:Postn	Cadm1	50	mean	D	NA	NA	NA	NA
+ligand__FB:Postn__Cdh2__50um__sum	FB:Postn	Cdh2	50	sum	D	NA	NA	NA	NA
+ligand__FB:Postn__Cdh2__50um__mean	FB:Postn	Cdh2	50	mean	D	NA	NA	NA	NA
+ligand__FB:Postn__Col1a1__50um__sum	FB:Postn	Col1a1	50	sum	D	NA	NA	NA	NA
+ligand__FB:Postn__Col1a1__50um__mean	FB:Postn	Col1a1	50	mean	D	NA	NA	NA	NA
+ligand__FB:Postn__Col1a2__50um__sum	FB:Postn	Col1a2	50	sum	D	NA	NA	NA	NA
+ligand__FB:Postn__Col1a2__50um__mean	FB:Postn	Col1a2	50	mean	D	NA	NA	NA	NA
+ligand__FB:Postn__Fn1__50um__sum	FB:Postn	Fn1	50	sum	D	NA	NA	NA	NA
+ligand__FB:Postn__Fn1__50um__mean	FB:Postn	Fn1	50	mean	D	NA	NA	NA	NA
+ligand__FB:Postn__Hspg2__50um__sum	FB:Postn	Hspg2	50	sum	D	NA	NA	NA	NA
+ligand__FB:Postn__Hspg2__50um__mean	FB:Postn	Hspg2	50	mean	D	NA	NA	NA	NA
+ligand__FB:Postn__Igf1__200um__sum	FB:Postn	Igf1	200	sum	D	NA	NA	NA	NA
+ligand__FB:Postn__Igf1__200um__mean	FB:Postn	Igf1	200	mean	D	NA	NA	NA	NA
+ligand__FB:Postn__Jag1__50um__sum	FB:Postn	Jag1	50	sum	D	NA	NA	NA	NA
+ligand__FB:Postn__Jag1__50um__mean	FB:Postn	Jag1	50	mean	D	NA	NA	NA	NA
+ligand__FB:Postn__Lama4__50um__sum	FB:Postn	Lama4	50	sum	D	NA	NA	NA	NA
+ligand__FB:Postn__Lama4__50um__mean	FB:Postn	Lama4	50	mean	D	NA	NA	NA	NA
+ligand__FB:Postn__Lamc1__50um__sum	FB:Postn	Lamc1	50	sum	D	NA	NA	NA	NA
+ligand__FB:Postn__Lamc1__50um__mean	FB:Postn	Lamc1	50	mean	D	NA	NA	NA	NA
+ligand__FB:Postn__Mpzl1__50um__sum	FB:Postn	Mpzl1	50	sum	D	NA	NA	NA	NA
+ligand__FB:Postn__Mpzl1__50um__mean	FB:Postn	Mpzl1	50	mean	D	NA	NA	NA	NA
+ligand__FB:Postn__Ncam1__50um__sum	FB:Postn	Ncam1	50	sum	D	NA	NA	NA	NA
+ligand__FB:Postn__Ncam1__50um__mean	FB:Postn	Ncam1	50	mean	D	NA	NA	NA	NA
+ligand__FB:Postn__Ptn__200um__sum	FB:Postn	Ptn	200	sum	D	NA	NA	NA	NA
+ligand__FB:Postn__Ptn__200um__mean	FB:Postn	Ptn	200	mean	D	NA	NA	NA	NA
+ligand__FB:Postn__Ptprm__50um__sum	FB:Postn	Ptprm	50	sum	D	NA	NA	NA	NA
+ligand__FB:Postn__Ptprm__50um__mean	FB:Postn	Ptprm	50	mean	D	NA	NA	NA	NA
+ligand__FB:Postn__Sema3c__200um__sum	FB:Postn	Sema3c	200	sum	D	NA	NA	NA	NA
+ligand__FB:Postn__Sema3c__200um__mean	FB:Postn	Sema3c	200	mean	D	NA	NA	NA	NA
+ligand__FB:Postn__Sema6a__50um__sum	FB:Postn	Sema6a	50	sum	D	NA	NA	NA	NA
+ligand__FB:Postn__Sema6a__50um__mean	FB:Postn	Sema6a	50	mean	D	NA	NA	NA	NA
+ligand__FB:Postn__Thbs1__50um__sum	FB:Postn	Thbs1	50	sum	D	NA	NA	NA	NA
+ligand__FB:Postn__Thbs1__50um__mean	FB:Postn	Thbs1	50	mean	D	NA	NA	NA	NA
+ligand__FB:Postn__Tnc__50um__sum	FB:Postn	Tnc	50	sum	D	NA	NA	NA	NA
+ligand__FB:Postn__Tnc__50um__mean	FB:Postn	Tnc	50	mean	D	NA	NA	NA	NA
+ligand__FB:Postn__Tnxb__50um__sum	FB:Postn	Tnxb	50	sum	D	NA	NA	NA	NA
+ligand__FB:Postn__Tnxb__50um__mean	FB:Postn	Tnxb	50	mean	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Agrn__50um__sum	FB:Kirrel3	Agrn	50	sum	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Agrn__50um__mean	FB:Kirrel3	Agrn	50	mean	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Bmp5__200um__sum	FB:Kirrel3	Bmp5	200	sum	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Bmp5__200um__mean	FB:Kirrel3	Bmp5	200	mean	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Bmp6__200um__sum	FB:Kirrel3	Bmp6	200	sum	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Bmp6__200um__mean	FB:Kirrel3	Bmp6	200	mean	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Cadm1__50um__sum	FB:Kirrel3	Cadm1	50	sum	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Cadm1__50um__mean	FB:Kirrel3	Cadm1	50	mean	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Cdh2__50um__sum	FB:Kirrel3	Cdh2	50	sum	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Cdh2__50um__mean	FB:Kirrel3	Cdh2	50	mean	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Col1a1__50um__sum	FB:Kirrel3	Col1a1	50	sum	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Col1a1__50um__mean	FB:Kirrel3	Col1a1	50	mean	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Col1a2__50um__sum	FB:Kirrel3	Col1a2	50	sum	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Col1a2__50um__mean	FB:Kirrel3	Col1a2	50	mean	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Fgf2__200um__sum	FB:Kirrel3	Fgf2	200	sum	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Fgf2__200um__mean	FB:Kirrel3	Fgf2	200	mean	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Fn1__50um__sum	FB:Kirrel3	Fn1	50	sum	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Fn1__50um__mean	FB:Kirrel3	Fn1	50	mean	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Hspg2__50um__sum	FB:Kirrel3	Hspg2	50	sum	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Hspg2__50um__mean	FB:Kirrel3	Hspg2	50	mean	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Igf1__200um__sum	FB:Kirrel3	Igf1	200	sum	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Igf1__200um__mean	FB:Kirrel3	Igf1	200	mean	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Lama4__50um__sum	FB:Kirrel3	Lama4	50	sum	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Lama4__50um__mean	FB:Kirrel3	Lama4	50	mean	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Lamc1__50um__sum	FB:Kirrel3	Lamc1	50	sum	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Lamc1__50um__mean	FB:Kirrel3	Lamc1	50	mean	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Mpzl1__50um__sum	FB:Kirrel3	Mpzl1	50	sum	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Mpzl1__50um__mean	FB:Kirrel3	Mpzl1	50	mean	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Ncam1__50um__sum	FB:Kirrel3	Ncam1	50	sum	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Ncam1__50um__mean	FB:Kirrel3	Ncam1	50	mean	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Ptn__200um__sum	FB:Kirrel3	Ptn	200	sum	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Ptn__200um__mean	FB:Kirrel3	Ptn	200	mean	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Ptprm__50um__sum	FB:Kirrel3	Ptprm	50	sum	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Ptprm__50um__mean	FB:Kirrel3	Ptprm	50	mean	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Sema3c__200um__sum	FB:Kirrel3	Sema3c	200	sum	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Sema3c__200um__mean	FB:Kirrel3	Sema3c	200	mean	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Sema6a__50um__sum	FB:Kirrel3	Sema6a	50	sum	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Sema6a__50um__mean	FB:Kirrel3	Sema6a	50	mean	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Thbs1__50um__sum	FB:Kirrel3	Thbs1	50	sum	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Thbs1__50um__mean	FB:Kirrel3	Thbs1	50	mean	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Tnc__50um__sum	FB:Kirrel3	Tnc	50	sum	D	NA	NA	NA	NA
+ligand__FB:Kirrel3__Tnc__50um__mean	FB:Kirrel3	Tnc	50	mean	D	NA	NA	NA	NA
+ligand__Pericyte__Agrn__50um__sum	Pericyte	Agrn	50	sum	D	NA	NA	NA	NA
+ligand__Pericyte__Agrn__50um__mean	Pericyte	Agrn	50	mean	D	NA	NA	NA	NA
+ligand__Pericyte__Bmp5__200um__sum	Pericyte	Bmp5	200	sum	D	NA	NA	NA	NA
+ligand__Pericyte__Bmp5__200um__mean	Pericyte	Bmp5	200	mean	D	NA	NA	NA	NA
+ligand__Pericyte__Cdh2__50um__sum	Pericyte	Cdh2	50	sum	D	NA	NA	NA	NA
+ligand__Pericyte__Cdh2__50um__mean	Pericyte	Cdh2	50	mean	D	NA	NA	NA	NA
+ligand__Pericyte__Col1a1__50um__sum	Pericyte	Col1a1	50	sum	D	NA	NA	NA	NA
+ligand__Pericyte__Col1a1__50um__mean	Pericyte	Col1a1	50	mean	D	NA	NA	NA	NA
+ligand__Pericyte__Col1a2__50um__sum	Pericyte	Col1a2	50	sum	D	NA	NA	NA	NA
+ligand__Pericyte__Col1a2__50um__mean	Pericyte	Col1a2	50	mean	D	NA	NA	NA	NA
+ligand__Pericyte__Fn1__50um__sum	Pericyte	Fn1	50	sum	D	NA	NA	NA	NA
+ligand__Pericyte__Fn1__50um__mean	Pericyte	Fn1	50	mean	D	NA	NA	NA	NA
+ligand__Pericyte__Lama4__50um__sum	Pericyte	Lama4	50	sum	D	NA	NA	NA	NA
+ligand__Pericyte__Lama4__50um__mean	Pericyte	Lama4	50	mean	D	NA	NA	NA	NA
+ligand__Pericyte__Lamc1__50um__sum	Pericyte	Lamc1	50	sum	D	NA	NA	NA	NA
+ligand__Pericyte__Lamc1__50um__mean	Pericyte	Lamc1	50	mean	D	NA	NA	NA	NA
+ligand__Pericyte__Mpzl1__50um__sum	Pericyte	Mpzl1	50	sum	D	NA	NA	NA	NA
+ligand__Pericyte__Mpzl1__50um__mean	Pericyte	Mpzl1	50	mean	D	NA	NA	NA	NA
+ligand__Pericyte__Ncam1__50um__sum	Pericyte	Ncam1	50	sum	D	NA	NA	NA	NA
+ligand__Pericyte__Ncam1__50um__mean	Pericyte	Ncam1	50	mean	D	NA	NA	NA	NA
+ligand__Pericyte__Ptn__200um__sum	Pericyte	Ptn	200	sum	D	NA	NA	NA	NA
+ligand__Pericyte__Ptn__200um__mean	Pericyte	Ptn	200	mean	D	NA	NA	NA	NA
+ligand__Pericyte__Ptprm__50um__sum	Pericyte	Ptprm	50	sum	D	NA	NA	NA	NA
+ligand__Pericyte__Ptprm__50um__mean	Pericyte	Ptprm	50	mean	D	NA	NA	NA	NA
+ligand__Pericyte__Sema7a__50um__sum	Pericyte	Sema7a	50	sum	D	NA	NA	NA	NA
+ligand__Pericyte__Sema7a__50um__mean	Pericyte	Sema7a	50	mean	D	NA	NA	NA	NA
+ligand__Pericyte__Tnc__50um__sum	Pericyte	Tnc	50	sum	D	NA	NA	NA	NA
+ligand__Pericyte__Tnc__50um__mean	Pericyte	Tnc	50	mean	D	NA	NA	NA	NA
+ligand__Smooth muscle__Agrn__50um__sum	Smooth muscle	Agrn	50	sum	D	NA	NA	NA	NA
+ligand__Smooth muscle__Agrn__50um__mean	Smooth muscle	Agrn	50	mean	D	NA	NA	NA	NA
+ligand__Smooth muscle__Bmp5__200um__sum	Smooth muscle	Bmp5	200	sum	D	NA	NA	NA	NA
+ligand__Smooth muscle__Bmp5__200um__mean	Smooth muscle	Bmp5	200	mean	D	NA	NA	NA	NA
+ligand__Smooth muscle__Bmp6__200um__sum	Smooth muscle	Bmp6	200	sum	D	NA	NA	NA	NA
+ligand__Smooth muscle__Bmp6__200um__mean	Smooth muscle	Bmp6	200	mean	D	NA	NA	NA	NA
+ligand__Smooth muscle__Cdh2__50um__sum	Smooth muscle	Cdh2	50	sum	D	NA	NA	NA	NA
+ligand__Smooth muscle__Cdh2__50um__mean	Smooth muscle	Cdh2	50	mean	D	NA	NA	NA	NA
+ligand__Smooth muscle__Col1a1__50um__sum	Smooth muscle	Col1a1	50	sum	D	NA	NA	NA	NA
+ligand__Smooth muscle__Col1a1__50um__mean	Smooth muscle	Col1a1	50	mean	D	NA	NA	NA	NA
+ligand__Smooth muscle__Col1a2__50um__sum	Smooth muscle	Col1a2	50	sum	D	NA	NA	NA	NA
+ligand__Smooth muscle__Col1a2__50um__mean	Smooth muscle	Col1a2	50	mean	D	NA	NA	NA	NA
+ligand__Smooth muscle__Efnb2__50um__sum	Smooth muscle	Efnb2	50	sum	D	NA	NA	NA	NA
+ligand__Smooth muscle__Efnb2__50um__mean	Smooth muscle	Efnb2	50	mean	D	NA	NA	NA	NA
+ligand__Smooth muscle__Fgf1__200um__sum	Smooth muscle	Fgf1	200	sum	D	NA	NA	NA	NA
+ligand__Smooth muscle__Fgf1__200um__mean	Smooth muscle	Fgf1	200	mean	D	NA	NA	NA	NA
+ligand__Smooth muscle__Fgf2__200um__sum	Smooth muscle	Fgf2	200	sum	D	NA	NA	NA	NA
+ligand__Smooth muscle__Fgf2__200um__mean	Smooth muscle	Fgf2	200	mean	D	NA	NA	NA	NA
+ligand__Smooth muscle__Fn1__50um__sum	Smooth muscle	Fn1	50	sum	D	NA	NA	NA	NA
+ligand__Smooth muscle__Fn1__50um__mean	Smooth muscle	Fn1	50	mean	D	NA	NA	NA	NA
+ligand__Smooth muscle__Hspg2__50um__sum	Smooth muscle	Hspg2	50	sum	D	NA	NA	NA	NA
+ligand__Smooth muscle__Hspg2__50um__mean	Smooth muscle	Hspg2	50	mean	D	NA	NA	NA	NA
+ligand__Smooth muscle__Jag1__50um__sum	Smooth muscle	Jag1	50	sum	D	NA	NA	NA	NA
+ligand__Smooth muscle__Jag1__50um__mean	Smooth muscle	Jag1	50	mean	D	NA	NA	NA	NA
+ligand__Smooth muscle__Lama4__50um__sum	Smooth muscle	Lama4	50	sum	D	NA	NA	NA	NA
+ligand__Smooth muscle__Lama4__50um__mean	Smooth muscle	Lama4	50	mean	D	NA	NA	NA	NA
+ligand__Smooth muscle__Lamc1__50um__sum	Smooth muscle	Lamc1	50	sum	D	NA	NA	NA	NA
+ligand__Smooth muscle__Lamc1__50um__mean	Smooth muscle	Lamc1	50	mean	D	NA	NA	NA	NA
+ligand__Smooth muscle__Mpzl1__50um__sum	Smooth muscle	Mpzl1	50	sum	D	NA	NA	NA	NA
+ligand__Smooth muscle__Mpzl1__50um__mean	Smooth muscle	Mpzl1	50	mean	D	NA	NA	NA	NA
+ligand__Smooth muscle__Ncam1__50um__sum	Smooth muscle	Ncam1	50	sum	D	NA	NA	NA	NA
+ligand__Smooth muscle__Ncam1__50um__mean	Smooth muscle	Ncam1	50	mean	D	NA	NA	NA	NA
+ligand__Smooth muscle__Ptn__200um__sum	Smooth muscle	Ptn	200	sum	D	NA	NA	NA	NA
+ligand__Smooth muscle__Ptn__200um__mean	Smooth muscle	Ptn	200	mean	D	NA	NA	NA	NA
+ligand__Smooth muscle__Ptprm__50um__sum	Smooth muscle	Ptprm	50	sum	D	NA	NA	NA	NA
+ligand__Smooth muscle__Ptprm__50um__mean	Smooth muscle	Ptprm	50	mean	D	NA	NA	NA	NA
+ligand__Immune__Angpt2__200um__sum	Immune	Angpt2	200	sum	D	NA	NA	NA	NA
+ligand__Immune__Angpt2__200um__mean	Immune	Angpt2	200	mean	D	NA	NA	NA	NA
+ligand__Immune__Cadm1__50um__sum	Immune	Cadm1	50	sum	D	NA	NA	NA	NA
+ligand__Immune__Cadm1__50um__mean	Immune	Cadm1	50	mean	D	NA	NA	NA	NA
+ligand__Immune__Cdh2__50um__sum	Immune	Cdh2	50	sum	D	NA	NA	NA	NA
+ligand__Immune__Cdh2__50um__mean	Immune	Cdh2	50	mean	D	NA	NA	NA	NA
+ligand__Immune__Col1a1__50um__sum	Immune	Col1a1	50	sum	D	NA	NA	NA	NA
+ligand__Immune__Col1a1__50um__mean	Immune	Col1a1	50	mean	D	NA	NA	NA	NA
+ligand__Immune__Col1a2__50um__sum	Immune	Col1a2	50	sum	D	NA	NA	NA	NA
+ligand__Immune__Col1a2__50um__mean	Immune	Col1a2	50	mean	D	NA	NA	NA	NA
+ligand__Immune__Efnb2__50um__sum	Immune	Efnb2	50	sum	D	NA	NA	NA	NA
+ligand__Immune__Efnb2__50um__mean	Immune	Efnb2	50	mean	D	NA	NA	NA	NA
+ligand__Immune__F11r__50um__sum	Immune	F11r	50	sum	D	NA	NA	NA	NA
+ligand__Immune__F11r__50um__mean	Immune	F11r	50	mean	D	NA	NA	NA	NA
+ligand__Immune__Fgf1__200um__sum	Immune	Fgf1	200	sum	D	NA	NA	NA	NA
+ligand__Immune__Fgf1__200um__mean	Immune	Fgf1	200	mean	D	NA	NA	NA	NA
+ligand__Immune__Fn1__50um__sum	Immune	Fn1	50	sum	D	NA	NA	NA	NA
+ligand__Immune__Fn1__50um__mean	Immune	Fn1	50	mean	D	NA	NA	NA	NA
+ligand__Immune__Gas6__200um__sum	Immune	Gas6	200	sum	D	NA	NA	NA	NA
+ligand__Immune__Gas6__200um__mean	Immune	Gas6	200	mean	D	NA	NA	NA	NA
+ligand__Immune__Grn__200um__sum	Immune	Grn	200	sum	D	NA	NA	NA	NA
+ligand__Immune__Grn__200um__mean	Immune	Grn	200	mean	D	NA	NA	NA	NA
+ligand__Immune__Hspg2__50um__sum	Immune	Hspg2	50	sum	D	NA	NA	NA	NA
+ligand__Immune__Hspg2__50um__mean	Immune	Hspg2	50	mean	D	NA	NA	NA	NA
+ligand__Immune__Igf1__200um__sum	Immune	Igf1	200	sum	D	NA	NA	NA	NA
+ligand__Immune__Igf1__200um__mean	Immune	Igf1	200	mean	D	NA	NA	NA	NA
+ligand__Immune__Lama4__50um__sum	Immune	Lama4	50	sum	D	NA	NA	NA	NA
+ligand__Immune__Lama4__50um__mean	Immune	Lama4	50	mean	D	NA	NA	NA	NA
+ligand__Immune__Lamc1__50um__sum	Immune	Lamc1	50	sum	D	NA	NA	NA	NA
+ligand__Immune__Lamc1__50um__mean	Immune	Lamc1	50	mean	D	NA	NA	NA	NA
+ligand__Immune__Lgals9__200um__sum	Immune	Lgals9	200	sum	D	NA	NA	NA	NA
+ligand__Immune__Lgals9__200um__mean	Immune	Lgals9	200	mean	D	NA	NA	NA	NA
+ligand__Immune__Mpzl1__50um__sum	Immune	Mpzl1	50	sum	D	NA	NA	NA	NA
+ligand__Immune__Mpzl1__50um__mean	Immune	Mpzl1	50	mean	D	NA	NA	NA	NA
+ligand__Immune__Nampt__200um__sum	Immune	Nampt	200	sum	D	NA	NA	NA	NA
+ligand__Immune__Nampt__200um__mean	Immune	Nampt	200	mean	D	NA	NA	NA	NA
+ligand__Immune__Ncam1__50um__sum	Immune	Ncam1	50	sum	D	NA	NA	NA	NA
+ligand__Immune__Ncam1__50um__mean	Immune	Ncam1	50	mean	D	NA	NA	NA	NA
+ligand__Immune__Nrg2__200um__sum	Immune	Nrg2	200	sum	D	NA	NA	NA	NA
+ligand__Immune__Nrg2__200um__mean	Immune	Nrg2	200	mean	D	NA	NA	NA	NA
+ligand__Immune__Ptn__200um__sum	Immune	Ptn	200	sum	D	NA	NA	NA	NA
+ligand__Immune__Ptn__200um__mean	Immune	Ptn	200	mean	D	NA	NA	NA	NA
+ligand__Immune__Ptprm__50um__sum	Immune	Ptprm	50	sum	D	NA	NA	NA	NA
+ligand__Immune__Ptprm__50um__mean	Immune	Ptprm	50	mean	D	NA	NA	NA	NA
+ligand__Immune__Sema6a__50um__sum	Immune	Sema6a	50	sum	D	NA	NA	NA	NA
+ligand__Immune__Sema6a__50um__mean	Immune	Sema6a	50	mean	D	NA	NA	NA	NA
+ligand__Immune__Sema7a__50um__sum	Immune	Sema7a	50	sum	D	NA	NA	NA	NA
+ligand__Immune__Sema7a__50um__mean	Immune	Sema7a	50	mean	D	NA	NA	NA	NA
+ligand__Immune__Tnxb__50um__sum	Immune	Tnxb	50	sum	D	NA	NA	NA	NA
+ligand__Immune__Tnxb__50um__mean	Immune	Tnxb	50	mean	D	NA	NA	NA	NA
+ligand__Epicardial__Agrn__50um__sum	Epicardial	Agrn	50	sum	D	NA	NA	NA	NA
+ligand__Epicardial__Agrn__50um__mean	Epicardial	Agrn	50	mean	D	NA	NA	NA	NA
+ligand__Epicardial__Bmp6__200um__sum	Epicardial	Bmp6	200	sum	D	NA	NA	NA	NA
+ligand__Epicardial__Bmp6__200um__mean	Epicardial	Bmp6	200	mean	D	NA	NA	NA	NA
+ligand__Epicardial__Cadm1__50um__sum	Epicardial	Cadm1	50	sum	D	NA	NA	NA	NA
+ligand__Epicardial__Cadm1__50um__mean	Epicardial	Cadm1	50	mean	D	NA	NA	NA	NA
+ligand__Epicardial__Cdh2__50um__sum	Epicardial	Cdh2	50	sum	D	NA	NA	NA	NA
+ligand__Epicardial__Cdh2__50um__mean	Epicardial	Cdh2	50	mean	D	NA	NA	NA	NA
+ligand__Epicardial__Col1a1__50um__sum	Epicardial	Col1a1	50	sum	D	NA	NA	NA	NA
+ligand__Epicardial__Col1a1__50um__mean	Epicardial	Col1a1	50	mean	D	NA	NA	NA	NA
+ligand__Epicardial__Col1a2__50um__sum	Epicardial	Col1a2	50	sum	D	NA	NA	NA	NA
+ligand__Epicardial__Col1a2__50um__mean	Epicardial	Col1a2	50	mean	D	NA	NA	NA	NA
+ligand__Epicardial__Efnb2__50um__sum	Epicardial	Efnb2	50	sum	D	NA	NA	NA	NA
+ligand__Epicardial__Efnb2__50um__mean	Epicardial	Efnb2	50	mean	D	NA	NA	NA	NA
+ligand__Epicardial__F11r__50um__sum	Epicardial	F11r	50	sum	D	NA	NA	NA	NA
+ligand__Epicardial__F11r__50um__mean	Epicardial	F11r	50	mean	D	NA	NA	NA	NA
+ligand__Epicardial__Fgf1__200um__sum	Epicardial	Fgf1	200	sum	D	NA	NA	NA	NA
+ligand__Epicardial__Fgf1__200um__mean	Epicardial	Fgf1	200	mean	D	NA	NA	NA	NA
+ligand__Epicardial__Fn1__50um__sum	Epicardial	Fn1	50	sum	D	NA	NA	NA	NA
+ligand__Epicardial__Fn1__50um__mean	Epicardial	Fn1	50	mean	D	NA	NA	NA	NA
+ligand__Epicardial__Gas6__200um__sum	Epicardial	Gas6	200	sum	D	NA	NA	NA	NA
+ligand__Epicardial__Gas6__200um__mean	Epicardial	Gas6	200	mean	D	NA	NA	NA	NA
+ligand__Epicardial__Igf1__200um__sum	Epicardial	Igf1	200	sum	D	NA	NA	NA	NA
+ligand__Epicardial__Igf1__200um__mean	Epicardial	Igf1	200	mean	D	NA	NA	NA	NA
+ligand__Epicardial__Igf2__200um__sum	Epicardial	Igf2	200	sum	D	NA	NA	NA	NA
+ligand__Epicardial__Igf2__200um__mean	Epicardial	Igf2	200	mean	D	NA	NA	NA	NA
+ligand__Epicardial__Lama4__50um__sum	Epicardial	Lama4	50	sum	D	NA	NA	NA	NA
+ligand__Epicardial__Lama4__50um__mean	Epicardial	Lama4	50	mean	D	NA	NA	NA	NA
+ligand__Epicardial__Lamc1__50um__sum	Epicardial	Lamc1	50	sum	D	NA	NA	NA	NA
+ligand__Epicardial__Lamc1__50um__mean	Epicardial	Lamc1	50	mean	D	NA	NA	NA	NA
+ligand__Epicardial__Ncam1__50um__sum	Epicardial	Ncam1	50	sum	D	NA	NA	NA	NA
+ligand__Epicardial__Ncam1__50um__mean	Epicardial	Ncam1	50	mean	D	NA	NA	NA	NA
+ligand__Epicardial__Nrg1__200um__sum	Epicardial	Nrg1	200	sum	D	NA	NA	NA	NA
+ligand__Epicardial__Nrg1__200um__mean	Epicardial	Nrg1	200	mean	D	NA	NA	NA	NA
+ligand__Epicardial__Nrg2__200um__sum	Epicardial	Nrg2	200	sum	D	NA	NA	NA	NA
+ligand__Epicardial__Nrg2__200um__mean	Epicardial	Nrg2	200	mean	D	NA	NA	NA	NA
+ligand__Epicardial__Ptn__200um__sum	Epicardial	Ptn	200	sum	D	NA	NA	NA	NA
+ligand__Epicardial__Ptn__200um__mean	Epicardial	Ptn	200	mean	D	NA	NA	NA	NA
+ligand__Epicardial__Ptprm__50um__sum	Epicardial	Ptprm	50	sum	D	NA	NA	NA	NA
+ligand__Epicardial__Ptprm__50um__mean	Epicardial	Ptprm	50	mean	D	NA	NA	NA	NA
+ligand__Epicardial__Sema3c__200um__sum	Epicardial	Sema3c	200	sum	D	NA	NA	NA	NA
+ligand__Epicardial__Sema3c__200um__mean	Epicardial	Sema3c	200	mean	D	NA	NA	NA	NA
+ligand__Epicardial__Sema6a__50um__sum	Epicardial	Sema6a	50	sum	D	NA	NA	NA	NA
+ligand__Epicardial__Sema6a__50um__mean	Epicardial	Sema6a	50	mean	D	NA	NA	NA	NA
+ligand__Epicardial__Thbs1__50um__sum	Epicardial	Thbs1	50	sum	D	NA	NA	NA	NA
+ligand__Epicardial__Thbs1__50um__mean	Epicardial	Thbs1	50	mean	D	NA	NA	NA	NA
+ligand__Epicardial__Tnxb__50um__sum	Epicardial	Tnxb	50	sum	D	NA	NA	NA	NA
+ligand__Epicardial__Tnxb__50um__mean	Epicardial	Tnxb	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Agrn__50um__sum	Broad:Endothelial	Agrn	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Agrn__50um__mean	Broad:Endothelial	Agrn	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Angpt2__200um__sum	Broad:Endothelial	Angpt2	200	sum	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Angpt2__200um__mean	Broad:Endothelial	Angpt2	200	mean	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Bmp6__200um__sum	Broad:Endothelial	Bmp6	200	sum	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Bmp6__200um__mean	Broad:Endothelial	Bmp6	200	mean	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Cadm1__50um__sum	Broad:Endothelial	Cadm1	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Cadm1__50um__mean	Broad:Endothelial	Cadm1	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Cdh2__50um__sum	Broad:Endothelial	Cdh2	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Cdh2__50um__mean	Broad:Endothelial	Cdh2	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Efnb2__50um__sum	Broad:Endothelial	Efnb2	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Efnb2__50um__mean	Broad:Endothelial	Efnb2	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__F11r__50um__sum	Broad:Endothelial	F11r	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__F11r__50um__mean	Broad:Endothelial	F11r	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Fn1__50um__sum	Broad:Endothelial	Fn1	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Fn1__50um__mean	Broad:Endothelial	Fn1	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Gas6__200um__sum	Broad:Endothelial	Gas6	200	sum	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Gas6__200um__mean	Broad:Endothelial	Gas6	200	mean	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Hspg2__50um__sum	Broad:Endothelial	Hspg2	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Hspg2__50um__mean	Broad:Endothelial	Hspg2	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Igf1__200um__sum	Broad:Endothelial	Igf1	200	sum	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Igf1__200um__mean	Broad:Endothelial	Igf1	200	mean	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Igf2__200um__sum	Broad:Endothelial	Igf2	200	sum	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Igf2__200um__mean	Broad:Endothelial	Igf2	200	mean	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Jag1__50um__sum	Broad:Endothelial	Jag1	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Jag1__50um__mean	Broad:Endothelial	Jag1	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Jam2__50um__sum	Broad:Endothelial	Jam2	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Jam2__50um__mean	Broad:Endothelial	Jam2	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Lama4__50um__sum	Broad:Endothelial	Lama4	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Lama4__50um__mean	Broad:Endothelial	Lama4	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Lamc1__50um__sum	Broad:Endothelial	Lamc1	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Lamc1__50um__mean	Broad:Endothelial	Lamc1	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Lgals9__200um__sum	Broad:Endothelial	Lgals9	200	sum	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Lgals9__200um__mean	Broad:Endothelial	Lgals9	200	mean	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Mpzl1__50um__sum	Broad:Endothelial	Mpzl1	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Mpzl1__50um__mean	Broad:Endothelial	Mpzl1	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Nampt__200um__sum	Broad:Endothelial	Nampt	200	sum	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Nampt__200um__mean	Broad:Endothelial	Nampt	200	mean	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Ncam1__50um__sum	Broad:Endothelial	Ncam1	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Ncam1__50um__mean	Broad:Endothelial	Ncam1	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Nrg1__200um__sum	Broad:Endothelial	Nrg1	200	sum	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Nrg1__200um__mean	Broad:Endothelial	Nrg1	200	mean	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Ptn__200um__sum	Broad:Endothelial	Ptn	200	sum	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Ptn__200um__mean	Broad:Endothelial	Ptn	200	mean	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Ptprm__50um__sum	Broad:Endothelial	Ptprm	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Ptprm__50um__mean	Broad:Endothelial	Ptprm	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Sema6a__50um__sum	Broad:Endothelial	Sema6a	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Sema6a__50um__mean	Broad:Endothelial	Sema6a	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Sema7a__50um__sum	Broad:Endothelial	Sema7a	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Endothelial__Sema7a__50um__mean	Broad:Endothelial	Sema7a	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Angpt2__200um__sum	Broad:Fibroblast	Angpt2	200	sum	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Angpt2__200um__mean	Broad:Fibroblast	Angpt2	200	mean	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Angptl2__200um__sum	Broad:Fibroblast	Angptl2	200	sum	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Angptl2__200um__mean	Broad:Fibroblast	Angptl2	200	mean	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Bmp6__200um__sum	Broad:Fibroblast	Bmp6	200	sum	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Bmp6__200um__mean	Broad:Fibroblast	Bmp6	200	mean	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Cadm1__50um__sum	Broad:Fibroblast	Cadm1	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Cadm1__50um__mean	Broad:Fibroblast	Cadm1	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Cdh2__50um__sum	Broad:Fibroblast	Cdh2	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Cdh2__50um__mean	Broad:Fibroblast	Cdh2	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Col1a1__50um__sum	Broad:Fibroblast	Col1a1	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Col1a1__50um__mean	Broad:Fibroblast	Col1a1	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Col1a2__50um__sum	Broad:Fibroblast	Col1a2	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Col1a2__50um__mean	Broad:Fibroblast	Col1a2	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Fgf2__200um__sum	Broad:Fibroblast	Fgf2	200	sum	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Fgf2__200um__mean	Broad:Fibroblast	Fgf2	200	mean	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Fn1__50um__sum	Broad:Fibroblast	Fn1	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Fn1__50um__mean	Broad:Fibroblast	Fn1	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Hspg2__50um__sum	Broad:Fibroblast	Hspg2	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Hspg2__50um__mean	Broad:Fibroblast	Hspg2	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Igf1__200um__sum	Broad:Fibroblast	Igf1	200	sum	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Igf1__200um__mean	Broad:Fibroblast	Igf1	200	mean	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Jag1__50um__sum	Broad:Fibroblast	Jag1	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Jag1__50um__mean	Broad:Fibroblast	Jag1	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Lama4__50um__sum	Broad:Fibroblast	Lama4	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Lama4__50um__mean	Broad:Fibroblast	Lama4	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Lamc1__50um__sum	Broad:Fibroblast	Lamc1	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Lamc1__50um__mean	Broad:Fibroblast	Lamc1	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Mpzl1__50um__sum	Broad:Fibroblast	Mpzl1	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Mpzl1__50um__mean	Broad:Fibroblast	Mpzl1	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Ncam1__50um__sum	Broad:Fibroblast	Ncam1	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Ncam1__50um__mean	Broad:Fibroblast	Ncam1	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Ptn__200um__sum	Broad:Fibroblast	Ptn	200	sum	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Ptn__200um__mean	Broad:Fibroblast	Ptn	200	mean	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Ptprm__50um__sum	Broad:Fibroblast	Ptprm	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Ptprm__50um__mean	Broad:Fibroblast	Ptprm	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Sema3c__200um__sum	Broad:Fibroblast	Sema3c	200	sum	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Sema3c__200um__mean	Broad:Fibroblast	Sema3c	200	mean	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Sema6a__50um__sum	Broad:Fibroblast	Sema6a	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Sema6a__50um__mean	Broad:Fibroblast	Sema6a	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Thbs1__50um__sum	Broad:Fibroblast	Thbs1	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Thbs1__50um__mean	Broad:Fibroblast	Thbs1	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Tnc__50um__sum	Broad:Fibroblast	Tnc	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Tnc__50um__mean	Broad:Fibroblast	Tnc	50	mean	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Tnxb__50um__sum	Broad:Fibroblast	Tnxb	50	sum	D	NA	NA	NA	NA
+ligand__Broad:Fibroblast__Tnxb__50um__mean	Broad:Fibroblast	Tnxb	50	mean	D	NA	NA	NA	NA
+cot__CM__Agrn--Dag1	CM	NA	50	NA	C	Agrn--Dag1	0	AGRN	NA
+cot__CM__Bmp5--Bmpr1a_Bmpr2	CM	NA	200	NA	C	Bmp5--Bmpr1a_Bmpr2	4	BMP	NA
+cot__CM__Cadm1--Cadm1	CM	NA	50	NA	C	Cadm1--Cadm1	6	CADM	NA
+cot__CM__Cdh2--Cdh2	CM	NA	50	NA	C	Cdh2--Cdh2	7	CDH	NA
+cot__CM__Fgf1--Fgfr2	CM	NA	200	NA	C	Fgf1--Fgfr2	12	FGF	NA
+cot__CM__Gas6--Mertk	CM	NA	200	NA	C	Gas6--Mertk	17	GAS	NA
+cot__CM__Hspg2--Dag1	CM	NA	50	NA	C	Hspg2--Dag1	19	HSPG	NA
+cot__CM__Igf1--Igf1r	CM	NA	200	NA	C	Igf1--Igf1r	20	IGF	NA
+cot__CM__F11r--F11r	CM	NA	50	NA	C	F11r--F11r	22	JAM	NA
+cot__CM__Lama4--Dag1	CM	NA	50	NA	C	Lama4--Dag1	24	LAMININ	NA
+cot__CM__Lamc1--Dag1	CM	NA	50	NA	C	Lamc1--Dag1	25	LAMININ	NA
+cot__CM__Mpzl1--Mpzl1	CM	NA	50	NA	C	Mpzl1--Mpzl1	26	MPZ	NA
+cot__CM__Ncam1--Ncam1	CM	NA	50	NA	C	Ncam1--Ncam1	27	NCAM	NA
+cot__CM__Ptprm--Ptprm	CM	NA	50	NA	C	Ptprm--Ptprm	33	PTPRM	NA
+cot__CM__Nampt--Insr	CM	NA	200	NA	C	Nampt--Insr	43	VISFATIN	NA
+cot__CM__Nampt--Itga5_Itgb1	CM	NA	200	NA	C	Nampt--Itga5_Itgb1	44	VISFATIN	NA
+cot__EC:Capillary-like__Agrn--Dag1	EC:Capillary-like	NA	50	NA	E	Agrn--Dag1	0	AGRN	NA
+cot__EC:Capillary-like__Angpt2--Itga5_Itgb1	EC:Capillary-like	NA	200	NA	E	Angpt2--Itga5_Itgb1	1	ANGPT	NA
+cot__EC:Capillary-like__Bmp6--Bmpr1a_Bmpr2	EC:Capillary-like	NA	200	NA	E	Bmp6--Bmpr1a_Bmpr2	5	BMP	NA
+cot__EC:Capillary-like__Cdh2--Cdh2	EC:Capillary-like	NA	50	NA	E	Cdh2--Cdh2	7	CDH	NA
+cot__EC:Capillary-like__Efnb2--Epha4	EC:Capillary-like	NA	50	NA	E	Efnb2--Epha4	11	EPHB	NA
+cot__EC:Capillary-like__Fn1--Cd44	EC:Capillary-like	NA	50	NA	E	Fn1--Cd44	14	FN1	NA
+cot__EC:Capillary-like__Fn1--Itga5_Itgb1	EC:Capillary-like	NA	50	NA	E	Fn1--Itga5_Itgb1	15	FN1	NA
+cot__EC:Capillary-like__Lgals9--Cd44	EC:Capillary-like	NA	200	NA	E	Lgals9--Cd44	16	GALECTIN	NA
+cot__EC:Capillary-like__Hspg2--Dag1	EC:Capillary-like	NA	50	NA	E	Hspg2--Dag1	19	HSPG	NA
+cot__EC:Capillary-like__Igf1--Igf1r	EC:Capillary-like	NA	200	NA	E	Igf1--Igf1r	20	IGF	NA
+cot__EC:Capillary-like__Igf2--Igf1r	EC:Capillary-like	NA	200	NA	E	Igf2--Igf1r	21	IGF	NA
+cot__EC:Capillary-like__F11r--F11r	EC:Capillary-like	NA	50	NA	E	F11r--F11r	22	JAM	NA
+cot__EC:Capillary-like__Jam2--F11r	EC:Capillary-like	NA	50	NA	E	Jam2--F11r	23	JAM	NA
+cot__EC:Capillary-like__Lama4--Dag1	EC:Capillary-like	NA	50	NA	E	Lama4--Dag1	24	LAMININ	NA
+cot__EC:Capillary-like__Lamc1--Dag1	EC:Capillary-like	NA	50	NA	E	Lamc1--Dag1	25	LAMININ	NA
+cot__EC:Capillary-like__Mpzl1--Mpzl1	EC:Capillary-like	NA	50	NA	E	Mpzl1--Mpzl1	26	MPZ	NA
+cot__EC:Capillary-like__Ncam1--Ncam1	EC:Capillary-like	NA	50	NA	E	Ncam1--Ncam1	27	NCAM	NA
+cot__EC:Capillary-like__Jag1--Notch2	EC:Capillary-like	NA	50	NA	E	Jag1--Notch2	28	NOTCH	NA
+cot__EC:Capillary-like__Nrg1--Erbb4	EC:Capillary-like	NA	200	NA	E	Nrg1--Erbb4	29	NRG	NA
+cot__EC:Capillary-like__Ptprm--Ptprm	EC:Capillary-like	NA	50	NA	E	Ptprm--Ptprm	33	PTPRM	NA
+cot__EC:Capillary-like__Sema6a--Plxna2	EC:Capillary-like	NA	50	NA	E	Sema6a--Plxna2	36	SEMA6	NA
+cot__EC:Capillary-like__Sema6a--Plxna4	EC:Capillary-like	NA	50	NA	E	Sema6a--Plxna4	37	SEMA6	NA
+cot__EC:Capillary-like__Sema7a--Itga1_Itgb1	EC:Capillary-like	NA	50	NA	E	Sema7a--Itga1_Itgb1	38	SEMA7	NA
+cot__EC:Endocardial-like__Agrn--Dag1	EC:Endocardial-like	NA	50	NA	E	Agrn--Dag1	0	AGRN	NA
+cot__EC:Endocardial-like__Bmp6--Bmpr1a_Bmpr2	EC:Endocardial-like	NA	200	NA	E	Bmp6--Bmpr1a_Bmpr2	5	BMP	NA
+cot__EC:Endocardial-like__Cadm1--Cadm1	EC:Endocardial-like	NA	50	NA	E	Cadm1--Cadm1	6	CADM	NA
+cot__EC:Endocardial-like__Cdh2--Cdh2	EC:Endocardial-like	NA	50	NA	E	Cdh2--Cdh2	7	CDH	NA
+cot__EC:Endocardial-like__Efnb2--Epha4	EC:Endocardial-like	NA	50	NA	E	Efnb2--Epha4	11	EPHB	NA
+cot__EC:Endocardial-like__Fn1--Cd44	EC:Endocardial-like	NA	50	NA	E	Fn1--Cd44	14	FN1	NA
+cot__EC:Endocardial-like__Fn1--Itga5_Itgb1	EC:Endocardial-like	NA	50	NA	E	Fn1--Itga5_Itgb1	15	FN1	NA
+cot__EC:Endocardial-like__Lgals9--Cd44	EC:Endocardial-like	NA	200	NA	E	Lgals9--Cd44	16	GALECTIN	NA
+cot__EC:Endocardial-like__Hspg2--Dag1	EC:Endocardial-like	NA	50	NA	E	Hspg2--Dag1	19	HSPG	NA
+cot__EC:Endocardial-like__Igf1--Igf1r	EC:Endocardial-like	NA	200	NA	E	Igf1--Igf1r	20	IGF	NA
+cot__EC:Endocardial-like__Igf2--Igf1r	EC:Endocardial-like	NA	200	NA	E	Igf2--Igf1r	21	IGF	NA
+cot__EC:Endocardial-like__F11r--F11r	EC:Endocardial-like	NA	50	NA	E	F11r--F11r	22	JAM	NA
+cot__EC:Endocardial-like__Jam2--F11r	EC:Endocardial-like	NA	50	NA	E	Jam2--F11r	23	JAM	NA
+cot__EC:Endocardial-like__Lama4--Dag1	EC:Endocardial-like	NA	50	NA	E	Lama4--Dag1	24	LAMININ	NA
+cot__EC:Endocardial-like__Lamc1--Dag1	EC:Endocardial-like	NA	50	NA	E	Lamc1--Dag1	25	LAMININ	NA
+cot__EC:Endocardial-like__Mpzl1--Mpzl1	EC:Endocardial-like	NA	50	NA	E	Mpzl1--Mpzl1	26	MPZ	NA
+cot__EC:Endocardial-like__Ncam1--Ncam1	EC:Endocardial-like	NA	50	NA	E	Ncam1--Ncam1	27	NCAM	NA
+cot__EC:Endocardial-like__Jag1--Notch2	EC:Endocardial-like	NA	50	NA	E	Jag1--Notch2	28	NOTCH	NA
+cot__EC:Endocardial-like__Nrg1--Erbb4	EC:Endocardial-like	NA	200	NA	E	Nrg1--Erbb4	29	NRG	NA
+cot__EC:Endocardial-like__Ptn--Ncl	EC:Endocardial-like	NA	200	NA	E	Ptn--Ncl	31	PTN	NA
+cot__EC:Endocardial-like__Ptn--Sdc2	EC:Endocardial-like	NA	200	NA	E	Ptn--Sdc2	32	PTN	NA
+cot__EC:Endocardial-like__Ptprm--Ptprm	EC:Endocardial-like	NA	50	NA	E	Ptprm--Ptprm	33	PTPRM	NA
+cot__EC:Endocardial-like__Sema6a--Plxna2	EC:Endocardial-like	NA	50	NA	E	Sema6a--Plxna2	36	SEMA6	NA
+cot__EC:Endocardial-like__Sema6a--Plxna4	EC:Endocardial-like	NA	50	NA	E	Sema6a--Plxna4	37	SEMA6	NA
+cot__EC:Unresolved__Agrn--Dag1	EC:Unresolved	NA	50	NA	E	Agrn--Dag1	0	AGRN	NA
+cot__EC:Unresolved__Bmp6--Bmpr1a_Bmpr2	EC:Unresolved	NA	200	NA	E	Bmp6--Bmpr1a_Bmpr2	5	BMP	NA
+cot__EC:Unresolved__Cadm1--Cadm1	EC:Unresolved	NA	50	NA	E	Cadm1--Cadm1	6	CADM	NA
+cot__EC:Unresolved__Cdh2--Cdh2	EC:Unresolved	NA	50	NA	E	Cdh2--Cdh2	7	CDH	NA
+cot__EC:Unresolved__Hbegf--Erbb4	EC:Unresolved	NA	200	NA	E	Hbegf--Erbb4	10	EGF	NA
+cot__EC:Unresolved__Efnb2--Epha4	EC:Unresolved	NA	50	NA	E	Efnb2--Epha4	11	EPHB	NA
+cot__EC:Unresolved__Fn1--Cd44	EC:Unresolved	NA	50	NA	E	Fn1--Cd44	14	FN1	NA
+cot__EC:Unresolved__Fn1--Itga5_Itgb1	EC:Unresolved	NA	50	NA	E	Fn1--Itga5_Itgb1	15	FN1	NA
+cot__EC:Unresolved__Lgals9--Cd44	EC:Unresolved	NA	200	NA	E	Lgals9--Cd44	16	GALECTIN	NA
+cot__EC:Unresolved__Gas6--Mertk	EC:Unresolved	NA	200	NA	E	Gas6--Mertk	17	GAS	NA
+cot__EC:Unresolved__Hspg2--Dag1	EC:Unresolved	NA	50	NA	E	Hspg2--Dag1	19	HSPG	NA
+cot__EC:Unresolved__Igf1--Igf1r	EC:Unresolved	NA	200	NA	E	Igf1--Igf1r	20	IGF	NA
+cot__EC:Unresolved__Igf2--Igf1r	EC:Unresolved	NA	200	NA	E	Igf2--Igf1r	21	IGF	NA
+cot__EC:Unresolved__F11r--F11r	EC:Unresolved	NA	50	NA	E	F11r--F11r	22	JAM	NA
+cot__EC:Unresolved__Jam2--F11r	EC:Unresolved	NA	50	NA	E	Jam2--F11r	23	JAM	NA
+cot__EC:Unresolved__Lama4--Dag1	EC:Unresolved	NA	50	NA	E	Lama4--Dag1	24	LAMININ	NA
+cot__EC:Unresolved__Lamc1--Dag1	EC:Unresolved	NA	50	NA	E	Lamc1--Dag1	25	LAMININ	NA
+cot__EC:Unresolved__Mpzl1--Mpzl1	EC:Unresolved	NA	50	NA	E	Mpzl1--Mpzl1	26	MPZ	NA
+cot__EC:Unresolved__Ncam1--Ncam1	EC:Unresolved	NA	50	NA	E	Ncam1--Ncam1	27	NCAM	NA
+cot__EC:Unresolved__Jag1--Notch2	EC:Unresolved	NA	50	NA	E	Jag1--Notch2	28	NOTCH	NA
+cot__EC:Unresolved__Nrg1--Erbb4	EC:Unresolved	NA	200	NA	E	Nrg1--Erbb4	29	NRG	NA
+cot__EC:Unresolved__Ptn--Ncl	EC:Unresolved	NA	200	NA	E	Ptn--Ncl	31	PTN	NA
+cot__EC:Unresolved__Ptn--Sdc2	EC:Unresolved	NA	200	NA	E	Ptn--Sdc2	32	PTN	NA
+cot__EC:Unresolved__Ptprm--Ptprm	EC:Unresolved	NA	50	NA	E	Ptprm--Ptprm	33	PTPRM	NA
+cot__EC:Unresolved__Sema6a--Plxna2	EC:Unresolved	NA	50	NA	E	Sema6a--Plxna2	36	SEMA6	NA
+cot__EC:Unresolved__Sema6a--Plxna4	EC:Unresolved	NA	50	NA	E	Sema6a--Plxna4	37	SEMA6	NA
+cot__EC:Unresolved__Nampt--Insr	EC:Unresolved	NA	200	NA	E	Nampt--Insr	43	VISFATIN	NA
+cot__EC:Unresolved__Nampt--Itga5_Itgb1	EC:Unresolved	NA	200	NA	E	Nampt--Itga5_Itgb1	44	VISFATIN	NA
+cot__FB:Postn__Angpt2--Itga5_Itgb1	FB:Postn	NA	200	NA	E	Angpt2--Itga5_Itgb1	1	ANGPT	NA
+cot__FB:Postn__Angptl2--Itga5_Itgb1	FB:Postn	NA	200	NA	E	Angptl2--Itga5_Itgb1	2	ANGPTL	NA
+cot__FB:Postn__Angptl2--Tlr4	FB:Postn	NA	200	NA	E	Angptl2--Tlr4	3	ANGPTL	NA
+cot__FB:Postn__Bmp6--Bmpr1a_Bmpr2	FB:Postn	NA	200	NA	E	Bmp6--Bmpr1a_Bmpr2	5	BMP	NA
+cot__FB:Postn__Cadm1--Cadm1	FB:Postn	NA	50	NA	E	Cadm1--Cadm1	6	CADM	NA
+cot__FB:Postn__Cdh2--Cdh2	FB:Postn	NA	50	NA	E	Cdh2--Cdh2	7	CDH	NA
+cot__FB:Postn__Col1a1--Itga9_Itgb1	FB:Postn	NA	50	NA	E	Col1a1--Itga9_Itgb1	8	COLLAGEN	NA
+cot__FB:Postn__Col1a2--Itga9_Itgb1	FB:Postn	NA	50	NA	E	Col1a2--Itga9_Itgb1	9	COLLAGEN	NA
+cot__FB:Postn__Fn1--Cd44	FB:Postn	NA	50	NA	E	Fn1--Cd44	14	FN1	NA
+cot__FB:Postn__Fn1--Itga5_Itgb1	FB:Postn	NA	50	NA	E	Fn1--Itga5_Itgb1	15	FN1	NA
+cot__FB:Postn__Hspg2--Dag1	FB:Postn	NA	50	NA	E	Hspg2--Dag1	19	HSPG	NA
+cot__FB:Postn__Igf1--Igf1r	FB:Postn	NA	200	NA	E	Igf1--Igf1r	20	IGF	NA
+cot__FB:Postn__Lama4--Dag1	FB:Postn	NA	50	NA	E	Lama4--Dag1	24	LAMININ	NA
+cot__FB:Postn__Lamc1--Dag1	FB:Postn	NA	50	NA	E	Lamc1--Dag1	25	LAMININ	NA
+cot__FB:Postn__Mpzl1--Mpzl1	FB:Postn	NA	50	NA	E	Mpzl1--Mpzl1	26	MPZ	NA
+cot__FB:Postn__Ncam1--Ncam1	FB:Postn	NA	50	NA	E	Ncam1--Ncam1	27	NCAM	NA
+cot__FB:Postn__Jag1--Notch2	FB:Postn	NA	50	NA	E	Jag1--Notch2	28	NOTCH	NA
+cot__FB:Postn__Ptn--Ncl	FB:Postn	NA	200	NA	E	Ptn--Ncl	31	PTN	NA
+cot__FB:Postn__Ptn--Sdc2	FB:Postn	NA	200	NA	E	Ptn--Sdc2	32	PTN	NA
+cot__FB:Postn__Ptprm--Ptprm	FB:Postn	NA	50	NA	E	Ptprm--Ptprm	33	PTPRM	NA
+cot__FB:Postn__Sema3c--Nrp1_Plxna2	FB:Postn	NA	200	NA	E	Sema3c--Nrp1_Plxna2	34	SEMA3	NA
+cot__FB:Postn__Sema3c--Nrp1_Plxna4	FB:Postn	NA	200	NA	E	Sema3c--Nrp1_Plxna4	35	SEMA3	NA
+cot__FB:Postn__Sema6a--Plxna2	FB:Postn	NA	50	NA	E	Sema6a--Plxna2	36	SEMA6	NA
+cot__FB:Postn__Sema6a--Plxna4	FB:Postn	NA	50	NA	E	Sema6a--Plxna4	37	SEMA6	NA
+cot__FB:Postn__Tnc--Itga9_Itgb1	FB:Postn	NA	50	NA	E	Tnc--Itga9_Itgb1	39	TENASCIN	NA
+cot__FB:Postn__Tnxb--Itga9_Itgb1	FB:Postn	NA	50	NA	E	Tnxb--Itga9_Itgb1	40	TENASCIN	NA
+cot__FB:Postn__Thbs1--Cd36	FB:Postn	NA	50	NA	E	Thbs1--Cd36	41	THBS	NA
+cot__FB:Postn__Thbs1--Cd47	FB:Postn	NA	50	NA	E	Thbs1--Cd47	42	THBS	NA
+cot__FB:Kirrel3__Agrn--Dag1	FB:Kirrel3	NA	50	NA	E	Agrn--Dag1	0	AGRN	NA
+cot__FB:Kirrel3__Bmp5--Bmpr1a_Bmpr2	FB:Kirrel3	NA	200	NA	E	Bmp5--Bmpr1a_Bmpr2	4	BMP	NA
+cot__FB:Kirrel3__Bmp6--Bmpr1a_Bmpr2	FB:Kirrel3	NA	200	NA	E	Bmp6--Bmpr1a_Bmpr2	5	BMP	NA
+cot__FB:Kirrel3__Cadm1--Cadm1	FB:Kirrel3	NA	50	NA	E	Cadm1--Cadm1	6	CADM	NA
+cot__FB:Kirrel3__Cdh2--Cdh2	FB:Kirrel3	NA	50	NA	E	Cdh2--Cdh2	7	CDH	NA
+cot__FB:Kirrel3__Col1a1--Itga9_Itgb1	FB:Kirrel3	NA	50	NA	E	Col1a1--Itga9_Itgb1	8	COLLAGEN	NA
+cot__FB:Kirrel3__Col1a2--Itga9_Itgb1	FB:Kirrel3	NA	50	NA	E	Col1a2--Itga9_Itgb1	9	COLLAGEN	NA
+cot__FB:Kirrel3__Fgf2--Fgfr2	FB:Kirrel3	NA	200	NA	E	Fgf2--Fgfr2	13	FGF	NA
+cot__FB:Kirrel3__Fn1--Cd44	FB:Kirrel3	NA	50	NA	E	Fn1--Cd44	14	FN1	NA
+cot__FB:Kirrel3__Fn1--Itga5_Itgb1	FB:Kirrel3	NA	50	NA	E	Fn1--Itga5_Itgb1	15	FN1	NA
+cot__FB:Kirrel3__Hspg2--Dag1	FB:Kirrel3	NA	50	NA	E	Hspg2--Dag1	19	HSPG	NA
+cot__FB:Kirrel3__Igf1--Igf1r	FB:Kirrel3	NA	200	NA	E	Igf1--Igf1r	20	IGF	NA
+cot__FB:Kirrel3__Lama4--Dag1	FB:Kirrel3	NA	50	NA	E	Lama4--Dag1	24	LAMININ	NA
+cot__FB:Kirrel3__Lamc1--Dag1	FB:Kirrel3	NA	50	NA	E	Lamc1--Dag1	25	LAMININ	NA
+cot__FB:Kirrel3__Mpzl1--Mpzl1	FB:Kirrel3	NA	50	NA	E	Mpzl1--Mpzl1	26	MPZ	NA
+cot__FB:Kirrel3__Ncam1--Ncam1	FB:Kirrel3	NA	50	NA	E	Ncam1--Ncam1	27	NCAM	NA
+cot__FB:Kirrel3__Ptn--Ncl	FB:Kirrel3	NA	200	NA	E	Ptn--Ncl	31	PTN	NA
+cot__FB:Kirrel3__Ptn--Sdc2	FB:Kirrel3	NA	200	NA	E	Ptn--Sdc2	32	PTN	NA
+cot__FB:Kirrel3__Ptprm--Ptprm	FB:Kirrel3	NA	50	NA	E	Ptprm--Ptprm	33	PTPRM	NA
+cot__FB:Kirrel3__Sema3c--Nrp1_Plxna2	FB:Kirrel3	NA	200	NA	E	Sema3c--Nrp1_Plxna2	34	SEMA3	NA
+cot__FB:Kirrel3__Sema3c--Nrp1_Plxna4	FB:Kirrel3	NA	200	NA	E	Sema3c--Nrp1_Plxna4	35	SEMA3	NA
+cot__FB:Kirrel3__Sema6a--Plxna2	FB:Kirrel3	NA	50	NA	E	Sema6a--Plxna2	36	SEMA6	NA
+cot__FB:Kirrel3__Sema6a--Plxna4	FB:Kirrel3	NA	50	NA	E	Sema6a--Plxna4	37	SEMA6	NA
+cot__FB:Kirrel3__Tnc--Itga9_Itgb1	FB:Kirrel3	NA	50	NA	E	Tnc--Itga9_Itgb1	39	TENASCIN	NA
+cot__FB:Kirrel3__Thbs1--Cd36	FB:Kirrel3	NA	50	NA	E	Thbs1--Cd36	41	THBS	NA
+cot__FB:Kirrel3__Thbs1--Cd47	FB:Kirrel3	NA	50	NA	E	Thbs1--Cd47	42	THBS	NA
+cot__Pericyte__Agrn--Dag1	Pericyte	NA	50	NA	E	Agrn--Dag1	0	AGRN	NA
+cot__Pericyte__Bmp5--Bmpr1a_Bmpr2	Pericyte	NA	200	NA	E	Bmp5--Bmpr1a_Bmpr2	4	BMP	NA
+cot__Pericyte__Cdh2--Cdh2	Pericyte	NA	50	NA	E	Cdh2--Cdh2	7	CDH	NA
+cot__Pericyte__Col1a1--Itga9_Itgb1	Pericyte	NA	50	NA	E	Col1a1--Itga9_Itgb1	8	COLLAGEN	NA
+cot__Pericyte__Col1a2--Itga9_Itgb1	Pericyte	NA	50	NA	E	Col1a2--Itga9_Itgb1	9	COLLAGEN	NA
+cot__Pericyte__Fn1--Cd44	Pericyte	NA	50	NA	E	Fn1--Cd44	14	FN1	NA
+cot__Pericyte__Fn1--Itga5_Itgb1	Pericyte	NA	50	NA	E	Fn1--Itga5_Itgb1	15	FN1	NA
+cot__Pericyte__Lama4--Dag1	Pericyte	NA	50	NA	E	Lama4--Dag1	24	LAMININ	NA
+cot__Pericyte__Lamc1--Dag1	Pericyte	NA	50	NA	E	Lamc1--Dag1	25	LAMININ	NA
+cot__Pericyte__Mpzl1--Mpzl1	Pericyte	NA	50	NA	E	Mpzl1--Mpzl1	26	MPZ	NA
+cot__Pericyte__Ncam1--Ncam1	Pericyte	NA	50	NA	E	Ncam1--Ncam1	27	NCAM	NA
+cot__Pericyte__Ptn--Ncl	Pericyte	NA	200	NA	E	Ptn--Ncl	31	PTN	NA
+cot__Pericyte__Ptn--Sdc2	Pericyte	NA	200	NA	E	Ptn--Sdc2	32	PTN	NA
+cot__Pericyte__Ptprm--Ptprm	Pericyte	NA	50	NA	E	Ptprm--Ptprm	33	PTPRM	NA
+cot__Pericyte__Sema7a--Itga1_Itgb1	Pericyte	NA	50	NA	E	Sema7a--Itga1_Itgb1	38	SEMA7	NA
+cot__Pericyte__Tnc--Itga9_Itgb1	Pericyte	NA	50	NA	E	Tnc--Itga9_Itgb1	39	TENASCIN	NA
+cot__Smooth muscle__Agrn--Dag1	Smooth muscle	NA	50	NA	E	Agrn--Dag1	0	AGRN	NA
+cot__Smooth muscle__Bmp5--Bmpr1a_Bmpr2	Smooth muscle	NA	200	NA	E	Bmp5--Bmpr1a_Bmpr2	4	BMP	NA
+cot__Smooth muscle__Bmp6--Bmpr1a_Bmpr2	Smooth muscle	NA	200	NA	E	Bmp6--Bmpr1a_Bmpr2	5	BMP	NA
+cot__Smooth muscle__Cdh2--Cdh2	Smooth muscle	NA	50	NA	E	Cdh2--Cdh2	7	CDH	NA
+cot__Smooth muscle__Col1a1--Itga9_Itgb1	Smooth muscle	NA	50	NA	E	Col1a1--Itga9_Itgb1	8	COLLAGEN	NA
+cot__Smooth muscle__Col1a2--Itga9_Itgb1	Smooth muscle	NA	50	NA	E	Col1a2--Itga9_Itgb1	9	COLLAGEN	NA
+cot__Smooth muscle__Efnb2--Epha4	Smooth muscle	NA	50	NA	E	Efnb2--Epha4	11	EPHB	NA
+cot__Smooth muscle__Fgf1--Fgfr2	Smooth muscle	NA	200	NA	E	Fgf1--Fgfr2	12	FGF	NA
+cot__Smooth muscle__Fgf2--Fgfr2	Smooth muscle	NA	200	NA	E	Fgf2--Fgfr2	13	FGF	NA
+cot__Smooth muscle__Fn1--Cd44	Smooth muscle	NA	50	NA	E	Fn1--Cd44	14	FN1	NA
+cot__Smooth muscle__Fn1--Itga5_Itgb1	Smooth muscle	NA	50	NA	E	Fn1--Itga5_Itgb1	15	FN1	NA
+cot__Smooth muscle__Hspg2--Dag1	Smooth muscle	NA	50	NA	E	Hspg2--Dag1	19	HSPG	NA
+cot__Smooth muscle__Lama4--Dag1	Smooth muscle	NA	50	NA	E	Lama4--Dag1	24	LAMININ	NA
+cot__Smooth muscle__Lamc1--Dag1	Smooth muscle	NA	50	NA	E	Lamc1--Dag1	25	LAMININ	NA
+cot__Smooth muscle__Mpzl1--Mpzl1	Smooth muscle	NA	50	NA	E	Mpzl1--Mpzl1	26	MPZ	NA
+cot__Smooth muscle__Ncam1--Ncam1	Smooth muscle	NA	50	NA	E	Ncam1--Ncam1	27	NCAM	NA
+cot__Smooth muscle__Jag1--Notch2	Smooth muscle	NA	50	NA	E	Jag1--Notch2	28	NOTCH	NA
+cot__Smooth muscle__Ptn--Ncl	Smooth muscle	NA	200	NA	E	Ptn--Ncl	31	PTN	NA
+cot__Smooth muscle__Ptn--Sdc2	Smooth muscle	NA	200	NA	E	Ptn--Sdc2	32	PTN	NA
+cot__Smooth muscle__Ptprm--Ptprm	Smooth muscle	NA	50	NA	E	Ptprm--Ptprm	33	PTPRM	NA
+cot__Immune__Angpt2--Itga5_Itgb1	Immune	NA	200	NA	E	Angpt2--Itga5_Itgb1	1	ANGPT	NA
+cot__Immune__Cadm1--Cadm1	Immune	NA	50	NA	E	Cadm1--Cadm1	6	CADM	NA
+cot__Immune__Cdh2--Cdh2	Immune	NA	50	NA	E	Cdh2--Cdh2	7	CDH	NA
+cot__Immune__Col1a1--Itga9_Itgb1	Immune	NA	50	NA	E	Col1a1--Itga9_Itgb1	8	COLLAGEN	NA
+cot__Immune__Col1a2--Itga9_Itgb1	Immune	NA	50	NA	E	Col1a2--Itga9_Itgb1	9	COLLAGEN	NA
+cot__Immune__Efnb2--Epha4	Immune	NA	50	NA	E	Efnb2--Epha4	11	EPHB	NA
+cot__Immune__Fgf1--Fgfr2	Immune	NA	200	NA	E	Fgf1--Fgfr2	12	FGF	NA
+cot__Immune__Fn1--Cd44	Immune	NA	50	NA	E	Fn1--Cd44	14	FN1	NA
+cot__Immune__Fn1--Itga5_Itgb1	Immune	NA	50	NA	E	Fn1--Itga5_Itgb1	15	FN1	NA
+cot__Immune__Lgals9--Cd44	Immune	NA	200	NA	E	Lgals9--Cd44	16	GALECTIN	NA
+cot__Immune__Gas6--Mertk	Immune	NA	200	NA	E	Gas6--Mertk	17	GAS	NA
+cot__Immune__Grn--Sort1	Immune	NA	200	NA	E	Grn--Sort1	18	GRN	NA
+cot__Immune__Hspg2--Dag1	Immune	NA	50	NA	E	Hspg2--Dag1	19	HSPG	NA
+cot__Immune__Igf1--Igf1r	Immune	NA	200	NA	E	Igf1--Igf1r	20	IGF	NA
+cot__Immune__F11r--F11r	Immune	NA	50	NA	E	F11r--F11r	22	JAM	NA
+cot__Immune__Lama4--Dag1	Immune	NA	50	NA	E	Lama4--Dag1	24	LAMININ	NA
+cot__Immune__Lamc1--Dag1	Immune	NA	50	NA	E	Lamc1--Dag1	25	LAMININ	NA
+cot__Immune__Mpzl1--Mpzl1	Immune	NA	50	NA	E	Mpzl1--Mpzl1	26	MPZ	NA
+cot__Immune__Ncam1--Ncam1	Immune	NA	50	NA	E	Ncam1--Ncam1	27	NCAM	NA
+cot__Immune__Nrg2--Erbb4	Immune	NA	200	NA	E	Nrg2--Erbb4	30	NRG	NA
+cot__Immune__Ptn--Ncl	Immune	NA	200	NA	E	Ptn--Ncl	31	PTN	NA
+cot__Immune__Ptn--Sdc2	Immune	NA	200	NA	E	Ptn--Sdc2	32	PTN	NA
+cot__Immune__Ptprm--Ptprm	Immune	NA	50	NA	E	Ptprm--Ptprm	33	PTPRM	NA
+cot__Immune__Sema6a--Plxna2	Immune	NA	50	NA	E	Sema6a--Plxna2	36	SEMA6	NA
+cot__Immune__Sema6a--Plxna4	Immune	NA	50	NA	E	Sema6a--Plxna4	37	SEMA6	NA
+cot__Immune__Sema7a--Itga1_Itgb1	Immune	NA	50	NA	E	Sema7a--Itga1_Itgb1	38	SEMA7	NA
+cot__Immune__Tnxb--Itga9_Itgb1	Immune	NA	50	NA	E	Tnxb--Itga9_Itgb1	40	TENASCIN	NA
+cot__Immune__Nampt--Insr	Immune	NA	200	NA	E	Nampt--Insr	43	VISFATIN	NA
+cot__Immune__Nampt--Itga5_Itgb1	Immune	NA	200	NA	E	Nampt--Itga5_Itgb1	44	VISFATIN	NA
+cot__Epicardial__Agrn--Dag1	Epicardial	NA	50	NA	E	Agrn--Dag1	0	AGRN	NA
+cot__Epicardial__Bmp6--Bmpr1a_Bmpr2	Epicardial	NA	200	NA	E	Bmp6--Bmpr1a_Bmpr2	5	BMP	NA
+cot__Epicardial__Cadm1--Cadm1	Epicardial	NA	50	NA	E	Cadm1--Cadm1	6	CADM	NA
+cot__Epicardial__Cdh2--Cdh2	Epicardial	NA	50	NA	E	Cdh2--Cdh2	7	CDH	NA
+cot__Epicardial__Col1a1--Itga9_Itgb1	Epicardial	NA	50	NA	E	Col1a1--Itga9_Itgb1	8	COLLAGEN	NA
+cot__Epicardial__Col1a2--Itga9_Itgb1	Epicardial	NA	50	NA	E	Col1a2--Itga9_Itgb1	9	COLLAGEN	NA
+cot__Epicardial__Efnb2--Epha4	Epicardial	NA	50	NA	E	Efnb2--Epha4	11	EPHB	NA
+cot__Epicardial__Fgf1--Fgfr2	Epicardial	NA	200	NA	E	Fgf1--Fgfr2	12	FGF	NA
+cot__Epicardial__Fn1--Cd44	Epicardial	NA	50	NA	E	Fn1--Cd44	14	FN1	NA
+cot__Epicardial__Fn1--Itga5_Itgb1	Epicardial	NA	50	NA	E	Fn1--Itga5_Itgb1	15	FN1	NA
+cot__Epicardial__Gas6--Mertk	Epicardial	NA	200	NA	E	Gas6--Mertk	17	GAS	NA
+cot__Epicardial__Igf1--Igf1r	Epicardial	NA	200	NA	E	Igf1--Igf1r	20	IGF	NA
+cot__Epicardial__Igf2--Igf1r	Epicardial	NA	200	NA	E	Igf2--Igf1r	21	IGF	NA
+cot__Epicardial__F11r--F11r	Epicardial	NA	50	NA	E	F11r--F11r	22	JAM	NA
+cot__Epicardial__Lama4--Dag1	Epicardial	NA	50	NA	E	Lama4--Dag1	24	LAMININ	NA
+cot__Epicardial__Lamc1--Dag1	Epicardial	NA	50	NA	E	Lamc1--Dag1	25	LAMININ	NA
+cot__Epicardial__Ncam1--Ncam1	Epicardial	NA	50	NA	E	Ncam1--Ncam1	27	NCAM	NA
+cot__Epicardial__Nrg1--Erbb4	Epicardial	NA	200	NA	E	Nrg1--Erbb4	29	NRG	NA
+cot__Epicardial__Nrg2--Erbb4	Epicardial	NA	200	NA	E	Nrg2--Erbb4	30	NRG	NA
+cot__Epicardial__Ptn--Ncl	Epicardial	NA	200	NA	E	Ptn--Ncl	31	PTN	NA
+cot__Epicardial__Ptn--Sdc2	Epicardial	NA	200	NA	E	Ptn--Sdc2	32	PTN	NA
+cot__Epicardial__Ptprm--Ptprm	Epicardial	NA	50	NA	E	Ptprm--Ptprm	33	PTPRM	NA
+cot__Epicardial__Sema3c--Nrp1_Plxna2	Epicardial	NA	200	NA	E	Sema3c--Nrp1_Plxna2	34	SEMA3	NA
+cot__Epicardial__Sema3c--Nrp1_Plxna4	Epicardial	NA	200	NA	E	Sema3c--Nrp1_Plxna4	35	SEMA3	NA
+cot__Epicardial__Sema6a--Plxna2	Epicardial	NA	50	NA	E	Sema6a--Plxna2	36	SEMA6	NA
+cot__Epicardial__Sema6a--Plxna4	Epicardial	NA	50	NA	E	Sema6a--Plxna4	37	SEMA6	NA
+cot__Epicardial__Tnxb--Itga9_Itgb1	Epicardial	NA	50	NA	E	Tnxb--Itga9_Itgb1	40	TENASCIN	NA
+cot__Epicardial__Thbs1--Cd36	Epicardial	NA	50	NA	E	Thbs1--Cd36	41	THBS	NA
+cot__Epicardial__Thbs1--Cd47	Epicardial	NA	50	NA	E	Thbs1--Cd47	42	THBS	NA
+cot__Broad:Endothelial__Agrn--Dag1	Broad:Endothelial	NA	50	NA	E	Agrn--Dag1	0	AGRN	NA
+cot__Broad:Endothelial__Angpt2--Itga5_Itgb1	Broad:Endothelial	NA	200	NA	E	Angpt2--Itga5_Itgb1	1	ANGPT	NA
+cot__Broad:Endothelial__Bmp6--Bmpr1a_Bmpr2	Broad:Endothelial	NA	200	NA	E	Bmp6--Bmpr1a_Bmpr2	5	BMP	NA
+cot__Broad:Endothelial__Cadm1--Cadm1	Broad:Endothelial	NA	50	NA	E	Cadm1--Cadm1	6	CADM	NA
+cot__Broad:Endothelial__Cdh2--Cdh2	Broad:Endothelial	NA	50	NA	E	Cdh2--Cdh2	7	CDH	NA
+cot__Broad:Endothelial__Efnb2--Epha4	Broad:Endothelial	NA	50	NA	E	Efnb2--Epha4	11	EPHB	NA
+cot__Broad:Endothelial__Fn1--Cd44	Broad:Endothelial	NA	50	NA	E	Fn1--Cd44	14	FN1	NA
+cot__Broad:Endothelial__Fn1--Itga5_Itgb1	Broad:Endothelial	NA	50	NA	E	Fn1--Itga5_Itgb1	15	FN1	NA
+cot__Broad:Endothelial__Lgals9--Cd44	Broad:Endothelial	NA	200	NA	E	Lgals9--Cd44	16	GALECTIN	NA
+cot__Broad:Endothelial__Gas6--Mertk	Broad:Endothelial	NA	200	NA	E	Gas6--Mertk	17	GAS	NA
+cot__Broad:Endothelial__Hspg2--Dag1	Broad:Endothelial	NA	50	NA	E	Hspg2--Dag1	19	HSPG	NA
+cot__Broad:Endothelial__Igf1--Igf1r	Broad:Endothelial	NA	200	NA	E	Igf1--Igf1r	20	IGF	NA
+cot__Broad:Endothelial__Igf2--Igf1r	Broad:Endothelial	NA	200	NA	E	Igf2--Igf1r	21	IGF	NA
+cot__Broad:Endothelial__F11r--F11r	Broad:Endothelial	NA	50	NA	E	F11r--F11r	22	JAM	NA
+cot__Broad:Endothelial__Jam2--F11r	Broad:Endothelial	NA	50	NA	E	Jam2--F11r	23	JAM	NA
+cot__Broad:Endothelial__Lama4--Dag1	Broad:Endothelial	NA	50	NA	E	Lama4--Dag1	24	LAMININ	NA
+cot__Broad:Endothelial__Lamc1--Dag1	Broad:Endothelial	NA	50	NA	E	Lamc1--Dag1	25	LAMININ	NA
+cot__Broad:Endothelial__Mpzl1--Mpzl1	Broad:Endothelial	NA	50	NA	E	Mpzl1--Mpzl1	26	MPZ	NA
+cot__Broad:Endothelial__Ncam1--Ncam1	Broad:Endothelial	NA	50	NA	E	Ncam1--Ncam1	27	NCAM	NA
+cot__Broad:Endothelial__Jag1--Notch2	Broad:Endothelial	NA	50	NA	E	Jag1--Notch2	28	NOTCH	NA
+cot__Broad:Endothelial__Nrg1--Erbb4	Broad:Endothelial	NA	200	NA	E	Nrg1--Erbb4	29	NRG	NA
+cot__Broad:Endothelial__Ptn--Ncl	Broad:Endothelial	NA	200	NA	E	Ptn--Ncl	31	PTN	NA
+cot__Broad:Endothelial__Ptn--Sdc2	Broad:Endothelial	NA	200	NA	E	Ptn--Sdc2	32	PTN	NA
+cot__Broad:Endothelial__Ptprm--Ptprm	Broad:Endothelial	NA	50	NA	E	Ptprm--Ptprm	33	PTPRM	NA
+cot__Broad:Endothelial__Sema6a--Plxna2	Broad:Endothelial	NA	50	NA	E	Sema6a--Plxna2	36	SEMA6	NA
+cot__Broad:Endothelial__Sema6a--Plxna4	Broad:Endothelial	NA	50	NA	E	Sema6a--Plxna4	37	SEMA6	NA
+cot__Broad:Endothelial__Sema7a--Itga1_Itgb1	Broad:Endothelial	NA	50	NA	E	Sema7a--Itga1_Itgb1	38	SEMA7	NA
+cot__Broad:Endothelial__Nampt--Insr	Broad:Endothelial	NA	200	NA	E	Nampt--Insr	43	VISFATIN	NA
+cot__Broad:Endothelial__Nampt--Itga5_Itgb1	Broad:Endothelial	NA	200	NA	E	Nampt--Itga5_Itgb1	44	VISFATIN	NA
+cot__Broad:Fibroblast__Angpt2--Itga5_Itgb1	Broad:Fibroblast	NA	200	NA	E	Angpt2--Itga5_Itgb1	1	ANGPT	NA
+cot__Broad:Fibroblast__Angptl2--Itga5_Itgb1	Broad:Fibroblast	NA	200	NA	E	Angptl2--Itga5_Itgb1	2	ANGPTL	NA
+cot__Broad:Fibroblast__Angptl2--Tlr4	Broad:Fibroblast	NA	200	NA	E	Angptl2--Tlr4	3	ANGPTL	NA
+cot__Broad:Fibroblast__Bmp6--Bmpr1a_Bmpr2	Broad:Fibroblast	NA	200	NA	E	Bmp6--Bmpr1a_Bmpr2	5	BMP	NA
+cot__Broad:Fibroblast__Cadm1--Cadm1	Broad:Fibroblast	NA	50	NA	E	Cadm1--Cadm1	6	CADM	NA
+cot__Broad:Fibroblast__Cdh2--Cdh2	Broad:Fibroblast	NA	50	NA	E	Cdh2--Cdh2	7	CDH	NA
+cot__Broad:Fibroblast__Col1a1--Itga9_Itgb1	Broad:Fibroblast	NA	50	NA	E	Col1a1--Itga9_Itgb1	8	COLLAGEN	NA
+cot__Broad:Fibroblast__Col1a2--Itga9_Itgb1	Broad:Fibroblast	NA	50	NA	E	Col1a2--Itga9_Itgb1	9	COLLAGEN	NA
+cot__Broad:Fibroblast__Fgf2--Fgfr2	Broad:Fibroblast	NA	200	NA	E	Fgf2--Fgfr2	13	FGF	NA
+cot__Broad:Fibroblast__Fn1--Cd44	Broad:Fibroblast	NA	50	NA	E	Fn1--Cd44	14	FN1	NA
+cot__Broad:Fibroblast__Fn1--Itga5_Itgb1	Broad:Fibroblast	NA	50	NA	E	Fn1--Itga5_Itgb1	15	FN1	NA
+cot__Broad:Fibroblast__Hspg2--Dag1	Broad:Fibroblast	NA	50	NA	E	Hspg2--Dag1	19	HSPG	NA
+cot__Broad:Fibroblast__Igf1--Igf1r	Broad:Fibroblast	NA	200	NA	E	Igf1--Igf1r	20	IGF	NA
+cot__Broad:Fibroblast__Lama4--Dag1	Broad:Fibroblast	NA	50	NA	E	Lama4--Dag1	24	LAMININ	NA
+cot__Broad:Fibroblast__Lamc1--Dag1	Broad:Fibroblast	NA	50	NA	E	Lamc1--Dag1	25	LAMININ	NA
+cot__Broad:Fibroblast__Mpzl1--Mpzl1	Broad:Fibroblast	NA	50	NA	E	Mpzl1--Mpzl1	26	MPZ	NA
+cot__Broad:Fibroblast__Ncam1--Ncam1	Broad:Fibroblast	NA	50	NA	E	Ncam1--Ncam1	27	NCAM	NA
+cot__Broad:Fibroblast__Jag1--Notch2	Broad:Fibroblast	NA	50	NA	E	Jag1--Notch2	28	NOTCH	NA
+cot__Broad:Fibroblast__Ptn--Ncl	Broad:Fibroblast	NA	200	NA	E	Ptn--Ncl	31	PTN	NA
+cot__Broad:Fibroblast__Ptn--Sdc2	Broad:Fibroblast	NA	200	NA	E	Ptn--Sdc2	32	PTN	NA
+cot__Broad:Fibroblast__Ptprm--Ptprm	Broad:Fibroblast	NA	50	NA	E	Ptprm--Ptprm	33	PTPRM	NA
+cot__Broad:Fibroblast__Sema3c--Nrp1_Plxna2	Broad:Fibroblast	NA	200	NA	E	Sema3c--Nrp1_Plxna2	34	SEMA3	NA
+cot__Broad:Fibroblast__Sema3c--Nrp1_Plxna4	Broad:Fibroblast	NA	200	NA	E	Sema3c--Nrp1_Plxna4	35	SEMA3	NA
+cot__Broad:Fibroblast__Sema6a--Plxna2	Broad:Fibroblast	NA	50	NA	E	Sema6a--Plxna2	36	SEMA6	NA
+cot__Broad:Fibroblast__Sema6a--Plxna4	Broad:Fibroblast	NA	50	NA	E	Sema6a--Plxna4	37	SEMA6	NA
+cot__Broad:Fibroblast__Tnc--Itga9_Itgb1	Broad:Fibroblast	NA	50	NA	E	Tnc--Itga9_Itgb1	39	TENASCIN	NA
+cot__Broad:Fibroblast__Tnxb--Itga9_Itgb1	Broad:Fibroblast	NA	50	NA	E	Tnxb--Itga9_Itgb1	40	TENASCIN	NA
+cot__Broad:Fibroblast__Thbs1--Cd36	Broad:Fibroblast	NA	50	NA	E	Thbs1--Cd36	41	THBS	NA
+cot__Broad:Fibroblast__Thbs1--Cd47	Broad:Fibroblast	NA	50	NA	E	Thbs1--Cd47	42	THBS	NA
+receptor__Bmpr1a_Bmpr2	Receiver CM	NA	NA	NA	B	NA	NA	NA	Bmpr1a_Bmpr2
+receptor__Cadm1	Receiver CM	NA	NA	NA	B	NA	NA	NA	Cadm1
+receptor__Cd36	Receiver CM	NA	NA	NA	B	NA	NA	NA	Cd36
+receptor__Cd44	Receiver CM	NA	NA	NA	B	NA	NA	NA	Cd44
+receptor__Cd47	Receiver CM	NA	NA	NA	B	NA	NA	NA	Cd47
+receptor__Cdh2	Receiver CM	NA	NA	NA	B	NA	NA	NA	Cdh2
+receptor__Dag1	Receiver CM	NA	NA	NA	B	NA	NA	NA	Dag1
+receptor__Epha4	Receiver CM	NA	NA	NA	B	NA	NA	NA	Epha4
+receptor__Erbb4	Receiver CM	NA	NA	NA	B	NA	NA	NA	Erbb4
+receptor__F11r	Receiver CM	NA	NA	NA	B	NA	NA	NA	F11r
+receptor__Fgfr2	Receiver CM	NA	NA	NA	B	NA	NA	NA	Fgfr2
+receptor__Igf1r	Receiver CM	NA	NA	NA	B	NA	NA	NA	Igf1r
+receptor__Insr	Receiver CM	NA	NA	NA	B	NA	NA	NA	Insr
+receptor__Itga5_Itgb1	Receiver CM	NA	NA	NA	B	NA	NA	NA	Itga5_Itgb1
+receptor__Itga9_Itgb1	Receiver CM	NA	NA	NA	B	NA	NA	NA	Itga9_Itgb1
+receptor__Itgb1_Itga1	Receiver CM	NA	NA	NA	B	NA	NA	NA	Itgb1_Itga1
+receptor__Mertk	Receiver CM	NA	NA	NA	B	NA	NA	NA	Mertk
+receptor__Mpzl1	Receiver CM	NA	NA	NA	B	NA	NA	NA	Mpzl1
+receptor__Ncam1	Receiver CM	NA	NA	NA	B	NA	NA	NA	Ncam1
+receptor__Ncl	Receiver CM	NA	NA	NA	B	NA	NA	NA	Ncl
+receptor__Notch2	Receiver CM	NA	NA	NA	B	NA	NA	NA	Notch2
+receptor__Nrp1_Plxna2	Receiver CM	NA	NA	NA	B	NA	NA	NA	Nrp1_Plxna2
+receptor__Nrp1_Plxna4	Receiver CM	NA	NA	NA	B	NA	NA	NA	Nrp1_Plxna4
+receptor__Plxna2	Receiver CM	NA	NA	NA	B	NA	NA	NA	Plxna2
+receptor__Plxna4	Receiver CM	NA	NA	NA	B	NA	NA	NA	Plxna4
+receptor__Ptprm	Receiver CM	NA	NA	NA	B	NA	NA	NA	Ptprm
+receptor__Sdc2	Receiver CM	NA	NA	NA	B	NA	NA	NA	Sdc2
+receptor__Sort1	Receiver CM	NA	NA	NA	B	NA	NA	NA	Sort1
+receptor__Tlr4	Receiver CM	NA	NA	NA	B	NA	NA	NA	Tlr4
+count__CM__50um	CM	NA	50	NA	C_fine_context	NA	NA	NA	NA
+count__CM__200um	CM	NA	200	NA	C_fine_context	NA	NA	NA	NA
+count__EC:Capillary-like__50um	EC:Capillary-like	NA	50	NA	C_fine_context	NA	NA	NA	NA
+count__EC:Capillary-like__200um	EC:Capillary-like	NA	200	NA	C_fine_context	NA	NA	NA	NA
+count__EC:Endocardial-like__50um	EC:Endocardial-like	NA	50	NA	C_fine_context	NA	NA	NA	NA
+count__EC:Endocardial-like__200um	EC:Endocardial-like	NA	200	NA	C_fine_context	NA	NA	NA	NA
+count__EC:Arterial-like__50um	EC:Arterial-like	NA	50	NA	C_fine_context	NA	NA	NA	NA
+count__EC:Arterial-like__200um	EC:Arterial-like	NA	200	NA	C_fine_context	NA	NA	NA	NA
+count__EC:Venous-like__50um	EC:Venous-like	NA	50	NA	C_fine_context	NA	NA	NA	NA
+count__EC:Venous-like__200um	EC:Venous-like	NA	200	NA	C_fine_context	NA	NA	NA	NA
+count__EC:Lymphatic-like__50um	EC:Lymphatic-like	NA	50	NA	C_fine_context	NA	NA	NA	NA
+count__EC:Lymphatic-like__200um	EC:Lymphatic-like	NA	200	NA	C_fine_context	NA	NA	NA	NA
+count__EC:Unresolved__50um	EC:Unresolved	NA	50	NA	C_fine_context	NA	NA	NA	NA
+count__EC:Unresolved__200um	EC:Unresolved	NA	200	NA	C_fine_context	NA	NA	NA	NA
+count__FB:Postn__50um	FB:Postn	NA	50	NA	C_fine_context	NA	NA	NA	NA
+count__FB:Postn__200um	FB:Postn	NA	200	NA	C_fine_context	NA	NA	NA	NA
+count__FB:Gfpt2__50um	FB:Gfpt2	NA	50	NA	C_fine_context	NA	NA	NA	NA
+count__FB:Gfpt2__200um	FB:Gfpt2	NA	200	NA	C_fine_context	NA	NA	NA	NA
+count__FB:Col8a1__50um	FB:Col8a1	NA	50	NA	C_fine_context	NA	NA	NA	NA
+count__FB:Col8a1__200um	FB:Col8a1	NA	200	NA	C_fine_context	NA	NA	NA	NA
+count__FB:Lsamp__50um	FB:Lsamp	NA	50	NA	C_fine_context	NA	NA	NA	NA
+count__FB:Lsamp__200um	FB:Lsamp	NA	200	NA	C_fine_context	NA	NA	NA	NA
+count__FB:Kirrel3__50um	FB:Kirrel3	NA	50	NA	C_fine_context	NA	NA	NA	NA
+count__FB:Kirrel3__200um	FB:Kirrel3	NA	200	NA	C_fine_context	NA	NA	NA	NA
+count__FB:Unresolved__50um	FB:Unresolved	NA	50	NA	C_fine_context	NA	NA	NA	NA
+count__FB:Unresolved__200um	FB:Unresolved	NA	200	NA	C_fine_context	NA	NA	NA	NA
+count__Pericyte__50um	Pericyte	NA	50	NA	C_fine_context	NA	NA	NA	NA
+count__Pericyte__200um	Pericyte	NA	200	NA	C_fine_context	NA	NA	NA	NA
+count__Smooth muscle__50um	Smooth muscle	NA	50	NA	C_fine_context	NA	NA	NA	NA
+count__Smooth muscle__200um	Smooth muscle	NA	200	NA	C_fine_context	NA	NA	NA	NA
+count__Immune__50um	Immune	NA	50	NA	C_fine_context	NA	NA	NA	NA
+count__Immune__200um	Immune	NA	200	NA	C_fine_context	NA	NA	NA	NA
+count__Epicardial__50um	Epicardial	NA	50	NA	C_fine_context	NA	NA	NA	NA
+count__Epicardial__200um	Epicardial	NA	200	NA	C_fine_context	NA	NA	NA	NA
+count__Broad:Endothelial__50um	Broad:Endothelial	NA	50	NA	C_fine_context	NA	NA	NA	NA
+count__Broad:Endothelial__200um	Broad:Endothelial	NA	200	NA	C_fine_context	NA	NA	NA	NA
+count__Broad:Fibroblast__50um	Broad:Fibroblast	NA	50	NA	C_fine_context	NA	NA	NA	NA
+count__Broad:Fibroblast__200um	Broad:Fibroblast	NA	200	NA	C_fine_context	NA	NA	NA	NA
+A__source_capture__CM__50um	CM	NA	50	Kernel-weighted mean log1p outcome-excluded source depth	A	NA	NA	NA	NA
+A__source_capture__CM__200um	CM	NA	200	Kernel-weighted mean log1p outcome-excluded source depth	A	NA	NA	NA	NA
+capture__EC:Capillary-like__50um	EC:Capillary-like	NA	50	Kernel-weighted mean log1p outcome-excluded source depth	C_fine_context	NA	NA	NA	NA
+capture__EC:Capillary-like__200um	EC:Capillary-like	NA	200	Kernel-weighted mean log1p outcome-excluded source depth	C_fine_context	NA	NA	NA	NA
+capture__EC:Endocardial-like__50um	EC:Endocardial-like	NA	50	Kernel-weighted mean log1p outcome-excluded source depth	C_fine_context	NA	NA	NA	NA
+capture__EC:Endocardial-like__200um	EC:Endocardial-like	NA	200	Kernel-weighted mean log1p outcome-excluded source depth	C_fine_context	NA	NA	NA	NA
+capture__EC:Arterial-like__50um	EC:Arterial-like	NA	50	Kernel-weighted mean log1p outcome-excluded source depth	C_fine_context	NA	NA	NA	NA
+capture__EC:Arterial-like__200um	EC:Arterial-like	NA	200	Kernel-weighted mean log1p outcome-excluded source depth	C_fine_context	NA	NA	NA	NA
+capture__EC:Venous-like__50um	EC:Venous-like	NA	50	Kernel-weighted mean log1p outcome-excluded source depth	C_fine_context	NA	NA	NA	NA
+capture__EC:Venous-like__200um	EC:Venous-like	NA	200	Kernel-weighted mean log1p outcome-excluded source depth	C_fine_context	NA	NA	NA	NA
+capture__EC:Lymphatic-like__50um	EC:Lymphatic-like	NA	50	Kernel-weighted mean log1p outcome-excluded source depth	C_fine_context	NA	NA	NA	NA
+capture__EC:Lymphatic-like__200um	EC:Lymphatic-like	NA	200	Kernel-weighted mean log1p outcome-excluded source depth	C_fine_context	NA	NA	NA	NA
+capture__EC:Unresolved__50um	EC:Unresolved	NA	50	Kernel-weighted mean log1p outcome-excluded source depth	C_fine_context	NA	NA	NA	NA
+capture__EC:Unresolved__200um	EC:Unresolved	NA	200	Kernel-weighted mean log1p outcome-excluded source depth	C_fine_context	NA	NA	NA	NA
+capture__FB:Postn__50um	FB:Postn	NA	50	Kernel-weighted mean log1p outcome-excluded source depth	C_fine_context	NA	NA	NA	NA
+capture__FB:Postn__200um	FB:Postn	NA	200	Kernel-weighted mean log1p outcome-excluded source depth	C_fine_context	NA	NA	NA	NA
+capture__FB:Gfpt2__50um	FB:Gfpt2	NA	50	Kernel-weighted mean log1p outcome-excluded source depth	C_fine_context	NA	NA	NA	NA
+capture__FB:Gfpt2__200um	FB:Gfpt2	NA	200	Kernel-weighted mean log1p outcome-excluded source depth	C_fine_context	NA	NA	NA	NA
+capture__FB:Col8a1__50um	FB:Col8a1	NA	50	Kernel-weighted mean log1p outcome-excluded source depth	C_fine_context	NA	NA	NA	NA
+capture__FB:Col8a1__200um	FB:Col8a1	NA	200	Kernel-weighted mean log1p outcome-excluded source depth	C_fine_context	NA	NA	NA	NA
+capture__FB:Lsamp__50um	FB:Lsamp	NA	50	Kernel-weighted mean log1p outcome-excluded source depth	C_fine_context	NA	NA	NA	NA
+capture__FB:Lsamp__200um	FB:Lsamp	NA	200	Kernel-weighted mean log1p outcome-excluded source depth	C_fine_context	NA	NA	NA	NA
+capture__FB:Kirrel3__50um	FB:Kirrel3	NA	50	Kernel-weighted mean log1p outcome-excluded source depth	C_fine_context	NA	NA	NA	NA
+capture__FB:Kirrel3__200um	FB:Kirrel3	NA	200	Kernel-weighted mean log1p outcome-excluded source depth	C_fine_context	NA	NA	NA	NA
+capture__FB:Unresolved__50um	FB:Unresolved	NA	50	Kernel-weighted mean log1p outcome-excluded source depth	C_fine_context	NA	NA	NA	NA
+capture__FB:Unresolved__200um	FB:Unresolved	NA	200	Kernel-weighted mean log1p outcome-excluded source depth	C_fine_context	NA	NA	NA	NA
+A__source_capture__Pericyte__50um	Pericyte	NA	50	Kernel-weighted mean log1p outcome-excluded source depth	A	NA	NA	NA	NA
+A__source_capture__Pericyte__200um	Pericyte	NA	200	Kernel-weighted mean log1p outcome-excluded source depth	A	NA	NA	NA	NA
+A__source_capture__Smooth muscle__50um	Smooth muscle	NA	50	Kernel-weighted mean log1p outcome-excluded source depth	A	NA	NA	NA	NA
+A__source_capture__Smooth muscle__200um	Smooth muscle	NA	200	Kernel-weighted mean log1p outcome-excluded source depth	A	NA	NA	NA	NA
+A__source_capture__Immune__50um	Immune	NA	50	Kernel-weighted mean log1p outcome-excluded source depth	A	NA	NA	NA	NA
+A__source_capture__Immune__200um	Immune	NA	200	Kernel-weighted mean log1p outcome-excluded source depth	A	NA	NA	NA	NA
+A__source_capture__Epicardial__50um	Epicardial	NA	50	Kernel-weighted mean log1p outcome-excluded source depth	A	NA	NA	NA	NA
+A__source_capture__Epicardial__200um	Epicardial	NA	200	Kernel-weighted mean log1p outcome-excluded source depth	A	NA	NA	NA	NA
+A__source_capture__Broad:Endothelial__50um	Broad:Endothelial	NA	50	Kernel-weighted mean log1p outcome-excluded source depth	A	NA	NA	NA	NA
+A__source_capture__Broad:Endothelial__200um	Broad:Endothelial	NA	200	Kernel-weighted mean log1p outcome-excluded source depth	A	NA	NA	NA	NA
+A__source_capture__Broad:Fibroblast__50um	Broad:Fibroblast	NA	50	Kernel-weighted mean log1p outcome-excluded source depth	A	NA	NA	NA	NA
+A__source_capture__Broad:Fibroblast__200um	Broad:Fibroblast	NA	200	Kernel-weighted mean log1p outcome-excluded source depth	A	NA	NA	NA	NA

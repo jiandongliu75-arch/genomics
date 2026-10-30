@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "rendered_pages": 20,
+  "figure_pages": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    18
+  ],
+  "current_Word_media_hashes_checked": true,
+  "minimum_combined_raster_DPI": 299.99949137456025,
+  "figure_bounds_and_no_blank_pages_checked": true,
+  "segmentation_assessment_included": true
+}

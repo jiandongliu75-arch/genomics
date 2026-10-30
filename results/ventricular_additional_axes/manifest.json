@@ -1,0 +1,99 @@
+{
+  "status": "validated targeted literature-guided checks; no new subtype assignments",
+  "validation": [
+    "44,463 existing ventricular-enriched nuclei preserved in original order",
+    "One feature per selected gene; finite nonnegative expression",
+    "Stage/library profile means match per-cell data within float32/export tolerance",
+    "Detection bounds, association ranges and ECM accounting checked"
+  ],
+  "scripts": [
+    {
+      "file": "analysis/check_ventricular_additional_axes.py",
+      "sha256": "333d1db2a6ab8b5e32852b4fb1c690ba325bed17697a30ef4f193ee9d967805b"
+    },
+    {
+      "file": "analysis/plot_ventricular_electrical_axis.py",
+      "sha256": "c0fb8543040298d80b087dadacd3844db0fc6e08ff1a63381369b8fe6b651942"
+    },
+    {
+      "file": "analysis/ventricular_electrical_axis_sensitivity.py",
+      "sha256": "abd8eb93f53b9813ae95aebb430a45fee66353d260f8210fa76bdc93c45bfcbc"
+    },
+    {
+      "file": "analysis/validate_ventricular_additional_axes.py",
+      "sha256": "7aba03888e22daf397295b1182d7563ba3efecec5aa1450f6d4246f63f7020a1"
+    }
+  ],
+  "files": [
+    {
+      "file": "ECM_CM_coexpression_counts.tsv",
+      "bytes": 307,
+      "sha256": "89a72d2ca0d88ea084ec3a61520909c65431b6398069e602958123be2ff52683"
+    },
+    {
+      "file": "ECM_coexpression_candidates.csv.gz",
+      "bytes": 168,
+      "sha256": "3d23f76a11f3e485cea34411d7be5d17e320774587a640592543e6614883696f"
+    },
+    {
+      "file": "Irx5_Kcnd2_expression_axis.pdf",
+      "bytes": 47895,
+      "sha256": "2ecc5a391f1d884e78105d8f512aa3965e87d51970b7d33cbf25116b9272d7c9"
+    },
+    {
+      "file": "Irx5_Kcnd2_expression_axis.png",
+      "bytes": 439200,
+      "sha256": "31b6c6e6f7c7ddc7883a7fe2a608bb82b391811a84924f0f8fcf485cd7ba899f"
+    },
+    {
+      "file": "README.md",
+      "bytes": 10655,
+      "sha256": "dafd9150c462ac0917dd345011c24419502a343aa842213920d40377a24ffaf4"
+    },
+    {
+      "file": "electrical_axis_cluster_profiles.tsv",
+      "bytes": 6865,
+      "sha256": "dcb95af1545ee8852d2fb5f0c926adc94f9cba66a32a22a3dabaa33dc34d1091"
+    },
+    {
+      "file": "electrical_axis_gate_state_sensitivity.tsv",
+      "bytes": 3876,
+      "sha256": "97df7d89b35b7f795a225b5712687945c663a59495b1a100112402a957e8f4eb"
+    },
+    {
+      "file": "gene_mapping.tsv",
+      "bytes": 4633,
+      "sha256": "86d3a0d8d7cfc46639e3862a68b021f1ab106d76c53a4a5402e1c33529ed7e61"
+    },
+    {
+      "file": "gene_profiles_by_stage_library_cluster.tsv",
+      "bytes": 1189966,
+      "sha256": "91b57adb0f5176d0ae0632916ecd4b45714e5db3320ad1243db9bbc770cbc0eb"
+    },
+    {
+      "file": "methods.json",
+      "bytes": 2329,
+      "sha256": "e08b760e2231b4af4201e1a218e9ea05b767914d924c7de8334cd9240d3316f6"
+    },
+    {
+      "file": "sources/linked_cell_paper.json",
+      "bytes": 4630,
+      "sha256": "94b2f3b329037e59f9326f3e8a2ba119a2b723651d60ecbe5f523317028a31ae"
+    },
+    {
+      "file": "sources/other_primary_papers.json",
+      "bytes": 10889,
+      "sha256": "3a43f15539ec00a159b7b2f0ca18d50867d9927e14e86711e1a05fc051ab93a1"
+    },
+    {
+      "file": "targeted_log_expression.csv.gz",
+      "bytes": 6388153,
+      "sha256": "624906484d7595068daf5c3b915c51900536183ed7c9d1d1946813582bb4f862"
+    },
+    {
+      "file": "within_library_gene_associations.tsv",
+      "bytes": 6297,
+      "sha256": "991a49534b0d0b875e4c6761042453919d1b9021077c4c15d92730b5a010dd89"
+    }
+  ]
+}

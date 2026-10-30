@@ -1,0 +1,21 @@
+stage	family	reference_assessable	eligible_candidate_profiles	within_ventricular_selector_profiles	median_void_distance_um	median_outer_distance_um	median_relative_wall_geometry	fraction_within50um_arterial_structure	median_nearest_CM_um	scope
+P0	Postn	True	1946	1605	218.686991	284.084494	0.421602413	0.115107914	10.1239713	Descriptive snapshots; void/outer geometry is not a validated endocardium-to-epicardium coordinate or tracked migration
+P0	Gfpt2	False	NA	NA	NA	NA	NA	NA	NA	Descriptive snapshots; void/outer geometry is not a validated endocardium-to-epicardium coordinate or tracked migration
+P0	Col8a1	False	NA	NA	NA	NA	NA	NA	NA	Descriptive snapshots; void/outer geometry is not a validated endocardium-to-epicardium coordinate or tracked migration
+P0	Lsamp	False	NA	NA	NA	NA	NA	NA	NA	Descriptive snapshots; void/outer geometry is not a validated endocardium-to-epicardium coordinate or tracked migration
+P0	Kirrel3	True	54	54	40.9873384	235.829823	0.161924683	0	37.9564071	Descriptive snapshots; void/outer geometry is not a validated endocardium-to-epicardium coordinate or tracked migration
+P7	Postn	True	5844	4183	173.666347	525.600609	0.361302096	0.0638261465	11.1346163	Descriptive snapshots; void/outer geometry is not a validated endocardium-to-epicardium coordinate or tracked migration
+P7	Gfpt2	True	630	573	580.386078	760.631317	0.453580595	0.0507936508	8.68503858	Descriptive snapshots; void/outer geometry is not a validated endocardium-to-epicardium coordinate or tracked migration
+P7	Col8a1	False	NA	NA	NA	NA	NA	NA	NA	Descriptive snapshots; void/outer geometry is not a validated endocardium-to-epicardium coordinate or tracked migration
+P7	Lsamp	False	NA	NA	NA	NA	NA	NA	NA	Descriptive snapshots; void/outer geometry is not a validated endocardium-to-epicardium coordinate or tracked migration
+P7	Kirrel3	True	227	227	41.1825206	547.298821	0.0682166677	0.013215859	122.530112	Descriptive snapshots; void/outer geometry is not a validated endocardium-to-epicardium coordinate or tracked migration
+P14	Postn	False	NA	NA	NA	NA	NA	NA	NA	Descriptive snapshots; void/outer geometry is not a validated endocardium-to-epicardium coordinate or tracked migration
+P14	Gfpt2	True	597	583	237.8571	837.214429	0.239696935	0.0653266332	11.1186813	Descriptive snapshots; void/outer geometry is not a validated endocardium-to-epicardium coordinate or tracked migration
+P14	Col8a1	True	4579	4413	187.018716	731.956283	0.220095866	0.114435466	11.4866849	Descriptive snapshots; void/outer geometry is not a validated endocardium-to-epicardium coordinate or tracked migration
+P14	Lsamp	True	1455	914	40.1995025	678.82251	0.0719038052	0.136769759	16.5875285	Descriptive snapshots; void/outer geometry is not a validated endocardium-to-epicardium coordinate or tracked migration
+P14	Kirrel3	True	50	50	28.5602198	714.502673	0.0432250951	0	44.3414735	Descriptive snapshots; void/outer geometry is not a validated endocardium-to-epicardium coordinate or tracked migration
+P21	Postn	False	NA	NA	NA	NA	NA	NA	NA	Descriptive snapshots; void/outer geometry is not a validated endocardium-to-epicardium coordinate or tracked migration
+P21	Gfpt2	True	85	84	389.189966	1172.76261	0.28770063	0.0117647059	12.0903538	Descriptive snapshots; void/outer geometry is not a validated endocardium-to-epicardium coordinate or tracked migration
+P21	Col8a1	True	3702	3288	299.813275	735.064182	0.327250046	0.0207995678	11.4108031	Descriptive snapshots; void/outer geometry is not a validated endocardium-to-epicardium coordinate or tracked migration
+P21	Lsamp	True	3454	2018	89.8888202	580.764969	0.159838129	0.025477707	13.349755	Descriptive snapshots; void/outer geometry is not a validated endocardium-to-epicardium coordinate or tracked migration
+P21	Kirrel3	True	751	729	41.1825206	834.323678	0.0698639827	0.00133155792	50.9833036	Descriptive snapshots; void/outer geometry is not a validated endocardium-to-epicardium coordinate or tracked migration

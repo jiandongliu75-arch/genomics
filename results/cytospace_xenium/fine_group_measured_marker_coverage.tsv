@@ -1,0 +1,29 @@
+stage	group	measured_both_library_marker_genes	n_measured
+P0	P0_M0	Atad2;Rad51b;Top2a;Pola1;Kif11;Mki67;Smc4;Kif15;Hjurp	9
+P0	P0_M1	Ivns1abp;Angpt1;Cacna1d;Ddc	4
+P0	P0_M2	Ncam1	1
+P0	P0_M3	Ankrd1;Creb5;Myh7;Itga9;Tlr4	5
+P0	P0_M4	Cd36	1
+P0	P0_M5	Slit2;Thsd4;Sema3a;Vcan	4
+P0	P0_M6	Ankrd1;Creb5;Actc1;Itga1	4
+P0	P0_M7	Pola1;Rad51b;Kcnq5;Hells;Wdr76	5
+P7	P7_M0	Rreb1;Ppara;Ppargc1a	3
+P7	P7_M1	Ankrd1;Creb5;Itga9;Tlr4	4
+P7	P7_M2	Thsd4;Gm12381	2
+P7	P7_M3	Top2a;Hjurp;Mki67;Kif11;Smc4;Atad2;Kif15;Rad51b	8
+P7	P7_M4	Ivns1abp	1
+P7	P7_M5	Rad51b;Pola1;Hells;Kcnq5;Ezh2	5
+P7	P7_M6	Sema3a;Slit2;Robo1;Ephb1;Ntm;Ncam1	6
+P7	P7_M7		0
+P7	P7_M8		0
+P14	P14_M0	Thsd4;Gm12381	2
+P14	P14_M1		0
+P14	P14_M2	Creb5;Tlr4;Ankrd1;Itga9	4
+P14	P14_M3	Acta2	1
+P14	P14_M4	Ephb1;Slit2;Sema3a	3
+P21	P21_M0		0
+P21	P21_M1		0
+P21	P21_M2	Ankrd1;Creb5;Tlr4;Pdlim3	4
+P21	P21_M3	Thsd4;Gm12381;Angpt1	3
+P21	P21_M4	Ankrd1;Itga9	2
+P21	P21_M5	Slit2;Ephb1;Sema3a;Kirrel3;Ncam1	5

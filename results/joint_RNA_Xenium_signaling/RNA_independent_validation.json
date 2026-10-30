@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "RNA_support_rows_independently_reconstructed": 32476,
+  "RNA_library_complex_means_and_detection_recomputed_from_full_counts": 144,
+  "all_selected_subunits_measured": true,
+  "selected_predictor_outcome_gene_overlap": 0,
+  "non_conduction_CM_receptor_sensitivity_supported_stage_pairs": 180,
+  "non_conduction_CM_receptor_sensitivity_total_stage_pairs": 180
+}

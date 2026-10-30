@@ -1,0 +1,20 @@
+{
+  "all_records": 98816089,
+  "Q20_gene_molecules": 73063537,
+  "native_assigned": 56096396,
+  "nuclear_anchored_assigned": 56095763,
+  "native_nuclear_molecules": 14216274,
+  "vendor_nuclear_ownership_preserved": 14216274,
+  "nonnuclear_changed_owner": 14053260,
+  "nuclear_vs_projected_owner_disagreement": 12838,
+  "unassigned_because_projected_nuclear_conflict": 0,
+  "stage": "P21",
+  "profiles": 143944,
+  "genes": 403,
+  "Q20_native_matrix_reconstructed_exactly": true,
+  "all_vendor_nuclear_transcripts_keep_native_owner": true,
+  "seconds": 117.36110782623291,
+  "source_transcript_file_sha256": "8d2240d3ab1a102160bae8daa6975255e65aa2c10e5397a76026b0a2709f95d5",
+  "interpretation": "Nuclear overlap is deposited vendor evidence; 2D polygon ownership disagreements are audited, not treated as proof of an incorrect source assignment",
+  "profiles_with_unresolved_2D_geometry_retaining_native_counts": 0
+}

@@ -1,0 +1,30 @@
+stage	provisional_QC_cluster	nuclei	coherent_mural_group_review	mural_markers_ge15pct_both_libraries_raw_and_corrected	minimum_nuclei_in_library	interpretation
+P0	P0_ECQC0	406	False		196	No coherent mural-group exclusion
+P0	P0_ECQC1	377	False		161	No coherent mural-group exclusion
+P0	P0_ECQC2	168	False		78	No coherent mural-group exclusion
+P0	P0_ECQC3	110	False		48	No coherent mural-group exclusion
+P0	P0_ECQC4	112	True	Abcc9;Notch3;Pdgfrb	38	Mixed EC/mural group review, not proof each nucleus is a doublet
+P0	P0_ECQC5	46	False		21	No coherent mural-group exclusion
+P0	P0_ECQC6	73	False		35	No coherent mural-group exclusion
+P0	P0_ECQC7	40	False	Abcc9	40	No coherent mural-group exclusion
+P0	P0_ECQC8	29	False		14	No coherent mural-group exclusion
+P7	P7_ECQC0	254	False	Abcc9;Notch3	117	No coherent mural-group exclusion
+P7	P7_ECQC1	277	False		107	No coherent mural-group exclusion
+P7	P7_ECQC2	128	False	Rgs5	37	No coherent mural-group exclusion
+P7	P7_ECQC3	46	False		20	No coherent mural-group exclusion
+P7	P7_ECQC4	128	False		55	No coherent mural-group exclusion
+P14	P14_ECQC0	280	False		131	No coherent mural-group exclusion
+P14	P14_ECQC1	243	False		99	No coherent mural-group exclusion
+P14	P14_ECQC2	537	False		226	No coherent mural-group exclusion
+P14	P14_ECQC3	23	False		8	No coherent mural-group exclusion
+P14	P14_ECQC4	25	False		10	No coherent mural-group exclusion
+P14	P14_ECQC5	88	False	Rgs5	35	No coherent mural-group exclusion
+P14	P14_ECQC6	44	True	Abcc9;Cspg4;Notch3;Pdgfrb;Rgs5	22	Mixed EC/mural group review, not proof each nucleus is a doublet
+P14	P14_ECQC7	46	False		20	No coherent mural-group exclusion
+P21	P21_ECQC0	583	False		157	No coherent mural-group exclusion
+P21	P21_ECQC1	312	False		67	No coherent mural-group exclusion
+P21	P21_ECQC2	236	False		55	No coherent mural-group exclusion
+P21	P21_ECQC3	46	True	Abcc9;Cspg4;Kcnj8;Notch3;Pdgfrb;Rgs5	15	Mixed EC/mural group review, not proof each nucleus is a doublet
+P21	P21_ECQC4	53	False		14	No coherent mural-group exclusion
+P21	P21_ECQC5	67	False		23	No coherent mural-group exclusion
+P21	P21_ECQC6	22	False		3	No coherent mural-group exclusion

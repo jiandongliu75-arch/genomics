@@ -1,0 +1,5 @@
+stage	cluster_id	gene_name	profiles	most_common_individual_label	most_common_label_fraction	marker_genes	high_confidence_cluster_best_jaccard	nuclear_only_cluster_best_jaccard	nuclear_depth_matched_cluster_best_jaccard	seed_7_best_jaccard	seed_123_best_jaccard	resolution_0.25_best_jaccard	resolution_0.8_best_jaccard
+P0	P0_XEC0	Cd36/Mb EC program	192	Endothelial subtype unresolved	0.7552083	Cd36;Mb;Sparcl1;Aplnr;Jam2;Car4;Sema6a	0.2634643	0.4842407	0.4267352	0.7590361	0.7004219	0.2256903	0.7727273
+P0	P0_XEC1	Cd36/Sparcl1 EC program	619	Capillary-like	0.5347334	Cd36;Sparcl1;cTnT_E;Cdh2;Wt1;Jph2;Lamb1;Sema7a;Mpzl1;Pln;Car4;Kitl	0.569697	0.4877676	0.669279	0.8919355	0.9159935	0.7424789	0.5064516
+P0	P0_XEC2	Npr3/Cpe EC program	600	Endocardial-like	0.6116667	Npr3;Cpe;Nrg1;Vwf;Postn;Ptn;Bgn;Col6a3;Igfbp5;Epha7;Notch1;Nppa	0.9333333	0.8587127	0.8522895	0.9883914	0.9315708	0.8926975	0.6429752
+P0	P0_XEC3	Fbln2/Vegfc EC program	265	Endothelial subtype unresolved	0.645283	Fbln2;Vegfc;Gja5;Vwf;Gja4;Efnb2;Eln;Jag1;Igfbp3;Prdm16;Pdgfd;Hey1	0.6810036	0.6498195	0.6597222	0.9566787	0.6824324	0.6616541	0.7752809

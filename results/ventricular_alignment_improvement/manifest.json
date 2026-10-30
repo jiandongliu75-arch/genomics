@@ -1,0 +1,403 @@
+{
+  "results": [
+    {
+      "path": "results/ventricular_alignment_improvement/P0/candidate_counts.tsv",
+      "bytes": 305,
+      "sha256": "a8a6dd3e293ec86880c97fc286607e2a439a1da013ba6018aff6e9556d8246c6"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P0/completion.json",
+      "bytes": 528,
+      "sha256": "48bde084d88aaa04d556ece984f89d227e817f25417236131877f21a7bf99693"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P0/cross_library_metrics.tsv",
+      "bytes": 6586,
+      "sha256": "8040b49aaa09a11fde679b7890de87f2de050c05c5e8a4a23bb7f3dbd8907db3"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P0/heldout_gene_metrics.tsv",
+      "bytes": 39293,
+      "sha256": "b8a3b6e6c31625b387c468534c2e7118330a3163b61e1517143f6118ee3b4b51"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P0/heldout_predictions.npz",
+      "bytes": 22131803,
+      "sha256": "795b4f9ff1ea805e5977415cb5b869d7c99f12d891db787de75f6cb6d680c679"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P0/native_heldout/assigned_locations.csv.gz",
+      "bytes": 689358,
+      "sha256": "d431e3600e2d134d1ba8e49b3615553918ef25aba215b9ea25cdca59ba0e035b"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P0/native_heldout/run_manifest.json",
+      "bytes": 5614,
+      "sha256": "722984f82e69d8ba4bc53715e1d4c47e660505e4f76c0a290fd67a113e5dbcd3"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P0/native_heldout/upstream_log.txt",
+      "bytes": 1322,
+      "sha256": "753965990f6410850c024fd54fe662c54085c3e7973a86ca8678684a629cd935"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P0/native_heldout/upstream_stdout.txt",
+      "bytes": 1959,
+      "sha256": "090a61081d6dc1f2ca6a8a2a5806f07e20abc4b2c4b0e24f905808d3bb1f6afa"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P0/weighted_CM_annotations.tsv.gz",
+      "bytes": 2410477,
+      "sha256": "ed54935f8477f6189f1fbb506f4faa3b9adb07251971493c87f625fe384855e1"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P0/weighted_reference_neighbors.npz",
+      "bytes": 4706911,
+      "sha256": "f94be0725ed308f1aa82fadf029ce9eeb04a23c7fdb5f83730a44f1bc1e8231c"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P0_weighted_family_maps.pdf",
+      "bytes": 694219,
+      "sha256": "2704820ed424bb62d3bcc1380e6a8e6fb3d52d6f4f2628947d4b68f61410d23f"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P0_weighted_family_maps.png",
+      "bytes": 2181053,
+      "sha256": "745fea5f5d6030dc422eb1abc7cc7d61b9fee28d42274f1d25f86a2480119908"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P14/candidate_counts.tsv",
+      "bytes": 241,
+      "sha256": "ae60333e71ba121d0d3c4ace58678d8328a3cde3cd65949a85bf08b766589e80"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P14/completion.json",
+      "bytes": 530,
+      "sha256": "a57bed47c419b06ce57ad42af0d758e38a366c2173c07c254122e3eb2c10cdf5"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P14/cross_library_metrics.tsv",
+      "bytes": 4831,
+      "sha256": "48c9bd27d3bd8fe0c664805ac8c7deea34812af7e9dd38b7fe45271108ace22d"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P14/heldout_gene_metrics.tsv",
+      "bytes": 39777,
+      "sha256": "f979b286763f026075e31c3300858d82939737edcc16b9b9757dd87a7e480e04"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P14/heldout_predictions.npz",
+      "bytes": 50734963,
+      "sha256": "67c4e8487df28c4e108c9487387b97ea8540a00ead144d029ec5d9fd3ec0fcc3"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P14/native_heldout/assigned_locations.csv.gz",
+      "bytes": 1532422,
+      "sha256": "8c84275476458b66f81f625e053ed21668d34ddfaa3bf2124cf449786244540a"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P14/native_heldout/run_manifest.json",
+      "bytes": 5620,
+      "sha256": "0dd474afaa26c234923169d1e50a7dff76d7dd27e00f2404d0061f9625bfb6e5"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P14/native_heldout/upstream_log.txt",
+      "bytes": 1331,
+      "sha256": "f533b4e418173d258a443eb012d2f285d70a4755682159b9bbd50c2743a72c46"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P14/native_heldout/upstream_stdout.txt",
+      "bytes": 3368,
+      "sha256": "2afcda9abf741fbfeb26e091d86408aa5f1a6fab40b053ed1fa5a5a08fe27309"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P14/weighted_CM_annotations.tsv.gz",
+      "bytes": 5555048,
+      "sha256": "c9d10422161718adf19e8ad1cf1cac64d6abd2cb97e0b6850ff8e9a204579c6b"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P14/weighted_reference_neighbors.npz",
+      "bytes": 10256669,
+      "sha256": "ca7c0a41db8889306ca8053ac98e194ae4e3e29baad2bf8a449ec5e6f51df692"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P14_weighted_family_maps.pdf",
+      "bytes": 807087,
+      "sha256": "2dfc4ea84bffc733fccbe019d4a7beef915cb6941634af3dd93b97ad22206b77"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P14_weighted_family_maps.png",
+      "bytes": 2588903,
+      "sha256": "35482d34a0f65ff9a4892395565cce46ab0ed218f1831c24942f28e45c0b261d"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P21/candidate_counts.tsv",
+      "bytes": 298,
+      "sha256": "6687efdc7f6ed9db0bd983c1cc9472a1137d7f903ae045253895d4f9458fbbd7"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P21/completion.json",
+      "bytes": 530,
+      "sha256": "02a5cbcdc31dc99ca12b179b5e48961010fb0b00f8b876cabdc6ae43ec32cbc8"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P21/cross_library_metrics.tsv",
+      "bytes": 5351,
+      "sha256": "74a6603f0ec947c85fea2d25f6b44637cb6d7a7b8f866a20ee8b5e702975f1d9"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P21/heldout_gene_metrics.tsv",
+      "bytes": 39985,
+      "sha256": "f385b04ed961cbbaa4225b8724673ed3454cbb45fa65731035537bf89bf94a47"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P21/heldout_predictions.npz",
+      "bytes": 58461247,
+      "sha256": "94a6cdfc737b9e0a335b60a5065e48fe0e7e689aec87b207109e7e5f9b9ffb02"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P21/native_heldout/assigned_locations.csv.gz",
+      "bytes": 1809233,
+      "sha256": "17d92867137af2fdd80fd7fa493272c251c41c46b3abf32331cb8cc1711d2095"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P21/native_heldout/run_manifest.json",
+      "bytes": 5619,
+      "sha256": "aea624813f1493acfb3c080cc9657a72e7329298552d5904d6f1776789c28cb0"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P21/native_heldout/upstream_log.txt",
+      "bytes": 1330,
+      "sha256": "4073ee5e518ce4d1f7aa6f2223dcf5442af50b7c49f6bed69747a727072764c0"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P21/native_heldout/upstream_stdout.txt",
+      "bytes": 3844,
+      "sha256": "a83062b5e6692489828b17a0b0de4b1388ddd31a3ccccf708662ea9ec8aabc8e"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P21/weighted_CM_annotations.tsv.gz",
+      "bytes": 6702513,
+      "sha256": "ffef1e3b798756f43bc7af191b493547c3a06c5663470f2c5a14ca34b1687840"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P21/weighted_reference_neighbors.npz",
+      "bytes": 12141256,
+      "sha256": "2a943abce98dbb45054e4126e8d9212d3f0754cf0e8baf2c97b43fc02e8f0e72"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P21_weighted_family_maps.pdf",
+      "bytes": 930290,
+      "sha256": "d905b4eca44740a4f92f51910d17855118747ce87eb85434e810f5540faaf42c"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P21_weighted_family_maps.png",
+      "bytes": 3007849,
+      "sha256": "f66ec21b48e563cf11a279200b9bb79166c9c78a4a7ca1038ed205541041bd5b"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P7/candidate_counts.tsv",
+      "bytes": 252,
+      "sha256": "2afd53c76f756859e56f127fca509296aebb10f93278d2373a45294211937dec"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P7/completion.json",
+      "bytes": 528,
+      "sha256": "222b7379bc74abfd4164559d35b57422a8f6ce7d9c807ffd64cdeea1e747d198"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P7/cross_library_metrics.tsv",
+      "bytes": 8014,
+      "sha256": "1d24d6c34de4b0db4138c1caed12e5eb556d4d10922b7a52a1ff399cd6bc1361"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P7/heldout_gene_metrics.tsv",
+      "bytes": 39496,
+      "sha256": "685aa786c75bb001fa8f7ec116f9dcbf6732c7d30d97eb91289b553990bf2c68"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P7/heldout_predictions.npz",
+      "bytes": 37418342,
+      "sha256": "999a574bac4094d19b20047af824c54503a82a904e4cc90e5aa3f815cdd75b9f"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P7/native_heldout/assigned_locations.csv.gz",
+      "bytes": 1183045,
+      "sha256": "9963517e2426d2cb50072e9cfeeb623d6412d9e7d04b2cc3b022c2b45e879fee"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P7/native_heldout/run_manifest.json",
+      "bytes": 5614,
+      "sha256": "a6f7e01f4f5d80cd6491d7ec2199484767593d5a8e56aa460700bcb7c0061ad8"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P7/native_heldout/upstream_log.txt",
+      "bytes": 1324,
+      "sha256": "b47d5ea2a273a9d5292dc26f418074bffae02dd5e1f13e564c799e308338db04"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P7/native_heldout/upstream_stdout.txt",
+      "bytes": 2747,
+      "sha256": "be5065344bf0b26b98dc750c553ca5222d582f234a9d36aa06afd640831f3046"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P7/weighted_CM_annotations.tsv.gz",
+      "bytes": 4742500,
+      "sha256": "39dc47456c9c4072f2cfea3866a5edbb7e9ae00dbf2d627b8f5aaab7a96f313c"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P7/weighted_reference_neighbors.npz",
+      "bytes": 8394181,
+      "sha256": "70fc9babcfe67fc49e6be12a7a774c8daf388e1b9de017dec70a3896130e2302"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P7_weighted_family_maps.pdf",
+      "bytes": 658659,
+      "sha256": "10ab280637d4b0b1e1f369b016c2b649f0cc8b806bf72139dd80e7c560e287a5"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/P7_weighted_family_maps.png",
+      "bytes": 2142740,
+      "sha256": "ebe84a350b70801d916aafbb9bc5d396b746a38ed663ce1b324b24a3587f3e76"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/README.md",
+      "bytes": 11486,
+      "sha256": "20eb8681f54a531efd5e5de971e0ba8328392047de836946c83a636e7ce0ee46"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/alignment_improvement_report.pdf",
+      "bytes": 3048806,
+      "sha256": "8a5f2aa586c23258d52a600002f86f3d79c3445cda0bfc4d733baeee5193ea73"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/benchmark_design.json",
+      "bytes": 5976,
+      "sha256": "71b90382db895963e2b09645d87b208d49a29b1134102fd5703370180956d6d9"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/cross_library_predictions.tsv.gz",
+      "bytes": 1077622,
+      "sha256": "4c5bfc28033b61d6ae7691a757f893d07393fa46a2bab4aa09adf38a8e66cdeb"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/cross_library_selective_agreement.tsv",
+      "bytes": 2316,
+      "sha256": "deea28a84a353f1cfc0fe968e152ee7fa002d781e7e4ff2e7747aace3650ccbe"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/cross_library_technical_comparison.pdf",
+      "bytes": 34518,
+      "sha256": "dec1f97a42045eba39bb751e4335936602680d36e2bef45a4286af0693dcd95b"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/cross_library_technical_comparison.png",
+      "bytes": 183112,
+      "sha256": "d8431e26a282ac33fe7926f947d17ca90c28e78a44c927efb4d4c4fd53af9b44"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/cross_library_technical_comparison.tsv",
+      "bytes": 36904,
+      "sha256": "a0e75b16518656dff1e43d8c676b0299c8a5e2c8fd9ffd172b898e1ad8171247"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/heldout_gene_metrics.tsv",
+      "bytes": 158065,
+      "sha256": "5afe03d9ed3bf762b8e6b94a99db1d0293289609e4afe0e84287c8612541bc7f"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/heldout_summary.tsv",
+      "bytes": 6478,
+      "sha256": "6c08fe5ec2a4edd10161f00de43ff05c85a388c01134fc49f7872fc210d4330f"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/mapping_coverage.tsv",
+      "bytes": 389,
+      "sha256": "89e65aa2bcd851f313651554aedf01c952aa27948a775aa5aa7418a939749687"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/methods.json",
+      "bytes": 7484,
+      "sha256": "8ea18e6fe4575c0d1083a12135236f556b62512958642e0f2bf7fe7f229d5c62"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/validation.json",
+      "bytes": 1928,
+      "sha256": "8d046b8617241ff46497c2e3d406e76a8e943e87582dd199d05115abbedf4d30"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/withheld_gene_benchmark.pdf",
+      "bytes": 59200,
+      "sha256": "be1a5943d64a7a597dc1941c1d4d0cd4aae6825c4275c5daca0e54e696c7ed00"
+    },
+    {
+      "path": "results/ventricular_alignment_improvement/withheld_gene_benchmark.png",
+      "bytes": 457599,
+      "sha256": "a5d8fdb0a74c49e5dc634454a7840f60ee7add6ed531b04056ca5778e4b1841c"
+    }
+  ],
+  "analysis": [
+    {
+      "path": "analysis/improve_ventricular_alignment.py",
+      "sha256": "d1f659f7ee18dd6cb55424b17729c1d9dca341909d7aa503da3408f1139ae063"
+    },
+    {
+      "path": "analysis/audit_ventricular_alignment_improvement.py",
+      "sha256": "d770e85ee50a0deac4063c39b988afe2ee26b4707edd44daef089db3c38d878a"
+    },
+    {
+      "path": "analysis/report_ventricular_alignment_improvement.py",
+      "sha256": "c39bdb62e823723241a844e2e4a42a2b450d53fe8028a5083a5e924e36ee4168"
+    }
+  ],
+  "validation": {
+    "status": "PASS",
+    "stages": [
+      {
+        "stage": "P0",
+        "original_rows_conserved": 47611,
+        "native_pairs_checked": 21994,
+        "production_neighbor_pairs_checked": 659820,
+        "sampled_neighbor_projection_rows_independently_recalculated": 80,
+        "heldout_metrics_recomputed": 234,
+        "native_withheld_predictions_recomputed": 857766,
+        "source_counts_and_coordinates_unchanged": true,
+        "author_spatial_labels_used_in_fit": false
+      },
+      {
+        "stage": "P7",
+        "original_rows_conserved": 99429,
+        "native_pairs_checked": 38580,
+        "production_neighbor_pairs_checked": 1157400,
+        "sampled_neighbor_projection_rows_independently_recalculated": 80,
+        "heldout_metrics_recomputed": 234,
+        "native_withheld_predictions_recomputed": 1504620,
+        "source_counts_and_coordinates_unchanged": true,
+        "author_spatial_labels_used_in_fit": false
+      },
+      {
+        "stage": "P14",
+        "original_rows_conserved": 117070,
+        "native_pairs_checked": 49656,
+        "production_neighbor_pairs_checked": 1489680,
+        "sampled_neighbor_projection_rows_independently_recalculated": 80,
+        "heldout_metrics_recomputed": 234,
+        "native_withheld_predictions_recomputed": 1936584,
+        "source_counts_and_coordinates_unchanged": true,
+        "author_spatial_labels_used_in_fit": false
+      },
+      {
+        "stage": "P21",
+        "original_rows_conserved": 143944,
+        "native_pairs_checked": 58358,
+        "production_neighbor_pairs_checked": 1750740,
+        "sampled_neighbor_projection_rows_independently_recalculated": 80,
+        "heldout_metrics_recomputed": 234,
+        "native_withheld_predictions_recomputed": 2275962,
+        "source_counts_and_coordinates_unchanged": true,
+        "author_spatial_labels_used_in_fit": false
+      }
+    ],
+    "scope": "Numerical conservation and internal held-out predictions; not independent anatomical truth or animal-level validation."
+  }
+}

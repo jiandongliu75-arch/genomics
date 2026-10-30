@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "PDF_pages": 5,
+  "figure_pages": [
+    4
+  ],
+  "Word_image_hash_matches": true,
+  "PDF_text_bounds_checked": true
+}

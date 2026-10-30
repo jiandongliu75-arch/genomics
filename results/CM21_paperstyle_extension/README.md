@@ -1,0 +1,9 @@
+# Measured 21-gene CM maturation: paper-style scoring and spatial challenges
+
+[Word report](CM21_paperstyle_vascular_stromal_report.docx) · [PDF report](CM21_paperstyle_vascular_stromal_report.pdf) · [Full narrative](Report_text.md)
+
+The unchanged 131,605-CM cohort is scored using only the published 21 measured Xenium targets. The paper-style module ensemble is the main score; this is not an exact author replication. P7 has concordant raw and conditional capillary associations; P14 has support for nearness and operational boundary apposition. All 21 omissions and control choices are retained. Fibroblast-context interaction tests remain inconclusive. Whole-cell/core and score-dependent disagreements are preserved.
+
+Main tables: `spatial_models.tsv`, `fibroblast_context_interactions.tsv`, `score_stability.tsv`, `nonCM_score_and_segmentation_robustness.tsv`, `source_label_sensitivity.tsv`. All-cell coordinates, scores, ranks and geometry: `P*_CM21_extension_values.tsv.gz`. Every module/draw/omission weight is in `score_gene_weights.tsv.gz`; exact 21-gene list and settings accompany it. All source labels, unknowns and reference eligibility rules are inherited. Existing boundaries are reused; new segmentation and original author masks are not claimed. One section per stage is not animal replication. P7 source-label sensitivity attenuates the strict cell-and-nucleus comparison, and P14 support is source-definition-sensitive.
+
+Run `analysis/cm21_paperstyle_extension.py`, `analysis/cm21_source_label_sensitivity.py`, `analysis/validate_cm21_paperstyle.py` and `analysis/report_cm21_paperstyle.py` with `/workspace/heart-atlas/venv/bin/python`; run `analysis/write_cm21_paperstyle_report.py` with base Python. Validation independently rereads count matrices, rebuilds control draws, verifies omissions, reconstructs partial-regression estimates and rereads sampled original boundaries.

@@ -1,0 +1,5 @@
+stage	broad_FBs	supported_fine_profiles	old_supported_fine	reference_nuclei	changed_proposals	changed_supported_labels	fraction_supported
+P0	2319	1591	1591	2142	0	0	0.6860716
+P7	8564	5504	5504	2608	0	0	0.6426903
+P14	9824	1343	1343	5241	0	0	0.136706
+P21	13083	1497	197	4337	5428	1328	0.1144233

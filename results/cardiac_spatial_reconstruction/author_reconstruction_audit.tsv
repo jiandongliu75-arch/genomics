@@ -1,0 +1,8 @@
+item	released_evidence	reconstruction_status
+Figure4d CM population	Exact author v.CM label; all four count totals recoverable	Recovered
+Figure4e CM population	Released six-state CM list at P7 plus four named anatomical source categories; different from Figure4d	Selection rules recovered; exact membership unavailable
+Figure4e anatomical source	ventricle_left_compact;trabecular_right;ventricle_right_compact;trabecular_left	Names recovered; source column and original masks absent from public export
+Maturation_Features1	Precomputed score read from unpublished RDS; main text standardized mean versus Methods AddModuleScore	Exact score construction/assay/pool not recoverable
+Neighbor graph / levels	Precomputed xenium_p7_metadata_cellneighbour_v2.csv; graph-builder script not released	Exact graph/levels unavailable; explicit generic6NN and tissue-screened alternatives reconstructed
+Figure4e trend plot	Mean score within each neighbor level, followed by LOESS on the means	Plotting rule recovered; input score/mask/levels not supplied
+Intermediate days / replication	Observed RNA libraries and spatial sections only at P0/P7/P14/P21	Missing ages can be interpolated only; cannot add observed replication

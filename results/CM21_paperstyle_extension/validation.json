@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "all_four_cohorts_preserved": true,
+  "count_views_checked": 8,
+  "random_count_profiles_checked": 3072,
+  "independently_rebuilt_control_draws": 400,
+  "one_gene_omission_weight_checks": 168,
+  "original_boundary_profiles_checked": 96,
+  "explicit_local_regressions_checked": 4,
+  "BH_families_verified": [
+    12,
+    48,
+    12
+  ],
+  "source_label_baselines_checked": 32,
+  "new_biological_replicates": 0
+}

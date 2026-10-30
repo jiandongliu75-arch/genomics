@@ -1,0 +1,481 @@
+stage	cluster_id	sample	layer	nuclei	family	detected_markers	detected_anchors	detected_marker_count	detected_anchor_count
+P0	P0_EC0	GSM8827071_P0_1	DecontX_corrected	223	Capillary-like	Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Dach1	Btnl9;Emcn	6	2
+P0	P0_EC0	GSM8827071_P0_1	DecontX_corrected	223	Endocardial-like			0	0
+P0	P0_EC0	GSM8827071_P0_1	DecontX_corrected	223	Arterial-like	Efnb2	Efnb2	1	1
+P0	P0_EC0	GSM8827071_P0_1	DecontX_corrected	223	Venous-like candidate			0	0
+P0	P0_EC0	GSM8827071_P0_1	DecontX_corrected	223	Lymphatic-like candidate	Nrp2		1	0
+P0	P0_EC0	GSM8827071_P0_1	raw	223	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Cd300lg;Rgcc;Dach1;Gpihbp1;Dipk2b	Btnl9;Cd300lg;Emcn;Gpihbp1;Rgcc	11	5
+P0	P0_EC0	GSM8827071_P0_1	raw	223	Endocardial-like	Kcnc2;Nrxn3;Nfatc1	Nfatc1;Nrxn3	3	2
+P0	P0_EC0	GSM8827071_P0_1	raw	223	Arterial-like	Efnb2	Efnb2	1	1
+P0	P0_EC0	GSM8827071_P0_1	raw	223	Venous-like candidate	Ephb4;Nr2f2	Ephb4;Nr2f2	2	2
+P0	P0_EC0	GSM8827071_P0_1	raw	223	Lymphatic-like candidate	Nrp2		1	0
+P0	P0_EC0	GSM8827072_P0_2	DecontX_corrected	207	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Cd300lg;Dach1;Dipk2b	Btnl9;Cd300lg;Emcn	9	3
+P0	P0_EC0	GSM8827072_P0_2	DecontX_corrected	207	Endocardial-like			0	0
+P0	P0_EC0	GSM8827072_P0_2	DecontX_corrected	207	Arterial-like	Efnb2	Efnb2	1	1
+P0	P0_EC0	GSM8827072_P0_2	DecontX_corrected	207	Venous-like candidate	Ephb4	Ephb4	1	1
+P0	P0_EC0	GSM8827072_P0_2	DecontX_corrected	207	Lymphatic-like candidate	Nrp2		1	0
+P0	P0_EC0	GSM8827072_P0_2	raw	207	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Car4;Cd300lg;Rgcc;Dach1;Gpihbp1;Dipk2b	Btnl9;Car4;Cd300lg;Emcn;Gpihbp1;Rgcc	12	6
+P0	P0_EC0	GSM8827072_P0_2	raw	207	Endocardial-like	Kcnc2;Nfatc1	Nfatc1	2	1
+P0	P0_EC0	GSM8827072_P0_2	raw	207	Arterial-like	Sox17;Efnb2	Efnb2;Sox17	2	2
+P0	P0_EC0	GSM8827072_P0_2	raw	207	Venous-like candidate	Ephb4;Nr2f2	Ephb4;Nr2f2	2	2
+P0	P0_EC0	GSM8827072_P0_2	raw	207	Lymphatic-like candidate	Nrp2;Flt4	Flt4	2	1
+P0	P0_EC1	GSM8827071_P0_1	DecontX_corrected	119	Capillary-like	Emcn;Adgrl4;Cd36	Emcn	3	1
+P0	P0_EC1	GSM8827071_P0_1	DecontX_corrected	119	Endocardial-like	Hs3st4;Nrg1;Enpp6;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3	Npr3;Nrxn3	8	2
+P0	P0_EC1	GSM8827071_P0_1	DecontX_corrected	119	Arterial-like	Efnb2	Efnb2	1	1
+P0	P0_EC1	GSM8827071_P0_1	DecontX_corrected	119	Venous-like candidate	Ephb4;Vwf	Ephb4	2	1
+P0	P0_EC1	GSM8827071_P0_1	DecontX_corrected	119	Lymphatic-like candidate			0	0
+P0	P0_EC1	GSM8827071_P0_1	raw	119	Capillary-like	Emcn;Adgrl4;Cd36;Dach1	Emcn	4	1
+P0	P0_EC1	GSM8827071_P0_1	raw	119	Endocardial-like	Hs3st4;Nrg1;Enpp6;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3;Nfatc1	Nfatc1;Npr3;Nrxn3	9	3
+P0	P0_EC1	GSM8827071_P0_1	raw	119	Arterial-like	Efnb2	Efnb2	1	1
+P0	P0_EC1	GSM8827071_P0_1	raw	119	Venous-like candidate	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2	3	2
+P0	P0_EC1	GSM8827071_P0_1	raw	119	Lymphatic-like candidate	Nrp2;Prox1	Prox1	2	1
+P0	P0_EC1	GSM8827072_P0_2	DecontX_corrected	172	Capillary-like	Emcn;Adgrl4;Cd36	Emcn	3	1
+P0	P0_EC1	GSM8827072_P0_2	DecontX_corrected	172	Endocardial-like	Hs3st4;Nrg1;Enpp6;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3	Npr3;Nrxn3	8	2
+P0	P0_EC1	GSM8827072_P0_2	DecontX_corrected	172	Arterial-like	Efnb2	Efnb2	1	1
+P0	P0_EC1	GSM8827072_P0_2	DecontX_corrected	172	Venous-like candidate	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2	3	2
+P0	P0_EC1	GSM8827072_P0_2	DecontX_corrected	172	Lymphatic-like candidate	Nrp2		1	0
+P0	P0_EC1	GSM8827072_P0_2	raw	172	Capillary-like	Fabp4;Emcn;Adgrl4;Cd36;Dach1	Emcn	5	1
+P0	P0_EC1	GSM8827072_P0_2	raw	172	Endocardial-like	Hs3st4;Nrg1;Enpp6;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3;Nfatc1	Nfatc1;Npr3;Nrxn3	9	3
+P0	P0_EC1	GSM8827072_P0_2	raw	172	Arterial-like	Efnb2	Efnb2	1	1
+P0	P0_EC1	GSM8827072_P0_2	raw	172	Venous-like candidate	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2	3	2
+P0	P0_EC1	GSM8827072_P0_2	raw	172	Lymphatic-like candidate	Nrp2;Prox1	Prox1	2	1
+P0	P0_EC2	GSM8827071_P0_1	DecontX_corrected	70	Capillary-like	Emcn;Adgrl4;Cd36;Dach1	Emcn	4	1
+P0	P0_EC2	GSM8827071_P0_1	DecontX_corrected	70	Endocardial-like	Hs3st4;Nrg1;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3;Nfatc1	Nfatc1;Npr3;Nrxn3	8	3
+P0	P0_EC2	GSM8827071_P0_1	DecontX_corrected	70	Arterial-like	Efnb2	Efnb2	1	1
+P0	P0_EC2	GSM8827071_P0_1	DecontX_corrected	70	Venous-like candidate	Ephb4	Ephb4	1	1
+P0	P0_EC2	GSM8827071_P0_1	DecontX_corrected	70	Lymphatic-like candidate	Prox1	Prox1	1	1
+P0	P0_EC2	GSM8827071_P0_1	raw	70	Capillary-like	Fabp4;Emcn;Adgrl4;Cd36;Dach1	Emcn	5	1
+P0	P0_EC2	GSM8827071_P0_1	raw	70	Endocardial-like	Hs3st4;Nrg1;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3;Nfatc1	Nfatc1;Npr3;Nrxn3	8	3
+P0	P0_EC2	GSM8827071_P0_1	raw	70	Arterial-like	Efnb2	Efnb2	1	1
+P0	P0_EC2	GSM8827071_P0_1	raw	70	Venous-like candidate	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2	3	2
+P0	P0_EC2	GSM8827071_P0_1	raw	70	Lymphatic-like candidate	Nrp2;Prox1;Flt4	Flt4;Prox1	3	2
+P0	P0_EC2	GSM8827072_P0_2	DecontX_corrected	35	Capillary-like	Emcn;Adgrl4	Emcn	2	1
+P0	P0_EC2	GSM8827072_P0_2	DecontX_corrected	35	Endocardial-like	Hs3st4;Nrg1;Col23a1;Smoc1;Nrxn3;Npr3;Nfatc1	Nfatc1;Npr3;Nrxn3	7	3
+P0	P0_EC2	GSM8827072_P0_2	DecontX_corrected	35	Arterial-like	Efnb2	Efnb2	1	1
+P0	P0_EC2	GSM8827072_P0_2	DecontX_corrected	35	Venous-like candidate	Ephb4;Vwf	Ephb4	2	1
+P0	P0_EC2	GSM8827072_P0_2	DecontX_corrected	35	Lymphatic-like candidate	Prox1	Prox1	1	1
+P0	P0_EC2	GSM8827072_P0_2	raw	35	Capillary-like	Emcn;Adgrl4;Cd36	Emcn	3	1
+P0	P0_EC2	GSM8827072_P0_2	raw	35	Endocardial-like	Hs3st4;Nrg1;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3;Nfatc1	Nfatc1;Npr3;Nrxn3	8	3
+P0	P0_EC2	GSM8827072_P0_2	raw	35	Arterial-like	Gja4;Efnb2	Efnb2	2	1
+P0	P0_EC2	GSM8827072_P0_2	raw	35	Venous-like candidate	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2	3	2
+P0	P0_EC2	GSM8827072_P0_2	raw	35	Lymphatic-like candidate	Prox1;Flt4	Flt4;Prox1	2	2
+P0	P0_EC3	GSM8827071_P0_1	DecontX_corrected	150	Capillary-like	Emcn;Adgrl4	Emcn	2	1
+P0	P0_EC3	GSM8827071_P0_1	DecontX_corrected	150	Endocardial-like	Hs3st4;Nrg1;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3;Nfatc1	Nfatc1;Npr3;Nrxn3	8	3
+P0	P0_EC3	GSM8827071_P0_1	DecontX_corrected	150	Arterial-like	Efnb2	Efnb2	1	1
+P0	P0_EC3	GSM8827071_P0_1	DecontX_corrected	150	Venous-like candidate	Ephb4	Ephb4	1	1
+P0	P0_EC3	GSM8827071_P0_1	DecontX_corrected	150	Lymphatic-like candidate			0	0
+P0	P0_EC3	GSM8827071_P0_1	raw	150	Capillary-like	Emcn;Adgrl4;Cd36	Emcn	3	1
+P0	P0_EC3	GSM8827071_P0_1	raw	150	Endocardial-like	Hs3st4;Nrg1;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3;Nfatc1	Nfatc1;Npr3;Nrxn3	8	3
+P0	P0_EC3	GSM8827071_P0_1	raw	150	Arterial-like	Efnb2	Efnb2	1	1
+P0	P0_EC3	GSM8827071_P0_1	raw	150	Venous-like candidate	Ephb4;Nr2f2	Ephb4;Nr2f2	2	2
+P0	P0_EC3	GSM8827071_P0_1	raw	150	Lymphatic-like candidate	Nrp2;Prox1	Prox1	2	1
+P0	P0_EC3	GSM8827072_P0_2	DecontX_corrected	176	Capillary-like	Emcn;Adgrl4	Emcn	2	1
+P0	P0_EC3	GSM8827072_P0_2	DecontX_corrected	176	Endocardial-like	Hs3st4;Nrg1;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3;Nfatc1	Nfatc1;Npr3;Nrxn3	8	3
+P0	P0_EC3	GSM8827072_P0_2	DecontX_corrected	176	Arterial-like	Efnb2	Efnb2	1	1
+P0	P0_EC3	GSM8827072_P0_2	DecontX_corrected	176	Venous-like candidate	Ephb4;Nr2f2	Ephb4;Nr2f2	2	2
+P0	P0_EC3	GSM8827072_P0_2	DecontX_corrected	176	Lymphatic-like candidate	Nrp2		1	0
+P0	P0_EC3	GSM8827072_P0_2	raw	176	Capillary-like	Fabp4;Emcn;Adgrl4;Cd36	Emcn	4	1
+P0	P0_EC3	GSM8827072_P0_2	raw	176	Endocardial-like	Hs3st4;Nrg1;Enpp6;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3;Nfatc1	Nfatc1;Npr3;Nrxn3	9	3
+P0	P0_EC3	GSM8827072_P0_2	raw	176	Arterial-like	Efnb2	Efnb2	1	1
+P0	P0_EC3	GSM8827072_P0_2	raw	176	Venous-like candidate	Ephb4;Nr2f2	Ephb4;Nr2f2	2	2
+P0	P0_EC3	GSM8827072_P0_2	raw	176	Lymphatic-like candidate	Nrp2;Prox1;Lyve1;Flt4	Flt4;Prox1	4	2
+P0	P0_EC4	GSM8827071_P0_1	DecontX_corrected	22	Capillary-like	Adgrl4;Cd36;Dach1		3	0
+P0	P0_EC4	GSM8827071_P0_1	DecontX_corrected	22	Endocardial-like	Enpp6		1	0
+P0	P0_EC4	GSM8827071_P0_1	DecontX_corrected	22	Arterial-like	Efnb2;Sema3g;Ptchd1	Efnb2;Sema3g	3	2
+P0	P0_EC4	GSM8827071_P0_1	DecontX_corrected	22	Venous-like candidate			0	0
+P0	P0_EC4	GSM8827071_P0_1	DecontX_corrected	22	Lymphatic-like candidate			0	0
+P0	P0_EC4	GSM8827071_P0_1	raw	22	Capillary-like	Fabp4;Adgrl4;Cd36;Dach1;Dipk2b		5	0
+P0	P0_EC4	GSM8827071_P0_1	raw	22	Endocardial-like	Enpp6;Nrxn3;Npr3;Nfatc1	Nfatc1;Npr3;Nrxn3	4	3
+P0	P0_EC4	GSM8827071_P0_1	raw	22	Arterial-like	Sox17;Hey1;Mannr;Gja5;Gja4;Efnb2;Sema3g;Ptchd1	Efnb2;Gja5;Sema3g;Sox17	8	4
+P0	P0_EC4	GSM8827071_P0_1	raw	22	Venous-like candidate	Ephb4;Vwf	Ephb4	2	1
+P0	P0_EC4	GSM8827071_P0_1	raw	22	Lymphatic-like candidate			0	0
+P0	P0_EC4	GSM8827072_P0_2	DecontX_corrected	25	Capillary-like	Fabp4;Adgrl4;Cd36;Btnl9;Dach1;Dipk2b	Btnl9	6	1
+P0	P0_EC4	GSM8827072_P0_2	DecontX_corrected	25	Endocardial-like	Enpp6		1	0
+P0	P0_EC4	GSM8827072_P0_2	DecontX_corrected	25	Arterial-like	Sox17;Mannr;Gja5;Efnb2;Sema3g;Ptchd1	Efnb2;Gja5;Sema3g;Sox17	6	4
+P0	P0_EC4	GSM8827072_P0_2	DecontX_corrected	25	Venous-like candidate	Ephb4;Vwf	Ephb4	2	1
+P0	P0_EC4	GSM8827072_P0_2	DecontX_corrected	25	Lymphatic-like candidate			0	0
+P0	P0_EC4	GSM8827072_P0_2	raw	25	Capillary-like	Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Dach1;Dipk2b	Btnl9;Emcn	7	2
+P0	P0_EC4	GSM8827072_P0_2	raw	25	Endocardial-like	Enpp6;Nrxn3;Npr3;Nfatc1	Nfatc1;Npr3;Nrxn3	4	3
+P0	P0_EC4	GSM8827072_P0_2	raw	25	Arterial-like	Sox17;Dll4;Hey1;Mannr;Gja5;Gja4;Efnb2;Sema3g;Ptchd1	Dll4;Efnb2;Gja5;Sema3g;Sox17	9	5
+P0	P0_EC4	GSM8827072_P0_2	raw	25	Venous-like candidate	Ephb4;Vwf	Ephb4	2	1
+P0	P0_EC4	GSM8827072_P0_2	raw	25	Lymphatic-like candidate			0	0
+P0	P0_EC5	GSM8827071_P0_1	DecontX_corrected	24	Capillary-like	Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Dach1	Btnl9;Emcn	6	2
+P0	P0_EC5	GSM8827071_P0_1	DecontX_corrected	24	Endocardial-like	Hs3st4;Nrg1;Kcnc2;Col23a1;Nrxn3;Npr3;Nfatc1	Nfatc1;Npr3;Nrxn3	7	3
+P0	P0_EC5	GSM8827071_P0_1	DecontX_corrected	24	Arterial-like	Efnb2	Efnb2	1	1
+P0	P0_EC5	GSM8827071_P0_1	DecontX_corrected	24	Venous-like candidate	Ephb4;Vwf	Ephb4	2	1
+P0	P0_EC5	GSM8827071_P0_1	DecontX_corrected	24	Lymphatic-like candidate	Nrp2		1	0
+P0	P0_EC5	GSM8827071_P0_1	raw	24	Capillary-like	Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Cd300lg;Dach1;Gpihbp1;Dipk2b	Btnl9;Cd300lg;Emcn;Gpihbp1	9	4
+P0	P0_EC5	GSM8827071_P0_1	raw	24	Endocardial-like	Hs3st4;Nrg1;Enpp6;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3;Nfatc1	Nfatc1;Npr3;Nrxn3	9	3
+P0	P0_EC5	GSM8827071_P0_1	raw	24	Arterial-like	Efnb2	Efnb2	1	1
+P0	P0_EC5	GSM8827071_P0_1	raw	24	Venous-like candidate	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2	3	2
+P0	P0_EC5	GSM8827071_P0_1	raw	24	Lymphatic-like candidate	Nrp2		1	0
+P0	P0_EC5	GSM8827072_P0_2	DecontX_corrected	26	Capillary-like	Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Dach1;Dipk2b	Btnl9;Emcn	7	2
+P0	P0_EC5	GSM8827072_P0_2	DecontX_corrected	26	Endocardial-like	Hs3st4;Kcnc2;Col23a1;Nrxn3;Npr3;Nfatc1	Nfatc1;Npr3;Nrxn3	6	3
+P0	P0_EC5	GSM8827072_P0_2	DecontX_corrected	26	Arterial-like	Efnb2	Efnb2	1	1
+P0	P0_EC5	GSM8827072_P0_2	DecontX_corrected	26	Venous-like candidate	Ephb4;Nr2f2	Ephb4;Nr2f2	2	2
+P0	P0_EC5	GSM8827072_P0_2	DecontX_corrected	26	Lymphatic-like candidate	Nrp2		1	0
+P0	P0_EC5	GSM8827072_P0_2	raw	26	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Cd300lg;Rgcc;Dach1;Gpihbp1;Dipk2b	Btnl9;Cd300lg;Emcn;Gpihbp1;Rgcc	11	5
+P0	P0_EC5	GSM8827072_P0_2	raw	26	Endocardial-like	Hs3st4;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3;Nfatc1	Nfatc1;Npr3;Nrxn3	7	3
+P0	P0_EC5	GSM8827072_P0_2	raw	26	Arterial-like	Efnb2	Efnb2	1	1
+P0	P0_EC5	GSM8827072_P0_2	raw	26	Venous-like candidate	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2	3	2
+P0	P0_EC5	GSM8827072_P0_2	raw	26	Lymphatic-like candidate	Nrp2;Prox1;Flt4	Flt4;Prox1	3	2
+P14	P14_EC0	GSM8827075_P14_1	DecontX_corrected	126	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Dach1;Dipk2b	Emcn	7	1
+P14	P14_EC0	GSM8827075_P14_1	DecontX_corrected	126	Endocardial-like	Kcnc2		1	0
+P14	P14_EC0	GSM8827075_P14_1	DecontX_corrected	126	Arterial-like			0	0
+P14	P14_EC0	GSM8827075_P14_1	DecontX_corrected	126	Venous-like candidate	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2	3	2
+P14	P14_EC0	GSM8827075_P14_1	DecontX_corrected	126	Lymphatic-like candidate	Nrp2		1	0
+P14	P14_EC0	GSM8827075_P14_1	raw	126	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Cd300lg;Dach1;Gpihbp1;Dipk2b	Cd300lg;Emcn;Gpihbp1	9	3
+P14	P14_EC0	GSM8827075_P14_1	raw	126	Endocardial-like	Kcnc2;Nrxn3;Nfatc1	Nfatc1;Nrxn3	3	2
+P14	P14_EC0	GSM8827075_P14_1	raw	126	Arterial-like	Efnb2	Efnb2	1	1
+P14	P14_EC0	GSM8827075_P14_1	raw	126	Venous-like candidate	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2	3	2
+P14	P14_EC0	GSM8827075_P14_1	raw	126	Lymphatic-like candidate	Nrp2		1	0
+P14	P14_EC0	GSM8827076_P14_2	DecontX_corrected	134	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Dach1;Dipk2b	Emcn	7	1
+P14	P14_EC0	GSM8827076_P14_2	DecontX_corrected	134	Endocardial-like	Kcnc2		1	0
+P14	P14_EC0	GSM8827076_P14_2	DecontX_corrected	134	Arterial-like			0	0
+P14	P14_EC0	GSM8827076_P14_2	DecontX_corrected	134	Venous-like candidate	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2	3	2
+P14	P14_EC0	GSM8827076_P14_2	DecontX_corrected	134	Lymphatic-like candidate	Nrp2		1	0
+P14	P14_EC0	GSM8827076_P14_2	raw	134	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Cd300lg;Dach1;Gpihbp1;Dipk2b	Cd300lg;Emcn;Gpihbp1	9	3
+P14	P14_EC0	GSM8827076_P14_2	raw	134	Endocardial-like	Kcnc2;Nrxn3;Nfatc1	Nfatc1;Nrxn3	3	2
+P14	P14_EC0	GSM8827076_P14_2	raw	134	Arterial-like	Efnb2	Efnb2	1	1
+P14	P14_EC0	GSM8827076_P14_2	raw	134	Venous-like candidate	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2	3	2
+P14	P14_EC0	GSM8827076_P14_2	raw	134	Lymphatic-like candidate	Nrp2		1	0
+P14	P14_EC1	GSM8827075_P14_1	DecontX_corrected	99	Capillary-like	Emcn;Adgrl4;Cd36	Emcn	3	1
+P14	P14_EC1	GSM8827075_P14_1	DecontX_corrected	99	Endocardial-like	Nrg1;Enpp6;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3	Npr3;Nrxn3	7	2
+P14	P14_EC1	GSM8827075_P14_1	DecontX_corrected	99	Arterial-like	Efnb2	Efnb2	1	1
+P14	P14_EC1	GSM8827075_P14_1	DecontX_corrected	99	Venous-like candidate	Ephb4;Vwf	Ephb4	2	1
+P14	P14_EC1	GSM8827075_P14_1	DecontX_corrected	99	Lymphatic-like candidate			0	0
+P14	P14_EC1	GSM8827075_P14_1	raw	99	Capillary-like	Fabp4;Emcn;Adgrl4;Cd36	Emcn	4	1
+P14	P14_EC1	GSM8827075_P14_1	raw	99	Endocardial-like	Nrg1;Enpp6;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3;Nfatc1	Nfatc1;Npr3;Nrxn3	8	3
+P14	P14_EC1	GSM8827075_P14_1	raw	99	Arterial-like	Efnb2	Efnb2	1	1
+P14	P14_EC1	GSM8827075_P14_1	raw	99	Venous-like candidate	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2	3	2
+P14	P14_EC1	GSM8827075_P14_1	raw	99	Lymphatic-like candidate	Nrp2;Prox1	Prox1	2	1
+P14	P14_EC1	GSM8827076_P14_2	DecontX_corrected	145	Capillary-like	Emcn;Adgrl4;Cd36	Emcn	3	1
+P14	P14_EC1	GSM8827076_P14_2	DecontX_corrected	145	Endocardial-like	Nrg1;Enpp6;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3;Nfatc1	Nfatc1;Npr3;Nrxn3	8	3
+P14	P14_EC1	GSM8827076_P14_2	DecontX_corrected	145	Arterial-like	Efnb2	Efnb2	1	1
+P14	P14_EC1	GSM8827076_P14_2	DecontX_corrected	145	Venous-like candidate	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2	3	2
+P14	P14_EC1	GSM8827076_P14_2	DecontX_corrected	145	Lymphatic-like candidate			0	0
+P14	P14_EC1	GSM8827076_P14_2	raw	145	Capillary-like	Fabp4;Emcn;Adgrl4;Cd36;Dach1	Emcn	5	1
+P14	P14_EC1	GSM8827076_P14_2	raw	145	Endocardial-like	Nrg1;Enpp6;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3;Nfatc1	Nfatc1;Npr3;Nrxn3	8	3
+P14	P14_EC1	GSM8827076_P14_2	raw	145	Arterial-like	Efnb2	Efnb2	1	1
+P14	P14_EC1	GSM8827076_P14_2	raw	145	Venous-like candidate	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2	3	2
+P14	P14_EC1	GSM8827076_P14_2	raw	145	Lymphatic-like candidate	Nrp2;Prox1	Prox1	2	1
+P14	P14_EC2	GSM8827075_P14_1	DecontX_corrected	178	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Dach1;Dipk2b	Btnl9;Emcn	8	2
+P14	P14_EC2	GSM8827075_P14_1	DecontX_corrected	178	Endocardial-like			0	0
+P14	P14_EC2	GSM8827075_P14_1	DecontX_corrected	178	Arterial-like	Efnb2	Efnb2	1	1
+P14	P14_EC2	GSM8827075_P14_1	DecontX_corrected	178	Venous-like candidate			0	0
+P14	P14_EC2	GSM8827075_P14_1	DecontX_corrected	178	Lymphatic-like candidate	Nrp2		1	0
+P14	P14_EC2	GSM8827075_P14_1	raw	178	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Car4;Cd300lg;Rgcc;Dach1;Gpihbp1;Dipk2b	Btnl9;Car4;Cd300lg;Emcn;Gpihbp1;Rgcc	12	6
+P14	P14_EC2	GSM8827075_P14_1	raw	178	Endocardial-like	Nfatc1	Nfatc1	1	1
+P14	P14_EC2	GSM8827075_P14_1	raw	178	Arterial-like	Efnb2	Efnb2	1	1
+P14	P14_EC2	GSM8827075_P14_1	raw	178	Venous-like candidate	Ephb4	Ephb4	1	1
+P14	P14_EC2	GSM8827075_P14_1	raw	178	Lymphatic-like candidate	Nrp2;Prox1	Prox1	2	1
+P14	P14_EC2	GSM8827076_P14_2	DecontX_corrected	241	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Dach1;Dipk2b	Btnl9;Emcn	8	2
+P14	P14_EC2	GSM8827076_P14_2	DecontX_corrected	241	Endocardial-like			0	0
+P14	P14_EC2	GSM8827076_P14_2	DecontX_corrected	241	Arterial-like	Efnb2	Efnb2	1	1
+P14	P14_EC2	GSM8827076_P14_2	DecontX_corrected	241	Venous-like candidate	Ephb4	Ephb4	1	1
+P14	P14_EC2	GSM8827076_P14_2	DecontX_corrected	241	Lymphatic-like candidate	Nrp2		1	0
+P14	P14_EC2	GSM8827076_P14_2	raw	241	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Car4;Cd300lg;Rgcc;Dach1;Gpihbp1;Dipk2b	Btnl9;Car4;Cd300lg;Emcn;Gpihbp1;Rgcc	12	6
+P14	P14_EC2	GSM8827076_P14_2	raw	241	Endocardial-like	Nfatc1	Nfatc1	1	1
+P14	P14_EC2	GSM8827076_P14_2	raw	241	Arterial-like	Efnb2	Efnb2	1	1
+P14	P14_EC2	GSM8827076_P14_2	raw	241	Venous-like candidate	Ephb4	Ephb4	1	1
+P14	P14_EC2	GSM8827076_P14_2	raw	241	Lymphatic-like candidate	Nrp2		1	0
+P14	P14_EC3	GSM8827075_P14_1	DecontX_corrected	15	Capillary-like	Emcn;Cd36;Dipk2b	Emcn	3	1
+P14	P14_EC3	GSM8827075_P14_1	DecontX_corrected	15	Endocardial-like	Nfatc1	Nfatc1	1	1
+P14	P14_EC3	GSM8827075_P14_1	DecontX_corrected	15	Arterial-like	Efnb2	Efnb2	1	1
+P14	P14_EC3	GSM8827075_P14_1	DecontX_corrected	15	Venous-like candidate	Ephb4;Nr2f2	Ephb4;Nr2f2	2	2
+P14	P14_EC3	GSM8827075_P14_1	DecontX_corrected	15	Lymphatic-like candidate	Nrp2;Prox1;Ccl21a;Pdpn;Reln;Mmrn1;Lyve1;Flt4	Flt4;Prox1	8	2
+P14	P14_EC3	GSM8827075_P14_1	raw	15	Capillary-like	Emcn;Cd36;Btnl9;Cd300lg;Dipk2b	Btnl9;Cd300lg;Emcn	5	3
+P14	P14_EC3	GSM8827075_P14_1	raw	15	Endocardial-like	Nrxn3;Nfatc1	Nfatc1;Nrxn3	2	2
+P14	P14_EC3	GSM8827075_P14_1	raw	15	Arterial-like	Efnb2	Efnb2	1	1
+P14	P14_EC3	GSM8827075_P14_1	raw	15	Venous-like candidate	Ephb4;Nr2f2	Ephb4;Nr2f2	2	2
+P14	P14_EC3	GSM8827075_P14_1	raw	15	Lymphatic-like candidate	Nrp2;Prox1;Ccl21a;Pdpn;Reln;Mmrn1;Lyve1;Flt4	Flt4;Prox1	8	2
+P14	P14_EC3	GSM8827076_P14_2	DecontX_corrected	8	Capillary-like	Emcn;Cd36;Btnl9;Dipk2b	Btnl9;Emcn	4	2
+P14	P14_EC3	GSM8827076_P14_2	DecontX_corrected	8	Endocardial-like	Nrxn3;Nfatc1	Nfatc1;Nrxn3	2	2
+P14	P14_EC3	GSM8827076_P14_2	DecontX_corrected	8	Arterial-like	Efnb2	Efnb2	1	1
+P14	P14_EC3	GSM8827076_P14_2	DecontX_corrected	8	Venous-like candidate	Ephb4;Nr2f2	Ephb4;Nr2f2	2	2
+P14	P14_EC3	GSM8827076_P14_2	DecontX_corrected	8	Lymphatic-like candidate	Nrp2;Prox1;Pdpn;Reln;Mmrn1;Lyve1;Flt4	Flt4;Prox1	7	2
+P14	P14_EC3	GSM8827076_P14_2	raw	8	Capillary-like	Emcn;Adgrl4;Cd36;Btnl9;Gpihbp1;Dipk2b	Btnl9;Emcn;Gpihbp1	6	3
+P14	P14_EC3	GSM8827076_P14_2	raw	8	Endocardial-like	Col23a1;Nrxn3;Nfatc1	Nfatc1;Nrxn3	3	2
+P14	P14_EC3	GSM8827076_P14_2	raw	8	Arterial-like	Gja4;Efnb2	Efnb2	2	1
+P14	P14_EC3	GSM8827076_P14_2	raw	8	Venous-like candidate	Ephb4;Nr2f2	Ephb4;Nr2f2	2	2
+P14	P14_EC3	GSM8827076_P14_2	raw	8	Lymphatic-like candidate	Nrp2;Prox1;Ccl21a;Pdpn;Reln;Mmrn1;Lyve1;Flt4;Tbx1	Flt4;Prox1	9	2
+P14	P14_EC4	GSM8827075_P14_1	DecontX_corrected	78	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Cd300lg;Dach1;Dipk2b	Btnl9;Cd300lg;Emcn	9	3
+P14	P14_EC4	GSM8827075_P14_1	DecontX_corrected	78	Endocardial-like	Kcnc2		1	0
+P14	P14_EC4	GSM8827075_P14_1	DecontX_corrected	78	Arterial-like	Efnb2	Efnb2	1	1
+P14	P14_EC4	GSM8827075_P14_1	DecontX_corrected	78	Venous-like candidate			0	0
+P14	P14_EC4	GSM8827075_P14_1	DecontX_corrected	78	Lymphatic-like candidate	Nrp2		1	0
+P14	P14_EC4	GSM8827075_P14_1	raw	78	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Cd300lg;Rgcc;Dach1;Gpihbp1;Dipk2b	Btnl9;Cd300lg;Emcn;Gpihbp1;Rgcc	11	5
+P14	P14_EC4	GSM8827075_P14_1	raw	78	Endocardial-like	Kcnc2;Nfatc1	Nfatc1	2	1
+P14	P14_EC4	GSM8827075_P14_1	raw	78	Arterial-like	Efnb2	Efnb2	1	1
+P14	P14_EC4	GSM8827075_P14_1	raw	78	Venous-like candidate	Ephb4	Ephb4	1	1
+P14	P14_EC4	GSM8827075_P14_1	raw	78	Lymphatic-like candidate	Nrp2;Flt4	Flt4	2	1
+P14	P14_EC4	GSM8827076_P14_2	DecontX_corrected	117	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Cd300lg;Dach1;Dipk2b	Btnl9;Cd300lg;Emcn	9	3
+P14	P14_EC4	GSM8827076_P14_2	DecontX_corrected	117	Endocardial-like			0	0
+P14	P14_EC4	GSM8827076_P14_2	DecontX_corrected	117	Arterial-like	Efnb2	Efnb2	1	1
+P14	P14_EC4	GSM8827076_P14_2	DecontX_corrected	117	Venous-like candidate			0	0
+P14	P14_EC4	GSM8827076_P14_2	DecontX_corrected	117	Lymphatic-like candidate	Nrp2		1	0
+P14	P14_EC4	GSM8827076_P14_2	raw	117	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Car4;Cd300lg;Rgcc;Dach1;Gpihbp1;Dipk2b	Btnl9;Car4;Cd300lg;Emcn;Gpihbp1;Rgcc	12	6
+P14	P14_EC4	GSM8827076_P14_2	raw	117	Endocardial-like	Kcnc2;Nfatc1	Nfatc1	2	1
+P14	P14_EC4	GSM8827076_P14_2	raw	117	Arterial-like	Efnb2	Efnb2	1	1
+P14	P14_EC4	GSM8827076_P14_2	raw	117	Venous-like candidate	Ephb4	Ephb4	1	1
+P14	P14_EC4	GSM8827076_P14_2	raw	117	Lymphatic-like candidate	Nrp2;Flt4	Flt4	2	1
+P14	P14_EC5	GSM8827075_P14_1	DecontX_corrected	31	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Car4;Cd300lg;Rgcc;Dach1;Gpihbp1;Dipk2b	Btnl9;Car4;Cd300lg;Emcn;Gpihbp1;Rgcc	12	6
+P14	P14_EC5	GSM8827075_P14_1	DecontX_corrected	31	Endocardial-like			0	0
+P14	P14_EC5	GSM8827075_P14_1	DecontX_corrected	31	Arterial-like	Efnb2	Efnb2	1	1
+P14	P14_EC5	GSM8827075_P14_1	DecontX_corrected	31	Venous-like candidate	Ephb4	Ephb4	1	1
+P14	P14_EC5	GSM8827075_P14_1	DecontX_corrected	31	Lymphatic-like candidate	Nrp2		1	0
+P14	P14_EC5	GSM8827075_P14_1	raw	31	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Car4;Cd300lg;Rgcc;Dach1;Gpihbp1;Dipk2b	Btnl9;Car4;Cd300lg;Emcn;Gpihbp1;Rgcc	12	6
+P14	P14_EC5	GSM8827075_P14_1	raw	31	Endocardial-like	Nfatc1	Nfatc1	1	1
+P14	P14_EC5	GSM8827075_P14_1	raw	31	Arterial-like	Sox17;Dll4;Efnb2	Dll4;Efnb2;Sox17	3	3
+P14	P14_EC5	GSM8827075_P14_1	raw	31	Venous-like candidate	Ephb4;Nr2f2	Ephb4;Nr2f2	2	2
+P14	P14_EC5	GSM8827075_P14_1	raw	31	Lymphatic-like candidate	Nrp2;Flt4	Flt4	2	1
+P14	P14_EC5	GSM8827076_P14_2	DecontX_corrected	45	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Car4;Cd300lg;Rgcc;Dach1;Gpihbp1;Dipk2b	Btnl9;Car4;Cd300lg;Emcn;Gpihbp1;Rgcc	12	6
+P14	P14_EC5	GSM8827076_P14_2	DecontX_corrected	45	Endocardial-like			0	0
+P14	P14_EC5	GSM8827076_P14_2	DecontX_corrected	45	Arterial-like	Efnb2	Efnb2	1	1
+P14	P14_EC5	GSM8827076_P14_2	DecontX_corrected	45	Venous-like candidate	Ephb4	Ephb4	1	1
+P14	P14_EC5	GSM8827076_P14_2	DecontX_corrected	45	Lymphatic-like candidate	Nrp2		1	0
+P14	P14_EC5	GSM8827076_P14_2	raw	45	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Car4;Cd300lg;Rgcc;Dach1;Gpihbp1;Dipk2b	Btnl9;Car4;Cd300lg;Emcn;Gpihbp1;Rgcc	12	6
+P14	P14_EC5	GSM8827076_P14_2	raw	45	Endocardial-like	Nfatc1	Nfatc1	1	1
+P14	P14_EC5	GSM8827076_P14_2	raw	45	Arterial-like	Sox17;Dll4;Hey1;Efnb2;Sema3g	Dll4;Efnb2;Sema3g;Sox17	5	4
+P14	P14_EC5	GSM8827076_P14_2	raw	45	Venous-like candidate	Ephb4	Ephb4	1	1
+P14	P14_EC5	GSM8827076_P14_2	raw	45	Lymphatic-like candidate	Nrp2;Flt4	Flt4	2	1
+P14	P14_EC6	GSM8827075_P14_1	DecontX_corrected	9	Capillary-like	Cd36;Dach1		2	0
+P14	P14_EC6	GSM8827075_P14_1	DecontX_corrected	9	Endocardial-like	Enpp6		1	0
+P14	P14_EC6	GSM8827075_P14_1	DecontX_corrected	9	Arterial-like	Sox17;Mannr;Gja5;Efnb2;Sema3g	Efnb2;Gja5;Sema3g;Sox17	5	4
+P14	P14_EC6	GSM8827075_P14_1	DecontX_corrected	9	Venous-like candidate			0	0
+P14	P14_EC6	GSM8827075_P14_1	DecontX_corrected	9	Lymphatic-like candidate			0	0
+P14	P14_EC6	GSM8827075_P14_1	raw	9	Capillary-like	Adgrl4;Cd36;Dach1;Dipk2b		4	0
+P14	P14_EC6	GSM8827075_P14_1	raw	9	Endocardial-like	Enpp6;Nrxn3;Nfatc1	Nfatc1;Nrxn3	3	2
+P14	P14_EC6	GSM8827075_P14_1	raw	9	Arterial-like	Sox17;Dll4;Mannr;Gja5;Efnb2;Sema3g	Dll4;Efnb2;Gja5;Sema3g;Sox17	6	5
+P14	P14_EC6	GSM8827075_P14_1	raw	9	Venous-like candidate	Ephb4;Vwf	Ephb4	2	1
+P14	P14_EC6	GSM8827075_P14_1	raw	9	Lymphatic-like candidate	Flt4	Flt4	1	1
+P14	P14_EC6	GSM8827076_P14_2	DecontX_corrected	16	Capillary-like	Cd36;Dach1		2	0
+P14	P14_EC6	GSM8827076_P14_2	DecontX_corrected	16	Endocardial-like	Enpp6;Nfatc1	Nfatc1	2	1
+P14	P14_EC6	GSM8827076_P14_2	DecontX_corrected	16	Arterial-like	Mannr;Gja5;Efnb2;Ptchd1	Efnb2;Gja5	4	2
+P14	P14_EC6	GSM8827076_P14_2	DecontX_corrected	16	Venous-like candidate	Vwf		1	0
+P14	P14_EC6	GSM8827076_P14_2	DecontX_corrected	16	Lymphatic-like candidate			0	0
+P14	P14_EC6	GSM8827076_P14_2	raw	16	Capillary-like	Fabp4;Adgrl4;Cd36;Dach1		4	0
+P14	P14_EC6	GSM8827076_P14_2	raw	16	Endocardial-like	Enpp6;Nfatc1	Nfatc1	2	1
+P14	P14_EC6	GSM8827076_P14_2	raw	16	Arterial-like	Sox17;Dll4;Mannr;Gja5;Efnb2;Sema3g;Ptchd1	Dll4;Efnb2;Gja5;Sema3g;Sox17	7	5
+P14	P14_EC6	GSM8827076_P14_2	raw	16	Venous-like candidate	Selp;Ephb4;Vwf	Ephb4	3	1
+P14	P14_EC6	GSM8827076_P14_2	raw	16	Lymphatic-like candidate	Nrp2		1	0
+P21	P21_EC0	GSM8827077_P21_1	DecontX_corrected	422	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Cd300lg;Rgcc;Dach1;Dipk2b	Btnl9;Cd300lg;Emcn;Rgcc	10	4
+P21	P21_EC0	GSM8827077_P21_1	DecontX_corrected	422	Endocardial-like			0	0
+P21	P21_EC0	GSM8827077_P21_1	DecontX_corrected	422	Arterial-like	Efnb2	Efnb2	1	1
+P21	P21_EC0	GSM8827077_P21_1	DecontX_corrected	422	Venous-like candidate	Ephb4	Ephb4	1	1
+P21	P21_EC0	GSM8827077_P21_1	DecontX_corrected	422	Lymphatic-like candidate	Nrp2		1	0
+P21	P21_EC0	GSM8827077_P21_1	raw	422	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Car4;Cd300lg;Rgcc;Dach1;Gpihbp1;Dipk2b	Btnl9;Car4;Cd300lg;Emcn;Gpihbp1;Rgcc	12	6
+P21	P21_EC0	GSM8827077_P21_1	raw	422	Endocardial-like	Nfatc1	Nfatc1	1	1
+P21	P21_EC0	GSM8827077_P21_1	raw	422	Arterial-like	Dll4;Efnb2	Dll4;Efnb2	2	2
+P21	P21_EC0	GSM8827077_P21_1	raw	422	Venous-like candidate	Ephb4	Ephb4	1	1
+P21	P21_EC0	GSM8827077_P21_1	raw	422	Lymphatic-like candidate	Nrp2		1	0
+P21	P21_EC0	GSM8827078_P21_2	DecontX_corrected	148	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Cd300lg;Rgcc;Dach1;Gpihbp1;Dipk2b	Btnl9;Cd300lg;Emcn;Gpihbp1;Rgcc	11	5
+P21	P21_EC0	GSM8827078_P21_2	DecontX_corrected	148	Endocardial-like			0	0
+P21	P21_EC0	GSM8827078_P21_2	DecontX_corrected	148	Arterial-like	Efnb2	Efnb2	1	1
+P21	P21_EC0	GSM8827078_P21_2	DecontX_corrected	148	Venous-like candidate	Ephb4	Ephb4	1	1
+P21	P21_EC0	GSM8827078_P21_2	DecontX_corrected	148	Lymphatic-like candidate	Nrp2		1	0
+P21	P21_EC0	GSM8827078_P21_2	raw	148	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Car4;Cd300lg;Rgcc;Dach1;Gpihbp1;Dipk2b	Btnl9;Car4;Cd300lg;Emcn;Gpihbp1;Rgcc	12	6
+P21	P21_EC0	GSM8827078_P21_2	raw	148	Endocardial-like	Nfatc1	Nfatc1	1	1
+P21	P21_EC0	GSM8827078_P21_2	raw	148	Arterial-like	Efnb2	Efnb2	1	1
+P21	P21_EC0	GSM8827078_P21_2	raw	148	Venous-like candidate	Ephb4	Ephb4	1	1
+P21	P21_EC0	GSM8827078_P21_2	raw	148	Lymphatic-like candidate	Nrp2		1	0
+P21	P21_EC1	GSM8827077_P21_1	DecontX_corrected	245	Capillary-like	Emcn;Adgrl4;Cd36	Emcn	3	1
+P21	P21_EC1	GSM8827077_P21_1	DecontX_corrected	245	Endocardial-like	Nrg1;Enpp6;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3	Npr3;Nrxn3	7	2
+P21	P21_EC1	GSM8827077_P21_1	DecontX_corrected	245	Arterial-like	Efnb2	Efnb2	1	1
+P21	P21_EC1	GSM8827077_P21_1	DecontX_corrected	245	Venous-like candidate	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2	3	2
+P21	P21_EC1	GSM8827077_P21_1	DecontX_corrected	245	Lymphatic-like candidate	Nrp2		1	0
+P21	P21_EC1	GSM8827077_P21_1	raw	245	Capillary-like	Fabp4;Emcn;Adgrl4;Cd36;Cd300lg	Cd300lg;Emcn	5	2
+P21	P21_EC1	GSM8827077_P21_1	raw	245	Endocardial-like	Nrg1;Enpp6;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3;Nfatc1	Nfatc1;Npr3;Nrxn3	8	3
+P21	P21_EC1	GSM8827077_P21_1	raw	245	Arterial-like	Efnb2	Efnb2	1	1
+P21	P21_EC1	GSM8827077_P21_1	raw	245	Venous-like candidate	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2	3	2
+P21	P21_EC1	GSM8827077_P21_1	raw	245	Lymphatic-like candidate	Nrp2;Prox1	Prox1	2	1
+P21	P21_EC1	GSM8827078_P21_2	DecontX_corrected	65	Capillary-like	Emcn;Adgrl4;Cd36	Emcn	3	1
+P21	P21_EC1	GSM8827078_P21_2	DecontX_corrected	65	Endocardial-like	Nrg1;Enpp6;Col23a1;Smoc1;Nrxn3;Npr3	Npr3;Nrxn3	6	2
+P21	P21_EC1	GSM8827078_P21_2	DecontX_corrected	65	Arterial-like	Efnb2	Efnb2	1	1
+P21	P21_EC1	GSM8827078_P21_2	DecontX_corrected	65	Venous-like candidate	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2	3	2
+P21	P21_EC1	GSM8827078_P21_2	DecontX_corrected	65	Lymphatic-like candidate			0	0
+P21	P21_EC1	GSM8827078_P21_2	raw	65	Capillary-like	Emcn;Adgrl4;Cd36;Dach1	Emcn	4	1
+P21	P21_EC1	GSM8827078_P21_2	raw	65	Endocardial-like	Nrg1;Enpp6;Col23a1;Smoc1;Nrxn3;Npr3;Nfatc1	Nfatc1;Npr3;Nrxn3	7	3
+P21	P21_EC1	GSM8827078_P21_2	raw	65	Arterial-like	Efnb2	Efnb2	1	1
+P21	P21_EC1	GSM8827078_P21_2	raw	65	Venous-like candidate	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2	3	2
+P21	P21_EC1	GSM8827078_P21_2	raw	65	Lymphatic-like candidate	Nrp2;Prox1	Prox1	2	1
+P21	P21_EC2	GSM8827077_P21_1	DecontX_corrected	185	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Rgcc;Dach1;Dipk2b	Emcn;Rgcc	8	2
+P21	P21_EC2	GSM8827077_P21_1	DecontX_corrected	185	Endocardial-like	Kcnc2		1	0
+P21	P21_EC2	GSM8827077_P21_1	DecontX_corrected	185	Arterial-like			0	0
+P21	P21_EC2	GSM8827077_P21_1	DecontX_corrected	185	Venous-like candidate	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2	3	2
+P21	P21_EC2	GSM8827077_P21_1	DecontX_corrected	185	Lymphatic-like candidate	Nrp2		1	0
+P21	P21_EC2	GSM8827077_P21_1	raw	185	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Cd300lg;Rgcc;Dach1;Gpihbp1;Dipk2b	Cd300lg;Emcn;Gpihbp1;Rgcc	10	4
+P21	P21_EC2	GSM8827077_P21_1	raw	185	Endocardial-like	Kcnc2;Nfatc1	Nfatc1	2	1
+P21	P21_EC2	GSM8827077_P21_1	raw	185	Arterial-like	Efnb2	Efnb2	1	1
+P21	P21_EC2	GSM8827077_P21_1	raw	185	Venous-like candidate	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2	3	2
+P21	P21_EC2	GSM8827077_P21_1	raw	185	Lymphatic-like candidate	Nrp2		1	0
+P21	P21_EC2	GSM8827078_P21_2	DecontX_corrected	65	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Dach1;Dipk2b	Emcn	7	1
+P21	P21_EC2	GSM8827078_P21_2	DecontX_corrected	65	Endocardial-like	Kcnc2		1	0
+P21	P21_EC2	GSM8827078_P21_2	DecontX_corrected	65	Arterial-like			0	0
+P21	P21_EC2	GSM8827078_P21_2	DecontX_corrected	65	Venous-like candidate	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2	3	2
+P21	P21_EC2	GSM8827078_P21_2	DecontX_corrected	65	Lymphatic-like candidate	Nrp2		1	0
+P21	P21_EC2	GSM8827078_P21_2	raw	65	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Cd300lg;Rgcc;Dach1;Gpihbp1;Dipk2b	Btnl9;Cd300lg;Emcn;Gpihbp1;Rgcc	11	5
+P21	P21_EC2	GSM8827078_P21_2	raw	65	Endocardial-like	Kcnc2;Nfatc1	Nfatc1	2	1
+P21	P21_EC2	GSM8827078_P21_2	raw	65	Arterial-like	Efnb2	Efnb2	1	1
+P21	P21_EC2	GSM8827078_P21_2	raw	65	Venous-like candidate	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2	3	2
+P21	P21_EC2	GSM8827078_P21_2	raw	65	Lymphatic-like candidate	Nrp2		1	0
+P21	P21_EC3	GSM8827077_P21_1	DecontX_corrected	39	Capillary-like	Fabp4;Adgrl4;Cd36;Dach1		4	0
+P21	P21_EC3	GSM8827077_P21_1	DecontX_corrected	39	Endocardial-like	Enpp6		1	0
+P21	P21_EC3	GSM8827077_P21_1	DecontX_corrected	39	Arterial-like	Sox17;Mannr;Gja5;Efnb2;Sema3g;Ptchd1	Efnb2;Gja5;Sema3g;Sox17	6	4
+P21	P21_EC3	GSM8827077_P21_1	DecontX_corrected	39	Venous-like candidate	Vwf		1	0
+P21	P21_EC3	GSM8827077_P21_1	DecontX_corrected	39	Lymphatic-like candidate			0	0
+P21	P21_EC3	GSM8827077_P21_1	raw	39	Capillary-like	Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Dach1	Btnl9;Emcn	6	2
+P21	P21_EC3	GSM8827077_P21_1	raw	39	Endocardial-like	Enpp6;Nfatc1	Nfatc1	2	1
+P21	P21_EC3	GSM8827077_P21_1	raw	39	Arterial-like	Sox17;Dll4;Mannr;Gja5;Efnb2;Sema3g;Ptchd1	Dll4;Efnb2;Gja5;Sema3g;Sox17	7	5
+P21	P21_EC3	GSM8827077_P21_1	raw	39	Venous-like candidate	Ephb4;Vwf	Ephb4	2	1
+P21	P21_EC3	GSM8827077_P21_1	raw	39	Lymphatic-like candidate	Flt4	Flt4	1	1
+P21	P21_EC3	GSM8827078_P21_2	DecontX_corrected	14	Capillary-like	Cd36;Dach1		2	0
+P21	P21_EC3	GSM8827078_P21_2	DecontX_corrected	14	Endocardial-like			0	0
+P21	P21_EC3	GSM8827078_P21_2	DecontX_corrected	14	Arterial-like	Sox17;Mannr;Efnb2	Efnb2;Sox17	3	2
+P21	P21_EC3	GSM8827078_P21_2	DecontX_corrected	14	Venous-like candidate			0	0
+P21	P21_EC3	GSM8827078_P21_2	DecontX_corrected	14	Lymphatic-like candidate			0	0
+P21	P21_EC3	GSM8827078_P21_2	raw	14	Capillary-like	Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Dach1;Dipk2b	Btnl9;Emcn	7	2
+P21	P21_EC3	GSM8827078_P21_2	raw	14	Endocardial-like	Enpp6;Nfatc1	Nfatc1	2	1
+P21	P21_EC3	GSM8827078_P21_2	raw	14	Arterial-like	Sox17;Hey1;Mannr;Gja5;Efnb2;Sema3g	Efnb2;Gja5;Sema3g;Sox17	6	4
+P21	P21_EC3	GSM8827078_P21_2	raw	14	Venous-like candidate	Vwf		1	0
+P21	P21_EC3	GSM8827078_P21_2	raw	14	Lymphatic-like candidate			0	0
+P21	P21_EC4	GSM8827077_P21_1	DecontX_corrected	23	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Cd300lg;Rgcc;Dach1;Dipk2b	Btnl9;Cd300lg;Emcn;Rgcc	10	4
+P21	P21_EC4	GSM8827077_P21_1	DecontX_corrected	23	Endocardial-like	Nfatc1	Nfatc1	1	1
+P21	P21_EC4	GSM8827077_P21_1	DecontX_corrected	23	Arterial-like			0	0
+P21	P21_EC4	GSM8827077_P21_1	DecontX_corrected	23	Venous-like candidate	Ephb4	Ephb4	1	1
+P21	P21_EC4	GSM8827077_P21_1	DecontX_corrected	23	Lymphatic-like candidate	Nrp2		1	0
+P21	P21_EC4	GSM8827077_P21_1	raw	23	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Car4;Cd300lg;Rgcc;Dach1;Gpihbp1;Dipk2b	Btnl9;Car4;Cd300lg;Emcn;Gpihbp1;Rgcc	12	6
+P21	P21_EC4	GSM8827077_P21_1	raw	23	Endocardial-like	Kcnc2;Nfatc1	Nfatc1	2	1
+P21	P21_EC4	GSM8827077_P21_1	raw	23	Arterial-like	Sox17;Efnb2	Efnb2;Sox17	2	2
+P21	P21_EC4	GSM8827077_P21_1	raw	23	Venous-like candidate	Ephb4;Nr2f2	Ephb4;Nr2f2	2	2
+P21	P21_EC4	GSM8827077_P21_1	raw	23	Lymphatic-like candidate	Nrp2		1	0
+P21	P21_EC4	GSM8827078_P21_2	DecontX_corrected	45	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Rgcc;Dach1;Dipk2b	Btnl9;Emcn;Rgcc	9	3
+P21	P21_EC4	GSM8827078_P21_2	DecontX_corrected	45	Endocardial-like	Nfatc1	Nfatc1	1	1
+P21	P21_EC4	GSM8827078_P21_2	DecontX_corrected	45	Arterial-like	Efnb2	Efnb2	1	1
+P21	P21_EC4	GSM8827078_P21_2	DecontX_corrected	45	Venous-like candidate	Ephb4	Ephb4	1	1
+P21	P21_EC4	GSM8827078_P21_2	DecontX_corrected	45	Lymphatic-like candidate	Nrp2		1	0
+P21	P21_EC4	GSM8827078_P21_2	raw	45	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Car4;Cd300lg;Rgcc;Dach1;Gpihbp1;Dipk2b	Btnl9;Car4;Cd300lg;Emcn;Gpihbp1;Rgcc	12	6
+P21	P21_EC4	GSM8827078_P21_2	raw	45	Endocardial-like	Nfatc1	Nfatc1	1	1
+P21	P21_EC4	GSM8827078_P21_2	raw	45	Arterial-like	Efnb2	Efnb2	1	1
+P21	P21_EC4	GSM8827078_P21_2	raw	45	Venous-like candidate	Ephb4;Nr2f2	Ephb4;Nr2f2	2	2
+P21	P21_EC4	GSM8827078_P21_2	raw	45	Lymphatic-like candidate	Nrp2		1	0
+P21	P21_EC5	GSM8827077_P21_1	DecontX_corrected	19	Capillary-like	Emcn;Adgrl4;Btnl9;Dipk2b	Btnl9;Emcn	4	2
+P21	P21_EC5	GSM8827077_P21_1	DecontX_corrected	19	Endocardial-like	Col23a1;Nrxn3;Nfatc1	Nfatc1;Nrxn3	3	2
+P21	P21_EC5	GSM8827077_P21_1	DecontX_corrected	19	Arterial-like	Efnb2	Efnb2	1	1
+P21	P21_EC5	GSM8827077_P21_1	DecontX_corrected	19	Venous-like candidate	Ephb4;Nr2f2	Ephb4;Nr2f2	2	2
+P21	P21_EC5	GSM8827077_P21_1	DecontX_corrected	19	Lymphatic-like candidate	Nrp2;Prox1;Ccl21a;Pdpn;Reln;Mmrn1;Lyve1;Flt4	Flt4;Prox1	8	2
+P21	P21_EC5	GSM8827077_P21_1	raw	19	Capillary-like	Emcn;Adgrl4;Cd36;Btnl9;Cd300lg;Dipk2b	Btnl9;Cd300lg;Emcn	6	3
+P21	P21_EC5	GSM8827077_P21_1	raw	19	Endocardial-like	Col23a1;Nrxn3;Nfatc1	Nfatc1;Nrxn3	3	2
+P21	P21_EC5	GSM8827077_P21_1	raw	19	Arterial-like	Gja4;Efnb2	Efnb2	2	1
+P21	P21_EC5	GSM8827077_P21_1	raw	19	Venous-like candidate	Ephb4;Nr2f2	Ephb4;Nr2f2	2	2
+P21	P21_EC5	GSM8827077_P21_1	raw	19	Lymphatic-like candidate	Nrp2;Prox1;Ccl21a;Pdpn;Reln;Mmrn1;Lyve1;Flt4;Tbx1	Flt4;Prox1	9	2
+P21	P21_EC5	GSM8827078_P21_2	DecontX_corrected	3	Capillary-like	Emcn;Adgrl4;Btnl9;Dipk2b	Btnl9;Emcn	4	2
+P21	P21_EC5	GSM8827078_P21_2	DecontX_corrected	3	Endocardial-like	Col23a1;Nrxn3;Nfatc1	Nfatc1;Nrxn3	3	2
+P21	P21_EC5	GSM8827078_P21_2	DecontX_corrected	3	Arterial-like	Efnb2	Efnb2	1	1
+P21	P21_EC5	GSM8827078_P21_2	DecontX_corrected	3	Venous-like candidate	Ephb4;Nr2f2	Ephb4;Nr2f2	2	2
+P21	P21_EC5	GSM8827078_P21_2	DecontX_corrected	3	Lymphatic-like candidate	Nrp2;Prox1;Ccl21a;Reln;Mmrn1;Lyve1;Flt4	Flt4;Prox1	7	2
+P21	P21_EC5	GSM8827078_P21_2	raw	3	Capillary-like	Emcn;Adgrl4;Cd36;Btnl9;Gpihbp1;Dipk2b	Btnl9;Emcn;Gpihbp1	6	3
+P21	P21_EC5	GSM8827078_P21_2	raw	3	Endocardial-like	Nrg1;Col23a1;Nrxn3;Nfatc1	Nfatc1;Nrxn3	4	2
+P21	P21_EC5	GSM8827078_P21_2	raw	3	Arterial-like	Efnb2	Efnb2	1	1
+P21	P21_EC5	GSM8827078_P21_2	raw	3	Venous-like candidate	Ephb4;Nr2f2	Ephb4;Nr2f2	2	2
+P21	P21_EC5	GSM8827078_P21_2	raw	3	Lymphatic-like candidate	Nrp2;Prox1;Ccl21a;Pdpn;Reln;Mmrn1;Lyve1;Flt4	Flt4;Prox1	8	2
+P7	P7_EC0	GSM8827073_P7_1	DecontX_corrected	117	Capillary-like	Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Dach1	Btnl9;Emcn	6	2
+P7	P7_EC0	GSM8827073_P7_1	DecontX_corrected	117	Endocardial-like			0	0
+P7	P7_EC0	GSM8827073_P7_1	DecontX_corrected	117	Arterial-like			0	0
+P7	P7_EC0	GSM8827073_P7_1	DecontX_corrected	117	Venous-like candidate			0	0
+P7	P7_EC0	GSM8827073_P7_1	DecontX_corrected	117	Lymphatic-like candidate	Nrp2		1	0
+P7	P7_EC0	GSM8827073_P7_1	raw	117	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Cd300lg;Rgcc;Dach1;Gpihbp1;Dipk2b	Btnl9;Cd300lg;Emcn;Gpihbp1;Rgcc	11	5
+P7	P7_EC0	GSM8827073_P7_1	raw	117	Endocardial-like	Nrxn3;Nfatc1	Nfatc1;Nrxn3	2	2
+P7	P7_EC0	GSM8827073_P7_1	raw	117	Arterial-like	Efnb2	Efnb2	1	1
+P7	P7_EC0	GSM8827073_P7_1	raw	117	Venous-like candidate	Ephb4;Nr2f2	Ephb4;Nr2f2	2	2
+P7	P7_EC0	GSM8827073_P7_1	raw	117	Lymphatic-like candidate	Nrp2		1	0
+P7	P7_EC0	GSM8827074_P7_2	DecontX_corrected	137	Capillary-like	Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Dach1	Btnl9;Emcn	6	2
+P7	P7_EC0	GSM8827074_P7_2	DecontX_corrected	137	Endocardial-like			0	0
+P7	P7_EC0	GSM8827074_P7_2	DecontX_corrected	137	Arterial-like	Efnb2	Efnb2	1	1
+P7	P7_EC0	GSM8827074_P7_2	DecontX_corrected	137	Venous-like candidate			0	0
+P7	P7_EC0	GSM8827074_P7_2	DecontX_corrected	137	Lymphatic-like candidate	Nrp2		1	0
+P7	P7_EC0	GSM8827074_P7_2	raw	137	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Rgcc;Dach1;Gpihbp1;Dipk2b	Btnl9;Emcn;Gpihbp1;Rgcc	10	4
+P7	P7_EC0	GSM8827074_P7_2	raw	137	Endocardial-like	Nfatc1	Nfatc1	1	1
+P7	P7_EC0	GSM8827074_P7_2	raw	137	Arterial-like	Efnb2	Efnb2	1	1
+P7	P7_EC0	GSM8827074_P7_2	raw	137	Venous-like candidate	Ephb4;Nr2f2	Ephb4;Nr2f2	2	2
+P7	P7_EC0	GSM8827074_P7_2	raw	137	Lymphatic-like candidate	Nrp2;Prox1	Prox1	2	1
+P7	P7_EC1	GSM8827073_P7_1	DecontX_corrected	170	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Dach1	Btnl9;Emcn	7	2
+P7	P7_EC1	GSM8827073_P7_1	DecontX_corrected	170	Endocardial-like			0	0
+P7	P7_EC1	GSM8827073_P7_1	DecontX_corrected	170	Arterial-like			0	0
+P7	P7_EC1	GSM8827073_P7_1	DecontX_corrected	170	Venous-like candidate			0	0
+P7	P7_EC1	GSM8827073_P7_1	DecontX_corrected	170	Lymphatic-like candidate	Nrp2		1	0
+P7	P7_EC1	GSM8827073_P7_1	raw	170	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Rgcc;Dach1;Dipk2b	Btnl9;Emcn;Rgcc	9	3
+P7	P7_EC1	GSM8827073_P7_1	raw	170	Endocardial-like	Kcnc2		1	0
+P7	P7_EC1	GSM8827073_P7_1	raw	170	Arterial-like	Efnb2	Efnb2	1	1
+P7	P7_EC1	GSM8827073_P7_1	raw	170	Venous-like candidate	Ephb4	Ephb4	1	1
+P7	P7_EC1	GSM8827073_P7_1	raw	170	Lymphatic-like candidate	Nrp2		1	0
+P7	P7_EC1	GSM8827074_P7_2	DecontX_corrected	107	Capillary-like	Slc28a2;Fabp4;Adgrl4;Cd36;Btnl9;Dach1	Btnl9	6	1
+P7	P7_EC1	GSM8827074_P7_2	DecontX_corrected	107	Endocardial-like			0	0
+P7	P7_EC1	GSM8827074_P7_2	DecontX_corrected	107	Arterial-like			0	0
+P7	P7_EC1	GSM8827074_P7_2	DecontX_corrected	107	Venous-like candidate			0	0
+P7	P7_EC1	GSM8827074_P7_2	DecontX_corrected	107	Lymphatic-like candidate	Nrp2		1	0
+P7	P7_EC1	GSM8827074_P7_2	raw	107	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Cd300lg;Rgcc;Dach1;Gpihbp1;Dipk2b	Btnl9;Cd300lg;Emcn;Gpihbp1;Rgcc	11	5
+P7	P7_EC1	GSM8827074_P7_2	raw	107	Endocardial-like	Kcnc2		1	0
+P7	P7_EC1	GSM8827074_P7_2	raw	107	Arterial-like	Efnb2	Efnb2	1	1
+P7	P7_EC1	GSM8827074_P7_2	raw	107	Venous-like candidate	Ephb4	Ephb4	1	1
+P7	P7_EC1	GSM8827074_P7_2	raw	107	Lymphatic-like candidate	Nrp2		1	0
+P7	P7_EC2	GSM8827073_P7_1	DecontX_corrected	91	Capillary-like	Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Dach1	Btnl9;Emcn	6	2
+P7	P7_EC2	GSM8827073_P7_1	DecontX_corrected	91	Endocardial-like			0	0
+P7	P7_EC2	GSM8827073_P7_1	DecontX_corrected	91	Arterial-like	Efnb2	Efnb2	1	1
+P7	P7_EC2	GSM8827073_P7_1	DecontX_corrected	91	Venous-like candidate			0	0
+P7	P7_EC2	GSM8827073_P7_1	DecontX_corrected	91	Lymphatic-like candidate	Nrp2		1	0
+P7	P7_EC2	GSM8827073_P7_1	raw	91	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Car4;Cd300lg;Rgcc;Dach1;Gpihbp1;Dipk2b	Btnl9;Car4;Cd300lg;Emcn;Gpihbp1;Rgcc	12	6
+P7	P7_EC2	GSM8827073_P7_1	raw	91	Endocardial-like	Nfatc1	Nfatc1	1	1
+P7	P7_EC2	GSM8827073_P7_1	raw	91	Arterial-like	Dll4;Efnb2;Sema3g	Dll4;Efnb2;Sema3g	3	3
+P7	P7_EC2	GSM8827073_P7_1	raw	91	Venous-like candidate	Ephb4	Ephb4	1	1
+P7	P7_EC2	GSM8827073_P7_1	raw	91	Lymphatic-like candidate	Nrp2		1	0
+P7	P7_EC2	GSM8827074_P7_2	DecontX_corrected	37	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Dach1;Dipk2b	Btnl9;Emcn	8	2
+P7	P7_EC2	GSM8827074_P7_2	DecontX_corrected	37	Endocardial-like			0	0
+P7	P7_EC2	GSM8827074_P7_2	DecontX_corrected	37	Arterial-like	Efnb2	Efnb2	1	1
+P7	P7_EC2	GSM8827074_P7_2	DecontX_corrected	37	Venous-like candidate			0	0
+P7	P7_EC2	GSM8827074_P7_2	DecontX_corrected	37	Lymphatic-like candidate	Nrp2		1	0
+P7	P7_EC2	GSM8827074_P7_2	raw	37	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Cd300lg;Rgcc;Dach1;Gpihbp1;Dipk2b	Btnl9;Cd300lg;Emcn;Gpihbp1;Rgcc	11	5
+P7	P7_EC2	GSM8827074_P7_2	raw	37	Endocardial-like	Nfatc1	Nfatc1	1	1
+P7	P7_EC2	GSM8827074_P7_2	raw	37	Arterial-like	Sox17;Dll4;Efnb2	Dll4;Efnb2;Sox17	3	3
+P7	P7_EC2	GSM8827074_P7_2	raw	37	Venous-like candidate	Ephb4	Ephb4	1	1
+P7	P7_EC2	GSM8827074_P7_2	raw	37	Lymphatic-like candidate	Nrp2		1	0
+P7	P7_EC3	GSM8827073_P7_1	DecontX_corrected	26	Capillary-like	Fabp4;Emcn;Adgrl4;Cd36;Dach1	Emcn	5	1
+P7	P7_EC3	GSM8827073_P7_1	DecontX_corrected	26	Endocardial-like	Kcnc2;Nrxn3	Nrxn3	2	1
+P7	P7_EC3	GSM8827073_P7_1	DecontX_corrected	26	Arterial-like	Efnb2	Efnb2	1	1
+P7	P7_EC3	GSM8827073_P7_1	DecontX_corrected	26	Venous-like candidate	Ephb4	Ephb4	1	1
+P7	P7_EC3	GSM8827073_P7_1	DecontX_corrected	26	Lymphatic-like candidate	Nrp2		1	0
+P7	P7_EC3	GSM8827073_P7_1	raw	26	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Rgcc;Dach1;Gpihbp1;Dipk2b	Btnl9;Emcn;Gpihbp1;Rgcc	10	4
+P7	P7_EC3	GSM8827073_P7_1	raw	26	Endocardial-like	Kcnc2;Nrxn3;Nfatc1	Nfatc1;Nrxn3	3	2
+P7	P7_EC3	GSM8827073_P7_1	raw	26	Arterial-like	Efnb2	Efnb2	1	1
+P7	P7_EC3	GSM8827073_P7_1	raw	26	Venous-like candidate	Ephb4	Ephb4	1	1
+P7	P7_EC3	GSM8827073_P7_1	raw	26	Lymphatic-like candidate	Nrp2		1	0
+P7	P7_EC3	GSM8827074_P7_2	DecontX_corrected	20	Capillary-like	Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Rgcc;Dach1	Btnl9;Emcn;Rgcc	7	3
+P7	P7_EC3	GSM8827074_P7_2	DecontX_corrected	20	Endocardial-like			0	0
+P7	P7_EC3	GSM8827074_P7_2	DecontX_corrected	20	Arterial-like			0	0
+P7	P7_EC3	GSM8827074_P7_2	DecontX_corrected	20	Venous-like candidate			0	0
+P7	P7_EC3	GSM8827074_P7_2	DecontX_corrected	20	Lymphatic-like candidate	Nrp2		1	0
+P7	P7_EC3	GSM8827074_P7_2	raw	20	Capillary-like	Slc28a2;Fabp4;Emcn;Adgrl4;Cd36;Btnl9;Cd300lg;Rgcc;Dach1;Gpihbp1;Dipk2b	Btnl9;Cd300lg;Emcn;Gpihbp1;Rgcc	11	5
+P7	P7_EC3	GSM8827074_P7_2	raw	20	Endocardial-like	Kcnc2;Nrxn3;Nfatc1	Nfatc1;Nrxn3	3	2
+P7	P7_EC3	GSM8827074_P7_2	raw	20	Arterial-like	Efnb2	Efnb2	1	1
+P7	P7_EC3	GSM8827074_P7_2	raw	20	Venous-like candidate	Ephb4	Ephb4	1	1
+P7	P7_EC3	GSM8827074_P7_2	raw	20	Lymphatic-like candidate	Nrp2;Prox1;Flt4	Flt4;Prox1	3	2
+P7	P7_EC4	GSM8827073_P7_1	DecontX_corrected	73	Capillary-like	Emcn;Cd36	Emcn	2	1
+P7	P7_EC4	GSM8827073_P7_1	DecontX_corrected	73	Endocardial-like	Nrg1;Enpp6;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3	Npr3;Nrxn3	7	2
+P7	P7_EC4	GSM8827073_P7_1	DecontX_corrected	73	Arterial-like	Efnb2	Efnb2	1	1
+P7	P7_EC4	GSM8827073_P7_1	DecontX_corrected	73	Venous-like candidate	Vwf		1	0
+P7	P7_EC4	GSM8827073_P7_1	DecontX_corrected	73	Lymphatic-like candidate			0	0
+P7	P7_EC4	GSM8827073_P7_1	raw	73	Capillary-like	Fabp4;Emcn;Adgrl4;Cd36;Dach1	Emcn	5	1
+P7	P7_EC4	GSM8827073_P7_1	raw	73	Endocardial-like	Hs3st4;Nrg1;Enpp6;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3;Nfatc1	Nfatc1;Npr3;Nrxn3	9	3
+P7	P7_EC4	GSM8827073_P7_1	raw	73	Arterial-like	Efnb2	Efnb2	1	1
+P7	P7_EC4	GSM8827073_P7_1	raw	73	Venous-like candidate	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2	3	2
+P7	P7_EC4	GSM8827073_P7_1	raw	73	Lymphatic-like candidate	Nrp2;Prox1	Prox1	2	1
+P7	P7_EC4	GSM8827074_P7_2	DecontX_corrected	55	Capillary-like	Emcn;Cd36	Emcn	2	1
+P7	P7_EC4	GSM8827074_P7_2	DecontX_corrected	55	Endocardial-like	Nrg1;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3	Npr3;Nrxn3	6	2
+P7	P7_EC4	GSM8827074_P7_2	DecontX_corrected	55	Arterial-like	Efnb2	Efnb2	1	1
+P7	P7_EC4	GSM8827074_P7_2	DecontX_corrected	55	Venous-like candidate	Vwf		1	0
+P7	P7_EC4	GSM8827074_P7_2	DecontX_corrected	55	Lymphatic-like candidate			0	0
+P7	P7_EC4	GSM8827074_P7_2	raw	55	Capillary-like	Emcn;Adgrl4;Cd36;Dach1	Emcn	4	1
+P7	P7_EC4	GSM8827074_P7_2	raw	55	Endocardial-like	Hs3st4;Nrg1;Enpp6;Kcnc2;Col23a1;Smoc1;Nrxn3;Npr3;Nfatc1	Nfatc1;Npr3;Nrxn3	9	3
+P7	P7_EC4	GSM8827074_P7_2	raw	55	Arterial-like	Efnb2	Efnb2	1	1
+P7	P7_EC4	GSM8827074_P7_2	raw	55	Venous-like candidate	Ephb4;Vwf;Nr2f2	Ephb4;Nr2f2	3	2
+P7	P7_EC4	GSM8827074_P7_2	raw	55	Lymphatic-like candidate	Nrp2		1	0

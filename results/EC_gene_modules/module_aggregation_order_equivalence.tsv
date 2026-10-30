@@ -1,0 +1,5 @@
+stage	projected_ECs	module_first_vs_gene_first_max_abs_error	meaning
+P0	3732	4.470348e-08	Weighted mean of a mean equals mean of weighted gene values; aggregation order alone does not improve recovery.
+P7	8944	5.960464e-08	Weighted mean of a mean equals mean of weighted gene values; aggregation order alone does not improve recovery.
+P14	8086	7.450581e-08	Weighted mean of a mean equals mean of weighted gene values; aggregation order alone does not improve recovery.
+P21	8601	4.470348e-08	Weighted mean of a mean equals mean of weighted gene values; aggregation order alone does not improve recovery.

@@ -1,0 +1,8 @@
+{
+  "primary_supported_tests": 40,
+  "primary_BH_significant_positive_gains": 1,
+  "primary_BH_significant_negative_gains": 23,
+  "primary_gain_min": -0.0042138612,
+  "primary_gain_max": 0.0040997965,
+  "interpretation": "Prediction gains concern fixed models in unseen regions of the same section, not causal effects or independent animals"
+}

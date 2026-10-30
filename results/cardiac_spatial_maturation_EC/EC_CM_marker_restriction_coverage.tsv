@@ -1,0 +1,5 @@
+stage	ECs_before	ECs_CM_marker_fraction_le05	cycling_positive_ECs_remaining	CMs_with_3_restricted_ECs	CMs_local_mean_CM_fraction_le02	strict_2percent_mean_model_skipped_lt200
+P0	3732	1257	250	6698	31	True
+P7	8944	3279	383	17645	17	True
+P14	8086	1979	24	3942	6	True
+P21	8601	2359	37	2597	9	True

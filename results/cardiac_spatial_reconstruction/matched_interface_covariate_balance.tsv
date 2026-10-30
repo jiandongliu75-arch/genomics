@@ -1,0 +1,17 @@
+stage	matching_covariate	pairs	matched_mean_difference_SD	scope
+P0	log_CM_depth	849	0.00351423051	Balance diagnostic, no randomized treatment or new biological replication
+P0	log_CM_area	849	0.00253977552	Balance diagnostic, no randomized treatment or new biological replication
+P0	log_CM_perimeter	849	0.00384553734	Balance diagnostic, no randomized treatment or new biological replication
+P0	log_capillary_area	849	0.00350790297	Balance diagnostic, no randomized treatment or new biological replication
+P7	log_CM_depth	1291	0.0119006973	Balance diagnostic, no randomized treatment or new biological replication
+P7	log_CM_area	1291	-0.00958357127	Balance diagnostic, no randomized treatment or new biological replication
+P7	log_CM_perimeter	1291	-0.00138095382	Balance diagnostic, no randomized treatment or new biological replication
+P7	log_capillary_area	1291	0.00122831428	Balance diagnostic, no randomized treatment or new biological replication
+P14	log_CM_depth	1459	0.00604396947	Balance diagnostic, no randomized treatment or new biological replication
+P14	log_CM_area	1459	-0.0135101091	Balance diagnostic, no randomized treatment or new biological replication
+P14	log_CM_perimeter	1459	-0.0120521748	Balance diagnostic, no randomized treatment or new biological replication
+P14	log_capillary_area	1459	0.00135979395	Balance diagnostic, no randomized treatment or new biological replication
+P21	log_CM_depth	2313	0.0152057614	Balance diagnostic, no randomized treatment or new biological replication
+P21	log_CM_area	2313	0.00416302623	Balance diagnostic, no randomized treatment or new biological replication
+P21	log_CM_perimeter	2313	-0.000832938285	Balance diagnostic, no randomized treatment or new biological replication
+P21	log_capillary_area	2313	0.00260284446	Balance diagnostic, no randomized treatment or new biological replication

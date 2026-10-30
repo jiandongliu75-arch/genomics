@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "full_atlas_review_flag_rows_checked": 408054,
+  "untested_flags_are_NA": true,
+  "new_local_documentation_links_checked": 59,
+  "old_and_new_manifests_verified": true,
+  "GitHub_95MiB_limit_pass": true,
+  "original_atlas_counts_and_coordinates_preserved": true
+}

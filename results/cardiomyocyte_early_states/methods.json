@@ -1,0 +1,10 @@
+{
+  "input": "/workspace/heart-atlas/results/cell_identities_subtypes/snrna_qc_annotated_subclustered.h5ad",
+  "comparison": "P0 CAR_1 versus CAR_2; P7 CAR_5 versus CAR_6; exclude cycling-marker-positive cells from pairwise comparisons only",
+  "expression": "Per-nucleus log1p(corrected counts / total corrected counts * 10000); original integer counts normalized independently for sensitivity check",
+  "effect": "Difference of mean log-normalized expression; not log2 fold change",
+  "detection": "Fraction with at least one corrected or original integer count",
+  "library_checks": "Within-library expression differences calculated when both groups have at least 20 retained nuclei; descriptive, not animal-level inference",
+  "sex_sensitivity": "Original integer counts: female-marker-like if Xist >=1 and no detected Y markers; male-marker-like if Xist undetected and >=2 of Ddx3y/Kdm5d/Eif2s3y/Uty detected. Others unclassified/ambiguous. Inferred marker groups, not verified animal sex. Matched-marker-group contrasts require >=30 cells per cluster; library contrasts >=20 each.",
+  "limitations": "Only two libraries per age; animal independence unverified. No significance tests. Cycling markers do not establish completed cell division."
+}

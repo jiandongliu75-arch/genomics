@@ -1,0 +1,5 @@
+stage	view	fold	available_training_CMs	fitted_training_CMs	test_CMs	minimum_receiver_gap_um	train_test_source_ID_overlap	interpretation
+P14	core	0	21277	12000	6335	401.11109	0	Each source is assigned to one domain; receivers have 200-um interior margin; regions are not independent hearts
+P14	core	1	20725	12000	6887	401.18319	0	Each source is assigned to one domain; receivers have 200-um interior margin; regions are not independent hearts
+P14	core	2	20043	12000	7569	401.18319	0	Each source is assigned to one domain; receivers have 200-um interior margin; regions are not independent hearts
+P14	core	3	20791	12000	6821	401.11109	0	Each source is assigned to one domain; receivers have 200-um interior margin; regions are not independent hearts

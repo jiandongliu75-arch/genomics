@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "P21_F0_nuclei": 1330,
+  "library_counts": {
+    "GSM8827077_P21_1": 766,
+    "GSM8827078_P21_2": 564
+  },
+  "original_reason_unresolved": "Col8a1 and Lsamp both qualified; top panel margin0.037 below0.1 cutoff, not missing Col8a1 marker support",
+  "all_10_Col8a1_panel_markers_supported": true,
+  "best_P14_cluster_in_all_8_raw_corrected_library_combinations": "P14_F2",
+  "corrected_best_reference_correlation_range": {
+    "min": 0.5263036729681468,
+    "max": 0.593049501328369
+  },
+  "raw_best_reference_correlation_range": {
+    "min": 0.5201356920651802,
+    "max": 0.5991151317281825
+  },
+  "lower_resolution_common_cluster_memberships": {
+    "P21_F0": 1325,
+    "P21_F2": 1367
+  },
+  "reviewed_interpretation": "Col8a1-related broad family candidate; retain P21_F0 as Adgrl3/Svep1 late interstitial substate, distinct from P21_F2 Hmcn2/Pcsk6 substate",
+  "all_4411_P21_nuclei_preserved": true,
+  "counts_and_UMAP_unchanged": true,
+  "scope": "Additive reviewed hierarchy; earlier primary atlas labels and fitted spatial results retain their original definitions",
+  "limits": "No lineage ancestry or anatomical validation; P14 reference labels provisional; overlapping marker programs remain"
+}

@@ -1,0 +1,51 @@
+{
+  "stage": "P21",
+  "source_EC_candidates": 35328,
+  "projected_ECs": 8601,
+  "projected_spatial_neighborhoods5": 7658,
+  "projected_spatial_neighborhoods20": 7405,
+  "whole_heart_profiles": 143944,
+  "observed_gene_counts_unchanged": true,
+  "reference_nuclei": 1273,
+  "inferred_gene_targets": [
+    "Apln",
+    "Esm1",
+    "Angpt2",
+    "Cxcr4",
+    "Pgf",
+    "Adm"
+  ],
+  "unmeasured_gene_targets": [
+    "Apln",
+    "Esm1",
+    "Cxcr4",
+    "Pgf",
+    "Adm"
+  ],
+  "opposite_library_reference_similarity_5pct": 0.19322904,
+  "RNA_libraries": [
+    "GSM8827077_P21_1",
+    "GSM8827078_P21_2"
+  ],
+  "gate_results": [
+    {
+      "stage": "P21",
+      "RNA_resolution_nuclei": 1,
+      "unmeasured_5g_both_library_gate_pass": false
+    },
+    {
+      "stage": "P21",
+      "RNA_resolution_nuclei": 5,
+      "unmeasured_5g_both_library_gate_pass": false
+    },
+    {
+      "stage": "P21",
+      "RNA_resolution_nuclei": 20,
+      "unmeasured_5g_both_library_gate_pass": true
+    }
+  ],
+  "label": "Exploratory inferred sprouting propensity, not measured angiogenesis",
+  "primary_reference_resolution": 1,
+  "primary_neighbors": 30,
+  "all_spatial_outputs_are_exploratory": true
+}

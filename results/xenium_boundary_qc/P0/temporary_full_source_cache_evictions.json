@@ -1,0 +1,12 @@
+[
+  {
+    "file": "transcripts.parquet",
+    "bytes": 443130165,
+    "reason": "Temporary full-source cache removed after CRC verification, exact count reconstruction and ROI/morphology extraction; reacquirable from recorded public member URL"
+  },
+  {
+    "file": "morphology_focus_0001.ome.tif",
+    "bytes": 182528139,
+    "reason": "Temporary full-source cache removed after CRC verification, exact count reconstruction and ROI/morphology extraction; reacquirable from recorded public member URL"
+  }
+]

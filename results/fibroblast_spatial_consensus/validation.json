@@ -1,0 +1,58 @@
+{
+  "status": "PASS",
+  "total_profiles": 33790,
+  "stages": [
+    {
+      "stage": "P0",
+      "broad_FB_profiles": 2319,
+      "high_confidence": 1174,
+      "new_high_confidence": 9,
+      "moderate_cell_supported": 136,
+      "all_supported": 1310,
+      "unresolved_or_review": 1009,
+      "A": 1165,
+      "mixed_review": 67,
+      "conflict_review": 0
+    },
+    {
+      "stage": "P7",
+      "broad_FB_profiles": 8564,
+      "high_confidence": 3865,
+      "new_high_confidence": 95,
+      "moderate_cell_supported": 532,
+      "all_supported": 4397,
+      "unresolved_or_review": 4167,
+      "A": 3770,
+      "mixed_review": 325,
+      "conflict_review": 95
+    },
+    {
+      "stage": "P14",
+      "broad_FB_profiles": 9824,
+      "high_confidence": 603,
+      "new_high_confidence": 41,
+      "moderate_cell_supported": 175,
+      "all_supported": 778,
+      "unresolved_or_review": 9046,
+      "A": 562,
+      "mixed_review": 945,
+      "conflict_review": 10
+    },
+    {
+      "stage": "P21",
+      "broad_FB_profiles": 13083,
+      "high_confidence": 698,
+      "new_high_confidence": 52,
+      "moderate_cell_supported": 228,
+      "all_supported": 926,
+      "unresolved_or_review": 12157,
+      "A": 646,
+      "mixed_review": 1019,
+      "conflict_review": 5
+    }
+  ],
+  "all_source_FB_profiles_retained": true,
+  "all_released_calls_checked_against_required_views": true,
+  "all_released_calls_have_measured_cell_marker_evidence": true,
+  "scope": "Numerical/criteria verification, not independent anatomical ground truth"
+}

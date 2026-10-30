@@ -1,0 +1,21 @@
+stage	outcome	CMs	total_covariance	within_200um_covariance	between_200um_covariance	between_fraction_of_total	scope
+P0	native_Z__maturation21	25404	0.000792559579	0.000310644168	0.000481915411	0.608049444	Exact descriptive covariance partition; not fraction of biology caused by anatomy, may be negative or exceed1
+P0	native_Z__metabolic	25404	0.00147868981	0.000510736071	0.000967953739	0.654602292	Exact descriptive covariance partition; not fraction of biology caused by anatomy, may be negative or exceed1
+P0	native_Z__sarcomere	25404	0.000833722819	0.000502234805	0.000331488014	0.397599786	Exact descriptive covariance partition; not fraction of biology caused by anatomy, may be negative or exceed1
+P0	native_Z__excitation_contraction	25404	0.000637758944	0.000196002344	0.0004417566	0.692670176	Exact descriptive covariance partition; not fraction of biology caused by anatomy, may be negative or exceed1
+P0	native_Z__withdrawal	25404	-0.00159623221	-0.000553602919	-0.00104262929	0.653181464	Exact descriptive covariance partition; not fraction of biology caused by anatomy, may be negative or exceed1
+P7	native_Z__maturation21	39565	0.000828930082	0.000240507878	0.000588422204	0.709857462	Exact descriptive covariance partition; not fraction of biology caused by anatomy, may be negative or exceed1
+P7	native_Z__metabolic	39565	0.00124054003	0.000361712	0.000878828028	0.708423758	Exact descriptive covariance partition; not fraction of biology caused by anatomy, may be negative or exceed1
+P7	native_Z__sarcomere	39565	0.000712819359	0.000170170607	0.000542648751	0.761271064	Exact descriptive covariance partition; not fraction of biology caused by anatomy, may be negative or exceed1
+P7	native_Z__excitation_contraction	39565	0.000442189323	0.000165287439	0.000276901884	0.626206626	Exact descriptive covariance partition; not fraction of biology caused by anatomy, may be negative or exceed1
+P7	native_Z__withdrawal	39565	-0.000240552915	0.000179683858	-0.000420236773	1.74696188	Exact descriptive covariance partition; not fraction of biology caused by anatomy, may be negative or exceed1
+P14	native_Z__maturation21	44553	0.00242594281	0.000902252345	0.00152369046	0.628081774	Exact descriptive covariance partition; not fraction of biology caused by anatomy, may be negative or exceed1
+P14	native_Z__metabolic	44553	0.00369145906	0.00148289253	0.00220856652	0.598290944	Exact descriptive covariance partition; not fraction of biology caused by anatomy, may be negative or exceed1
+P14	native_Z__sarcomere	44553	0.000695531562	0.000201267212	0.00049426435	0.710628212	Exact descriptive covariance partition; not fraction of biology caused by anatomy, may be negative or exceed1
+P14	native_Z__excitation_contraction	44553	0.00127036795	0.000453137512	0.000817230441	0.643302155	Exact descriptive covariance partition; not fraction of biology caused by anatomy, may be negative or exceed1
+P14	native_Z__withdrawal	44553	-0.000211403483	0.000352939544	-0.000564343027	2.66950676	Exact descriptive covariance partition; not fraction of biology caused by anatomy, may be negative or exceed1
+P21	native_Z__maturation21	56904	0.00209959994	0.000594367502	0.00150523244	0.716913927	Exact descriptive covariance partition; not fraction of biology caused by anatomy, may be negative or exceed1
+P21	native_Z__metabolic	56904	0.00273369867	0.000914608006	0.00181909067	0.665432034	Exact descriptive covariance partition; not fraction of biology caused by anatomy, may be negative or exceed1
+P21	native_Z__sarcomere	56904	0.00185256866	0.000194580418	0.00165798824	0.89496723	Exact descriptive covariance partition; not fraction of biology caused by anatomy, may be negative or exceed1
+P21	native_Z__excitation_contraction	56904	0.000675157754	0.000203530841	0.000471626913	0.698543282	Exact descriptive covariance partition; not fraction of biology caused by anatomy, may be negative or exceed1
+P21	native_Z__withdrawal	56904	-1.66368823e-05	-3.0226509e-05	1.35896267e-05	-0.816837343	Exact descriptive covariance partition; not fraction of biology caused by anatomy, may be negative or exceed1

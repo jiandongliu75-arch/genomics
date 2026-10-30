@@ -1,0 +1,197 @@
+[
+  {
+    "path": "CM21_paperstyle_vascular_stromal_report.docx",
+    "bytes": 4671863,
+    "sha256": "7ccf62cf44cb57aebe642892b41da699b895f4ea8988a9296313a1e3696fb344"
+  },
+  {
+    "path": "CM21_paperstyle_vascular_stromal_report.pdf",
+    "bytes": 5379551,
+    "sha256": "fa4b4e86282c1607b2e9aae2fd22c8911ea764c54c5319ea53b71ae3b4d37cc1"
+  },
+  {
+    "path": "P0_CM21_extension_values.tsv.gz",
+    "bytes": 1092275,
+    "sha256": "8728ffe848b2f83529a43aa69847858f1d64d598be90e89ee670aa7856222f17"
+  },
+  {
+    "path": "P14_CM21_extension_values.tsv.gz",
+    "bytes": 2289641,
+    "sha256": "442b9ae2d88bfd1ed756055e8280ae34b8792056a9c2fb116bf2e3345bf9d1ec"
+  },
+  {
+    "path": "P21_CM21_extension_values.tsv.gz",
+    "bytes": 2487498,
+    "sha256": "66d842ead572827383e4e1ae65da57db5358fa2e62576c1be226115216f01109"
+  },
+  {
+    "path": "P7_CM21_extension_values.tsv.gz",
+    "bytes": 2145829,
+    "sha256": "2d390940bbea49667abc69fef87d22fcc7aabe604e14d6e16ba787ec92779535"
+  },
+  {
+    "path": "README.md",
+    "bytes": 1904,
+    "sha256": "d612feea84d872b083eb1f30bd6929dd48eddd18dd4954908fb2cd5157516120"
+  },
+  {
+    "path": "Report_text.md",
+    "bytes": 14947,
+    "sha256": "63fa693d78be6b9fa5843113ff9239db49e550d07daabea806f9ac611955c2b5"
+  },
+  {
+    "path": "analysis_settings.json",
+    "bytes": 3121,
+    "sha256": "7485a9e67e831f2e62c51d3775502e882f4e44e24186f90e5e39d333ae650ff5"
+  },
+  {
+    "path": "control_draw_audit.tsv",
+    "bytes": 8994,
+    "sha256": "2a2c17542fc8382ace36950d3d773e6a73df12308377a04b3daa372be5725cc2"
+  },
+  {
+    "path": "core_native_score_agreement.tsv",
+    "bytes": 145,
+    "sha256": "313034a5fc3a5d766404396c446a9091b7ee095bc0e4e0ad9f23b5ad084df37d"
+  },
+  {
+    "path": "document_validation.json",
+    "bytes": 167,
+    "sha256": "a886238f7595ac908069a440370c348ff1479a3c46a9e1f83d99faa560eccaca"
+  },
+  {
+    "path": "fibroblast_context_interactions.tsv",
+    "bytes": 15043,
+    "sha256": "441b674bdd79c540eb730022ae84408d78d5b1ecbe67c68c4fef05a681eaafc7"
+  },
+  {
+    "path": "figure_legends.json",
+    "bytes": 2820,
+    "sha256": "c7be21974449bfd8a4c5244b87dd0ff98bcbde638eb1ac9243b268df447f2c95"
+  },
+  {
+    "path": "figures/Figure_1_CM21_score_landscape_and_stability.pdf",
+    "bytes": 1927219,
+    "sha256": "21a64251622eb8e8d60ebfcdb002d643dde1f65d708aab7c65cc0b482e3c4925"
+  },
+  {
+    "path": "figures/Figure_1_CM21_score_landscape_and_stability.png",
+    "bytes": 4129107,
+    "sha256": "292ec12954b84e1f07e2c576b14ac160f977b6b3d9f7d9d5071eb5f74cfa5c0a"
+  },
+  {
+    "path": "figures/Figure_2_CM21_capillary_geometry.pdf",
+    "bytes": 28371,
+    "sha256": "ebd0e3a6d550049cb072365ec11f9b3bbfa5f634ce1abdb98b6909d79d784442"
+  },
+  {
+    "path": "figures/Figure_2_CM21_capillary_geometry.png",
+    "bytes": 350227,
+    "sha256": "e5fcea9d8a77873530bf4c1a2d211c91bb150644257f5d539324843e10af0588"
+  },
+  {
+    "path": "figures/Figure_3_CM21_nonCM_subtypes_and_FB_context.pdf",
+    "bytes": 38349,
+    "sha256": "faa2f5330e6caf0d0fad06c75aa88a79a6c9c51c6fd1cde17c0ccb4642f6831f"
+  },
+  {
+    "path": "figures/Figure_3_CM21_nonCM_subtypes_and_FB_context.png",
+    "bytes": 362308,
+    "sha256": "4fb639d4cd7d7a3d0fb17f622af8a2a2c29d28eaed114d46c3e2a026b1879631"
+  },
+  {
+    "path": "geometry_coverage.tsv",
+    "bytes": 160,
+    "sha256": "4f51c1a5811b5ddd07014a7034c3d04ed2db0cc1702e162450d47144cc8d1271"
+  },
+  {
+    "path": "independent_boundary_validation.tsv",
+    "bytes": 2599,
+    "sha256": "5e42c22201aa2b8ec83dc909d3f9eb675480be3bd22977630a28efc631dbec2a"
+  },
+  {
+    "path": "independent_count_validation.tsv",
+    "bytes": 521,
+    "sha256": "5315788c2c6249df7b3f05e965b072216a32b814d04566086dda5ebbfdb60fcb"
+  },
+  {
+    "path": "independent_model_validation.tsv",
+    "bytes": 473,
+    "sha256": "c0111aa3bb4318f37b9f03705f236a8401f14c64eebce0eff62c287a91c82732"
+  },
+  {
+    "path": "input_checksums.json",
+    "bytes": 6049,
+    "sha256": "3de6f7a0b8a7b7774f3ebff9fe8db6e418a07439645ce0f50bc3942194fa11e8"
+  },
+  {
+    "path": "measured_21gene_panel.tsv",
+    "bytes": 128,
+    "sha256": "b2ff1373875ed406d8ff208f79b5f18a6b628cb43b041abced8c00004918f9df"
+  },
+  {
+    "path": "nonCM_score_and_segmentation_robustness.tsv",
+    "bytes": 4017,
+    "sha256": "c24b800d36ba05cb87db6875936aad4c0fe2f5eea7a2d93fd11a11ba89db4bfe"
+  },
+  {
+    "path": "primary_fibroblast_context_results.tsv",
+    "bytes": 1713,
+    "sha256": "238e3aef5ef4130205fc99642fa2c68629275c9530789ca4147d007a565544c1"
+  },
+  {
+    "path": "primary_nonCM_results.tsv",
+    "bytes": 7955,
+    "sha256": "73817e122f759f8a0f725d8d0fb009fa93e510338778ea843a98e3b6abc7a8fc"
+  },
+  {
+    "path": "primary_vascular_results.tsv",
+    "bytes": 2219,
+    "sha256": "eb6ae878736038512cbc91636609f551976d7678079d7a30bf7e230708a224a1"
+  },
+  {
+    "path": "raw_vascular_comparisons.tsv",
+    "bytes": 2126,
+    "sha256": "d840f8d520d22a1aaae11086d063c982d3a0594500b47becc011fe172621d82a"
+  },
+  {
+    "path": "score_gene_weights.tsv.gz",
+    "bytes": 1095513,
+    "sha256": "4967fa5aa6e46aa06588d37ad74d1cdf2bd67c202bf3c0309ecb5622a1711800"
+  },
+  {
+    "path": "score_stability.tsv",
+    "bytes": 31150,
+    "sha256": "becef7ee98f4d67d77e02fc78c281d11cd133f3ce97c64d020722af07bdf6d83"
+  },
+  {
+    "path": "source_label_sensitivity.tsv",
+    "bytes": 22186,
+    "sha256": "9636f6eb931dc227288eebeec10bbb12af95e56b5b551e7298e400c00f235a18"
+  },
+  {
+    "path": "source_label_sensitivity_coverage.tsv",
+    "bytes": 3775,
+    "sha256": "a71ffad6403282992faad3fe76029d99491e3bf9c1690dc3592c58d59d1f04a4"
+  },
+  {
+    "path": "spatial_models.tsv",
+    "bytes": 393222,
+    "sha256": "48f414e0353af93816ccfb44c8e6325158ce51513f2423b445e0e7e9e709a535"
+  },
+  {
+    "path": "stage_score_summaries.tsv",
+    "bytes": 743,
+    "sha256": "e327e5de6360995b76753b8407d09b524a6abf332f9c7ad74c92ecf5ce57bbcd"
+  },
+  {
+    "path": "tissue_graph_ring_means.tsv",
+    "bytes": 2946,
+    "sha256": "744c5d4bbf711ca45cf3a51a57bae7a60fe46bcd0ef03e546d5dfc8889fbf4bb"
+  },
+  {
+    "path": "validation.json",
+    "bytes": 435,
+    "sha256": "a4cf3abd10f8e854f2053db2f3ac64555433f008ce7d8d90d778376118bed68e"
+  }
+]

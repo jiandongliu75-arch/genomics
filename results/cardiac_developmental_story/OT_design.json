@@ -1,0 +1,23 @@
+{
+  "seed": 26026,
+  "observed_neighborhoods": 96,
+  "per_stage": 24,
+  "per_distance_stratum_per_stage": 12,
+  "reserved_neighborhoods_only": true,
+  "focal_cohort": "Strict ventricular and public-CM-compatible, independent ventricular selector, existing CM/EC-enriched context",
+  "anatomical_control": "Same endocardial proxy distance category (\u2264100 versus >100 \u00b5m); no anatomical registration or verified LV/RV/compact/trabecular match",
+  "selection_spacing": "At least100 \u00b5m within each stage\u00d7distance category; overlapping/adjacent sampling regions are not independent hearts",
+  "state_features": "Saved16-PC molecular +6-lineage representation; CM maturation outcomes excluded from inputs and normalization",
+  "two_transport_levels": "Exact non-CM cloud-to-cloud W2\u00b2, then uniform-marginal neighborhood correspondence within strata",
+  "sensitivities": [
+    "State/identity weights25/75,50/50,75/25",
+    "At most16 versus32 source profiles/cloud",
+    "Saved Wormhole distance",
+    "Mean features",
+    "Entropic versus unregularized correspondence"
+  ],
+  "new_encoder_training": false,
+  "no_fates_or_rates": true,
+  "new_biological_replication": 0,
+  "stage_and_section_confounded": true
+}

@@ -1,0 +1,15 @@
+{
+  "frozen_before_spatial_models": true,
+  "CM_flag": "Cluster mean CM-specific panel score>0.75 and>2x same-stage median across nuclei",
+  "mural_flag": "Cluster mean mural-panel score>0.3 and>3x same-stage median",
+  "purpose": "Conservative residual lineage-mixing review, not validated doublet/contamination rate",
+  "nuclei_flagged": 657,
+  "flagged_clusters": [
+    "P0_F0",
+    "P7_F0",
+    "P7_F5",
+    "P14_F6",
+    "P21_F6"
+  ],
+  "handling": "All source nuclei/counts retained, label set unresolved, excluded from fine reference and primary matrix pseudobulk comparisons; original family proposal retained"
+}

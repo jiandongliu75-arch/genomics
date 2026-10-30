@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "report_pages": 14,
+  "integrated_figure_plates": 6,
+  "source_tables_in_archive": 23,
+  "individual_per_cell_score_and_neighborhood_files": 8,
+  "relative_links_checked": 36,
+  "independent_neighbor_checks": 2048,
+  "independent_regression_checks": 16,
+  "new_QC_capillary_pairs": 2445,
+  "new_primary_neighborhood_tests": 235,
+  "matched_primary_tests": 20,
+  "new_Fibroblast_fate_trajectory": false,
+  "exact_author_Seurat_score_reproduction_claimed": false,
+  "new_biological_replicates": 0
+}

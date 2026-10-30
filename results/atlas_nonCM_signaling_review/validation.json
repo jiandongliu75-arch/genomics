@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "report_pages": 5,
+  "candidate_gene_sets_checked": 10,
+  "RNA_modules_checked": 4,
+  "database_and_input_provenance_gaps_documented": true,
+  "original_random_split_checked": true,
+  "source_hashes_verified": true,
+  "document_bounds_checked": true,
+  "new_signaling_models_fitted": false
+}

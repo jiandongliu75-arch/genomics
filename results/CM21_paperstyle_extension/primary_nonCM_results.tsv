@@ -1,0 +1,49 @@
+stage	view	source	exposure	adjustment	score	CMs	blocks	beta_SD	CI_low	CI_high	within_section_p	wild_score_p	exposure_residual_SD	vascular_primary	vascular_BH_q	nonCM_BH_q
+P0	native	EC:Arterial-like	source_nearness	Within_local	module_ensemble	17981	44	0.012911575	-0.020477344	0.046300493	0.43974508	NA	0.54908241	False	NA	0.55546747
+P0	native	EC:Capillary-like	source_nearness	Within_local	module_ensemble	17981	44	0.029939646	-0.0045633124	0.064442604	0.08725756	NA	0.66413631	False	NA	0.16109088
+P0	native	EC:Endocardial-like	source_nearness	Within_local	module_ensemble	17981	44	-0.041608602	-0.085105081	0.0018878772	0.060327247	NA	0.47360799	False	NA	0.11582832
+P0	native	Endothelial	source_nearness	Within_local	module_ensemble	17981	44	-0.0084263659	-0.030185668	0.013332936	0.43909806	NA	0.93217935	False	NA	0.55546747
+P0	native	Epicardial	source_nearness	Within_local	module_ensemble	17981	44	-0.024116893	-0.11072146	0.062487675	0.57731017	NA	0.30185486	False	NA	0.66265374
+P0	native	FB:Postn	source_nearness	Within_local	module_ensemble	17981	44	-0.018657633	-0.045818986	0.0085037209	0.17310448	NA	0.7827506	False	NA	0.29675054
+P0	native	Fibroblast	source_nearness	Within_local	module_ensemble	17981	44	-0.018666323	-0.045827385	0.0084947396	0.1729042	NA	0.78275299	False	NA	0.29675054
+P0	native	Immune	source_nearness	Within_local	module_ensemble	17981	44	-0.0016652206	-0.02287771	0.019547269	0.87495042	NA	0.79066068	False	NA	0.91299175
+P0	native	Pericyte	source_nearness	Within_local	module_ensemble	17981	44	0.01742135	-0.00871516	0.04355786	0.18592309	NA	0.71283714	False	NA	0.30773477
+P0	native	Smooth muscle	source_nearness	Within_local	module_ensemble	17981	44	0.026517993	-0.020536785	0.07357277	0.26203391	NA	0.4423252	False	NA	0.39305087
+P7	native	EC:Capillary-like	source_nearness	Within_local	module_ensemble	35112	80	0.024567038	0.013372614	0.035761463	3.7665087e-05	NA	0.77868181	False	NA	0.00025827488
+P7	native	EC:Endocardial-like	source_nearness	Within_local	module_ensemble	35112	80	-0.062313555	-0.090669789	-0.033957322	3.6859447e-05	NA	0.39704604	False	NA	0.00025827488
+P7	native	Endothelial	source_nearness	Within_local	module_ensemble	35112	80	0.016872397	0.0054151347	0.028329659	0.0044141008	NA	0.88960791	False	NA	0.017656403
+P7	native	Epicardial	source_nearness	Within_local	module_ensemble	35112	80	-0.014149543	-0.06480948	0.036510394	0.57982202	NA	0.26173486	False	NA	0.66265374
+P7	native	FB:Gfpt2	source_nearness	Within_local	module_ensemble	35112	80	0.0063991728	-0.0097024652	0.022500811	0.43128211	NA	0.65364949	False	NA	0.55546747
+P7	native	FB:Kirrel3	source_nearness	Within_local	module_ensemble	35112	80	-0.11124448	-0.19393352	-0.028555427	0.009010481	NA	0.14610594	False	NA	0.028833539
+P7	native	FB:Postn	source_nearness	Within_local	module_ensemble	35112	80	-0.0139866	-0.028432162	0.00045896126	0.05754849	NA	0.88155922	False	NA	0.11582832
+P7	native	Fibroblast	source_nearness	Within_local	module_ensemble	35112	80	-0.012916325	-0.026319436	0.00048678632	0.058704098	NA	0.9023037	False	NA	0.11582832
+P7	native	Immune	source_nearness	Within_local	module_ensemble	35112	80	-0.0034534424	-0.015580482	0.0086735975	0.57244032	NA	0.86527926	False	NA	0.66265374
+P7	native	Pericyte	source_nearness	Within_local	module_ensemble	35112	80	0.014899474	0.0024499577	0.027348989	0.019616136	NA	0.90191825	False	NA	0.049556554
+P7	native	Smooth muscle	source_nearness	Within_local	module_ensemble	35112	80	-0.0036846144	-0.023996696	0.016627467	0.71901244	NA	0.56744348	False	NA	0.7843772
+P14	native	EC:Arterial-like	source_nearness	Within_local	module_ensemble	37740	129	0.016511519	-0.0085867706	0.041609809	0.19535112	NA	0.44614958	False	NA	0.31256179
+P14	native	EC:Capillary-like	source_nearness	Within_local	module_ensemble	37740	129	0.020101163	0.0059702831	0.034232044	0.0056553088	NA	0.76774395	False	NA	0.02088114
+P14	native	EC:Endocardial-like	source_nearness	Within_local	module_ensemble	37740	129	-0.08669207	-0.12456961	-0.048814529	1.3422955e-05	NA	0.32841418	False	NA	0.00012886037
+P14	native	EC:Venous-like	source_nearness	Within_local	module_ensemble	37740	129	-0.011469689	-0.033654634	0.010715256	0.30824714	NA	0.55736421	False	NA	0.43517243
+P14	native	Endothelial	source_nearness	Within_local	module_ensemble	37740	129	-0.00022427602	-0.012642035	0.012193483	0.97154806	NA	0.83032619	False	NA	0.97154806
+P14	native	Epicardial	source_nearness	Within_local	module_ensemble	37740	129	-0.0065767164	-0.051068525	0.037915092	0.77038991	NA	0.23574384	False	NA	0.82174923
+P14	native	FB:Col8a1	source_nearness	Within_local	module_ensemble	37740	129	-0.013929279	-0.024888089	-0.0029704676	0.013141543	NA	0.90495456	False	NA	0.037105533
+P14	native	FB:Gfpt2	source_nearness	Within_local	module_ensemble	37740	129	-0.0042173286	-0.02327371	0.014839053	0.66220003	NA	0.52868563	False	NA	0.73920003
+P14	native	FB:Kirrel3	source_nearness	Within_local	module_ensemble	37740	129	-0.17277459	-0.3076857	-0.03786349	0.012483037	NA	0.1182611	False	NA	0.037105533
+P14	native	FB:Lsamp	source_nearness	Within_local	module_ensemble	37740	129	-0.062505276	-0.094341946	-0.030668607	0.00016343056	NA	0.4186501	False	NA	0.00078446667
+P14	native	Fibroblast	source_nearness	Within_local	module_ensemble	37740	129	-0.021440681	-0.031844937	-0.011036426	7.9437376e-05	NA	0.90716214	False	NA	0.000423666
+P14	native	Immune	source_nearness	Within_local	module_ensemble	37740	129	0.0058623887	-0.0048490505	0.016573828	0.28087533	NA	0.86394647	False	NA	0.40854593
+P14	native	Pericyte	source_nearness	Within_local	module_ensemble	37740	129	0.005707991	-0.0065847422	0.018000724	0.35994225	NA	0.91414452	False	NA	0.49363508
+P14	native	Smooth muscle	source_nearness	Within_local	module_ensemble	37740	129	0.0060804906	-0.011654041	0.023815023	0.49873623	NA	0.64787261	False	NA	0.61382921
+P21	native	EC:Arterial-like	source_nearness	Within_local	module_ensemble	40772	151	-0.026554277	-0.053161224	5.2670417e-05	0.050449448	NA	0.4266885	False	NA	0.11531302
+P21	native	EC:Capillary-like	source_nearness	Within_local	module_ensemble	40772	151	0.01221544	-0.00029261245	0.024723492	0.055533772	NA	0.79753709	False	NA	0.11582832
+P21	native	EC:Endocardial-like	source_nearness	Within_local	module_ensemble	40772	151	-0.080837825	-0.11490762	-0.046768027	6.1410632e-06	NA	0.3350599	False	NA	7.3692758e-05
+P21	native	Endothelial	source_nearness	Within_local	module_ensemble	40772	151	-0.00028357518	-0.013163964	0.012596814	0.96535953	NA	0.86466899	False	NA	0.97154806
+P21	native	Epicardial	source_nearness	Within_local	module_ensemble	40772	151	-0.12141189	-0.16724722	-0.075576552	5.5055956e-07	NA	0.19547958	False	NA	8.8089529e-06
+P21	native	FB:Col8a1	source_nearness	Within_local	module_ensemble	40772	151	-0.022017153	-0.032411795	-0.011622511	4.8344775e-05	NA	0.89890016	False	NA	0.00029006865
+P21	native	FB:Gfpt2	source_nearness	Within_local	module_ensemble	40772	151	-0.013350257	-0.03444656	0.0077460462	0.21310009	NA	0.41065262	False	NA	0.32996144
+P21	native	FB:Kirrel3	source_nearness	Within_local	module_ensemble	40772	151	-0.072869617	-0.12494241	-0.020796827	0.0064064097	NA	0.26011423	False	NA	0.021964833
+P21	native	FB:Lsamp	source_nearness	Within_local	module_ensemble	40772	151	-0.06232683	-0.077638539	-0.04701512	2.4449702e-13	NA	0.66139084	False	NA	1.1735857e-11
+P21	native	Fibroblast	source_nearness	Within_local	module_ensemble	40772	151	-0.042264125	-0.053646478	-0.030881772	1.278349e-11	NA	0.89370161	False	NA	3.0680377e-10
+P21	native	Immune	source_nearness	Within_local	module_ensemble	40772	151	-0.012690868	-0.022786102	-0.0025956331	0.014093577	NA	0.90273674	False	NA	0.037582872
+P21	native	Pericyte	source_nearness	Within_local	module_ensemble	40772	151	0.010749668	0.00050254944	0.020996787	0.039900929	NA	0.90776455	False	NA	0.095762229
+P21	native	Smooth muscle	source_nearness	Within_local	module_ensemble	40772	151	-0.027227109	-0.042316442	-0.012137776	0.00048795534	NA	0.66057464	False	NA	0.0021292596

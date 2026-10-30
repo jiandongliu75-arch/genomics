@@ -1,0 +1,18 @@
+{
+  "reference": "/workspace/heart-atlas/results/cell_identities_subtypes/snrna_qc_annotated_subclustered.h5ad",
+  "reference_nuclei": 73052,
+  "ventricular_reference_nuclei": 44463,
+  "measured_Xenium_targets": 403,
+  "exact_shared_features": 381,
+  "unmeasured_requested_marker": "Kcnd2",
+  "unmeasured_regulator": "Irx5",
+  "panel_identity": "FPUV2R / mMulti_403g",
+  "normalization_for_transfer": "Normalize corrected and original reference counts independently over EXACT shared panel genes; log1p(10000 * count / shared-panel total). Xenium is normalized over the same shared targets.",
+  "custom_targets": "Custom splice/exon targets without exact symbol matches are retained as measured Xenium features, but excluded from reference transfer. No gene/isoform equivalence inferred.",
+  "source_records": [
+    "https://zenodo.org/records/14961929",
+    "https://zenodo.org/records/14961942"
+  ],
+  "source_license": "Zenodo CC BY 4.0; source authors Wang, Dong, Song, Qian and Liu. snRNA reference GSE290989; DOI10.1038/s44161-026-00861-z.",
+  "cache_npz_sha256": "6615efea98c8d1f63f4819d620a8af095c93e2187ffed8c93b8520729b82ab64"
+}

@@ -1,0 +1,45 @@
+{
+  "status": "PASS",
+  "Word_embeds_exact_current_PNG_hashes": true,
+  "Word_embedded_figures": 6,
+  "rendered_manuscript_pages": 20,
+  "figure_plates_full_page_and_within_page_bounds": [
+    {
+      "page": 13,
+      "width_points": 507.5999870300293,
+      "height_points": 590.4000244140625
+    },
+    {
+      "page": 14,
+      "width_points": 507.5999870300293,
+      "height_points": 555.1500244140625
+    },
+    {
+      "page": 15,
+      "width_points": 507.5999870300293,
+      "height_points": 598.5999755859375
+    },
+    {
+      "page": 16,
+      "width_points": 507.5999870300293,
+      "height_points": 595.4500122070312
+    },
+    {
+      "page": 17,
+      "width_points": 507.5999870300293,
+      "height_points": 589.0999755859375
+    },
+    {
+      "page": 18,
+      "width_points": 507.5999870300293,
+      "height_points": 534.75
+    }
+  ],
+  "standalone_combined_figure_PDF_pages": 6,
+  "individual_figures_have_300dpi_PNG_vector_PDF_and_editable_SVG": true,
+  "all_figure_PNGs_at_least2000px": true,
+  "combined_figure_PDF_minimum_embedded_raster_DPI": 299.99949137456025,
+  "required_manuscript_sections_and_scope_present": true,
+  "placeholder_or_replacement_characters_found": false,
+  "scope": "File content, numerical-claim presence and layout bounds; visual review is additionally required"
+}

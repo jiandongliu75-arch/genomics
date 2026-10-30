@@ -1,0 +1,13 @@
+stage	score	ECs	positive_ECs	fraction
+P0	measured_nuclear_cycling_positive	3732	763	0.204448017
+P0	measured_native_cycling_positive	3732	1294	0.346730975
+P0	measured_core_cycling_positive	3732	1059	0.283762058
+P7	measured_nuclear_cycling_positive	8944	1185	0.132491055
+P7	measured_native_cycling_positive	8944	2090	0.233676208
+P7	measured_core_cycling_positive	8944	1704	0.190518784
+P14	measured_nuclear_cycling_positive	8086	114	0.0140984418
+P14	measured_native_cycling_positive	8086	232	0.0286915657
+P14	measured_core_cycling_positive	8086	204	0.0252287905
+P21	measured_nuclear_cycling_positive	8601	91	0.0105801651
+P21	measured_native_cycling_positive	8601	148	0.0172073015
+P21	measured_core_cycling_positive	8601	127	0.0147657249

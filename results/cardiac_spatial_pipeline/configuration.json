@@ -1,0 +1,166 @@
+{
+  "version": "1.0.0",
+  "output": "results/cardiac_spatial_pipeline",
+  "stages": [
+    "P0",
+    "P7",
+    "P14",
+    "P21"
+  ],
+  "seed": 731,
+  "contact_minimum_um": 1.275,
+  "proximity_maximum_um": 100.0,
+  "proximity_primary_um": 50.0,
+  "tissue_segment_samples": 21,
+  "tissue_minimum_fraction": 0.85,
+  "model_minimum_neighbors": 5,
+  "model_minimum_core_transcripts": 20,
+  "spatial_block_um": 400,
+  "prediction_buffer_um": 150,
+  "bootstrap_primary": 512,
+  "bootstrap_sensitivity": 128,
+  "enrichment_permutations": 199,
+  "enrichment_shuffle_block_um": 200,
+  "niche_training_profiles_per_stage": 8000,
+  "niche_k": [
+    2,
+    3,
+    4,
+    6,
+    8,
+    10,
+    12
+  ],
+  "niche_initializations": 3,
+  "niche_seeds": [
+    731,
+    1731,
+    2731
+  ],
+  "niche_minimum_posterior": 0.6,
+  "niche_minimum_resolved_neighbor_fraction": 0.5,
+  "niche_backend": "sklearn_gmm",
+  "sliced_wasserstein_pairs": 1500,
+  "sliced_wasserstein_projections": 32,
+  "programs": {
+    "FB_fibrillar_matrix": {
+      "lineage": "Fibroblast",
+      "view": "core",
+      "genes": [
+        "Col1a1",
+        "Col1a2",
+        "Col3a1",
+        "Col6a1",
+        "Col6a2",
+        "Col6a3"
+      ],
+      "meaning": "Fibrillar/interstitial collagen RNA; not deposited matrix or stiffness"
+    },
+    "FB_basement_matrix": {
+      "lineage": "Fibroblast",
+      "view": "core",
+      "genes": [
+        "Col4a1",
+        "Col4a2",
+        "Col4a5",
+        "Col4a6",
+        "Lama4",
+        "Hspg2"
+      ],
+      "meaning": "Basement-membrane-associated RNA; not verified vascular anatomy"
+    },
+    "FB_elastic_matrix": {
+      "lineage": "Fibroblast",
+      "view": "core",
+      "genes": [
+        "Eln",
+        "Fbln1",
+        "Fbln2",
+        "Thsd4"
+      ],
+      "meaning": "Elastic-fiber-associated RNA; not an outflow-tract label"
+    },
+    "FB_remodeling": {
+      "lineage": "Fibroblast",
+      "view": "core",
+      "genes": [
+        "Fn1",
+        "Tnc",
+        "Thbs1",
+        "Vcan",
+        "Mmp2"
+      ],
+      "meaning": "Developmental matrix/remodeling-associated RNA; not pathological fibrosis"
+    },
+    "EC_cycling": {
+      "lineage": "Endothelial",
+      "view": "nuclear",
+      "genes": [
+        "Mki67",
+        "Top2a",
+        "Cenpf"
+      ],
+      "meaning": "Measured proliferation-associated RNA; not completed division"
+    },
+    "EC_guidance_proxy": {
+      "lineage": "Endothelial",
+      "view": "nuclear",
+      "genes": [
+        "Angpt2",
+        "Unc5b",
+        "Plxnd1",
+        "Itgb3",
+        "Lama4"
+      ],
+      "meaning": "Measured guidance-associated proxy; not the unmeasured sprouting signature"
+    },
+    "Immune_trophic_proxy": {
+      "lineage": "Immune",
+      "view": "core",
+      "genes": [
+        "Igf1",
+        "Tgfb1",
+        "Gas6",
+        "Grn",
+        "Csf1"
+      ],
+      "meaning": "Multifunctional trophic/signaling RNA; not a validated repair state"
+    },
+    "Mural_contractility": {
+      "lineage": "Smooth muscle",
+      "view": "core",
+      "genes": [
+        "Myh11",
+        "Acta2",
+        "Tagln",
+        "Cnn1",
+        "Myl9"
+      ],
+      "meaning": "Contractility-associated RNA, overlapping lineage markers"
+    },
+    "Pericyte_vascular_support": {
+      "lineage": "Pericyte",
+      "view": "core",
+      "genes": [
+        "Rgs5",
+        "Cspg4",
+        "Pdgfrb",
+        "Mcam",
+        "Notch3"
+      ],
+      "meaning": "Vascular-support/identity proxy, overlapping lineage markers"
+    },
+    "Epicardial_matrix_proxy": {
+      "lineage": "Epicardial",
+      "view": "core",
+      "genes": [
+        "Dcn",
+        "Lum",
+        "Col1a1",
+        "Col3a1",
+        "Vcan"
+      ],
+      "meaning": "Epicardial-profile matrix RNA; sparse source, not EMT proof"
+    }
+  }
+}

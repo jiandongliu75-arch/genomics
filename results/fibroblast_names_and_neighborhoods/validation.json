@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "stages": [
+    {
+      "stage": "P0",
+      "broad_FB_profiles": 2319,
+      "physical_30um_context_matches_previous_exactly": true,
+      "new_50_100um_contexts_recomputed": true,
+      "original_coordinates_unchanged": true
+    },
+    {
+      "stage": "P7",
+      "broad_FB_profiles": 8564,
+      "physical_30um_context_matches_previous_exactly": true,
+      "new_50_100um_contexts_recomputed": true,
+      "original_coordinates_unchanged": true
+    },
+    {
+      "stage": "P14",
+      "broad_FB_profiles": 9824,
+      "physical_30um_context_matches_previous_exactly": true,
+      "new_50_100um_contexts_recomputed": true,
+      "original_coordinates_unchanged": true
+    },
+    {
+      "stage": "P21",
+      "broad_FB_profiles": 13083,
+      "physical_30um_context_matches_previous_exactly": true,
+      "new_50_100um_contexts_recomputed": true,
+      "original_coordinates_unchanged": true
+    }
+  ],
+  "P21_RNA_nuclei": 4411,
+  "P21_source_ids_and_labels_retained": true,
+  "named_states_not_projected_to_unresolved_spatial_substates": true
+}
